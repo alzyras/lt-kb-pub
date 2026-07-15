@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'J. Basanavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lenkai Lietuvoje Dr. J. Basanavičius'
 datos: []
 date_start: ''
 date_end: ''
@@ -10,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - tauta
 amziai: []
 periodo_grupes: []
 media_total_count: '0'
@@ -46,52 +48,20 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   teiginys: "1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:
     - c-21695
+
+<a id="claim-t-200877"></a>
+- t-003
+  global_id: t-200877
+  teiginys: "J. Basanavičius, atsakydamas į lenkiškų laikraščių reakcijas į jo straipsnius, parašė straipsnį „Polaki v Litvie“, išspausdintą „Nov. Vrēmia“ feljetone Nr. 2634."
+  pagrindžia:
+    - c-184222
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80796|Aušrininkai]]: Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.
 - susijęs iš Aušra: Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-05242|Aušrininkai]]: Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80795|Aušrininkai]]: Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.
+- susijęs iš [[objektai/posakiai/Dievas buvo augštai, teisybē — toli.md#claim-t-200879|Dievas buvo augštai, teisybē — toli]]: Dr. J. Basanavičius posakį „Dievas buvo augštai, teisybē — toli“ siejo su ūkininkų išvarymais ir laukų pasisavinimu valdžiai esant „visgalingo pono“ rankose.
 - susijęs iš Aušra: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
 - susijęs iš Bulgarija: J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
-    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
-    nacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-
-    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
-    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
-    čius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rusija, Austrija ir Prūsija galutinai pasidalija Lenkijos ir Lietuvos valsty-
-    bę. Didžioji Lietuvos dalis atitenka Rusijai.
-    1918 II 16
-    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
-    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-21694
@@ -133,3 +103,29 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63664
+
+- id: c-184222
+  autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
+  šaltinis: "Lenkai Lietuvoje Dr. J. Basanavičius"
+  puslapiai: "PDF 5"
+  indeksas: "Jonas Basanavičius; V. Gintautas (vertė), Lenkai Lietuvoje Dr. J. Basanavičius, PDF 5."
+  citata_originali: |
+    Rašančiam šituos żodżius gaila buvo neturint
+    parankiui augščiau pam inētų Basanavičiaus straips­
+    nių, kurie, kaipo dokumentai atsigaivinančios lie­
+    tuviškos m ansties, rasi, użsipelnytų, idant ir lietu­
+    viškoj kalboje apgarsinti taptų, nes iš jų matoma
+    butų, kaip tuom et, dar tik prasidedant tautiškam -
+    jam musų krutējimui, żiurēta ant tulų prietikių
+    terp musų ir lenkų tautos. Dr. Basanavičius, susi­
+    pażinęs su tais balsais, kurie, iš prieżasties jo
+    straipsnių, lenkiškuose laikraščiuose buvo apsi­
+    reiškę, atsakyman parašē ilgoką artikulą: „Polaki
+    v L itvie” , kurį „N ov. V rēm ia” feuilletone n-rio
+    2634 atspaudino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200877
