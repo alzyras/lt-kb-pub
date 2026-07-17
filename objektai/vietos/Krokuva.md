@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -536,15 +537,28 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: "Pasak Kojelavičiaus, Kazimieras Krokuvoje su broliu karaliumi priėmė Romos tikėjimą, bet dėl rusų papročių neplatino katalikybės."
   pagrindžia:
     - c-178849
+
+<a id="claim-t-201069"></a>
+- t-070
+  global_id: t-201069
+  teiginys: "Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir pasakoja, kad, lydima lenkų bei lietuvių diduomenės, ji keliavo iš Vilniaus į Krokuvą pas savo jaunikį."
+  pagrindžia:
+    - c-184419
+- susijęs iš [[objektai/ivykiai/Aldonos ir Kazimiero vestuvės Krokuvoje.md#claim-t-201267|Aldonos ir Kazimiero vestuvės Krokuvoje]]: Daukanto aprašomose Aldonos ir Kazimiero vestuvėse Lietuvos didžioji kunigaikštaitė Aldona, lydima lenkų ir lietuvių diduomenės, keliavo iš Vilniaus į Krokuvą pas jaunikį.
+- susijęs iš [[objektai/ivykiai/Aldonos vestuvės Krokuvoje.md#claim-t-201268|Aldonos vestuvės Krokuvoje]]: Daukantas Aldoną vaizduoja kaip Lietuvos didžiąją kunigaikštaitę, kuri, lydima lenkų ir lietuvių diduomenės, per vestuves keliavo iš Vilniaus į Krokuvą.
+- susijęs iš [[objektai/zodynas/jomylistos (sąvoka).md#claim-t-201484|jomylistos (sąvoka)]]: Aldonai keliaujant iš Vilniaus į Krokuvą, lenkų jomylistos jojo priekyje kaip vedliai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200923|Lietuviai]]: Daukantas lietuvių 1243 ir 1244 metų žygius į Krokuvos apygardas siejo su kerštu lenkams dėl pagalbos kryžėjams prieš Sviatopelką.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176415|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga).md#claim-t-86949|Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-200958|urėdas]]: Daukanto pasakojime urėdai, arba vojevodos, Aldonos vestuvių palydoje jojo tarp lenkų jomylistų ir pilių vyrų, kurie buvo iškilmingos eisenos vedliai.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184266|Jogaila (kunigaikštis, XIV–XV a.)]]: 1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi.
 - susijęs iš [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje.md#claim-t-185881|Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]: Maskvos pasiuntiniai Krokuvoje atsisakė dalyvauti karaliaus vaišėse, nenorėdami varžytis dėl garbingesnės vietos užstalėje su kitais pasiuntiniais.
 - susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą, o kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
+- susijęs iš Vilnius: Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir aprašo jos kelionę iš Vilniaus į Krokuvą pas jaunikį.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-54933|Aleksandras Balinskis]]: Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.
 - susijęs iš Kujavija: Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
@@ -603,11 +617,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179198|Lenkai]]: Traideniui teko daug kariauti su lenkais, o jo žygiai siekė Mozūrus ir Krokuvą.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01377|Lenkų ponų taryba (institucija)]]: 1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179266|Lietuviai]]: 1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200923|Lietuviai]]: Daukantas lietuvių 1243 ir 1244 metų žygius į Krokuvos apygardas siejo su kerštu lenkams dėl pagalbos kryžėjams prieš Sviatopelką.
 - susijęs iš [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje.md#claim-t-01420|Mokslo mėgėjų draugija Krokuvoje]]: Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187741|Pranciškonų ordinas]]: Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176074|Vilniaus kapitula]]: Vilniaus kapitula pasirinko karūnas savo kolegijos herbu, norėdama prilygti Krokuvos kapitulai.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176100|Vilniaus kapitula]]: Vilniaus kapitula savo kolegijos herbu pasirinko tas pačias karūnas kaip Krokuvos kapitula.
 - susijęs iš [[objektai/grupes/Vokiečių ordinas.md#claim-t-182838|Vokiečių ordinas]]: Vokiečių ordinui draudžiant į Lietuvą įvežti ginklus ir arklius, Vytautas jų gaudavo iš Rygos ir Krokuvos.
+- susijęs iš [[objektai/ivykiai/Aldonos ir Kazimiero vestuvės Krokuvoje.md#claim-t-201267|Aldonos ir Kazimiero vestuvės Krokuvoje]]: Daukanto aprašomose Aldonos ir Kazimiero vestuvėse Lietuvos didžioji kunigaikštaitė Aldona, lydima lenkų ir lietuvių diduomenės, keliavo iš Vilniaus į Krokuvą pas jaunikį.
+- susijęs iš [[objektai/ivykiai/Aldonos vestuvės Krokuvoje.md#claim-t-201268|Aldonos vestuvės Krokuvoje]]: Daukantas Aldoną vaizduoja kaip Lietuvos didžiąją kunigaikštaitę, kuri, lydima lenkų ir lietuvių diduomenės, per vestuves keliavo iš Vilniaus į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą, o kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186716|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga).md#claim-t-86949|Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
@@ -675,6 +692,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
+- susijęs iš Vilnius: Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir aprašo jos kelionę iš Vilniaus į Krokuvą pas jaunikį.
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113650|Magdeburgo teisės]]: Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179716|Švitrigaila]]: Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.
@@ -918,6 +936,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės.md#claim-t-86642|Teutonų teisė vokiečių miestų teisės]]: Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.
 - susijęs iš [[objektai/zodynas/fizikas rūmų daktaras Leibarzt.md#claim-t-86526|fizikas rūmų daktaras Leibarzt]]: Aleksandrui kelerius metus sirgus, iš Krokuvos atvyko Motiejus iš Blonios, vadintas fiziku arba rūmų daktaru.
 - susijęs iš [[objektai/zodynas/florinai.md#claim-t-185403|florinai]]: Vytautas pareikalavo keturiasdešimt tūkstančių lenkų auksinų, vadinamųjų florinų, kaip atlyginimo už nusileidimą lenkams.
+- susijęs iš [[objektai/zodynas/jomylistos (sąvoka).md#claim-t-201484|jomylistos (sąvoka)]]: Aldonai keliaujant iš Vilniaus į Krokuvą, lenkų jomylistos jojo priekyje kaip vedliai.
 - susijęs iš [[objektai/zodynas/kanonizavimas ir palaikų pakylėjimas.md#claim-t-86593|kanonizavimas ir palaikų pakylėjimas]]: Baško nurodė, kad 1254 m. gegužės 8 d. Krokuvoje skelbiant šv. Stanislovo kanonizavimą ir palaikų pakylėjimą dalyvavo Lietuvos vyskupas Vitas.
 - susijęs iš [[objektai/zodynas/miesto sargyba ir policija.md#claim-t-86596|miesto sargyba ir policija]]: 1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.
 - susijęs iš [[objektai/zodynas/separatizmas.md#claim-t-184248|separatizmas]]: Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu.
@@ -925,6 +944,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - susijęs iš [[objektai/zodynas/skaistykla.md#claim-t-58924|skaistykla]]: Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185339|skitai]]: Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju.
 - susijęs iš [[objektai/zodynas/supirkinėtojai ir padienininkai.md#claim-t-86618|supirkinėtojai ir padienininkai]]: 1547 m. potvarkis Vilniuje ribojo supirkinėtojus, kėlusius kainas, o padienininkams nurodė rinktis prie rotušės.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-200958|urėdas]]: Daukanto pasakojime urėdai, arba vojevodos, Aldonos vestuvių palydoje jojo tarp lenkų jomylistų ir pilių vyrų, kurie buvo iškilmingos eisenos vedliai.
 - susijęs iš [[objektai/zodynas/vaitas.md#claim-t-86557|vaitas]]: Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.
 - susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86443|žiogriai statinių tvoros palisadai]]: Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
@@ -2083,6 +2103,33 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindzia:
     - t-196697
 
+- id: c-184419
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 553"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
+  citata_originali: |
+    Taip elgės Ge-
+    'diminas netikėlis, arba pagonis, su krikščionimis,
+    kad tuo tarpu kryžėjai ir kiti vokyčiai meldžionys
+    perkrikštus ne vien patys kruvinai vergė ir žudė,
+    bet dar vienus pardavojo gudams, kitus leido per
+    jūrą į Teutoniją taip pat kruvinai vergauti, vienok
+    negeidė jos patys save vadinti mokytojais žodžio
+    Dievo ir malonės artimo.
+    Atėjus svodbai, kas gal tą iškilmę aprašyti, su
+    kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­
+    klėsta diduomene vyrų ir žmonų lenkių ir lietuvių,
+    keliavo iš Vilniaus į Krokuvą pas savo jaunikį. Vi­
+    sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių
+    vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro
+    žibantys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201069
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Krokuvą: [[objektai/grupes/Lietuviai]]

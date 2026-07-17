@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Olga'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1276 m.'
@@ -43,6 +44,20 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   teiginys: "Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina."
   pagrindžia:
     - c-173074
+
+<a id="claim-t-201019"></a>
+- t-002
+  global_id: t-201019
+  teiginys: "Daukanto pasakojime Olga, atkeršijusi juodgirėnams, apvažiavo savo kraštą, paliko sūnų Kijeve, suskirstė kraštą į valsčius ir išvyko krikštytis į Konstantinopolį."
+  pagrindžia:
+    - c-184369
+
+<a id="claim-t-201478"></a>
+- t-003
+  global_id: t-201478
+  teiginys: "Daukanto pasakojime po juodgirėnų pilies sudeginimo Olga tapo jų viešpate, išžudė diduomenę ir padidino duoklę likusiems gyventojams."
+  pagrindžia:
+    - c-184828
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,3 +101,44 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190191
+
+- id: c-184369
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 56"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
+  citata_originali: |
+    Atgiežusi Olga taip apmaudą ant juodgirėnų per­
+    veizėjo visą savo ūkę važinėdamos, sūnui vienok
+    liepusi Kijeve būti, paskaidžiusi kraštą į valsčius,
+    rinkliavas padėjusi nuo žemės. Taip parėdžius ūkę,
+    nukeliavusi į Konstantinopolį krikštytis, nuo kur
+    paskui sugrįžus Kijeve karšinusis.
+    Sviatoslavas, nebūdamas dar krikščioniu, bekarš-
+    tant motinai paėmė valdžią ūkės nieko negeisdamas,
+    kaip vienomis karėmis ir žygiais atsiženklinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201019
+
+- id: c-184828
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 56"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 56."
+  citata_originali: |
+    Paukščiai,
+    mindami savo gultas, sugrįžo namo ir į pastoges
+    pilės sulindo su ugnia ir taip pilį uždegė. Taip nu-
+    kropusi Olga juodgirėnus, tapo jų viešpate. Olga,
+    nekakindamos dar ta nelaima pilės, diduomenę iš­
+    kirto, o jų karėjus įdavė į vergus savo karėjams, o
+    likusiesiems gyventojams padidino duoklę nuo dū­
+    mo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201478

@@ -2,11 +2,17 @@
 tipas: vieta
 pavadinimas: 'Daugava'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
+datos:
+  - '1182 m.'
+date_start: '1182'
+date_end: ''
+variantai:
   - 'Daugava'
   - 'Daugava Dvina'
-variantai:
+aliases:
   - 'Daugava'
   - 'Daugava Dvina'
 sukurta: ''
@@ -14,6 +20,8 @@ atnaujinta: ''
 tags:
   - upė
   - vieta
+amziai:
+  - 'XII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -86,6 +94,37 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   pagrindžia:
     - c-177463
 
+<a id="claim-t-201054"></a>
+- t-006
+  global_id: t-201054
+  teiginys: "Antroji prekybos trasa, pasak Daukanto, ėjo į pietryčius Daugavos, Triperio, Berezinos ir Nipru upėmis iki Juodosios jūros."
+  pagrindžia:
+    - c-184404
+
+<a id="claim-t-201055"></a>
+- t-007
+  global_id: t-201055
+  teiginys: "1182 m., pasak Daukanto, lietuviai ir žemaičiai, telkę kariuomenę prieš Padaugavį niokojusius gudus, susirėmė ant Daugavos skardžių."
+  pagrindžia:
+    - c-184405
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-201037|Teodorikas]]: Daukanto pasakojime Albertas Teodoriką, Daugavos įtakos opatą, paskyrė igumių vyskupu.
+- susijęs iš [[objektai/grupes/Galindai.md#claim-t-200918|Galindai]]: Daukantas pasakoja, kad galindai ir kitos tautos gyveno prie Vyslos, Nemuno, Ventos, Daugavos ir Gaujos.
+- susijęs iš [[objektai/grupes/Sudenai (grupė).md#claim-t-201254|Sudenai (grupė)]]: Daukantas sudenus mini tarp tautų, kurios, jo perteikiamu pasakojimu, gyveno prie Yslos, Nemuno, Ventos, Daugavos ir Gaujos upių.
+- susijęs iš [[objektai/ivykiai/Mantvilos žygis į Baltuosius Gudus.md#claim-t-201331|Mantvilos žygis į Baltuosius Gudus]]: Daukanto vadinamas Žemaičių kunigaikščiu Mantvila su žemaičių ir lietuvių kariais, persikėlusiais per patvinusią Daugavą, netikėtai puolė gudus, sugriovė Lotavės pilį ir grįžo su grobiu.
+- susijęs iš [[objektai/ivykiai/Mūšis ant Daugavos skardžių.md#claim-t-201296|Mūšis ant Daugavos skardžių (mūšis, XII a.)]]: Daukanto pasakojime po karvedžio netekties gudai traukėsi, o lietuvių vyresnieji jų bėglius sugrūdo į Daugavos verpetus.
+- susijęs iš [[objektai/ivykiai/Mūšis ant Daugavos su Iziaslavu.md#claim-t-201336|Mūšis ant Daugavos su Iziaslavu (mūšis)]]: Daukantas pasakoja, kad lietuviai ir žemaičiai susigrūmė su Iziaslavo vedamais gudais ant Daugavos skardžių.
+- susijęs iš [[objektai/asmenys/Boleslovas Kreivburnis.md#claim-t-201412|Boleslovas Kreivburnis]]: Boleslovas Kreivburnis, artėjant gyvenimo pabaigai, padalijo savo valstybę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui.
+- susijęs iš [[objektai/asmenys/Mieškas (kunigaikštis, XII a.).md#claim-t-201406|Mieškas (kunigaikštis, XII a.)]]: Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-197830|Teodorikas]]: Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas.
+- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-201047|Vladislovas]]: Boleslovas Kreivburnis padalijo ūkę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui, bet broliai tuo padalijimu nepasitenkino.
+- susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-194182|Laivai]]: Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-200941|Laivai]]: Daukanto pasakojime vyskupas Bertoldas, Liubeke surinkęs būrį, laivais atplaukė į Rygos apylinkes prie Dauguvos žiočių.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-197527|Venedai]]: Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-201459|Venedai]]: Daukanto pateiktame pasakojime prie Vyslos, Nemuno, Ventos, Dauguvos ir Gaujos gyveno venedai, galindai, sudenai, kareotai, saliai, osai, veltai ir penai.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-201460|Žemaičiai]]: Daukanto pasakojime lietuviams ir žemaičiams teko vienu metu siųsti kariuomenes į rytus, pietus, vakarus ir šiaurę, nes iš visų pusių į jų kraštą veržėsi gudai, lenkai, mozūrai, žuvėdai ir vokiečiai.
+- susijęs iš Vogenė (vieta): Daukantas rašo, kad Pleskavo valdymieras Ditrichas pasiuntiniams susitikti su vokyčiais paskyrė birželio 29-ąją Vogenės paupyje.
 ## Citatos
 
 - id: c-10484
@@ -204,3 +243,49 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195081
+
+- id: c-184404
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 121"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 121."
+  citata_originali: |
+    Viena ėjusi į pietva­
+    karius per vietoves, arba miestus, vadinamus As-
+    kaukalis, Setidava, Eidovo, Kališas, Arsenijus, Kar-
+    hodunas, Asanka, Setuja, Kelemantija ir Karnun-
+    tas; garsios ginklinyčios rymionų padunojy, kame
+    rymionys, atėmę minavotas prekes nuo lietuvių ir
+    žemaičių, leido namon patys per Adrijos jūrą, kuria
+    trakčia sako ir eržilą Nerono, viršiaus minavotą,
+    sukeliavus gintarų krašte1 2.
+    Antra traktis ėjusi į rytpietį upėmis Daugava,
+    Triperiu, Berezina ir Nipru į Juodąją jūrą3. Tame
+    pajūry sako buvus vietovę, arba miestą, Dioskūras
+    vadinamą, didžiai garsų mugėmis, į kurias pasakoja
+    300 įvairių giminių susirinkdavusių, tarp kurių al-
+    viena ypatinga kalba kalbėjusi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201054
+
+- id: c-184405
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 165"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 165."
+  citata_originali: |
+    Darin
+    lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182
+    jus, ėjo gudų tremti, kurie jau ugnia ir karda te-
+    riojo padaugavius. Abi šąli su visų didžiausia aitra
+    ir narsybe susigrūmė ant skardžių Daugavos. Izias­
+    lavas garbingas drąsybe ir narsybe, sako, pats eila-
+    vęs savo gudus į mūšą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201055

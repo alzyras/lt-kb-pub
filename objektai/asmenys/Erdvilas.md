@@ -3,12 +3,14 @@ tipas: asmuo
 pavadinimas: 'Erdvilas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,6 +53,13 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - c-176534
 
+<a id="claim-t-200983"></a>
+- t-004
+  global_id: t-200983
+  teiginys: "Daukantas Erdvilą vaizduoja kaip Žemaičių kunigaikštį, kuris Kernavėje delsė atsakyti totorių siuntiniams, kol telkė karius karui."
+  pagrindžia:
+    - c-184333
+- susijęs iš Jaselda: Pasak Daukanto, prie Jaseldos lietuviai perlaužė gudų pajėgas: dalį bėgančių išklojo kelyje, o kitus paskandino Jaseldoje.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
@@ -147,3 +156,29 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193909
+
+- id: c-184333
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 238"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 238."
+  citata_originali: |
+    Tokiu vienok jų gorinimu nenusiminė
+    lietuviai, bet tuojau visoj ūkėj sukėlė karėjus, ir
+    Erdvilas, kunigaikštis Žemaičių, vyras drąsus ir nar­
+    sus, liepė siuntinius vaišinti Kernavėj ir visaip tru­
+    kinti, lig į karę nepasitiekiąs, neduodant nė kokio
+    atsako, kurio jie godojami lūkuro. Erdvilas paskui,
+    sutraukęs karėjus lietuvių, žemaičių, žemgalių, pa-
+    lečionų, liepė siuntinius sau atvesti, kuriems dvi vy-
+    lyči duodamas tarė: „Siunčiu jūsų viešpačiui tas vy-
+    lyčias, kursai, noris pusę pasaulės nukariavo, vie­
+    nok neturi dar tiek galios, idant Lietuvos tautą nu­
+    veiktų". Siuntiniai totorių, supratę, ant kokio galo
+    buvo taip vaišinami, pargrįžo į savo abažus ir, ką
+    buvo regėję, apipasakojo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200983

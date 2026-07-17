@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Tautvilas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -138,7 +139,15 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   teiginys: "Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis."
   pagrindžia:
     - c-180031
+
+<a id="claim-t-201036"></a>
+- t-015
+  global_id: t-201036
+  teiginys: "Daukantas Tautvilą priskyrė Lietuvos urėdams krivičių žemėje ir teigė, kad jie nepersekiojo krikščionių bei patys tapo krikščionimis."
+  pagrindžia:
+    - c-184386
 - susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-200978|Daumantas (kunigaikštis, XV a.)]]: Daukanto perteikiamu gudų rašytojų pasakojimu, Daumantas susitarė su Treniota ir Tautvilu nužudyti Mindaugą, kai šis esą pasisavino jo žmoną.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
 - susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
@@ -566,9 +575,38 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     das, o Vitebske jų dėdė, motinos brolis, Vikintas.
   citata_rodoma: "Juodąją Rusiją. Tuo pat metu\nLietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno\nMindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­\ndas, o Vitebske jų dėdė, motinos brolis, Vikintas."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184386
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 569"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 569."
+  citata_originali: |
+    Regėjom jau, jog pirm 100 metų Lietuvos urėdas
+    Polocke Ginvila ir jo sūnus Baras ne vien tenai
+    krikščionių gudų nespaudė, bet dar pačiudu per­
+    sikrikštijusiu bažnyčias krikščionims strūnijo. Ly­
+    gia dalia paskesniai Arvydas, Tautvilas, Ingautas,
+    Lietuvos urėdai krivičių žemėj, ne vien krikščionų
+    nenovijo, bet jie patys, kaip viršiaus regėjom, krikš­
+    čionimis tapo. Gediminas taip pat, nukariavęs ne
+    vien juoduosius, bet ir rausvuosius gudus, tikybos
+    krikščionų gudų negaišino, bet ją taupė ir gerbė,
+    kaipogi Kijeve padėjo urėdu Mintautą, lietuvį krikš­
+    čionį, sūnus savo Andriejų, Liubartą ir Algirdą ap-
+    krikštydinęs, Andriejų padėjo pirma urėdu Po­
+    locko, paskui Pleskavo, Liubartą apipačiaudino su
+    krikščionka gude kunigaikštaite Polocko ir perdė­
+    jo urėdu Padaliju, o Algirdą apipačiaudinęs su Ju­
+    lijona, kunig.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201036
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

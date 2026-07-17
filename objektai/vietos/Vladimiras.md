@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vladimiras'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1384 m.'
@@ -36,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą. Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę. Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
+Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko kontekste. Maskva, laimėjusi šią kovą prieš Tverę, įsitvirtino ir Vladimire.
 
 ## Pavadinimai šaltiniuose
 
@@ -75,17 +76,30 @@ Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą. Gedi
   teiginys: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
   pagrindžia:
     - c-32555
+
+<a id="claim-t-201116"></a>
+- t-004
+  global_id: t-201116
+  teiginys: "Gediminui įžengus į Volyniją, buvo apgulta Vladimiro pilis, o jos įgula su gyventojais gynėsi laukdama pagalbos."
+  pagrindžia:
+    - c-184466
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
 - susijęs iš [[objektai/asmenys/Vladimiras Dubeneckis.md#claim-t-78074|Vladimiras Dubeneckis]]: Vladimiras Dubeneckis buvo 1935 m. atidaryto Vytauto Didžiojo karo muziejaus architektas.
+- susijęs iš [[objektai/ivykiai/Vladimiro krikštas ir Chersono grąžinimas.md#claim-t-201351|Vladimiro krikštas ir Chersono grąžinimas (krikštas)]]: Daukanto pasakojime 988 m. Vladimiras, vedęs Oną, apsikrikštijo kartu su visa gudų tauta ir grąžino Chersono miestą graikų ciesoriui.
 - susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas diegė Maskvos sprendimus.
 - susijęs iš Maskva: 1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-197755|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Tas pats Jaroslavas 1041 metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur negalima matyti ukrainiečių tautybės žmonių susimai šymo su lietuviais.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-200998|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Vladimiras, padalijęs valdžią dvylikai sūnų, Jaroslavui paskyrė Rostovą, o šiam mirus Rostovas kliuvo Borisui.
+- susijęs iš [[objektai/asmenys/Mečislovas.md#claim-t-201014|Mečislovas]]: Pasak Daukanto pasakojimo, Vladimiras iš Mečislovo, kurį autorius vadina lenkų viešpačiu, atėmė Červenės ir Peremyšlio pilis.
 - susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-201034|Sviatoslavas]]: Daukanto pasakojime Vladimiras, padalijęs valdžią dvylikai sūnų, Sviatoslavui paskyrė Pajuodgirę.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65004|Vytauto paveikslas]]: 1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.
+- susijęs iš Chersonas: Daukantas rašo, kad Vladimiras užėmė Chersoną Kryme, vėliau ten apsikrikštijo su gudų tauta ir miestą grąžino graikų ciesoriui.
 - susijęs iš Kijevas: Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.
 - susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
 - susijęs iš Naugardas: Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.
@@ -164,6 +178,32 @@ Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą. Gedi
   pagrindzia:
     - t-185204
 
+- id: c-184466
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 530"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 530."
+  citata_originali: |
+    Visų pirma, įėjęs į Volynijos kraš­
+    tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su
+    gyventojais susinėrusi, didžiai kantriai gynės, vil­
+    damos veikios pagalbos nuo lauko ateinančios, kas
+    ir nutiko: pats kunigaikštis Volynijos, patelkęs rim­
+    tus pulkus totorių, traukė prieš lietuvius savo bu­
+    veinės liuosuoti. Nujautęs tą, Gediminas palikinąs
+    vietovę sukos ant ateinančių gudų, norėdamas kely
+    susigrumti, vienok to Gediminas nebsuskubėjo be­
+    padaryti, kaipogi gudai buvo jau pas pilį atėję, su
+    kuriais Gediminas tuojau susirėmė mažne pačiuose
+    Vladimiro pamūriuose. Visų pirma jotys pačios
+    skardės, lietuviai buvo pradedą jau gurti, užvis jog
+    totoriai nuo visų pusių jų rindą jaugė ir neleido jų
+    visa siena ant gudų gulti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201116
+
 ## Ryšiai
-- Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Užėmė Vladimirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

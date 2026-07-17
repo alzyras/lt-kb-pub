@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'papilys'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1277 m.'
@@ -14,6 +15,7 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pilis
   - sąvoka
   - istorinė-sąvoka
 amziai:
@@ -179,6 +181,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   teiginys: "1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose."
   pagrindžia:
     - c-178657
+
+<a id="claim-t-200955"></a>
+- t-021
+  global_id: t-200955
+  teiginys: "Daukanto pasakojime kryžėjų marčelga, antrą kartą rudenį sugrįžęs prie Bistenės pilies, vos ne vos sudegino jos priemiesčius, vadinamus papiliais."
+  pagrindžia:
+    - c-184305
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
 - susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
@@ -533,3 +542,23 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196384
+
+- id: c-184305
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
+  citata_originali: |
+    Noris dar tą pačią vasarą marčelga kryžėjų su
+    visa kariauna norėjęs buvo viršiaus minavotą Bis-
+    tenės pilį užimti, vienok nevyko. Lygia dalia antrą
+    kartą rudenį sugrįžęs vos ne vos su dideliu vargu
+    jos priemiesčius, arba papilius, tenudegino.
+    Kita dalis kryžėjų kariaunos, patiekusi laivus su
+    palagais, kuriuose nebuvo pavoju nei nuo svilksnių,
+    nei nuo vylyčių, apgulė pilį Gundingenos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200955

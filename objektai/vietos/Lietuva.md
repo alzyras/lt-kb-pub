@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lenkai Lietuvoje Dr. J. Basanavičius'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
@@ -1037,6 +1038,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-184239
 
+<a id="claim-t-201079"></a>
+- t-178
+  global_id: t-201079
+  teiginys: "Daukantas rašo, kad lietuvės ir žemaitės, keičiantis tikėjimui, nenorėjo krikštytis, kad neprarastų baltų nuometų ir vilnonių."
+  pagrindžia:
+    - c-184429
+
 <a id="claim-t-180065"></a>
 - t-001
   global_id: t-180065
@@ -1436,6 +1444,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - c-181974
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
 - susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-183561|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19171|Netimeras]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.
@@ -1447,6 +1456,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74925|Sovietų Sąjunga]]: 1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74927|Sovietų Sąjunga]]: 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176357|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1316 m. pradėjęs valdyti Lietuvą Gediminas turėjo atlaikyti suintensyvėjusį kryžiuočių puolimą.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-201000|Jogaila (kunigaikštis, XIV–XV a.)]]: Daukantas Jogailą vaizduoja 1420 m. dėvėjus avikailinius kailinius ir valdžius kraštą nuo Baltijos iki Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19170|Netimeras]]: Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.
 - susijęs iš [[objektai/asmenys/Nogajus.md#claim-t-87807|Nogajus]]: Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
@@ -1470,6 +1480,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Lenkijos senatas.md#claim-t-184539|Lenkijos senatas]]: Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lenkų senatas.md#claim-t-185430|Lenkų senatas]]: Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179325|Lietuviai]]: Vytauto jaunystėje kardininkai ir kryžiuočiai ypač smarkiai puldavo Lietuvą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200925|Lietuviai]]: Auktuma, pagezonų karvedys, buvo paėmęs Christburgo ir Elbingo pilių komendantus, vėliau gyveno Lietuvoje ir žuvo gindamas pilį.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74921|Sovietų Sąjunga]]: Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
 - susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas.md#claim-t-189628|Jeronimo Prahiškio žalčių sunaikinimas ir viešas sudeginimas]]: Narbutas rašo, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis pirmuosius sutiktus lietuvius siejo su žalčių garbinimu.
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09882|Smolensko apgultis (1632–1634 m.)]]: Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.
@@ -1478,6 +1489,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
 - susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
 - susijęs iš Borisovas: Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.
+- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
 - susijęs iš Žemaitija: 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13543|chiefdom / vadystė]]: Vadystė šiame kontekste atitinka chiefdom stadiją.
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13544|chiefdom / vadystė]]: Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.
@@ -1491,6 +1503,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-183575|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187447|Aukso orda]]: 1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-200915|Bartai]]: Užkariavus Bartiją, barčionų vyresnieji Numa ir Derska buvo išsikraustę į Lietuvą, o vėliau prašė leisti grįžti į Bartiją.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120184|Karaimai]]: Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120186|Karaimai]]: Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.
 - susijęs iš [[objektai/grupes/Kijevo Rusia.md#claim-t-181458|Kijevo Rusia]]: XI a. Lietuva patyrė Kijevo Rusios agresiją.
@@ -1512,6 +1525,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Brodnica: Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą.
 - susijęs iš Karaliaučius: 1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.
 - susijęs iš Krokuva: Po paskutinio savo pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus sugrįžo į Lietuvą.
+- susijęs iš Nemunas: Vasarop Daukanto aprašomas kryžėjų mistras persikėlė per Nemuną, įsiveržė į Lietuvą ir apgulė ant Nemuno skardžio stovėjusią Gardino pilį.
 - susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
 - susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
 - susijęs iš Smalininkai: Sienos linija nuo Šešupės buvo nuvesta tiesiai į Nemuną prie Smalininkų, o iš ten į Palangą.
@@ -1581,11 +1595,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Aukštaitija: Narbuto aprašyme Lietuva dalijosi į aukštesniąją Aukštaitiją, lotynų autorių vadintą Austechia, ir žemesniąją Žemaitiją.
 - susijęs iš Krokuva: Po paskutinio pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus grįžo į Lietuvą.
 - susijęs iš Krokuva: Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.
-- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
 - susijęs iš Pagraudė: Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
 - susijęs iš [[objektai/zodynas/mišparai.md#claim-t-58917|mišparai]]: 1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios.
 - susijęs iš [[objektai/zodynas/oktava.md#claim-t-58859|oktava]]: 1330 m. per švento Martyno oktavą Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
+- susijęs iš [[objektai/asmenys/Jaroslavas Svitopelkėlis.md#claim-t-201419|Jaroslavas Svitopelkėlis]]: 1112 m. Jaroslavas Svitopelkėlis, Daukanto pasakojimu, traukė su didele kariauna užimti Lietuvos šalies, vadintos Jacviegija arba Paletija.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05214|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176629|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštijos žeminimo.
@@ -1829,6 +1843,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186031|Andrejus Kurbskis]]: Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
+- susijęs iš [[objektai/asmenys/Andriejus Gostas.md#claim-t-201407|Andriejus Gostas]]: Daukantas pasakoja, kad Andriejus Gostas, nužudytos mozūrės jaunikis, prisiekė atkeršyti Lietuvos karvedžiui.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
@@ -1966,7 +1981,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05167|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05170|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05174|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10677|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: 1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176322|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, titulavęsis Rex Lethowye, laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176325|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją.
@@ -1981,6 +1995,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188534|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas Gedimino valdymą sieja su laikotarpiu, kai Lietuvos galia ir jėga, jo vertinimu, nepaprastai išaugo.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-190858|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1302 m. Gediminas suteikė herbą Krunevičiui, nors toks paprotys lietuviams nebuvęs būdingas.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-200986|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Daukanto pasakojime kijevionys Gediminą, Lietuvos didįjį kunigaikštį, pakėlė savo viešpačiu, o Gediminas pažadėjo saugoti jų tikybą, kalbą ir papročius bei paskyrė Mintautą urėdu Kijeve.
 - susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/asmenys/George Harrison.md#claim-t-18914|George Harrison]]: George Harrison grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“.
 - susijęs iš [[objektai/asmenys/Georgijus Čičerinas.md#claim-t-18915|Georgijus Čičerinas]]: Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
@@ -1993,6 +2008,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Gregoras Kierdėjus.md#claim-t-87681|Gregoras Kierdėjus]]: Gregoro Kierdėjaus vadovaujami Podolės bajorai sugavo Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos.
 - susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-184075|Gundramas]]: 1302 m. Gundramas su 9 ginklanešiais vijosi lietuvių plėšikautojus, prie Kristburgo pagrobusius dešimt žmonių ir dešimt arklių.
 - susijęs iš [[objektai/asmenys/Gundramas.md#claim-t-60298|Gundramas]]: 1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė.
+- susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-200995|Heidenreichas (vyskupas, XIII–XIV a.)]]: Daukanto pasakojimu Kulmo vyskupas Heidenreichas vyko į Lietuvą pas Mindaugą ir karūnavimo iškilmėje patepė jį aliejumi.
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63618|Henrikas (Mozūrų kunigaikštis)]]: Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.
@@ -2019,8 +2035,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Jaranda iš Brudzevo.md#claim-t-186214|Jaranda iš Brudzevo (vyskupas)]]: Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą pas Žygimantą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
+- susijęs iš [[objektai/asmenys/Jaroslavas Svitopelkėlis.md#claim-t-201419|Jaroslavas Svitopelkėlis]]: 1112 m. Jaroslavas Svitopelkėlis, Daukanto pasakojimu, traukė su didele kariauna užimti Lietuvos šalies, vadintos Jacviegija arba Paletija.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
+- susijęs iš [[objektai/asmenys/Jevstafijus (kunigaikštis, XIV a.).md#claim-t-201409|Jevstafijus (kunigaikštis, XIV a.)]]: Naugardžionių rėdytojas Jevstafijus, Daukanto pasakojimu, viešai pavadino didįjį Lietuvos kunigaikštį Algirdą šuniu.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182803|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182812|Jogaila (kunigaikštis, XIV–XV a.)]]: Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.
@@ -2315,6 +2333,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113993|Steponas Batoras]]: Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare prieš Maskvą buvo pasiektos lemiamos pergalės.
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/Stuklandas (kunigaikštis, XIII a.).md#claim-t-201402|Stuklandas (kunigaikštis, XIII a.)]]: Daukantas Stuklandą apibūdina kaip kalavijonų mistrą, bendravusį ir bičiuliavusį su Lietuvos karaliumi Mintautu.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184836|Surdeta]]: Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-184839|Svisdeta]]: Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
@@ -2391,6 +2410,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90068|Vladislovas Lokietka]]: 1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79226|Vladislovas Vaza]]: 1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.
 - susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51191|Vosylius]]: Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.
+- susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-201048|Vsevolodas]]: Daukanto pateikiamuose raštuose nurodoma, kad 1135 m. Naugardo kunigaikštis Vsevolodas kariavo su lietuviais, nuniokojo Lotaviją ir įsilaužė į Jurjevo pilį.
 - susijęs iš [[objektai/asmenys/Vytautas Gužas-Kardas.md#claim-t-40525|Vytautas Gužas-Kardas]]: Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 - susijęs iš [[objektai/asmenys/Vytautas Sirvydis.md#claim-t-78075|Vytautas Sirvydis]]: Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.
@@ -2635,6 +2655,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179508|Konstantinas Jablonskis]]: Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190749|Konstantinas Sirvydas (kunigas)]]: Narbutas K. Sirvydo žodyne nurodė lietuviškas formas „Pridegis“ ir „Priderinis“ kaip aptariamo pavadinimo atitikmenis.
+- susijęs iš [[objektai/autoriai/Kotzebue.md#claim-t-201472|Kotzebue]]: Kotzebue veikale teigiama, kad Gediminas, didindamas dukters kraitį, pažadėjo paleisti 40 000 Lietuvoje vergavusių lenkų kalinių.
 - susijęs iš [[objektai/autoriai/Kraševskis.md#claim-t-01084|Kraševskis]]: Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.
 - susijęs iš [[objektai/autoriai/Ks. Bauža.md#claim-t-01086|Ks. Bauža]]: Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.
 - susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-23235|Ksaveras Bogušas (kunigas, XIX a.)]]: Ksaveras Bogušas apibūdintas kaip iš Lietuvos kilęs kunigas ir teologas.
@@ -2792,6 +2813,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190804|Tadas Volianskis]]: Teodoras Narbutas nurodo, kad Tadas Volianskis priekaištavo dėl Szwaixtiks statulėlės nepanašumo į Lietuvos Apoloną.
 - susijęs iš [[objektai/autoriai/Tadas Čackis.md#claim-t-190300|Tadas Čackis]]: Narbutas rėmėsi Čackiu, aiškindamas, kad XVI a. Lietuvoje esą būdavo randama daugiausia raganų.
 - susijęs iš [[objektai/autoriai/Tamošaitis M.md#claim-t-19482|Tamošaitis M]]: M. Tamošaitis kartu su D. Blažyte-Baužiene ir L. Truska parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
+- susijęs iš [[objektai/autoriai/Teodoras Lepneris.md#claim-t-201432|Teodoras Lepneris]]: Teodoro Lepnerio Mažosios Lietuvos aprašymai buvo vienas iš Daukanto naudotų lietuviškų metraščių pakaitalų.
 - susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19484|Truska L]]: L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
 - susijęs iš [[objektai/autoriai/V. Bagdanavičius.md#claim-t-31021|V. Bagdanavičius]]: V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.
 - susijęs iš [[objektai/autoriai/V. Daugudis.md#claim-t-31024|V. Daugudis]]: V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją.
@@ -2842,8 +2864,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
 - susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
+- susijęs iš [[objektai/daiktai/Graižis (daiktas).md#claim-t-201366|Graižis (daiktas)]]: Daukantas graižį aiškino kaip lietuvišką pinigų pavadinimą ir sidabro luito atmuštą gabalą.
 - susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
 - susijęs iš [[objektai/daiktai/Kentauras.md#claim-t-185848|Kentauras]]: Kojelavičiaus pasakojime Julijono Dausprungo giminės herbas buvo Kentauras, kitados laikytas Lietuvos kunigaikštystės herbu.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-194182|Laivai]]: Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.
 - susijęs iš [[objektai/daiktai/Lankai, strėlės ir šaudyklės.md#claim-t-87082|Lankai, strėlės ir šaudyklės]]: Anglų lankininkų narsa ir sumanumas mūšiuose prisidėjo prie didelių Lietuvos smūgių.
 - susijęs iš [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis.md#claim-t-64955|Lenkijos ir Lietuvos Valstybės žemėlapis]]: XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.
 - susijęs iš [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai.md#claim-t-64956|Lietuvos akmens amžiaus dirbiniai]]: Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.
@@ -2881,6 +2905,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55041|Martyno Paleckio stiklo gaminiai Vilniuje]]: Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
 - susijęs iš [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės.md#claim-t-75340|Monumentalios Lietuvos istorijos drobės]]: 1939 m. pasaulinei parodai Niujorke svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose dailininkų drobėse.
 - susijęs iš [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės.md#claim-t-75341|Monumentalios Lietuvos istorijos drobės]]: 1939 m. pasaulinei parodai Niujorke parengtame Lietuvos skyriuje svarbiausi Lietuvos istorijos įvykiai buvo parodyti monumentaliose žymių dailininkų drobėse.
+- susijęs iš [[objektai/daiktai/Muštinis (daiktas).md#claim-t-201367|Muštinis (daiktas)]]: Daukantas muštinį priskyrė prie lietuviškų pinigų pavadinimų kartu su graižiu, skatiku ir nauda.
 - susijęs iš [[objektai/daiktai/Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai.md#claim-t-19573|Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai]]: Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
 - susijęs iš [[objektai/daiktai/Olimpiniai medaliai.md#claim-t-19574|Olimpiniai medaliai]]: 1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.
 - susijęs iš [[objektai/daiktai/Olimpiniai medaliai.md#claim-t-19575|Olimpiniai medaliai]]: Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.
@@ -2946,6 +2971,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187872|Baltarusiai]]: Baltarusiai įtraukiami į Istorinės Lietuvos, arba Lietuvos Didžiosios Kunigaikštystės, politinio, socialinio ir kultūrinio paveldo arealą.
 - susijęs iš [[objektai/grupes/Baltijos antantė.md#claim-t-19658|Baltijos antantė]]: Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-200915|Bartai]]: Užkariavus Bartiją, barčionų vyresnieji Numa ir Derska buvo išsikraustę į Lietuvą, o vėliau prašė leisti grįžti į Bartiją.
 - susijęs iš [[objektai/grupes/Bazelio bažnytinis susirinkimas.md#claim-t-40864|Bazelio bažnytinis susirinkimas]]: Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
 - susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
 - susijęs iš [[objektai/grupes/Burtininkės ir raganos.md#claim-t-189470|Burtininkės ir raganos]]: Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdavo randama Lietuvoje.
@@ -3098,6 +3124,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183150|Liaudies seimas (seimas)]]: Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-19795|Liaudies seimas (seimas)]]: Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.
 - susijęs iš [[objektai/grupes/Liaudies vyriausybė.md#claim-t-19797|Liaudies vyriausybė]]: Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.
+- susijęs iš [[objektai/grupes/Lietuviai ir žemaičiai.md#claim-t-201231|Lietuviai ir žemaičiai]]: Daukantas vaizduoja, kad gilioje senovėje lietuvių ir žemaičių gyvenami kraštai buvo apgaubti nežinios.
+- susijęs iš [[objektai/grupes/Lietuviai ir žemaičiai.md#claim-t-201232|Lietuviai ir žemaičiai]]: Daukantas rašo, kad lietuviai ir žemaičiai gaivinančią galybę vadino Perkūnu arba Perūnu ir laikė ją regimojo bei neregimojo pasaulio pradžia.
+- susijęs iš [[objektai/grupes/Lietuviai ir žemaičiai.md#claim-t-201233|Lietuviai ir žemaičiai]]: Daukantas lietuvių ir žemaičių kalbą laikė jų senosios kilmės, galybės ir būdo liudijimu.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179215|Lietuviai]]: Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179216|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179217|Lietuviai]]: Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.
@@ -3177,6 +3206,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192430|Lietuviai]]: Teodoro Narbuto skirstyme lietuvių krašto teritoriją sudarė trys pagrindinės sritys: senovės Prūsija, tikroji Lietuva ir Latvija.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192432|Lietuviai]]: Teodoro Narbuto teigimu, herbų suteikimo paprotys lietuviams nebuvo būdingas, nors Lietuvoje šeimos herbai egzistavo bent nuo Gedimino laikų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200925|Lietuviai]]: Auktuma, pagezonų karvedys, buvo paėmęs Christburgo ir Elbingo pilių komendantus, vėliau gyveno Lietuvoje ir žuvo gindamas pilį.
 - susijęs iš [[objektai/grupes/Lietuviškoji socialdemokratų partija.md#claim-t-74619|Lietuviškoji socialdemokratų partija]]: Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje.
 - susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72513|Lietuvių Draugija Estijoje]]: Estijoje buvo keletas šimtų lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.
 - susijęs iš [[objektai/grupes/Lietuvių Fondas.md#claim-t-05265|Lietuvių Fondas]]: Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją gimtąja kalba.
@@ -3455,6 +3485,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108313|Pranciškonų ordinas]]: 1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108318|Pranciškonų ordinas]]: Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Prašaleičiai (grupė).md#claim-t-201253|Prašaleičiai (grupė)]]: Daukantas priekaištauja prašaleičiams, kurie, jo aiškinimu, dėl Lietuvos kalbos neišmanymo kaltino lietuvius ir žemaičius perkūniją garbinus kaip Dievą.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-190617|Prūsai]]: Narbutas prūsus laiko vienos kilties ir vienos genties broliais su Lietuva.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-200759|Radvilos]]: Vorobjovo vertinimu, Radvilos kartu su Pacais ir Sapiegomis buvo vietiniai lietuvių didikai, suvaidinę žymų vaidmenį Vilniaus baroko plėtotėje.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74890|Radvilos]]: Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.
@@ -3630,6 +3661,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
 - susijęs iš [[objektai/ivykiai/ATR karai su Švedija XVII a.md#claim-t-20159|ATR karai su Švedija XVII a]]: Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.
 - susijęs iš [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.).md#claim-t-75090|Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
+- susijęs iš [[objektai/ivykiai/Aldonos ir Kazimiero vestuvės Krokuvoje.md#claim-t-201267|Aldonos ir Kazimiero vestuvės Krokuvoje]]: Daukanto aprašomose Aldonos ir Kazimiero vestuvėse Lietuvos didžioji kunigaikštaitė Aldona, lydima lenkų ir lietuvių diduomenės, keliavo iš Vilniaus į Krokuvą pas jaunikį.
+- susijęs iš [[objektai/ivykiai/Aldonos vestuvės Krokuvoje.md#claim-t-201268|Aldonos vestuvės Krokuvoje]]: Daukantas Aldoną vaizduoja kaip Lietuvos didžiąją kunigaikštaitę, kuri, lydima lenkų ir lietuvių diduomenės, per vestuves keliavo iš Vilniaus į Krokuvą.
 - susijęs iš [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.).md#claim-t-75092|Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]: Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pripažino trispalvę ir „Tautišką giesmę“.
 - susijęs iš [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu.md#claim-t-186772|Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]: Redakcinė pastaba nurodo, kad visų LDK žemių seimas Vilniuje Aleksandrą patvirtino Lietuvos didžiuoju kunigaikščiu 1492 m. liepos 18 d.
 - susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186786|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą.
@@ -3637,6 +3670,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186788|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad 1501 m. spalio 23-30 d. Melnike Aleksandras su kai kuriais LDK Ponų Tarybos nariais patvirtino naują Lenkijos ir Lietuvos unijos aktą.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05287|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunasis Vytautas, lietuvių kunigaikščiai ir Smolensko pajėgos.
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-10184|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: Algirdo žygiai sustabdė Maskvos pretenzijas į lietuvių valdomas rusėnų teritorijas.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Brandenburgiją.md#claim-t-201276|Algirdo žygis į Brandenburgiją]]: 1327 m. Algirdas, Daukanto pasakojimu, buvo paskirtas lietuvių ir žemaičių karvedžiu, žygiavo į Brandenburgiją ir sustojo ties Frankfurtu.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187460|Algirdo žygis į Maskvą]]: Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą.
 - susijęs iš [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.).md#claim-t-01571|Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]: 1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.
@@ -3663,6 +3697,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką.md#claim-t-185695|Biti Girėjaus ir Burnaš Girėjaus puolimas prieš Slucką]]: Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01596|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Blaivybės brolijų panaikinimas nutraukė tautos blaivinimo darbą ir ilgam paliko Lietuvą be organizacijų.
 - susijęs iš [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.).md#claim-t-185555|Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]: 1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose.
+- susijęs iš [[objektai/ivykiai/Braslavo apgula.md#claim-t-201314|Braslavo apgula]]: 1058 m. Kernius ir Gimbutas, matydami gudų tarpusavio nesutarimus, surengė žygį, apgulė Braslavo pilį ir jėga prijungė ją bei kraštą prie Lietuvos.
+- susijęs iš [[objektai/ivykiai/Braslavo mūšis.md#claim-t-201315|Braslavo mūšis (mūšis)]]: Braslavo lygumose, Daukanto pasakojimu, Lietuvos tėvūnai Kernavėje ir žemaičių vyresnieji apsupo gudus, nukovė 9000 karių, o Vseslavičiai vos gyvi paspruko.
 - susijęs iš [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas.md#claim-t-01599|Brastos taikos derybos ir pasirašymas]]: 1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
@@ -3672,6 +3708,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185560|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Gandas apie su didele kariuomene ateinantį Prūsijos magistrą sužlugdė lietuvių viltis paimti Christmemelio pilį.
 - susijęs iš [[objektai/ivykiai/D. Poškos straipsnio apie Lietuvos ir Žemaičių istorijos rašymą paskelbimas.md#claim-t-189619|D. Poškos straipsnio apie Lietuvos ir Žemaičių istorijos rašymą paskelbimas]]: 1829 m. „Dziennik Warszawski“ išspausdino Dionizo Poškos straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“.
+- susijęs iš [[objektai/ivykiai/Dahenfeldo žygis į Žemaičius.md#claim-t-201499|Dahenfeldo žygis į Žemaičius]]: Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių.
 - susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77882|Didysis Vilniaus Seimas]]: Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą.
 - susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
 - susijęs iš [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.).md#claim-t-01610|Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]: 1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius.
@@ -3717,6 +3754,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu.md#claim-t-186623|Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]: Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku.
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
+- susijęs iš [[objektai/ivykiai/Kerniaus ir Gimbuto žygis į Braslavą.md#claim-t-201323|Kerniaus ir Gimbuto žygis į Braslavą]]: 1058 m. Kernius ir Gimbutas, pasak Daukanto, pasinaudojo vidaus nesantaikos suskaldytų gudų padėtimi, jėga įsilaužė į Braslavo pilį ir prijungė Braslavo pilį bei kraštą prie Lietuvos ūkės.
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187474|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraščio pasakojime vyskupo sode, kur buvo sukapoti pranciškonai, tebestovėjo kryžius.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47771|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.
@@ -3746,6 +3784,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.).md#claim-t-185595|Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotai Lietuvai paremti.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.).md#claim-t-55123|Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]: 1375 m. Vinricho ekspedicija į Lietuvą nutrūko dėl staigaus atodrėkio ir upių polaidžio.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86915|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. pabaigoje Jogaila paliko Vilnių ir, lydimas lietuvių kunigaikščių bei didikų svitos, išvyko į Krokuvą.
+- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20235|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20236|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos.
@@ -4012,6 +4051,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Mindaugo žygis į Mozūrus.md#claim-t-95971|Mindaugo žygis į Mozūrus]]: 1236 m. Mindaugas turėjo Lietuvoje pirmaujančią reikšmę ir tais metais surengė didelį žygį į Mozūrus.
 - susijęs iš [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.).md#claim-t-41325|Miro mūšis (1792 m. birželio 11 d.)]]: 1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186666|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivados Stepono ir Malkočo žygis, Lietuvos metraščio pasakojimu, padarė daug žalos Lenkijos žemei.
+- susijęs iš [[objektai/ivykiai/Mstislavo žygis į Lietuvą ir mūšis ties Jaselda.md#claim-t-201334|Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)]]: Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską.
 - susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-10253|Mėlynųjų Vandenų mūšis (1362 m.)]]: Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186684|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186685|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
@@ -4026,6 +4066,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.).md#claim-t-35873|Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]: Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54180|Oršos mūšis (1514 m.)]]: Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.
 - susijęs iš [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime.md#claim-t-185759|Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]: Pasak Kojelavičiaus, Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
+- susijęs iš [[objektai/ivykiai/Paliaubos su kryžėjais ir kalinių keitimas Karaliaučiuje.md#claim-t-201486|Paliaubos su kryžėjais ir kalinių keitimas Karaliaučiuje]]: Daukanto pasakojime Karaliaučiuje Kęstutį kryžiuočiai iškilmingai vaišino ir pagerbė, o jis iš Lietuvos ir Žemaitijos kalėjimų paleido 14 komtūrų, 96 brostvius ir daugybę krikščionių.
 - susijęs iš [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune.md#claim-t-41340|Paliaubų protokolo pasirašymas Kaune]]: 1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą.
 - susijęs iš [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga).md#claim-t-75257|Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]: 1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66816|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.
@@ -4554,6 +4595,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.
 - susijęs iš Akta unji: „Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): 1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.
+- susijęs iš Alberto Vijūko-Kojalavičiaus Lietuvos istorija: Alberto Vijūko-Kojalavičiaus „Lietuvos istorija“ Daukantui kompensavo lietuviškus metraščius kartu su kitais vėlyvais praeities šaltiniais.
+- susijęs iš Alberto Vijūko-Kojalavičiaus „Lietuvos istorija: Alberto Vijūko-Kojalavičiaus „Lietuvos istorija“ Daukantui kompensavo lietuviškus metraščius kartu su kitais vėlyvais praeities šaltiniais.
 - susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.
 - susijęs iš Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.): Leidinio rengėjai siekė glausto, lengvai skaitomo, tiesos ir atvirumo kriterijais grįsto Lietuvos istorijos veikalo.
 - susijęs iš Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.): Redaktoriaus žodyje leidinio chronologinė aprėptis siejama su 1009 m. ir Lietuvos virsmu visateise Europos Sąjungos nare 2004 m.
@@ -4659,6 +4702,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Klaipėdos konvencija: 1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.
 - susijęs iš Klaipėdos teritorijos perdavimo sutartis: 1939 m. pradžioje britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo, o be pagalbos Lietuva Klaipėdos nebegalėjo išlaikyti.
 - susijęs iš Knyga su Lietuvos Metrikos archyvo sąrašu: Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.
+- susijęs iš Kojalavičiaus Lietuvos istorija: Daukantas rašo, kad Kojalavičius „Lietuvos istorijoje“ nuo Traidžio iki Gedimino mini vieną Vytenį, o teutonų ir gudų rašytojai nurodo tris kunigaikščius: Vytį, Puteverą ir Vytenį.
 - susijęs iš Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
 - susijęs iš Konstitucinis įstatymas, skelbęs Lietuvos nepriklausomą demokratinę respubliką: Lietuvos AS priėmė konstitucinį įstatymą, skelbusį, kad Lietuva yra Nepriklausoma Demokratinė Respublika.
 - susijęs iš Konstitucinės pataisos dėl Lietuvos įstatymų viršenybės SSRS įstatymų atžvilgiu: LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
@@ -4812,6 +4856,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Lietuvos metraštis Bychovco kronika Parengė R. Jasas: R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.
 - susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): Leidinio įvade nurodoma, kad pavadinimas „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas, o vardas „Bychovco kronika“ prigijo XIX a. pagal Aleksandrą Bychovcą.
 - susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
+- susijęs iš Lietuvos metraščio Supraslio nuorašas: Daukantas Lietuvos metraščio Supraslio nuorašą mini tik kartą; šį nuorašą neseniai buvo radęs ir paskelbęs Ignotas Danilavičius.
 - susijęs iš Lietuvos mokesčiai: A. Veryhos-Darevskio „Lietuvos mokesčiai“ cituojami pagal 19 puslapį.
 - susijęs iš Lietuvos nepriklausomybės atkūrimo Aktas: Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe.
 - susijęs iš Lietuvos neutralumo įstatymas (1939 m.): Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
@@ -4867,6 +4912,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Modern Philology: Benjaminas W. Dwightas veikale „Modern Philology“ lietuvių kalbos grožį iškėlė kaip lietuvių tautos vertės pagrindą.
 - susijęs iš Modern Philology: „Modern Philology“ lietuvių kalba apibūdinta kaip turinti daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.
 - susijęs iš Molotovo–Ribentropo paktas: 1940 m. birželio 15 d., realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupavo ir aneksavo Lietuvos Respubliką.
+- susijęs iš Motiejaus Pretorijaus prūsų ir lietuvių praeities tyrinėjimai: Motiejaus Pretorijaus prūsų ir lietuvių praeities tyrinėjimai buvo vienas iš veikalų, kompensavusių Daukantui lietuviškų metraščių stoką.
+- susijęs iš Motiejaus Strijkovskio kronika: Vėlyva Motiejaus Strijkovskio kronika buvo vienas iš veikalų, kompensavusių Daukantui lietuviškų metraščių stoką.
 - susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
 - susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
 - susijęs iš Mykolo Lietuvio fragmentai Elzeviro leidinyje: Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
@@ -4943,6 +4990,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Tautiška giesmė: Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.
 - susijęs iš Tautų Sąjungos Tarybos rezoliucija dėl Lietuvos ir Lenkijos karo padėties (1927 m.): Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu.
+- susijęs iš Teodoro Lepnerio Mažosios Lietuvos aprašymai: Teodoro Lepnerio Mažosios Lietuvos aprašymai buvo vienas iš veikalų, kompensavusių Daukantui lietuviškų metraščių stoką.
 - susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
 - susijęs iš The Origins of the Aryans: Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.
 - susijęs iš Torno taika (1411 m.): Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta.
@@ -4974,6 +5022,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
 - susijęs iš Volkaitė-Kulikauskienė R. Lietuva valstybės susidarymo išvakarėse: R. Volkaitės-Kulikauskienės darbas „Lietuva valstybės susidarymo išvakarėse“ paskelbtas 1978 m. leidinyje „Lietuvių materialinė kultūra IX-XIII amžiuje“.
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
+- susijęs iš Vulfstanas (šaltinis): Daukanto vertinimu, Vulfstano pasakojimą apie žemaičius patvirtina vėlesni Lietuvos tautos rašytojai.
 - susijęs iš Vyriausias Lietuvos Tribunolas XVI-XVIII amž: „Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.
 - susijęs iš Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui: Vytauto 1420 m. laiškas Romos imperatoriui Zigmantui minimas kaip patikimas šaltinis apie Lietuvos ir Žemaitijos tapatumą.
 - susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
@@ -5045,6 +5094,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Brodnica: Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą.
 - susijęs iš Brudzevas: Krokuvos vaivada Jarandas iš Brudzevo buvo įtrauktas į senato pasiuntinybę, išsiųstą į Lietuvą dėl Žygimanto pakėlimo.
+- susijęs iš Cartovica (vieta): Daukantas rašo, kad Sviatopelkas, netekęs Cartovicos pilies ir šventenybės, sukėlė kariuomenę, telkė lietuvius bei žemaičius ir ketino pilį atsiimti.
 - susijęs iš Chomskas: Chomske M. K. Oginskio sutelktą Lietuvos kariuomenę pradėjo supti Rusijos kariuomenės daliniai.
 - susijęs iš Chotinas: Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę.
 - susijęs iš Chotynas: LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.
@@ -5098,6 +5148,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Italija: Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 - susijęs iš JAV: JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
 - susijęs iš JAV: JAV veikė didžiausia lietuvių išeivijos dalis ir svarbiausios organizacijos: ALT, PLB bei iš Europos persikėlęs VLIK.
+- susijęs iš Jaselda: Pasak Daukanto, prie Jaseldos lietuviai perlaužė gudų pajėgas: dalį bėgančių išklojo kelyje, o kitus paskandino Jaseldoje.
 - susijęs iš Jieznas: Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą.
 - susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
@@ -5299,6 +5350,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
 - susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
 - susijęs iš Nemunas: Narbutas pažymėjo, kad Nemuno žemupio lietuviai vietoj „Gej“ šaukdavę „Hej“.
+- susijęs iš Nemunas: Vasarop Daukanto aprašomas kryžėjų mistras persikėlė per Nemuną, įsiveržė į Lietuvą ir apgulė ant Nemuno skardžio stovėjusią Gardino pilį.
 - susijęs iš Nemuno žiotys: Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
 - susijęs iš Neroma: Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos kraštą ir jos vardą kildino iš Neries upės.
 - susijęs iš Nesvyžius: 1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.
@@ -5315,6 +5367,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Palenkė: Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.
 - susijęs iš Palenkė: Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi.
 - susijęs iš Palenkė: Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.
+- susijęs iš Paletija (vieta): Daukantas Paletiją įtraukė tarp kraštų, kuriuos valdė Algirdas ir kurie, jo teigimu, tebesirėdė Lietuvos įstatymais.
 - susijęs iš Panevėžys: Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.
 - susijęs iš Paryžius: Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.
 - susijęs iš Paryžius: Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.
@@ -5405,6 +5458,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Salynas: Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
 - susijęs iš Salynas: 1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.
 - susijęs iš Sankt Peterburgas: Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų.
+- susijęs iš Severija (vieta): Daukantas Severiją priskiria Algirdo valdytiems kraštams ir teigia, kad Daukanto laikais joje tebebuvo remiamasi Lietuvos įstatymais.
 - susijęs iš Severskas: Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.
 - susijęs iš Seversko žemė: Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas.
 - susijęs iš Silezija: 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.
@@ -5510,6 +5564,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Voluinė: Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.
 - susijęs iš Voluinė: Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.
 - susijęs iš Voluinė: Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.
+- susijęs iš Volynija: Daukantas Volyniją mini tarp Algirdo valdytų kraštų, kurie, jo teigimu, iki jo laikų tebebuvo tvarkomi pagal Lietuvos įstatymus.
 - susijęs iš Volynė: Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Vorskla: Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.
 - susijęs iš Vorskla: Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
@@ -5557,10 +5612,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
 - susijęs iš [[objektai/zodynas/Desovietizacija ir liustracija.md#claim-t-21988|Desovietizacija ir liustracija]]: Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.
 - susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
+- susijęs iš [[objektai/zodynas/Graižis (sąvoka).md#claim-t-201216|Graižis (sąvoka)]]: Daukantas graižį aiškino kaip lietuvišką pinigų pavadinimą ir siejo jį su sidabro luito atkapotu gabalu.
 - susijęs iš [[objektai/zodynas/Graždanka.md#claim-t-52508|Graždanka]]: Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.
 - susijęs iš [[objektai/zodynas/Kahalai.md#claim-t-21993|Kahalai]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189105|Krivis Krewe Crive]]: Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos paminklų formomis „Krewo“ ir „Krewiczy“.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189197|Krivis Krewe Kriwe]]: Narbutas renkasi rašybą „Krewe“, nes ją sieja su Lietuvos istorijos paminklų formomis „Krewo“ ir „Krewiczy“.
+- susijęs iš [[objektai/zodynas/Lažas, baudžiava ir vergyba.md#claim-t-201224|Lažas, baudžiava ir vergyba]]: Daukanto vertinimu, lažą, baudžiavą ir vergybą į lietuvių ir žemaičių kraštus atnešė iš Teutonuos atėję vokiečiai.
 - susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189116|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.
 - susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189117|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas 1483 m. Kazimiero privilegiją Rimvydui laikė įrodymu, kad katinas lietuviams buvo stabmeldiškosios laisvės, arba Lietwii, ženklas.
 - susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
@@ -5706,6 +5763,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/patepimas į valdžią.md#claim-t-86606|patepimas į valdžią]]: Vilniuje Vytautas iš Vilniaus vyskupo Andriaus Važilo gavo patepimą tapti Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/zodynas/penktoji kolona.md#claim-t-183450|penktoji kolona]]: „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
 - susijęs iš [[objektai/zodynas/penktoji kolona.md#claim-t-22241|penktoji kolona]]: Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201190|perkrikštas (sąvoka)]]: Daukanto pasakojime Kęstutis skatino perkrikštus mesti vokyčių jungą ir grįžti prie senojo tikėjimo, o 800 giminių persikėlė gyventi į Lietuvą ir Žemaičius.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-183451|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22242|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-22243|pertvarka perestroika]]: SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai.
@@ -6042,10 +6100,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18856|Bob Dylan]]: Bob Dylan grojo Tony Zemaicio sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
 - susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
+- susijęs iš [[objektai/asmenys/Boleslovas Kreivburnis.md#claim-t-201412|Boleslovas Kreivburnis]]: Boleslovas Kreivburnis, artėjant gyvenimo pabaigai, padalijo savo valstybę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui.
 - susijęs iš [[objektai/asmenys/Boleslovas Narbutas.md#claim-t-188040|Boleslovas Narbutas]]: 1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.
 - susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185934|Boleslovas Švitrigaila]]: Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
-- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas (kunigaikštis, XIII a.)]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Bomannas.md#claim-t-87487|Bomannas]]: Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63520|Borisas Jelcinas]]: Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.
@@ -6056,6 +6115,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Burundajus.md#claim-t-78961|Burundajus]]: 1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.
 - susijęs iš [[objektai/asmenys/Butrimas.md#claim-t-100068|Butrimas]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas).md#claim-t-35043|Bžostovskis (Vilniaus vyskupas)]]: Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.
+- susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-200974|Celestinas III]]: Daukanto pasakojime popiežius Celestinas III paskelbė atlaidus ir nuodėmių atleidimą krikščionims, žygiuojantiems kariauti į žemaičių kraštą.
 - susijęs iš [[objektai/asmenys/Chadži Girėjus.md#claim-t-87642|Chadži Girėjus]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/asmenys/Christiaan Barnard.md#claim-t-18867|Christiaan Barnard]]: Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš [[objektai/asmenys/Cibulka.md#claim-t-100069|Cibulka]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
@@ -6066,6 +6126,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Danielius Aleksandraitis.md#claim-t-100070|Danielius Aleksandraitis]]: 1402 m. Maskva Pskove pasodino kunigaikštį Danielių Aleksandraitį.
 - susijęs iš [[objektai/asmenys/Daugirdas (Vilniaus vaivada).md#claim-t-87650|Daugirdas (Vilniaus vaivada)]]: 1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.
 - susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-200978|Daumantas (kunigaikštis, XV a.)]]: Daukanto perteikiamu gudų rašytojų pasakojimu, Daumantas susitarė su Treniota ir Tautvilu nužudyti Mindaugą, kai šis esą pasisavino jo žmoną.
 - susijęs iš [[objektai/asmenys/David Gilmour.md#claim-t-18873|David Gilmour]]: Davidas Gilmouras grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/asmenys/Devletberdi.md#claim-t-35047|Devletberdi]]: Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.
@@ -6092,6 +6153,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
 - susijęs iš [[objektai/asmenys/Enėjas Silvijus Pikolominis.md#claim-t-26440|Enėjas Silvijus Pikolominis]]: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė pagiriamuosius žodžius.
+- susijęs iš [[objektai/asmenys/Erdvilas.md#claim-t-200983|Erdvilas]]: Daukantas Erdvilą vaizduoja kaip Žemaičių kunigaikštį, kuris Kernavėje delsė atsakyti totorių siuntiniams, kol telkė karius karui.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169963|Ernestas Galvanauskas]]: Ernestas Galvanauskas planavo paruošti Klaipėdos akcijos politinę apsaugą ir diplomatinę gynybą.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169964|Ernestas Galvanauskas]]: Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169967|Ernestas Galvanauskas]]: Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.
@@ -6147,19 +6209,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176394|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino valdymo metu Vilnius, regis, ėmė darytis gana svarbiu prekybos centru.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176397|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188526|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad 1329 m. Lietuvos didysis kunigaikštis Gediminas, puldamas vieną iš kryžiuočių pilių, buvo nukautas šaunamuoju ginklu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188527|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188528|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Lietuvos ponai 1316 m. sausį paskelbė Gediminą didžiuoju kunigaikščiu, prieš tai gyvenusį Ariogaloje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188531|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas pasakoja, kad Lizdeika išaiškino Gedimino sapną po kunigaikščio nakvynės Šventaragio miške prie Vilnios ir Neries santakos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188532|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas rašo, kad Gedimino kapas esąs prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Georgas fon Hertlingas.md#claim-t-18913|Georgas fon Hertlingas]]: Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.
+- susijęs iš [[objektai/asmenys/Gereimantas (kunigaikštis, XIII a.).md#claim-t-201405|Gereimantas (kunigaikštis, XIII a.)]]: Daukanto pasakojime Gereimantas 1285 m. užbaigė Vilniaus žinyčios statybą prie Vyliaus ir Neries santakos.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184705|Germantas]]: Kojelavičiaus pasakojime Germantas su lenkais sudarė sąjungą ne tiek taikai, kiek siekdamas visomis jėgomis pulti rusus.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87425|Germantas]]: Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
+- susijęs iš [[objektai/asmenys/Ginvila.md#claim-t-200990|Ginvila]]: Daukanto pasakojime Polocko urėdas Ginvila ir jo sūnus Baras nespaudė krikščionių gudų ir statė jiems bažnyčias.
 - susijęs iš [[objektai/asmenys/Gotszalk Schutte.md#claim-t-35080|Gotszalk Schutte]]: Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113787|Goštautas (vyskupas, XV a.)]]: Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184708|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.
@@ -6220,7 +6281,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176431|Jadvyga Jogailienė]]: Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė.
 - susijęs iš [[objektai/asmenys/Janas Filipovičius.md#claim-t-87699|Janas Filipovičius]]: Janas Filipovičius pardavė karalienei Elenai paveldėtą sklypą Vilniaus pilyje su mūriniu rūsiu už devyniasdešimt kapų.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188556|Janas Lasickis]]: Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Jedigėjus.md#claim-t-87703|Jedigėjus]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Vilnių turtingas dovanas.
 - susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
 - susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190013|Jeronimas Prahiškis]]: Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą.
@@ -6243,6 +6304,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184736|Jogaila (kunigaikštis, XIV–XV a.)]]: Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-188545|Jogaila (kunigaikštis, XIV–XV a.)]]: Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-201000|Jogaila (kunigaikštis, XIV–XV a.)]]: Daukantas Jogailą vaizduoja 1420 m. dėvėjus avikailinius kailinius ir valdžius kraštą nuo Baltijos iki Juodosios jūros.
 - susijęs iš [[objektai/asmenys/Johanas Pėteris Frankas.md#claim-t-18967|Johanas Pėteris Frankas]]: Johanas Pėteris Frankas dirbo Vilniaus universitete, o jo darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Johnny Unitas.md#claim-t-18969|Johnny Unitas]]: Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.
 - susijęs iš [[objektai/asmenys/Jokūbas Babičius.md#claim-t-87707|Jokūbas Babičius]]: Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.
@@ -6419,6 +6481,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-183556|Kristijonas Donelaitis]]: Kristijono Donelaičio poema „Metai“ 1818 m. Karaliaučiuje išleista Liudviko Rėzos su vertimu į vokiečių kalbą.
 - susijęs iš [[objektai/asmenys/Kristijonas Donelaitis.md#claim-t-19074|Kristijonas Donelaitis]]: Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.
 - susijęs iš [[objektai/asmenys/Kristijonas Gotlibas Milkus.md#claim-t-63850|Kristijonas Gotlibas Milkus]]: Immanuelio Kanto tekstas apie lietuvių kalbą buvo išspausdintas Kristijono Gotlibo Milkaus lietuvių ir vokiečių kalbų žodyno pratarmėje.
+- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-201005|Kristijonas (vyskupas, XIII a.)]]: Daukantas rašo, kad Kristijonas, pakrikštijęs daug netikėliais vadinamų žmonių, rūpinosi krikščionybės skelbimu Draudžiu ežero apygardoje.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas Pacas.md#claim-t-79092|Kristupas Pacas]]: Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
@@ -6453,6 +6516,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05195|Liubartas]]: Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-201010|Liubartas]]: Treniota, rengdamasis grumtis su totoriais, sušaukė savo brolius Pryšmantą ir Liubartą, Daukanto vadinamus juodųjų gudų urėdais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
 - susijęs iš [[objektai/asmenys/Liudvikas (Antiochijos patriarchas).md#claim-t-186142|Liudvikas (Antiochijos patriarchas)]]: Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys.
 - susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
@@ -6472,6 +6536,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Maksimilijonas I.md#claim-t-40325|Maksimilijonas I]]: Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį.
 - susijęs iš [[objektai/asmenys/Malachovskis.md#claim-t-190233|Malachovskis]]: Narbutas nurodo, kad Malachovskis savo bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino Krunevičiui suteiktą herbą, bet šaltinio neįvardijo.
 - susijęs iš [[objektai/asmenys/Mantas.md#claim-t-60479|Mantas]]: Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
+- susijęs iš [[objektai/asmenys/Mantvila.md#claim-t-194114|Mantvila]]: Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai.
 - susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97462|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.
 - susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97463|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.
 - susijęs iš [[objektai/asmenys/Martynas Knakfusas.md#claim-t-26454|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]: Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.
@@ -6500,6 +6565,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71338|Michailas Muravjovas]]: M. Muravjovo laikai XIX a. siejami su Koriko pravarde.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71339|Michailas Muravjovas]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
+- susijęs iš [[objektai/asmenys/Mieškas (kunigaikštis, XII a.).md#claim-t-201406|Mieškas (kunigaikštis, XII a.)]]: Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
 - susijęs iš [[objektai/asmenys/Mikalojus Dziežgavičius.md#claim-t-35227|Mikalojus Dziežgavičius]]: Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Mikalojus Husovianas.md#claim-t-78067|Mikalojus Husovianas]]: Mikalojaus Husoviano 1523 m. išleista poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
@@ -6681,6 +6747,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179677|Skirgaila]]: Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179680|Skirgaila]]: Balińskis Skirgailos būdą apibūdino kaip niršų ir siejo jį su Vytauto baime dėl pasikėsinimo į gyvybę.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-190971|Skirgaila]]: Narbutas rašė, kad 1386-1447 m. Lietuva pasiekė didžiausią galybę, ypač valdant Vytautui, sostą paveldėjusiam iš Skirgailos.
+- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-193983|Skirmantas]]: Lietuvos metraštis pasakoja, kad Skirmantas atsisakė Balaklajaus reikalautos duoklės ir liepė sužaloti chano pasiuntinius.
+- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-201027|Skirmantas]]: Po kunigaikščio Mingailos mirties Skirmantas, Daukanto teigimu, buvo paliktas Naujapilio rėdytoju.
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
 - susijęs iš [[objektai/asmenys/Sofija Vytautaitė.md#claim-t-79160|Sofija Vytautaitė]]: Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
@@ -6720,9 +6788,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Steponas Kristupas Pacas.md#claim-t-200862|Steponas Kristupas Pacas]]: Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karmelitams pastatydino Šv. Teresės bažnyčią Vilniuje.
 - susijęs iš [[objektai/asmenys/Steponas.md#claim-t-64125|Steponas]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Strijkovskis.md#claim-t-191471|Strijkovskis]]: Strijkovskis savo amžiuje dar girdėjo apie išsklaidytų jotvingių likučius, Didžiojo Naugardo kraštuose vadintus igovėnais.
+- susijęs iš [[objektai/asmenys/Stuklandas (kunigaikštis, XIII a.).md#claim-t-201401|Stuklandas (kunigaikštis, XIII a.)]]: Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną karūną Mintautui, o kitą jo žmonai Martai.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82730|Survila]]: 1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82731|Survila]]: 1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90014|Sventopelkas]]: Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201031|Sviatopelkas]]: Daukantas aiškina, kad Sviatopelkas, netekęs Cartovicos pilies ir šventenybės, sutelkė kariauną ir ketino pilį atsiimti.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-201035|Sviatoslavas]]: Daukanto pasakojime anksčiau nugalėtas Sviatoslavas paliko savo buveinę ir valstybės valdžią.
 - susijęs iš [[objektai/asmenys/T. Dalevskis.md#claim-t-40451|T. Dalevskis]]: T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.
 - susijęs iš [[objektai/asmenys/Tadas Slizenis (kanauninkas, XVIII a.).md#claim-t-200509|Tadas Slizenis (kanauninkas, XVIII a.)]]: Tadas Slizenis buvo kanauninkas.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190983|Tadas Volianskis]]: Narbutas rašo, kad trečiame veikalo tome turėjo būti aptartas Tado Volianskio naujas Henenbergerio užrašo aiškinimas.
@@ -6750,6 +6821,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90058|Traidenis (valdovas, XIII a.)]]: Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-188644|Treniota]]: Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-201039|Treniota]]: Treniota, kurį Daukantas vadina Naujapilio urėdu, sutelkė brolius ir kitus kunigaikščius prieš totorius bei prie Okniaukos puolė Kurdos stovyklą.
 - susijęs iš [[objektai/asmenys/Tšecieskis.md#claim-t-87871|Tšecieskis]]: Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
@@ -6836,6 +6908,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Vladislovas Varnietis.md#claim-t-190997|Vladislovas Varnietis]]: 1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos.
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79225|Vladislovas Vaza]]: 1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.
 - susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
+- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-201047|Vladislovas]]: Boleslovas Kreivburnis padalijo ūkę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui, bet broliai tuo padalijimu nepasitenkino.
 - susijęs iš [[objektai/asmenys/Vosylius (Maskvos kunigaikštis).md#claim-t-35328|Vosylius (Maskvos kunigaikštis)]]: 1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64266|Vosylius I]]: Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64267|Vosylius I]]: 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
@@ -6843,6 +6916,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51190|Vosylius]]: Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.
 - susijęs iš [[objektai/asmenys/Vudrau Vilsonas.md#claim-t-19327|Vudrau Vilsonas]]: Amerikos lietuviai paprašė prezidento Vudrau Vilsono 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos karo aukoms.
 - susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-191186|Vulfstanas]]: Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pusėje apsilankė Estijoje.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-192605|Vulfstanas]]: Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero.
+- susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-197843|Vulfstanas]]: Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą.
 - susijęs iš [[objektai/asmenys/Vyguntas.md#claim-t-35340|Vyguntas]]: Vyguntas kartu su Jogailos motina Julijona ir broliais pritarė Jogailos sutarčių su Ordinais įsipareigojimams.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170245|Vytautas Landsbergis]]: Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170246|Vytautas Landsbergis]]: 1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu.
@@ -6906,6 +6981,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176846|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184885|Vytenis (valdovas, XIII–XIV a.)]]: Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184891|Vytenis (valdovas, XIII–XIV a.)]]: Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-201050|Vytenis (valdovas, XIII–XIV a.)]]: Daukantas aiškina, kad Kojalavičius minėjo vieną Vytenį nuo Traidžio iki Gedimino, o teutonų ir gudų rašytojai tame tarpe skyrė tris valdovus.
 - susijęs iš [[objektai/asmenys/W. Eberhardtas.md#claim-t-40540|W. Eberhardtas]]: 1919 m. spalio 12 d. generolas W. Eberhardtas pakeitė generolą R. von der Goltzą.
 - susijęs iš [[objektai/asmenys/Winrichas von Kniprodė.md#claim-t-30470|Winrichas von Kniprodė]]: Winrichas von Kniprodė mirė tuo pat metu kaip jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti Kęstutį.
 - susijęs iš [[objektai/asmenys/Zbignevas Olesnickis.md#claim-t-184893|Zbignevas Olesnickis (vyskupas)]]: Senatas į pasiuntinybę Lietuvoje paskyrė vyskupą Zbignevą Olesnickį, Jarandą iš Brudzevo, Joną iš Lichino, Lauryną Zarembą ir kitus.
@@ -6930,6 +7006,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78017|Šv. Kazimieras]]: XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.
 - susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-183580|Šv. Stanislovas]]: 1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono.
 - susijęs iš [[objektai/asmenys/Šv. Stanislovas.md#claim-t-64438|Šv. Stanislovas]]: Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-201051|Šventaragis]]: Daukanto pasakojime Šventaragis prie Vilios ir Neries santakos padėjo Vilniaus žinyčios pamatus, o Gereimantas 1285 m. ją baigė statyti.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-201052|Šventaragis]]: Daukanto perteikiamoje pasakoje esą 1283 m. Šventaragis siuntė teirautis Nemunaičių žinyčios apie būsimos Vilniaus žinyčios laimę.
 - susijęs iš [[objektai/asmenys/Šventasis Kazimieras.md#claim-t-87899|Šventasis Kazimieras]]: Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d.
 - susijęs iš [[objektai/asmenys/Šventasis Severinas.md#claim-t-191495|Šventasis Severinas]]: Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir išpranašavo, kad šis taps karaliumi.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179698|Švitrigaila]]: Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje.
@@ -7184,6 +7262,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/autoriai/Vincas Vyčinas.md#claim-t-88083|Vincas Vyčinas]]: Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.
 - susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-188485|Vulfstanas (jūrininkas, IX amžius)]]: Narbutas nurodo, kad pagal Vulfstano pasakojimą senovės prūsai kelis mėnesius namuose išlaikydavo mirusiųjų kūnus.
 - susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190819|Vulfstanas (jūrininkas, IX amžius)]]: Teodoras Narbutas Vulfstaną vadino skandinavų keliautoju ir nurodė, kad šis Estijoje apsilankė IX amžiaus antrojoje pusėje.
+- susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-200948|Vulfstanas (jūrininkas, IX amžius)]]: Daukantas Vulfstaną vaizdavo kaip Alfredo, anglų valdovo, į Žemaičius prekybos žinių rinkti išsiųstą jūreivį.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172974|Vygandas Marburgietis]]: Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172975|Vygandas Marburgietis]]: Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.
 - susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172976|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.
@@ -7239,6 +7318,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/daiktai/Deficitinės vartojimo prekės.md#claim-t-19512|Deficitinės vartojimo prekės]]: Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.
 - susijęs iš [[objektai/daiktai/Deficitinės vartojimo prekės.md#claim-t-19513|Deficitinės vartojimo prekės]]: Sovietmečio Lietuvoje baldai, indai ir televizoriai buvo deficitinės vartojimo prekės, kurioms įsigyti reikėjo talonų.
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-188381|Dievų stabai]]: Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių.
+- susijęs iš [[objektai/daiktai/Drobynas (daiktas).md#claim-t-201365|Drobynas (daiktas)]]: Gardino pilies apgulties metu kova prasidėjo vos drobynui pasiekus pilies mūrus.
 - susijęs iš [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių.md#claim-t-87109|Dryžuotos gūnios ir dovanos ant kupranugarių]]: Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.
 - susijęs iš [[objektai/daiktai/Dujokaukės.md#claim-t-40705|Dujokaukės]]: Dujokaukės buvo gautos iš Vilniaus miesto tarybos.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
@@ -7426,6 +7506,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/daiktai/Šventieji medžiai ir akmenys.md#claim-t-183304|Šventieji medžiai ir akmenys]]: Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.
 - susijęs iš [[objektai/daiktai/Šventieji medžiai ir akmenys.md#claim-t-19618|Šventieji medžiai ir akmenys]]: Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.
 - susijęs iš [[objektai/daiktai/Žemėlapis „Lituania Propria“.md#claim-t-26416|Žemėlapis „Lituania Propria“]]: „Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.
+- susijęs iš [[objektai/daiktai/Žygovo lazda.md#claim-t-201363|Žygovo lazda]]: Daukantas aprašo, kad žygovu vadinamas kunigas, nešinas valdovo lazda ar vytimi, vietoje paskelbdavo įsakymą, kuris būdavo tuojau įvykdomas.
 - susijęs iš [[objektai/grupes/107-oji motošaulių divizija.md#claim-t-40821|107-oji motošaulių divizija]]: 1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija.
 - susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
 - susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
@@ -7764,6 +7845,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Lenkų didžponiai.md#claim-t-86801|Lenkų didžponiai]]: Lenkų didžponių patarimu Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01378|Lenkų ponų taryba (institucija)]]: Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86721|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus.
+- susijęs iš [[objektai/grupes/Letvėžai (grupė).md#claim-t-201247|Letvėžai (grupė)]]: Daukantas rašo, kad gilioje senovėje letvėžais vadinti kraštai buvo apgaubti nežinios.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-183149|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš [[objektai/grupes/Liaudies seimas.md#claim-t-19796|Liaudies seimas (seimas)]]: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš [[objektai/grupes/Liaudies ūkio tarybos.md#claim-t-19799|Liaudies ūkio tarybos (institucija)]]: 1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą.
@@ -7845,6 +7927,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Nacionalinio gelbėjimo komitetas.md#claim-t-41101|Nacionalinio gelbėjimo komitetas (institucija)]]: Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
 - susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74877|Nacių Vokietija]]: Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.
 - susijęs iš [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai.md#claim-t-86813|Naugardo, Pskovo, Rygos ir Maskvos pirkliai]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
+- susijęs iš [[objektai/grupes/Naugardžionys (grupė).md#claim-t-201239|Naugardžionys (grupė)]]: Daukantas rašo, kad naugardžionių valdytojas Jevstafijus Algirdą akivaizdoje išvadino šuniu, o Algirdas po to traukė į Naugardo valdybą.
 - susijęs iš [[objektai/grupes/Nepriklausomų Valstybių Sandrauga.md#claim-t-19957|Nepriklausomų Valstybių Sandrauga]]: Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86724|Normanai]]: IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.
@@ -7886,6 +7969,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188321|Prūsai]]: Narbutas aiškina, kad tinkamai perskaičius užrašą tai buvusi kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliava.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-192450|Prūsai]]: Teodoras Narbutas teigia, kad Henenbergerio užrašas nurodė Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliavą.
+- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-201458|Prūsai]]: Daukanto pasakojime dabartinių lietuvių ir žemaičių gyvenami kraštai gilioje senovėje vadinami prūsais, žemgaliais ir letvėžais.
 - susijęs iš [[objektai/grupes/Prūsijos valstybė.md#claim-t-19969|Prūsijos valstybė]]: Vokiečių ordino valstybė vėliau pasivadino Prūsijos hercogija, o dar vėliau – Prūsijos karalija.
 - susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187768|Pskoviečiai]]: Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113194|Pskovo respublika]]: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
@@ -8092,8 +8176,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187753|Žemaičiai]]: Lietuvos metraštyje Tautvilas Žemaitijoje pas Vykintą pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą ir išžygiavo prieš Mindaugą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187755|Žemaičiai]]: Lietuvos metraštis aiškina, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187756|Žemaičiai]]: Lietuvos metraštyje žemaičiai Palangoje nuo kopų akmenimis sumušė prieš juos sutelktą Prūsijos ir Livonijos vokiečių kariuomenę.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187757|Žemaičiai]]: Lietuvos metraštis pasakoja, kad Kęstutis nujojo į Žemaičius ieškoti pagalbos ir su žemaičiais atėjo prie Trakų.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188361|Žemaičiai]]: Dionizo Poškos 1829 m. straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ siejamas su Žemaičių istorijos rašymo atmosfera.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-188362|Žemaičiai]]: Narbutas savo Lietuvos senovės tyrimų lobiu vadino papročius, prietarus, pasakojimus, padavimus ir dainas, rinktus iš Žemaičių, Lietuvos, Prūsų ir Latvijos.
 - susijęs iš [[objektai/grupes/Žečpospolita.md#claim-t-28634|Žečpospolita]]: Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89344|Žiemgaliai]]: Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.
@@ -8201,6 +8283,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-71739|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186658|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
+- susijęs iš [[objektai/ivykiai/Cartovicos apgultis.md#claim-t-201316|Cartovicos apgultis]]: Šv. Stepono dieną, gruodžio 26 d., Sviatopelko sutelkta kariauna apgulė Cartovicą, bet keli puolimai nepavyko.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-183674|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41269|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41270|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
@@ -8220,6 +8303,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis.md#claim-t-20181|Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis]]: Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuri pripažino Baltijos valstybių tikslą tapti jos narėmis.
 - susijęs iš [[objektai/ivykiai/Florencijos bažnytinė unija.md#claim-t-26394|Florencijos bažnytinė unija (unija)]]: 1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.
 - susijęs iš [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje.md#claim-t-20184|G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]: 1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.
+- susijęs iš [[objektai/ivykiai/Gardino pilies apgultis ir sudeginimas.md#claim-t-201308|Gardino pilies apgultis ir sudeginimas]]: Skomantas, persikėlęs per Nemuną, apgulė Gardino pilį, įsiveržė pro silpnesnius mūrus, iškirto įgulę ir pilį sudegino.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-62782|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas.md#claim-t-20185|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
@@ -8242,6 +8326,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.).md#claim-t-31416|Gedimino taikos sutartis su Livonija (1322 m.)]]: 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.
 - susijęs iš [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.).md#claim-t-31417|Gedimino taikos sutartis su Livonija (1322 m.)]]: 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
+- susijęs iš [[objektai/ivykiai/Gedimino žygis į Volyniją, Lucką, Drohičiną ir Brestą.md#claim-t-201283|Gedimino žygis į Volyniją, Lucką, Drohičiną ir Brestą]]: Po Volynijos nukariavimo Gediminas žygiavo prieš Lucko kunigaikštį Levą, be kovos įėjo į Lucką ir užėmė Drohičiną su Brestu.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75098|Gegužės trečiosios konstitucijos priėmimas]]: Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75103|Gegužės trečiosios konstitucijos priėmimas]]: Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.
@@ -8282,6 +8367,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
+- susijęs iš [[objektai/ivykiai/Kerniaus žygis į Juodgirėnus ir Polocką.md#claim-t-201324|Kerniaus žygis į Juodgirėnus ir Polocką]]: Kernius ir Gimbutas, pasak Daukanto, žygiavo į Juodgirėnus, nuniokojo Polocko apygardas, bet laužtis į Polocko pilį liovėsi ir su grobiu grįžo į Kernavę.
 - susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187475|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraščio pasakojime per pranciškonų nužudymą Vilniuje septyni vienuoliai buvo sukapoti, o kiti septyni, pririšti prie kryžių, paleisti Nerimi.
 - susijęs iš [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje.md#claim-t-187476|Keturiolikos pranciškonų nužudymas Vilniuje]]: Lietuvos metraštis pranciškonų nužudymą Vilniuje aiškina pagonių nenoru turėti Romos tikėjimo krikščionių ir kerštu už dievų naikinimą.
@@ -8296,6 +8382,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
 - susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
 - susijęs iš [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.).md#claim-t-20231|Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
+- susijęs iš [[objektai/ivykiai/Kristijono paskyrimas Kulmijos ir Parusnio vyskupu.md#claim-t-201325|Kristijono paskyrimas Kulmijos ir Parusnio vyskupu]]: Pasak Daukanto perteikto Kristijono pasakojimo, Inocentas III paskyrė Kristijoną Kulmijos ir Parusnio kraštų vyskupu.
 - susijęs iš [[objektai/ivykiai/Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą.md#claim-t-186710|Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)]]: Prieš Krokuvos seimą 1385 m. vasario 18 d. į Krokuvą Jogailos ir Jadvygos vedybų reikalu atvyko Skirgailos vadovaujama Jogailos delegacija.
 - susijęs iš [[objektai/ivykiai/Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą.md#claim-t-186711|Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)]]: Krokuvos seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio arba liepos mėnesį.
 - susijęs iš [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.).md#claim-t-62842|Kryžiaus žygis į Prūsiją (1218 m.)]]: 1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.
@@ -8333,6 +8420,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75122|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.
 - susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75123|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
 - susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75125|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir mozūrų karas.md#claim-t-201291|Lietuvių ir mozūrų karas]]: Daukanto pasakojime nuversto kunigaikščio brolis su karių būriu įsiveržė į Parusnį, sudegino valdovą ir kunigus, nusiaubė kraštą bei grįžo su dideliu grobiu.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186689|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi.
 - susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75128|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.
 - susijęs iš [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia.md#claim-t-25044|Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]: M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.
@@ -8538,6 +8626,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176177|Vilniaus vyskupystės įkūrimas]]: Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176180|Vilniaus vyskupystės įkūrimas]]: 1387 m. vasario 17 d. Jogailos senelio įkurtoje sostinėje buvo pradėta kurti nauja Vilniaus vyskupija.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
+- susijęs iš [[objektai/ivykiai/Vilniaus žinyčios įkūrimas.md#claim-t-201350|Vilniaus žinyčios įkūrimas]]: Daukanto pasakojime Šventaragis padėjo Vilniaus žinyčios pamatus prie Vilios ir Neries santakos, o Gereimantas ją baigė statyti 1285 m.
 - susijęs iš [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo.md#claim-t-186568|Vilniečių nubaudimas po pranciškonų nužudymo]]: Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti.
 - susijęs iš [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo.md#claim-t-186570|Vilniečių nubaudimas po pranciškonų nužudymo]]: Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei.
 - susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-81837|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.
@@ -8690,6 +8779,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams.md#claim-t-93029|Jogailos privilegija apsikrikštijusiems bajorams]]: Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.
 - susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54244|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
 - susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54246|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
+- susijęs iš [[objektai/paprociai/Kalinių paleidimas kaip kraitis.md#claim-t-201375|Kalinių paleidimas kaip kraitis]]: Daukanto pasakojime Gediminas paleido namo 24 000 arba 40 000 lenkų kalinių kaip savo dukters kraitį.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/paprociai/Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi.md#claim-t-189920|Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi]]: 1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.
 - susijęs iš [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines.md#claim-t-97133|Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]: Pačios karūnavimo apeigos skaitėsi sakramentu.
@@ -8771,6 +8861,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose.md#claim-t-62707|Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]: Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.
 - susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62708|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.
 - susijęs iš [[objektai/paprociai/Pergrubei skirtos pavasario aukos.md#claim-t-189853|Pergrubei skirtos pavasario aukos]]: Narbutas rašė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų.
+- susijęs iš [[objektai/paprociai/Perūno amžinos ugnies kurstymas.md#claim-t-201386|Perūno amžinos ugnies kurstymas]]: Pasak Daukanto, Gereimantas Vilniuje įkūrė Perūnui skirtą žinyčią, kurioje amžinąją ugnį kurstė ugnasargės kunigės.
 - susijęs iš [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais.md#claim-t-185882|Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]: Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
 - susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-183329|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.
 - susijęs iš [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika.md#claim-t-54325|Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]: 1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
@@ -8855,6 +8946,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54739|Šubravcų satyrinė spaudos kritika]]: Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą.
 - susijęs iš [[objektai/paprociai/Šubravcų satyrinė spaudos kritika.md#claim-t-54740|Šubravcų satyrinė spaudos kritika]]: Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis.
 - susijęs iš [[objektai/paprociai/Šv. Kazimiero kultas ir Kaziuko mugės tradicija.md#claim-t-54372|Šv. Kazimiero kultas ir Kaziuko mugės tradicija]]: XVI a. pradžioje karalaitis Kazimieras jau buvo garbinamas Vilniaus apylinkėse.
+- susijęs iš [[objektai/paprociai/Ūkės sueima ir vyresnybės rinkimas.md#claim-t-201380|Ūkės sueima ir vyresnybės rinkimas]]: Daukanto pasakojime didžiuose ūkės reikaluose kunigaikštis turėjo kelti visą tautą į sueimą, kur susirinkusieji tarėsi dėl ūkės gelbėjimo.
+- susijęs iš [[objektai/paprociai/Žemaičių darbo pasiskirstymas pagal lytį.md#claim-t-201470|Žemaičių darbo pasiskirstymas pagal lytį]]: Daukantas vaizduoja, kad žemaičių moterys dirbo laukų ir namų darbus, o vyrai rūpinosi žirgais ir ginklais, laikytais svarbiausiu turtu.
+- susijęs iš [[objektai/paprociai/Žemaičių lavonų užšaldymas.md#claim-t-201393|Žemaičių lavonų užšaldymas]]: Daukantas perpasakoja, kad žemaičiai mokėję užšaldyti alų ar vandenį, todėl jų lavonai ilgai laikyti negedę.
 - susijęs iš [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis.md#claim-t-05373|Žemaičių savivalda ir seniūno rinkimasis]]: Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.
 - susijęs iš [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje.md#claim-t-54375|Žemių kunigaikščių veiksmų derinimas konfederacijoje]]: Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių.
 - susijęs iš [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje.md#claim-t-54376|Žemių kunigaikščių veiksmų derinimas konfederacijoje]]: 1219 m. Voluinės ir Lietuvos kunigaikščių sutartis buvo sudaryta ir dėl plėšiamųjų žygių į Lenkiją.
@@ -8962,6 +9056,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/posakiai/Širvintų stebuklas.md#claim-t-41478|Širvintų stebuklas]]: Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“.
 - susijęs iš [[objektai/posakiai/Širvintų stebuklas.md#claim-t-41479|Širvintų stebuklas]]: Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“.
 - susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186885|šuns kfauju]]: Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.
+- susijęs iš [[objektai/posakiai/„Aš buvau vieną kartą su tavim sutaręs...“.md#claim-t-201263|„Aš buvau vieną kartą su tavim sutaręs...“]]: Daukantas šį posakį pateikia kaip Gedimino atsakymą karaliui, kuris per pasiuntinius prašė grįžti ir kartu grasinti kryžiuočiams.
 - susijęs iš [[objektai/posakiai/„Baltic Kindergarten“.md#claim-t-20837|„Baltic Kindergarten“]]: Jauni Lietuvos diplomatai dėl jaunumo, entuziazmo ir netradicinių žingsnių užsitarnavo Vakarų diplomatų epitetą „Baltic Kindergarten“.
 - susijęs iš [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“.md#claim-t-26352|„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]: Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.
 - susijęs iš [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“.md#claim-t-20839|„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]: A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.
@@ -9135,10 +9230,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Bolonijos deklaracija: Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.
 - susijęs iš Brastos Biblija: Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“.
 - susijęs iš Bresto taika: 1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.
+- susijęs iš Bychovco kronika: Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje.
 - susijęs iš CEY: CEY 117 numeris pateiktas kaip šaltinio nuoroda.
 - susijęs iš Chodynicki, K. Geneza dynastii Giedymina: K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.
 - susijęs iš Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae: „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.
 - susijęs iš Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae: „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ pradėtas spausdinti Vilniuje 1758 m. iš Motiejaus Dogelio surinktos archyvinės medžiagos.
+- susijęs iš Daukšos pamokslai: Daukša 1599 m. išspausdino visiems metams išguldytus pamokslus.
 - susijęs iš Deklaracija dėl geros kaimynystės santykių principų: Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų.
 - susijęs iš Descriptive Ethnology: „Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.
 - susijęs iš Die litauisch-weissrussischen Beziehungen und ihr Alter: K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome.
@@ -9202,6 +9299,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Klaipėdos miesto istorija 1252-1466: Šležo darbas „Klaipėdos miesto istorija 1252–1466“ buvo paskelbtas „MŽ“ 1933 m.
 - susijęs iš Klemenso IV bulė apie Mindaugą (1268 m.): 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
 - susijęs iš Knyga apie vyrus, garsius savo gyvenimu: Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ išaukštino Vytautą ir jo tėvynę.
+- susijęs iš Kotzebue, Preus. aelt. Gesch: Daukantas, pasakodamas apie Gedimino pažadą paleisti 40 000 Lietuvoje vergaujančių lenkų kalinių, nurodo šaltinį „Kotzebue, Preus. aelt. Gesch.“.
 - susijęs iš Kraštas ir žmonės Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) Parengė J. Jurginis ir A. Šidlauskas: Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.
 - susijęs iš Krašto mokslo vadovėlis: A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.
 - susijęs iš Krėvos aktas (1385 m.): 1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.
@@ -9562,6 +9660,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Didysis Naugardas: Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.
 - susijęs iš Didysis Naugardas: Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.
 - susijęs iš Didysis Naugardas: Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.
+- susijęs iš Didysis Naugardas: 862 m., pasak Daukanto, po Gostomyslo mirties į gudų žemę atvykęs Riurikas pradėjo viešpatauti Didžiajame Naugarde.
 - susijęs iš Didžioji Britanija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.
 - susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu.
 - susijęs iš Didžioji Lenkija: 1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu.
@@ -9646,8 +9745,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Gardinas: Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
 - susijęs iš Gardinas: Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.
+- susijęs iš Gardinas: Iš Parusnio į Lietuvą ir Žemaičius persikėlę lietuviai, pasak Daukanto, apsigyveno Gardino apygardose ir rodė žygiuojantiems lietuviams bei žemaičiams kelią į Parusnį.
 - susijęs iš Gardino gubernija: 1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.
 - susijęs iš Gardino gubernija: Narbutas istorinę Lietuvą siejo su Vilniaus, Kauno, Gardino ir Minsko gubernijomis.
+- susijęs iš Gardino pilis (pilis): Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė į Lietuvą ir apgulė dešiniajame Nemuno krante esančią Gardino pilį.
 - susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
@@ -9800,7 +9901,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Kijevas: Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
 - susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
-- susijęs iš Kijevas: Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.
 - susijęs iš Kijevo Rusia: Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.
 - susijęs iš Kijevo Rusia: Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.
 - susijęs iš Kijevo Rusia: Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas.
@@ -9858,6 +9958,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Krokuva: Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
 - susijęs iš Krokuva: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
 - susijęs iš Krokuva: Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
+- susijęs iš Krokuva: Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir pasakoja, kad, lydima lenkų bei lietuvių diduomenės, ji keliavo iš Vilniaus į Krokuvą pas savo jaunikį.
 - susijęs iš Krokuvos karalystė: Lietuvos metraštis Krokuvos karalyste vadina politinę erdvę, kuri, Jogailai atsisėdus Krokuvoje, jį paėmė.
 - susijęs iš Kroniszkas-Pilnis: Narbutas rašė, kad už Tilžės prie Sancinės buvęs piliakalnis vietinių vadintas Kroniszkas-Pilnis, tai yra Kruonio pilimi.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
@@ -10098,6 +10199,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš Mozyrius: Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė.
 - susijęs iš Mozyrius: Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.
+- susijęs iš Mozūrija: 1244 m. iš Lietuvos gilumos atėję pulkai nuniokojo Mozūriją, ypač Plocko apygardas.
 - susijęs iš Mozūrija: Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją.
 - susijęs iš Možaiskas: Pagal taikos sąlygas Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Mstislavlis: Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo.
@@ -10108,6 +10210,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Nalšėnai: Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo Nalšėnų kunigas Suksė.
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Natanga: 1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.
+- susijęs iš Natangija: Daukanto pasakojime Kartinos kamendotas Dovydas, keršydamas kryžėjams, su 800 raitelių įsiveržė į Natangiją, nuniokojo kraštą, daug gyventojų iškirto ir išvarė į vergiją.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
 - susijęs iš Naugardas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Naugardas: Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.
@@ -10122,6 +10225,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
+- susijęs iš Naujapilis: Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.
 - susijęs iš Naujasis Gardinas: Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos.
 - susijęs iš Naujasis Kaunas: Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.
 - susijęs iš Naujasis Kaunas: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
@@ -10148,6 +10252,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Nemunas: Kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Dubysa, Nevėžiu ir Vilija, vadinama Nerimi.
 - susijęs iš Nemunas: Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį Nemuno pakrantėje prie Prūsijos.
 - susijęs iš Nemunas: Lietuvos metraštis pasakoja, kad Vaišvilkas, nepasiekęs Šventojo Kalno, grįžo į Naugarduką ir įkūrė vienuolyną prie Nemuno.
+- susijęs iš Nemunas: Daukanto pasakojime kryžėjai, sugavę lietuvių pasienio sargą, persikėlė per Nemuną į Salsenikę ir nuniokojo kraštą.
 - susijęs iš Nemėžis: 1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus.
 - susijęs iš Nemėžis: Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.
 - susijęs iš Neries sritis: 1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis.
@@ -10217,7 +10322,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Pietų Afrikos Respublika: 1967 m. Pietų Afrikos Respublikoje Christiaan Barnard atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš Pilaitė: Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
-- susijęs iš Pinskas: Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.
 - susijęs iš Piotrkovas: Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove.
 - susijęs iš Piotrkovas: Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus.
 - susijęs iš Pirčiupiai: Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.
@@ -10413,6 +10517,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Saksonija: Saksonija buvo nuo Lenkijos netolima teritorija.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
 - susijęs iš Salavija: Narbutas Salaviją vadino vienuolikta Prūsijos provincija ir pažymėjo, kad jos sienas sunku nustatyti.
+- susijęs iš Samija (vieta): Daukanto pasakojime Kęstutis, įsiveržęs į Samiją, nusiaubė Varmiją, Natangiją ir Parusnį iki Yslos.
 - susijęs iš Sancinė: Prie Sancinės, kur Nemunas šakojasi į Giliją ir Rusnę, buvo piliakalnis, vietinių vadintas Kroniszkas-Pilnis.
 - susijęs iš Sandomiras: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
 - susijęs iš Sandomiras: 1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą.
@@ -10722,6 +10827,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Vilnius: Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.
 - susijęs iš Vilnius: Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.
 - susijęs iš Vilnius: Vorobjovas vertino Vilnių kaip meno lobyną, galintį lenktyniauti su gražiausiais Europos miestais.
+- susijęs iš Vilnius: Vilniuje gudai 1306 m. turėjo dvi klėtkas, o 1326 m. žydai įkūrė trečiąją klėtką.
+- susijęs iš Vilnius: Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir aprašo jos kelionę iš Vilniaus į Krokuvą pas jaunikį.
 - susijęs iš Vingio dvaras: Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kroniszkas-Pilnis vadintas apkasas arba piliakalnis.
 - susijęs iš Vingio parkas: Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pirmą kartą leido Vingio parke viešai paminėti Molotovo–Ribentropo paktą.
 - susijęs iš Vingrių upokšnis: Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją.
@@ -10819,8 +10926,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Černigovas: Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.
 - susijęs iš Černigovas: Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.
 - susijęs iš Černigovas: Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.
-- susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
-- susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 - susijęs iš Čikaga: Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
 - susijęs iš Šalčininkai: 1382 m. kryžiuočiai, niokodami kraštą, buvo pasiekę Šalčininkus ir Trakus.
@@ -11027,6 +11132,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/Vilnius (sąvoka).md#claim-t-200821|Vilnius (sąvoka)]]: Vorobjovas Vilnių laikė meno lobynu, galinčiu lenktyniauti su gražiausiais Europos miestais.
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189258|Vylius Wilius]]: Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
+- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201192|abažas (sąvoka)]]: Daukanto pasakojime lietuviai pasitraukė prie Rygos pamūrių ir ten sustojo į taborių, arba abažą.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108561|administracinė linija demarkacijos linija]]: 1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108563|administracinė linija demarkacijos linija]]: Lietuvos ir Lenkijos demarkacinė linija keliolikai metų uždarė traukinių ir pašto judėjimą tarp valstybių.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108566|administracinė linija demarkacijos linija]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.
@@ -11260,6 +11366,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/laisvės kovotojai banditai.md#claim-t-22206|laisvės kovotojai banditai]]: Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.
 - susijęs iš [[objektai/zodynas/leičiai liečiai leišiai.md#claim-t-45829|leičiai / liečiai / leišiai]]: Lietuvos valdovų į valstybės pakraščius įkurdinti ištikimi žmonės iš Lietuvos aplinkinių buvo vadinami leičiais, o gal ir liečiais.
 - susijęs iš [[objektai/zodynas/liaudies priešai.md#claim-t-22213|liaudies priešai]]: Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.
+- susijęs iš [[objektai/zodynas/liecyba (sąvoka).md#claim-t-201206|liecyba (sąvoka)]]: Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasakojimu, suteikė einantiems kariauti į žemaičių kraštą.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26547|lietuvininkai]]: Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.
 - susijęs iš [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai.md#claim-t-86479|lietuviški grašiai, pusgrašiai ir rubliai]]: Jogailos Vilniuje įkurta monetų kalykla Švitrigailos valdymo metais kaldino lietuviškus grašius ir pusgrašius.
 - susijęs iš [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje.md#claim-t-183443|lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.
@@ -11482,6 +11589,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/ulonas.md#claim-t-38783|ulonas]]: Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.
 - susijęs iš [[objektai/zodynas/uolektis.md#claim-t-82104|uolektis]]: Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.
 - susijęs iš [[objektai/zodynas/urėdas.md#claim-t-12599|urėdas]]: Vytauto laikais įvedami lenkiški urėdai žymi administracijos pertvarką.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-200957|urėdas]]: Daukanto pasakojime Gediminas Kijeve urėdu paskyrė Alšėnų kunigaikštį Mintautą, neseniai persikrikštijusį.
 - susijęs iš [[objektai/zodynas/urėdas.md#claim-t-70375|urėdas]]: Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.
 - susijęs iš [[objektai/zodynas/užpuoliko sąvoka.md#claim-t-03201|užpuoliko sąvoka]]: 1933 m. Lietuva nepuolimo sutartį papildė sutartimi, apibūdinusia užpuoliko sąvoką.
 - susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
@@ -11908,7 +12016,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
 - susijęs iš [[objektai/asmenys/Audrys Juozas Bačkis.md#claim-t-18837|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]: Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176322|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, titulavęsis Rex Lethowye, laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis).md#claim-t-183765|Vasilijus (Maskvos didysis kunigaikštis)]]: Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172074|Anglai]]: Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne.
 - susijęs iš [[objektai/grupes/Dalomoji Komisija.md#claim-t-182886|Dalomoji Komisija]]: Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos.
@@ -17478,16 +17586,36 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindzia:
     - t-200896
 
+- id: c-184429
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 77"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 77."
+  citata_originali: |
+    Nė viena taip didžiai
+    barva joms netiko, kaip balta, dėl to gi, tikėjimą
+    perkeičiant, lietuvės ir žemaitės nenorėjo krikštytis
+    dėl to vien, idant nenustotų savo baltų nuometų bei
+    vilnonių. Ta dobė tebsidaro dar šiandien daugioj vie­
+    toj moterys, gyvenančios Lietuvoj* *, Parusny, Žemai­
+    čiuose ir Žemgaliuose, arba Kuržemėj2**.
+    1 L e p n e r, Der Preus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201079
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Netimeras]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Senasis]]
 - Buvo valdoma: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Jogailaičių dinastija]], [[objektai/grupes/Lietuvos partizanai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Šventaragis]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Senasis]]
 - Buvo kelionės vieta: [[objektai/asmenys/Brunonas Bonifacijus]], [[objektai/asmenys/Ernekė]], [[objektai/asmenys/Fransua Miteranas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]], [[objektai/asmenys/Jonas Paulius II]], [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kazys Ladyga]], [[objektai/asmenys/Libonas]], [[objektai/asmenys/Michailas Aleksandrovičius]], [[objektai/grupes/Pijarų ordinas]], [[objektai/grupes/Silezijos ir Vroclavo gyventojai]], [[objektai/grupes/SSRS kariuomenė]], [[objektai/asmenys/Stasys Girėnas]], [[objektai/asmenys/Steponas Darius]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Mirties vieta: [[objektai/asmenys/Šach Achmedas]]
-- Puolė Lietuvą: [[objektai/grupes/Aukso orda]], [[objektai/grupes/Haličo kunigaikščiai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Mongolai]], [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]], [[objektai/grupes/Švedai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]]
+- Puolė Lietuvą: [[objektai/grupes/Aukso orda]], [[objektai/grupes/Haličo kunigaikščiai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kryžėjai (grupė)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Mongolai]], [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]], [[objektai/grupes/Švedai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]]
 - Užėmė Lietuvą: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Napoleono kariuomenė]], [[objektai/grupes/Sovietų Sąjunga]], [[objektai/grupes/Vokiečiai]]
 - Gynė Lietuvą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Benediktas Makras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Lenkijos senatas]], [[objektai/grupes/Lenkų senatas]], [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]], [[objektai/grupes/Rusai]], [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija]]
-- Buvo žygio kryptis: [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]], [[objektai/grupes/Europos kryžininkai]], [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]], [[objektai/asmenys/Vinrichas Kniprodė]]
+- Buvo žygio kryptis: [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]], [[objektai/grupes/Europos kryžininkai]], [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]], [[objektai/asmenys/Jaroslavas|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]], [[objektai/asmenys/Vinrichas Kniprodė]]
 - Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
 - Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuvos rusinai]], [[objektai/asmenys/Tochtamišas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Žydai]]

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Pamarys'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -75,6 +76,13 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   teiginys: "Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte."
   pagrindžia:
     - c-177139
+
+<a id="claim-t-201097"></a>
+- t-006
+  global_id: t-201097
+  teiginys: "Daukantas mini pasaką, kad parusnių dievai buvę pargabenti iš Gudijos, galbūt Pamario, bet pats pabrėžia jų vardų lietuviškumą."
+  pagrindžia:
+    - c-184447
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -220,3 +228,30 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194743
+
+- id: c-184447
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 74"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 74."
+  citata_originali: |
+    Žinoma taip pat yra, jog
+    nejaukioji tauta ima nuo išmintingosios įstatymus,
+    rėdą, tikėjimą ir apsiėjimus, nuo to gal lemti, jog
+    parusnėnai, arba lietuviai, turėjo būti išmintinges-
+    niais už mozūrus, kad jie nuo lietuvių dievus žyčio-
+    jo. Pasaka skelbia, jog parusnių dievai buvę iš Gu­
+    dijos, rasi Pamario, pargabenti, jei tas būt tiesa esąs,
+    tuo kartu vardai dievų būt esą gudiški, vienok yra
+    yni lietuviški, kurių vardus alvienas lietuvis šian­
+    dien dar permano. Nuo to gal dar mėklintis, jog lie­
+    tuviai neturėjo svetimų dievų neigi į svetimas žiny-
+    čias vaikščiojo jų lankyti, kad tuo tarpu tautos, jau
+    šalip lietuvių gyvenančios, jau iš tolimų kraštų krikš­
+    čionimis jau būdamos, leido siuntinius teirautis sa­
+    vo reikaluose į Rusnės žinyčią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201097

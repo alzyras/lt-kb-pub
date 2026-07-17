@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'valdymieras'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 aliases:
   - 'objektai/zodynas/valdymierai'
@@ -64,6 +65,15 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   pagrindžia:
     - c-09756
 
+<a id="claim-t-200959"></a>
+- t-004
+  global_id: t-200959
+  teiginys: "Daukanto pasakojime padaugavionų siuntiniai prašė Pleskavo valdymiero Vladimiro padėti išvyti vokiečius iš Padaugavio."
+  pagrindžia:
+    - c-184309
+- susijęs iš [[objektai/ivykiai/Popiežiaus Grigaliaus IX kryžiaus karės paskelbimas prieš lietuvius ir žemaičius.md#claim-t-201501|Popiežiaus Grigaliaus IX kryžiaus karės paskelbimas prieš lietuvius ir žemaičius]]: Daukanto pasakojime popiežius Grigalius IX žadėjo 20 dienų atlaidus pamokslų klausytojams, o ekskomunikuotiesiems – bausmės atleidimą, jei jie kariaus prieš lietuvius ir žemaičius.
+- susijęs iš Rusnė: Daukantas manė, kad pasaka apie pirmąją Rusnės žinyčią galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
+- susijęs iš Vogenė (vieta): Daukantas rašo, kad Pleskavo valdymieras Ditrichas pasiuntiniams susitikti su vokyčiais paskyrė birželio 29-ąją Vogenės paupyje.
 ## Citatos
 
 - id: c-09754
@@ -92,3 +102,27 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   pagrindzia:
     - t-70059
     - t-70061
+
+- id: c-184309
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 197"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 197."
+  citata_originali: |
+    Ditrichas,
+    noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet
+    rado jau tenai siuntinius padaugavionų, telkiančius
+    valdymierą jiems padėti vokyčius per jūrą varyti
+    laukan iš Padaugavio, guosdamies jam, jog Alber­
+    tas su meldžionimis, danguodamos savo tikyba, nori
+    juos nuvergti. Valdymieras Pleskavo, išklausęs jų,
+    pasiėmė jiems taikinėti ir liepė skubiniai grįžti jiems
+    namo ir tenai pasitiekus jo laukti; o tuo tarpu aki­
+    vaizdoj siuntinių įvadinęs Ditrichą pas save klausė,
+    ko jis reikalavo. Ditrichas sakės ateinąs nuo savo
+    viešpaties v.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200959

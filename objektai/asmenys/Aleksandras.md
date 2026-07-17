@@ -1,14 +1,19 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras'
+pavadinimas: 'Aleksandras (kunigas, XIV a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos: []
 date_start: ''
 date_end: ''
+variantai:
+  - 'Aleksandras'
+aliases:
+  - 'Aleksandras'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +21,8 @@ tags:
   - karvedys
   - kunigaikštis
   - valdovas
-amziai: []
+amziai:
+  - 'XIV'
 periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -31,7 +37,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Aleksandras
+# Aleksandras (kunigas, XIV a.)
 
 ## Santrauka
 
@@ -80,6 +86,27 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė ją Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
   pagrindžia:
     - c-178665
+
+<a id="claim-t-200964"></a>
+- t-007
+  global_id: t-200964
+  teiginys: "Kunigas Aleksandras buvo nusiųstas į Medžiapolę, kur, Daukanto pasakojimu, apkrikštijo vietos gyventojus ir įkūrė jiems bažnyčią."
+  pagrindžia:
+    - c-184314
+
+<a id="claim-t-200965"></a>
+- t-008
+  global_id: t-200965
+  teiginys: "Daukantas Aleksandrą Nevskį įvardija Naugardo kunigaikščiu ir pasakoja, kad jis atėjo į pagalbą Polockui, kai lietuviai buvo įsiveržę į pilį."
+  pagrindžia:
+    - c-184315
+
+<a id="claim-t-200966"></a>
+- t-009
+  global_id: t-200966
+  teiginys: "Daukantas pasakoja, kad Tverės kunigaikštis Aleksandras atsisakė vykti į totorių chano Uzbeko rūmus, pripažinti jį viešpačiu ir mokėti jam duoklę."
+  pagrindžia:
+    - c-184316
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
@@ -112,6 +139,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Medžiapolė (vieta): Į Medžiapolę nusiųstas kunigas Aleksandras apkrikštijo tenykščius gyventojus ir įkūrė jiems bažnyčią.
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
@@ -320,5 +348,80 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   pagrindzia:
     - t-196407
 
+- id: c-184314
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  citata_originali: |
+    To dėjęsis, Alobramdas kunigas nuėjo į Tu-
+    raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
+    į parakvijas ir Kaupo pilėj bažnyčią įkūrė. Kunigą
+    Aleksandrą nusiuntė į Medžiapolę, kursai visus te­
+    nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė. Ku­
+    nigas Danielius į Lenevaldę iškeliavo, priimtas tenai
+    žmoniškai, ūkinykus apkrikštijo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200964
+
+- id: c-184315
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 302"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
+  citata_originali: |
+    Lietuviai prisiartinę uždegė miestą, gudai
+    su kalavijonimis, apgobti dūmais ir liepsnomis, šim­
+    tais lietuvių žemaičių guldė pamūriais, o lietuviai,
+    kūnais savo brolių pasispirdami, vylyčias it sniegą
+    į miestą drėbė ir, taranais mūrus griaudami, gau­
+    jas kalavijonų ir gudų irose laidojo. Jau buvo lie­
+    tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Nau-
+    gardo Aleksandras, vadinamas Nevskiu, atėjo ant
+    pagalbos Polockui. Tuo kartu lietuviai pilį palikini
+    turėjo eiliuotis į rindą ir su rimtais neprieteliais lyg­
+    mėj grumtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200965
+
+- id: c-184316
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 563"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 563."
+  citata_originali: |
+    Mina-
+    vojau viršiaus, jog totoriai valdė gudus rytinius,
+    paskui maskoliais vadinamus, kurių kunigaikščiai
+    mokėjo totorių chanams, taip vadinamiems viešpa­
+    čiams, donį ir kiekvienas naujas maskolių kuni­
+    gaikštis turėjo eiti pas juos patvirtinimo savo val­
+    džios lūgoti, idant galėtų didžiuoju kunigaikščiu va­
+    dintis ir kitais kunigaikščiais maskolių viešpatauti;
+    vienu žodžiu, kas norėjo ypatingai rėdytis, tas tu­
+    rėjo nuo totorių chano patvirtintu būti ir donį jam
+    mokėti.
+    Tuo laiku Uzbekąs, chanas totorių, patvirtinęs
+    tūlus maskolių kunigaikščius ypatingais valdymie-
+    rais, liepė vaidintis savo rūmuose Tverės kunigaikš­
+    čiui Aleksandrui ir jį, Uzbeką, savo viešpačiu iš­
+    pažinti ir donį jam duoti. Bet Aleksandras niekaip
+    nenorėjo to daryti, noris jo tėvūnai, kunigai ir ūkė-
+    sai jam linkėjo tenai eiti, bet jis niekaip jų ne­
+    klausė, sakydamas tenai galą gausiąs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200966
+
 ## Ryšiai
-- Aleksandras keliavo į [[objektai/vietos/Krokuva]]
+- Priešai: [[objektai/asmenys/Mendli Girėjus]]
+- Aleksandras (kunigas, XIV a.) keliavo į [[objektai/vietos/Vilnius]]
+- Aleksandras (kunigas, XIV a.) paskyrė [[objektai/asmenys/Kiška]]

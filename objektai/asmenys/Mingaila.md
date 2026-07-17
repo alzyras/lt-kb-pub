@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Mingaila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -37,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų. Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos. Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
+Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
 
 ## Teiginiai
 
@@ -83,12 +84,20 @@ media_all_json: |-
   pagrindžia:
     - c-179181
 
+<a id="claim-t-201016"></a>
+- t-008
+  global_id: t-201016
+  teiginys: "Daukantas rašo, kad netrukus miręs kunigaikštis Mingaila savo sūnus Ginvilą ir Skirmantą paliko atitinkamai Polocko ir Naujapilio valdytojais."
+  pagrindžia:
+    - c-184366
+
 <a id="claim-t-190922"></a>
 - t-005
   global_id: t-190922
   teiginys: 'Kunigui vikarui Mingailai buvo nunešta Kauno klebonijoje sienoje rasta įmūryta cinkinė Veneros statulėlė.'
   pagrindžia:
     - c-173804
+- susijęs iš [[objektai/ivykiai/Mingailos pergalė ties Orodze ir Polocko užėmimas.md#claim-t-201293|Mingailos pergalė ties Orodze ir Polocko užėmimas]]: Mingaila ties Orodze nugalėjo polockiečius, visą dieną vijosi juos iki Polocko ir netrukus paėmė miestą į savo valdžią.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
@@ -274,6 +283,26 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197427
+
+- id: c-184366
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 231"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
+  citata_originali: |
+    Taip pasibengė rėdą ūkės polockionų,
+    vienok lyčiaus tos karės raštuose nėra randama. Ne­
+    trukus Mingaila kunigaikštis nustipo, palikdamas du
+    sūnų karšinčiais — Ginvilą rėdytoju Polocko, o
+    Skirmantą Naujapilio.
+    Letgaliai, nebtverdamies vergyba vokyčių, pa­
+    trako**, kurie vienok nevildamies stengti, patelkė
+    ne vien lietuvius, bet ir gudus pagalbon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201016
 
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

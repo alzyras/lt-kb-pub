@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -18,6 +19,7 @@ datos:
   - '1243 m.'
   - '1282 m.'
   - '1289 m.'
+  - '1312 m.'
   - '1313 m.'
   - '1362 m.'
   - '2013 m.'
@@ -48,7 +50,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose. Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija. Ordino įgaliotiniai įrodinėjo, kad Žemaitijos sienos prasideda keturios mylios nuo Nemuno krantų.
+Nemunas šiame šaltinyje aprašomas kaip svarbiausia Lietuvos vakarų gynybos, karo žygių ir prekybos ašis, pagal kurią ėjo pilys, sienų ginčai ir žemaičių kovos.
 
 ## Pavadinimai šaltiniuose
 
@@ -682,6 +684,27 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-179389
 
+<a id="claim-t-201089"></a>
+- t-090
+  global_id: t-201089
+  teiginys: "Vienas iš dviejų Daukanto minimų kelių iš Žemaičių į Samiją ėjo per Nemuną, Šalaujus ir Nadraujus."
+  pagrindžia:
+    - c-184439
+
+<a id="claim-t-201090"></a>
+- t-091
+  global_id: t-201090
+  teiginys: "Vasarop Daukanto aprašomas kryžėjų mistras persikėlė per Nemuną, įsiveržė į Lietuvą ir apgulė ant Nemuno skardžio stovėjusią Gardino pilį."
+  pagrindžia:
+    - c-184440
+
+<a id="claim-t-201091"></a>
+- t-092
+  global_id: t-201091
+  teiginys: "Daukanto pasakojime kryžėjai, sugavę lietuvių pasienio sargą, persikėlė per Nemuną į Salsenikę ir nuniokojo kraštą."
+  pagrindžia:
+    - c-184441
+
 <a id="claim-t-188789"></a>
 - t-080
   global_id: t-188789
@@ -699,6 +722,7 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - susijęs iš [[objektai/asmenys/Nemunas (jūrininkas).md#claim-t-190076|Nemunas (jūrininkas)]]: Narbutas perteikia padavimą, kad keliautojų vadas Nemunas buvo garbinamas kaip dievas ir turėjo šventyklą Nemunaityje prie Nemuno.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39622|P. Liatukas]]: P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.
+- susijęs iš [[objektai/asmenys/Pitėjas.md#claim-t-201023|Pitėjas]]: Daukanto aptariamame pasakojime Pitėjas tą žemę vadina šventa, o Nemunas esą įkūrė pirmąją žinyčią Rusnėje.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49492|V. Grigaliūnas-Glovackis]]: 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
@@ -2907,6 +2931,84 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197902
+
+- id: c-184439
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 354"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 354."
+  citata_originali: |
+    Visų pavoj ausiu daiktu buvo dėl nukariavimo
+    Sami jos pažinės ir gentysta samionų su kitais že­
+    maičiais, kaipo savo vientaučiais, kurie visuomet
+    viens kitiems taikinėjo ir šelpė, kaipogi žemaičiai,
+    žemgaliai, samionys, būdami viena tauta, kalbėjo
+    viena kalba, vieną rėdą, vieną tikybą turėjo, vie­
+    nus dievus garbino, bendravos su vieni antrais kai­
+    po savo broliais, o reikalui ir pavojui radusis, šel­
+    pė»' jog jūron linkui gyveno vadinamos, kaip sa­
+    kiau, žemaičiais, kaipogi tenai visos upys tekėjo
+    nuo Kalno į jūrą. Du keliu tebuvo iš Žemaičių į
+    Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir
+    Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp
+    jūros ir marės, arba Klaipėdos atsiautos. Ta paskuo-
+    joji traktis buvo didžiai pavoja dėl kryžėjų, Sami-
+    joj įnamaujančių, jog ta trakčia žemaičiai staiga
+    juos antpuolę galėjo nuo dviejų pusių suremti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201089
+
+- id: c-184440
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 465"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
+  citata_originali: |
+    Ateinantį metą mistras sukėlė naują kariauną ir
+    nujautęs, jqg daug lietuvių Parusny, nenorinčių vo-
+    kyčiams vergauti, išsikraustė į Lietuvą ir Žemai­
+    čius ir apygardose Gardino apsigyveno, kurie, trau­
+    kiant lietuviams ir žemaičiams į Parusnį, rodė kelią
+    ir tuo pačiu didžiai pavojais buvo kryžėjams, kurie
+    dėl to vien ketėjo šiuo žygiu su kariauna tą sritį
+    aplankyti, kaipogi mistras paėmęs dar su savim
+    Skomantą, kaipo žinovą tų kraštų, kursai slapsty­
+    damos nuo kryžėjų pirma tenai gyveno. Vasarop
+    persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir
+    Gardino pilį, ant dešinio skardžio Nemuno riogsan­
+    čią, apgulė. Vos buvo atkolęs drobynas į mūrus,
+    tuojau visų baisiausia kova prasidėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201090
+
+- id: c-184441
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 509"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 509."
+  citata_originali: |
+    Tą patį metą liepos mėnesy laimingesnis bu­
+    vo antras jų žygis į Gardiną. Kryžėjai, eidami tenai
+    su stipresne kariauna, sugavo lietuvių rubežiaus
+    sargą, nuo kurio išsiteiravo lietuvius nežinant apie
+    jų artinimos, daran persikėlę per Nemuną į apygar­
+    dą Salsenikę, kurioje dar krikščionies pėda niekuo­
+    met nebuvo buvusi, visą kraštą nuteriojo ugnia ir 1312
+    karda, tris pilis sugriovė ir,'nukovę daugybę gy­
+    ventojų, su didžiu grobiu ir 700 imtinių į Parusnį
+    pargrįžo. Regis, tuo pačiu laiku lietuviai ir žemai­
+    čiai ant vienų metų paliaubas padarė su kryžėjais1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201091
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

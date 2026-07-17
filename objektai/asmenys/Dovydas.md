@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Dovydas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -11,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - pilis
   - kunigaikštis
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -29,7 +31,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė. Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo. Kojelavičius Dovydą vaizduoja kaip karo žygiuose garsų vadą, kurį lydėjo sėkmė ir kuris beveik visus žygius sėkmingai užbaigdavo.
+Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.
 
 ## Teiginiai
 
@@ -74,6 +76,13 @@ Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynė
   teiginys: "Kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs."
   pagrindžia:
     - c-179022
+
+<a id="claim-t-200982"></a>
+- t-007
+  global_id: t-200982
+  teiginys: "Gediminas Vladislovui į pagalbą nusiuntė Dovydą su 10 000 raitelių, o Daukantas šį vadą apibūdino kaip garbingą karvedį."
+  pagrindžia:
+    - c-184332
 - susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
 - susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173129|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą.
@@ -90,6 +99,8 @@ Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynė
 - susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175239|Judas Makabėjus]]: Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.
 - susijęs iš [[objektai/asmenys/Maukoldas.md#claim-t-87550|Maukoldas]]: Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Usviete.md#claim-t-201488|Mūšis ties Usviete (mūšis, XIII a.)]]: Daukantas pasakoja, kad 1225 m. Jaroslavas, pasitelkęs kunigaikščius Dovydą ir Vladimirą, ties Usviete susirėmė su grįžtančiais lietuviais; mūšyje, kaip teigiama, žuvo Dovydas ir 2 000 lietuvių raitelių.
+- susijęs iš [[objektai/ivykiai/Mūšis ties upe Usviete.md#claim-t-201487|Mūšis ties upe Usviete (mūšis, XIII a.)]]: Daukanto pasakojime kunigaikštis Jaroslavas, pasitelkęs Toropeco kunigaikštį Dovydą ir Pskovo kunigaikštį Vladimirą, ties Usvietės upe per pirmąją gavėnios savaitę susirėmė su grįžtančiais lietuviais.
 - susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.
 - susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.
 - susijęs iš Revelis: 1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje.
@@ -252,6 +263,36 @@ Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197070
+
+- id: c-184332
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 555"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 555."
+  citata_originali: |
+    Tuo
+    tarpu karė su lenkais skaistyn vien reiškės, o Lie­
+    tuvoj skelbė didžiai stipriai ginkluojantis, kaipogi
+    Vladislovas, tardamos eisiąs Pamario užimti, sutrau­
+    kęs stiprią kariauną į Kujaviją, puolė staiga į Mo­
+    zūrų ą ir visą kraštą, kurio kunigaikštis bendra vos
+    su kryžėjais, nuteriojo ir, į Plocko pilį įsigrūdęs,
+    sudegino ir didį grobį sugriejo lig kryžėjams ant
+    pagalbos ateinant. Nuo to rodės it pradėta jau karė
+    lenkų su kryžėjais, bet Vladislovas palikinąs kry-
+    žėjus norėjo pirma išsigrumti su viešpačiu Branden­
+    burgo ir bendru kryžėjų, bet, jusdamas save ne vi­
+    sai stipriu, patelkė lietuvius, kuriam Gediminas tuo­
+    jau nuleido Dovydą, garbingą karvedį, su 10 000 jo­
+    ties rimtų meškenočių. Tas karvedys, persikėlęs su
+    savo pulkais pirma per upį Yslą, paskui per Odrą,
+    įėjo į Brandenburgu ą ir, ką sutikdamas, tą kardu ir
+    ugnia gaišino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200982
 
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

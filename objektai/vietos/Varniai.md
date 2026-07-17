@@ -3,12 +3,14 @@ tipas: vieta
 pavadinimas: 'Varniai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1314 m.'
   - '1316 m.'
   - '2026 m.'
-date_start: '1316'
+date_start: '1314'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -59,8 +61,17 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   teiginys: "Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą."
   pagrindžia:
     - c-93371
+
+<a id="claim-t-201110"></a>
+- t-004
+  global_id: t-201110
+  teiginys: "Žiemos viduryje kryžiuočių maršalas Plockė įsiveržė į Žemaičius, nusiaubė Varnių apygardas, bet neįstengė įsiveržti į pilį."
+  pagrindžia:
+    - c-184460
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
 - susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
+- susijęs iš [[objektai/zodynas/Marčelga.md#claim-t-200952|marčelga]]: Kryžėjų marčelga Plockė, kaip vaizduoja Daukantas, žiemos viduryje įsiveržė į Žemaitiją, nusiaubė Varnių apygardas ir sustojo į abažą, arba taborį.
+- susijęs iš [[objektai/ivykiai/Dahenfeldo žygis į Žemaičius.md#claim-t-201499|Dahenfeldo žygis į Žemaičius]]: Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186612|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad vokiečiai priminė Vytautui turint grąžinti tris šimtus auksinų už užstatytą Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186615|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas surinko ir nusiuntė vokiečiams visą auksinų sumą, o šie po to Žemaitijos nebepuolė.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186618|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas paskyrė kanauninkus, apdovanojo bažnyčią turtais ir įsakė perkrikštyti Žemaitiją į krikščionių tikėjimą.
@@ -71,6 +82,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 - susijęs iš Kelmė: 1416 m. Vytautas Kelmėje pastatė vieną iš aštuonių Žemaitijos parapinių bažnyčių.
 - susijęs iš Luokė: 1416 m. Vytautas Luokėje pastatė vieną iš aštuonių parapijinių bažnyčių.
 - susijęs iš Viduklė: 1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.
+- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201194|abažas (sąvoka)]]: Daukanto pasakojime kryžėjų marčelga Plockė, nusiaubęs Varnių apygardas ir neįstengęs įsiveržti į pilį, sustojo į abažą, arba taborį.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47944|tautinė sąmonė]]: Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47946|tautinė sąmonė]]: Stryjkovskis savo veikale negalėjo išreikšti tautinės sąmonės, kuri išsivystė tik XIX amžiuje.
 - susijęs iš Užnerio žemė: Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių.
@@ -136,3 +148,34 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99305
+
+- id: c-184460
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 511"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
+  citata_originali: |
+    Nujau­
+    tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­
+    lies atremtų, bet dar ir laivus jų sudegintų; to dė­
+    jęsis, paskyrė karvedžiu Surminą, vyrą sumanantį,
+    kusai, sutūpinęs savo karėjus į 100 laivų, ėmė vyti
+    upe pagal kryžėjus, kuriuos panokęs, didžiai smar­
+    kiai susigrūmė ir ilgas valandas pergale varžės;
+    ant galo lietuviai prisiartinę unkurius kryžėjams pa­
+    kirto, laivus vienus uždegė, kitus paskandino, su
+    kuriais daugybė kryžėjų tą dieną Nemuno verpe­
+    tuose galą gavo; tarp lietuvių Goštautas, garsus vy­
+    ras karėj ir ūkė j, brolis Surmino, išverždamas kry­
+    žėjams pergalę, gyvybą savo už liuosybę padėjo.
+    Ateinantį metą žiemos vidų marčelga kryžėjų
+    Plockė, įpuolęs į Žemaičius, apygardas Varnių nu-
+    teriojo, vienok, nestengdamas į pačią pilį įsigriau­
+    ti, sustojo į abažą, arba taborių. Tuo tarpu keli že-
+    1314
+    17.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201110

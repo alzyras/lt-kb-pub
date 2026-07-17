@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Skirmantas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -58,6 +59,13 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   pagrindžia:
     - c-176610
 
+<a id="claim-t-201027"></a>
+- t-007
+  global_id: t-201027
+  teiginys: "Po kunigaikščio Mingailos mirties Skirmantas, Daukanto teigimu, buvo paliktas Naujapilio rėdytoju."
+  pagrindžia:
+    - c-184377
+
 <a id="claim-t-193982"></a>
 - t-003
   global_id: t-193982
@@ -84,6 +92,7 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
 - susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
+- susijęs iš Jaselda: Pasak Daukanto, prie Jaseldos lietuviai perlaužė gudų pajėgas: dalį bėgančių išklojo kelyje, o kitus paskandino Jaseldoje.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
@@ -254,8 +263,26 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   pagrindzia:
     - t-193985
 
+- id: c-184377
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 231"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
+  citata_originali: |
+    Taip pasibengė rėdą ūkės polockionų,
+    vienok lyčiaus tos karės raštuose nėra randama. Ne­
+    trukus Mingaila kunigaikštis nustipo, palikdamas du
+    sūnų karšinčiais — Ginvilą rėdytoju Polocko, o
+    Skirmantą Naujapilio.
+    Letgaliai, nebtverdamies vergyba vokyčių, pa­
+    trako**, kurie vienok nevildamies stengti, patelkė
+    ne vien lietuvius, bet ir gudus pagalbon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201027
+
 ## Ryšiai
-- Tėvai: [[objektai/asmenys/Pisimantas]]
-- Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]
 - Skirmantas valdė [[objektai/vietos/Naugardukas]]
-- Skirmantas užėmė [[objektai/vietos/Karačevas]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Severskas]], [[objektai/vietos/Starodubas]]
+- Skirmantas užėmė [[objektai/vietos/Mozyrius]], [[objektai/vietos/Starodubas]]

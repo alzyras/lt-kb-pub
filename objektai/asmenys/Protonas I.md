@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Protonas I'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''

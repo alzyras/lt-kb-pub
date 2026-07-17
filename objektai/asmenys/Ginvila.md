@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Ginvila'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -25,4 +26,39 @@ media_all_json: |-
 
 ## Santrauka
 
-Nenurodyta
+Daukanto pasakojime Polocko urėdas Ginvila ir jo sūnus Baras nespaudė krikščionių gudų ir statė jiems bažnyčias.
+
+## Teiginiai
+
+<a id="claim-t-200990"></a>
+- t-001
+  global_id: t-200990
+  teiginys: "Daukanto pasakojime Polocko urėdas Ginvila ir jo sūnus Baras nespaudė krikščionių gudų ir statė jiems bažnyčias."
+  pagrindžia:
+    - c-184340
+
+## Citatos
+
+- id: c-184340
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 569"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 569."
+  citata_originali: |
+    Kaipogi lietuviai nuo neatmenamų laikų,
+    noris patys pagonys, vienok krikščionis gudus tau­
+    pė ir gerbė, leisdami jiems pagal jų būdą Dievą
+    garbinti, pagal jų dobę gyventi ir jų kalba kalbėti.
+    Regėjom jau, jog pirm 100 metų Lietuvos urėdas
+    Polocke Ginvila ir jo sūnus Baras ne vien tenai
+    krikščionių gudų nespaudė, bet dar pačiudu per­
+    sikrikštijusiu bažnyčias krikščionims strūnijo. Ly­
+    gia dalia paskesniai Arvydas, Tautvilas, Ingautas,
+    Lietuvos urėdai krivičių žemėj, ne vien krikščionų
+    nenovijo, bet jie patys, kaip viršiaus regėjom, krikš­
+    čionimis tapo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200990

@@ -1,18 +1,24 @@
 ---
 tipas: asmuo
-pavadinimas: 'Albertas'
+pavadinimas: 'Albertas (vyskupas, XII–XIII a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1202 m.'
-  - '1236 m.'
-date_start: '1202'
-date_end: '1236'
+  - '1200 m.'
+  - '1252 m.'
+date_start: '1200'
+date_end: '1252'
+variantai:
+  - 'Albertas'
+aliases:
+  - 'Albertas'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
+  - 'XII'
   - 'XIII'
 sukurta: ''
 atnaujinta: ''
@@ -69,6 +75,34 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
   pagrindžia:
     - c-173719
+
+<a id="claim-t-200960"></a>
+- t-005
+  global_id: t-200960
+  teiginys: "Daukantas Albertą vaizduoja kaip tikyba prisidengusį veikėją, siekusį Padauguvyje įkurti karinį ordiną žemėms užimti ir žmonėms pavergti."
+  pagrindžia:
+    - c-184310
+
+<a id="claim-t-200961"></a>
+- t-006
+  global_id: t-200961
+  teiginys: "1208 m. Albertas grįžo iš Teutonijos su didele maldininkų, diduomenės ir kunigų palyda, sušaukė perkrikštus ir vokiečius."
+  pagrindžia:
+    - c-184311
+
+<a id="claim-t-200962"></a>
+- t-007
+  global_id: t-200962
+  teiginys: "Albertas su kalavijuočiais, perkrikštais ir maldininkais, turėdamas pilims griauti skirtų įrenginių, žygiavo į Mežotės pilį su daugiau kaip 10 000 karių."
+  pagrindžia:
+    - c-184312
+
+<a id="claim-t-200963"></a>
+- t-008
+  global_id: t-200963
+  teiginys: "1252 m. rugpjūčio 7 d. Rygos vyskupas Albertas Lotavijos pilyje apkrikštijo Mindaugą, jo žmoną ir 60 tėvūnų, arba senatorių."
+  pagrindžia:
+    - c-184313
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
@@ -77,6 +111,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89613|Albertas iš Meiseno]]: Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89614|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89615|Albertas iš Meiseno]]: Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-200985|Fridrichas II]]: Daukanto pasakojime 1226 m. Fridrichas II, Teutonų ciesorius, išlaisvino kalavijuočius nuo vyskupo Alberto valdžios ir patvirtino jų valsčius Padaugavyje.
+- susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-201022|Pilypas]]: Pilypas, Daukanto vadinamas teutonų ciesoriumi, Magdeburge susitiko su Albertu ir, šiam įsiteikus, padovanojo jam visą Padaugavį.
+- susijęs iš Sakalas (vieta): Sakalą, kraštą anapus Gaujos, gavo kalavijonys, o Albertas sau pasiliko Turaidos apygardą.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187930|A. Vijūkas Kojelavičius]]: Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.
 - susijęs iš [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę.md#claim-t-199234|Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]: A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
@@ -95,19 +132,31 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - susijęs iš [[objektai/asmenys/Konradas (Landsbergo markgrafas).md#claim-t-60360|Konradas (Landsbergo markgrafas)]]: Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Mainco arkivyskupas).md#claim-t-60361|Konradas (Mainco arkivyskupas)]]: Mainco arkivyskupas Konradas buvo tarp Vokietijos didikų, pritarusių prašymui popiežiui leisti įsteigti ir patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-191233|Teodorikas]]: Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, o Narbutas jo vėlesnį Odoakro nužudymą sieja su vienvaldystės troškimu ir pavydu.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-197830|Teodorikas]]: Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas.
 - susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
+- susijęs iš [[objektai/daiktai/Balta vėliava.md#claim-t-201364|Balta vėliava]]: Daukantas perteikė to meto rašytojų pasakojimą, kad iš dangaus nusileidusi balta vėliava per kruviną mūšį sustiprino danus ir padėjo jiems pralaužti priešų rikiuotę.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
+- susijęs iš [[objektai/ivykiai/Dabrelio pilies apgultis ir letgalių pasidavimas.md#claim-t-201280|Dabrelio pilies apgultis ir letgalių pasidavimas]]: Albertas, sutelkęs kalavijuočius, krikščionis ir perkrikštus, nužygiavo į Turaidą, kur jo kariauna apgulė Dabrelio pilį.
 - susijęs iš [[objektai/ivykiai/Dobrinės ordino įkūrimas.md#claim-t-01608|Dobrinės ordino įkūrimas]]: 1228 m. buvo įkurtas vyskupui priklausęs riterių ordinas, pagal gyvenamąją vietą vadintas Dobrinės ordinu.
+- susijęs iš [[objektai/ivykiai/Eželio salos puolimas ir mūšis ties Mone.md#claim-t-201318|Eželio salos puolimas ir mūšis ties Mone (mūšis)]]: Albertas su Volkvinu, turėdami daugiau kaip 20 000 karių, per užšalusią jūrą puolė Eželį ir ties Mone užėmė bei suardė pilį.
+- susijęs iš [[objektai/ivykiai/Gercikės puolimas ir Visvaldžio palaužimas.md#claim-t-201284|Gercikės puolimas ir Visvaldžio palaužimas]]: Albertas surengė staigų Gercikės puolimą, kurio metu buvo paimta Visvaldžio buveinė, sugauta Dangerutė, o pati pilis sudeginta.
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183985|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62682|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
 - susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59167|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.
 - susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59168|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.
 - susijęs iš Jeruzalė: Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
 - susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
+- susijęs iš Mežotė (vieta): Žemgaliai, susivieniję su lietuviais ir žemaičiais, sutvirtino Mežotės pilį, puolė Bažnyčios salą ir nuniokojo kraštą.
 - susijęs iš Mozūrai: Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.
 - susijęs iš Padauguvis: Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
+- susijęs iš Payslys (vieta): Kristijonas Payslyje pasiūlė įkurti vienuolyną naujai bažnyčiai pastatyti ir Konrado ūkiui globoti, o Konradas šį sumanymą su džiaugsmu priėmė.
+- susijęs iš Vogenė (vieta): Daukantas rašo, kad Pleskavo valdymieras Ditrichas pasiuntiniams susitikti su vokyčiais paskyrė birželio 29-ąją Vogenės paupyje.
+- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-200953|meldžionys]]: Daukanto pasakojime persikrikštiję žemgaliai, susivieniję su lietuviais ir žemaičiais, kovojo su meldžionimis, aptvėrė Mežotės pilį ir nusiaubė Bažnyčios salą.
+- susijęs iš [[objektai/zodynas/Perkrikštai (sąvoka).md#claim-t-201200|Perkrikštai (sąvoka)]]: Daukanto pasakojime Albertas prieš žemgalius sutelkė kalavijonius, perkrikštus ir meldžionis, o į Mežotę žygiavo su daugiau kaip 10 000 karių.
+- susijęs iš [[objektai/zodynas/zokanas (sąvoka).md#claim-t-201195|zokanas (sąvoka)]]: Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristijono sumanymą Payslyje įkurti panašią bendriją naujai bažnyčiai ir Konrado ūkei gelbėti.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 ## Reikšmingi paminėjimai
 - c-004
@@ -232,3 +281,115 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190837
+
+- id: c-184310
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 186"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 186."
+  citata_originali: |
+    To­
+    dėl gi Albertas, dangstydamas savo tikyba, veizėjo
+    kito pragumo, kuriuo galėtų netikėliams žemę už­
+    imti ir pačius nuvergti; atmindamas, jog karės bro-
+    stviai Žemėj Šventoj daug gero darė krikščionims,
+    užsikėto jis tokį pat karės zokaną Padaugavy įkur­
+    ti, idant jie tikybą krikščionų tarp netikėlių platin­
+    tų ir ją antturėtų.
+    Albertas, geisdamas tokią brostvą Padaugavy
+    įkurti, nukeliavo į Teutoniją naujos tenai talkos
+    1200 meldžionų telkti, idant jų užtarymu ir pagalba savo
+    ketėjimą galėtų užkakinti, o Ditrichą zokanyką iš­
+    siuntė pas popiežių, idant jam jo norą apreikštų.
+    Tuo tarpu pats, noris, surinkęs didžią gaują mel­
+    džionų, sugrįžo į Rygą, vienok, krūpaudamas toli­
+    mas tautas sukelti, sandarą padarė su padaugioni-
+    mis, tai yra kuržemiais, žemgaliais, aiba žemaičiais,
+    ir lietuviais, arba latuviais, ir tuomi nuo savęs pa­
+    vojų attolino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200960
+
+- id: c-184311
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 211"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 211."
+  citata_originali: |
+    Taip randantis kas kartą pavojesniai dėl voky­
+    čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš­
+    tus ir vokyčius, teiravos, ar kariauti ilgiaus su ne­
+    tikėliais, ar laukti Alberto iš Teutonijos pagrįžtan-
+    čio, kur buvo neseniai iškeliavęs; nes, jausdami save
+    silpnais, visi tarė liautis nuo karių ir laukti parei­
+    nančio su meldžionimis Alberto, o tuo tarpu sanda-
+    rauti su igumiais, kurie, didžiai įgrobti nuo letgalių,
+    paliaubas padarė ant vienų metų su vokyčiais1.
+    Ateinantį metą v. Albertas, pagrįžęs su didžia 1208
+    daugybe meldžionų diduomių ir kunigų iš Teutoni­
+    jos, suvadino visus perkrikštus ir vokyčius, rūgo j o
+    ant Veisekės, kunigaikščio Kuoknesės pilės, saky­
+    damas, jog jis, gavęs iš meilės nuo jo vokyčių įgu­
+    lę į savo pilę dėl apsigynimo nuo žemaičių, pernai
+    pasalu visą įgulę nužudė, už ką pravėrė j o jam at­
+    monyti, todėl su visa kariauna traukė į Kuoknesės
+    pilį ir tenai ant kalno vietoj senosios pilės naują
+    stiprią pilį įkūrė ir įgulę vokyčių vėl įdėjo, ir taip
+    ją aprūpino, jog galėtų nuo buklumo ir narsumo že­
+    maičių, lygia dalia nuo pasalumo gudų, gintis; per-
+    dėjęs tenai kamendotu Jeriką kalavijonį, pats su­
+    grįžo į Rygą, o meldžionys tuo tarpu, įpuolę į Že­
+    1 A r n d t s Lief.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200961
+
+- id: c-184312
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 229"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
+  citata_originali: |
+    Žemgaliai, kurie buvo persikrikš­
+    tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
+    sinėrę kariavo meldžionis, kaipogi, aptverę kuo
+    stipresniai pilį Mežotę, traukė į Bažnyčios salą ir
+    tenai, krikščionis nugalavę, visą kraštą nuteriojo.
+    Tą regėdamas, v. Albertas sukėlė kalavijonis,
+    perkrikštus ir meldžionis ant žemgalių ir, paėmęs
+    karės padarynes pilės griaunamąsias, ėjo daugiaus
+    nei su 10 000 kareivių į Mežotės pilį, baužęs visą
+    naktį, ryto metą kariauną skurdino pamūšy, paskui
+    sukos į papilį, kurį nuteriojęs, pačią pilį apgulė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200962
+
+- id: c-184313
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 347"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 347."
+  citata_originali: |
+    Mintautas nuo vienos pu­
+    sės gorinamas pavojum, nuo antros masinamas
+    krikščionų goda, noris nairydamos, pasiėmė tą da­
+    ryti, ko mistras norėjo1.
+    Atkeliavęs vyskupas Rygos Albertas su kita dva­
+    siška diduomene į Lotaviją, Mintauto pilį, jį patį,
+    jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo
+    metuose 1252, 7 dienoj rugpjūčio mėnesio. Tuojau
+    Mintautas liepė krikščionų kunigams svietą mokyti
+    ir krikštyti visoj Lietuvoj.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200963

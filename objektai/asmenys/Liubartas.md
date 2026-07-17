@@ -4,6 +4,7 @@ pavadinimas: 'Liubartas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -147,18 +148,34 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginys: "Liubartas be kovos atgavo iš jo atimtą tėvoniją, sutvirtino senąją medinę pilį ir liepė iš pamatų sugriauti naują plytinę pilį."
   pagrindžia:
     - c-168139
+
+<a id="claim-t-201010"></a>
+- t-016
+  global_id: t-201010
+  teiginys: "Treniota, rengdamasis grumtis su totoriais, sušaukė savo brolius Pryšmantą ir Liubartą, Daukanto vadinamus juodųjų gudų urėdais."
+  pagrindžia:
+    - c-184360
+
+<a id="claim-t-201011"></a>
+- t-017
+  global_id: t-201011
+  teiginys: "Daukanto pasakojime Algirdas, ištrėmęs totorius iš Podolės, paskyrė savo sūnų Liubartą valakų urėdu arba gaspadoriumi."
+  pagrindžia:
+    - c-184361
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186158|Pisimantas]]: Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-201507|Algirdas (Lietuvos valdovas)]]: Algirdas, susivienijęs su totoriais, išvijo priešus iš Padalijų, sudraudė kraštą niokojančius valakus, paskyrė sūnų Liubartą valdovu ir nusiaubė kraštą tarp Dunojaus ir Dniestro.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-201507|Algirdas (Lietuvos valdovas)]]: Algirdas, susivienijęs su totoriais, išvijo priešus iš Padalijų, sudraudė kraštą niokojančius valakus, paskyrė sūnų Liubartą valdovu ir nusiaubė kraštą tarp Dunojaus ir Dniestro.
 - susijęs iš [[objektai/asmenys/Bogdanas iš Ivanicos.md#claim-t-186185|Bogdanas iš Ivanicos]]: Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire apsuptam Liubartui, kaip išvengti nelaisvės.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184766|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
 - susijęs iš Ortelsburgas: Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.
-- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas (kunigaikštis, XIII a.)]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50969|Dimitras Kaributas]]: Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
 - susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89884|Karolis IV]]: Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.
@@ -446,5 +463,60 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-184778
     - t-196547
 
-## Ryšiai
-- Liubartas valdė [[objektai/vietos/Karačevas]]
+- id: c-184360
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 299"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 299."
+  citata_originali: |
+    Totoriai, nuveikę gudus, vis geidė ir Lietuvą
+    nukariauti, todėl ir tuo laiku Kurdas chanas, įsi­
+    grūdęs į Lietuvą su stipria kariauna, monijo lietu­
+    viams nelaimas savo tėvo praėjusių nuokryčių te­
+    riedamas ir degindamas. Treniota, urėdas Naujapi-
+    lio (Nowogrodek), tą nujautęs, sukėlė savo brolius
+    Pryšmantą ir Liubartą, urėdus juodųjų gudų, vie­
+    nok galybe vienų lietuvių nedrįsdamas su totoriais
+    grumtis, kaipogi Utenis, kaip sakiau, su žemaičiais
+    kariavo kalavijonis Padaugavy ir dvigube laima
+    kruvinas ir maringas mūšas su jais turėjo ir į Kal­
+    ną traukti negalėjo, todėl patelkė dar Sviatoslavą
+    Kijevo, Simeoną Drucko ir Dovydą Lucko kuni­
+    gaikščius. Tuo tarpu totorių, rimti būriai siaubė jau
+    Lietuvos kraštuose, grobį griedami ir drevėdami,
+    kuriems vienok taip belėbaujant, Treniota antpuolė
+    staiga patį Kurdą, stovintį abaze laukuose Mozy-
+    riaūs ties upe Okniauka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201010
+
+- id: c-184361
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 598"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 598."
+  citata_originali: |
+    Ir įkandin iš tų pačių pilių, kurias buvo lie­
+    tuviai atėmę, pradėjo sarioti išpuldamies lenkų
+    kraštus.
+    Taip graudinant toj pusėj lenkus, antroj pusėj
+    Algirdas, susinėręs su totoriais, ištrėmė juos iš Pa­
+    daliju, valakus trakuojančius sudraudė ir jiems
+    urėdu, arba gaspadorium, sūnų Liubartą perdėjo,
+    ant galo nusiaubęs visą kraštą tarp Dunojaus ir
+    Dnestro.
+    Kazimieras, užėmęs Rausvuosius Gudus, žlugsojo
+    lepumuose ir goslyboj lig šio laiko, bet, prabudin­
+    tas tomis nelaimomis savo ūkės, kėlės, vienok, re­
+    gėdamas vienas nestengsiąs lietuvių ramdyti, pa­
+    telkė Liudviką, karalių Vengrų, savo karšinčių, su
+    kuriuo susinėręs, traukė į Volyniją ir teriojo bei
+    degino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201011

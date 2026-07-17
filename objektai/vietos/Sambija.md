@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Sambija'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -101,6 +102,13 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   teiginys: "Šioje geografinėje žemių padėtyje pietinė Sambija tiesiog ribo josi su Natangija ir galbūt driekėsi net iki paskutinės šiaurinės Varmijos ribos."
   pagrindžia:
     - c-179401
+
+<a id="claim-t-201105"></a>
+- t-010
+  global_id: t-201105
+  teiginys: "Daukantas Sambiją apibūdino kaip pietinį kraštą ir vieną Žemaičių dalį, kur dievmeldžiai keleiviai viename kaime užtruko penkias dienas."
+  pagrindžia:
+    - c-184455
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -350,6 +358,27 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   pagrindzia:
     - t-197924
 
+- id: c-184455
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 137"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 137."
+  citata_originali: |
+    Nes jei tu
+    nori mums kitus įstatymus į vietą mūsųjų duoti, ry­
+    tą galą gausi, jei nakčia pagal neprasikraustysi".
+    Atenčią naktį dievmeldžiai keleiviai, į laivelį su­
+    tūpę, irkluodami atgaliai, atirklavo į pietinį kraštą
+    Sambijos, taip vadinamos vienos dalies Žemaičių,
+    kur vienoj kaimoj penkias dienas užtruko. Čia tei-
+    ravęsis Vaitiekus savo bendrų keleivių, bene ge-
+    resniai būtų tą atkaklią tautą palikti ir kitur eiti
+    mokyti netikėlių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201105
+
 ## Ryšiai
 - Puolė Sambiją: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: [[objektai/vietos/Romovė]]

@@ -1,14 +1,17 @@
 ---
 tipas: asmuo
-pavadinimas: 'Boleslovas'
+pavadinimas: 'Boleslovas (kunigaikštis, XIII a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1224 m.'
-  - '1225 m.'
-date_start: '1224'
-date_end: '1225'
+datos: []
+date_start: ''
+date_end: ''
+variantai:
+  - 'Boleslovas'
+aliases:
+  - 'Boleslovas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,8 +20,7 @@ tags:
   - valdovas
 amziai:
   - 'XIII'
-periodo_grupes:
-  - 'viduramžiai'
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +34,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Boleslovas
+# Boleslovas (kunigaikštis, XIII a.)
 
 ## Santrauka
 
@@ -53,9 +55,24 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   teiginys: "Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes."
   pagrindžia:
     - c-85617
+
+<a id="claim-t-200971"></a>
+- t-003
+  global_id: t-200971
+  teiginys: "Daukanto pasakojime lenkų karalius Boleslovas išpirko Vaitiekaus kūną iš parusnėnų ir vėliau iškilmingai perkėlė jį į Gnezno katedrą."
+  pagrindžia:
+    - c-184321
+
+<a id="claim-t-200972"></a>
+- t-004
+  global_id: t-200972
+  teiginys: "Kryžėjai, rengdamiesi karui, susitarė su kunigaikščiu Boleslovu ir atnaujino ankstesnius ryšius su juo."
+  pagrindžia:
+    - c-184322
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89678|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-89680|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių.
 - susijęs iš [[objektai/asmenys/Jonas Nemiravičius.md#claim-t-186216|Jonas Nemiravičius]]: Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.
+- susijęs iš [[objektai/zodynas/mūčelnykas (sąvoka).md#claim-t-201220|mūčelnykas (sąvoka)]]: Daukanto pasakojime Brunas, sekęs Vaitiejumi, tapo mūčelnyku, o karalius Boleslovas jo kūną liepė išpirkti Parusnyje ir parvežti į Lenkus.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-184099|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63804|Kazimieras (Kujavijos kunigaikštis)]]: Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63805|Kazimieras (Kujavijos kunigaikštis)]]: Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.
@@ -70,6 +87,8 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - susijęs iš [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus.md#claim-t-185793|Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]: Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.).md#claim-t-185845|Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]: Švitrigaila paspruko į Smolenską, o Žygimantas Kęstutaitis be kraujo praliejimo perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis.
 - susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185548|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.
+- susijęs iš Gnezno katedra: Daukanto pasakojime Boleslovas iškilmingai perkėlė Vaitiekaus kūną į Gnezno katedrą, kur kūnas esą rodė stebuklus.
+- susijęs iš Parusnis (vieta): Daukanto pasakojimu, Lenkijos karalius Boleslovas išsiuntė pasiuntinius į Parusnį, kad iš netikėlių išpirktų šventojo Vaitiekaus kūną.
 - susijęs iš Podolė: Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.
 - susijęs iš Malburgas: Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.
 - susijęs iš Malburgas: Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai.
@@ -125,3 +144,58 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89676
+
+- id: c-184321
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 139"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  citata_originali: |
+    Karalius lenkų Boleslovas, jutęs tą nelaimą Vai­
+    tiekaus, liepė jo kūną nuo netikėlių, noris visų bran­
+    giausiai, atpirkti, ko dėjęsis, išsiuntė karalius siun­
+    tinius į Parusnį. Bet netikėliai norėjo pagal smagu­
+    mą kūno sidabro gauti lygų luitą. Ant galo lenkų
+    siuntiniai sulygo ant to su parusnėnais, kiek kūnas
+    svers, tiek piningų duos. Bet kūnas mūčelnyko keis­
+    tai lengvu pasidarė, kaipogi būk vienas skatikas
+    nusvėręs jo kūną, kurį lenkai įgiję pargabeno na­
+    mo ir klioštoriaus bažnyčioj padėjo. Paskesniai Bo­
+    leslovas, didindamas jo godą kaipo savo tarno, už
+    žodį Dievo savo gyvybą padėjusį, pardangino su
+    iškilme kūną jo iš klioštoriaus į Gnezno katedrą,
+    kur stebuklus rodė ne vien lenkams, bet dar teuto­
+    nams ir italionims, kurią vietą ne vien žmonės, bet
+    ir patys ciesoriai lankė1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200971
+
+- id: c-184322
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 433"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 433."
+  citata_originali: |
+    Tuodu vyru, steigdamu iš vieno, pradėjo zo-
+    kaną kelti ir stiprinti, noris buvo ir tą metą lie­
+    tuviai keturiomis žaromis įpuolę į Parusnį, kurio
+    apygardas baisiai nuterioję, bažnyčias, kaimas nu­
+    degino, kunigus ant altorių nuzurdojo ir, vienoj
+    skardmūšoj 12 brostvių ir 2000 vokyčių karvietėj
+    paritę, su didžiu grobiu skubiniai grįžo namo, vie­
+    nok ta audra neilgai tepateko1.
+    Kryžėjai, norėdami iš peties rengtis į karę, visų
+    pirma su susiedais susitaikino, kaipogi su Boleslovu
+    kunigaikščiu suderėjo ir senąsias pažines apent at­
+    naujino. Pamarių kunigaikščiams kerštaujant tarp
+    savęs, kryžėjai nebijojos jų ir tylėjo, užvis jog
+    meldžionys, keliaudami į Parusnį, galėjo tenai ilsėti
+    ir per jų kraštą traukti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200972

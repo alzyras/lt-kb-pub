@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Kernius'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -82,6 +83,13 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   pagrindžia:
     - c-173787
 
+<a id="claim-t-201001"></a>
+- t-008
+  global_id: t-201001
+  teiginys: "Daukanto pasakojime Kernius valdė kraštą tarp Neries, Nevėžio ir Daugavos, o su Gimbutu gyveno taikiai ir vieningai."
+  pagrindžia:
+    - c-184351
+
 <a id="claim-t-193938"></a>
 - t-006
   global_id: t-193938
@@ -94,6 +102,8 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188427|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas, remdamasis savo tyrimais, ant Kukovaičio kalno lokalizavo Kerniaus užkurtą Amžinąją ugnį.
 - susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 - susijęs iš [[objektai/asmenys/Sekalys.md#claim-t-186251|Sekalys]]: Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais, pasak Kojelavičiaus, smarkiai nusiaubė visą Rusią.
+- susijęs iš [[objektai/ivykiai/Braslavo apgula.md#claim-t-201314|Braslavo apgula]]: 1058 m. Kernius ir Gimbutas, matydami gudų tarpusavio nesutarimus, surengė žygį, apgulė Braslavo pilį ir jėga prijungė ją bei kraštą prie Lietuvos.
+- susijęs iš [[objektai/ivykiai/Kerniaus ir Gimbuto žygis į Braslavą.md#claim-t-201323|Kerniaus ir Gimbuto žygis į Braslavą]]: 1058 m. Kernius ir Gimbutas, pasak Daukanto, pasinaudojo vidaus nesantaikos suskaldytų gudų padėtimi, jėga įsilaužė į Braslavo pilį ir prijungė Braslavo pilį bei kraštą prie Lietuvos ūkės.
 - susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
 - susijęs iš Kernavė: Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.
 - susijęs iš Kukovaičio kalnas: Narbutas rašo, kad ant Kukovaičio kalno nebebuvo šventyklos ar stabo pėdsakų, o atminimas tebegyvavo kaimo pasakojimuose.
@@ -257,6 +267,36 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     - t-190905
     - t-197769
 
-## Ryšiai
-- Dukterys: [[objektai/asmenys/Pajauta]]
-- Kernius buvo palaidotas [[objektai/vietos/Deltuva]]
+- id: c-184351
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 146"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 146."
+  citata_originali: |
+    § XV
+    Kernius ir Gimbutas Lietuvos ir Žemaičių
+    kunigaikščiai, karės jų su gudais, lenkais ir žuvėdais
+    Kernius turėjęs savo valdžioj kraštą tarp upių
+    Neries, Nevėžio ir Daugavos, Gimbutas valdęs vi­
+    sus Žemaičius; abudu gyvenusiu taikiai vienybėj ir
+    kliauty.
+    Kernius, kunigaikštis Lietuvos, tapęs nuo karių
+    Jaroslavo jautresnis, saugodamos nuo antpuolių gu­
+    dų, aukštame skardy linksmoj laukymėj tarp ąžuo­
+    lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna­
+    ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos
+    vyresnybe gyvendamas, už buveinę visos Lietuvos
+    ūkės paskyręs, kaipogi tenai kiekvienam reikalui ar
+    pavojui radusis tėvūnai, arba senatoriai, į dūmą, ar­
+    ba rodą, galėjo veikiai susirinkti. Šiandien pamatai
+    tos vietovės, arba miesto, ir pilės tebėr, o šūsnis
+    irų sugriuvusių rūmų, krūmais apaugusių, nuo tolo
+    riogso, o apkerpėję pamatų kūliai rodo rūstą povy-
+    zių senų dienų buveinės Lietuvos ūkės, kurioje bo­
+    čiai probočiai, išmintingai rėdydamos, ne kartą
+    draudino neprietelius ūkės savo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201001

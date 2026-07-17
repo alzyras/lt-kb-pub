@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Tauro kalnas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -55,6 +56,13 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginys: "Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą."
   pagrindžia:
     - c-80968
+
+<a id="claim-t-201107"></a>
+- t-005
+  global_id: t-201107
+  teiginys: "Daukanto pasakojime Gediminas, medžiodamas Paneriuose, esą pats vylyčia nuvėrė taurą ant Tauro kalno."
+  pagrindžia:
+    - c-184457
 
 <a id="claim-t-187659"></a>
 - t-003
@@ -200,3 +208,29 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-84850
+
+- id: c-184457
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 578"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 578."
+  citata_originali: |
+    Trakų vieto­
+    vę, savo gimtuvę, praplatino, perkėlė buveinę iš
+    Kernavės į Vilnių ir, turtingai jį papuošęs, mūrais
+    ir pylomis aprietė1.
+    Pasakoja, jog Gediminas, kitu kartu medžioda­
+    mas Paneriuose, ant visų aukštojo kalno, Tauro kal­
+    nu vadinamo, o šiandien Pilies kalnu, patsai vyly-
+    čia taurį būk nuvėręs. Paskui pavargęs ten pat me­
+    dėj apsinakvojęs, bemiegant pasirodęs jam sapne
+    ant to kalno vilkas taip šarvotas, jog gelžiu vienu
+    rodės apkaltas, kursai, į kunigaikštį povyzodamas,
+    dantis kalęs, kuriame vilke dar būk rodęsis šimtas
+    kitų vilkų užrakintų, kurie tenai taip baisiai kaukę,
+    jog girios ir tyrai gaudusios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201107

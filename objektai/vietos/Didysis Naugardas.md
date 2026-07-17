@@ -4,6 +4,7 @@ pavadinimas: 'Didysis Naugardas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -179,7 +180,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-163445
 
 <a id="claim-t-188685"></a>
-- t-021
+- t-019
   global_id: t-188685
   teiginys: "Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę."
   pagrindžia:
@@ -193,11 +194,18 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-24101
 
 <a id="claim-t-194252"></a>
-- t-019
+- t-021
   global_id: t-194252
   teiginys: "Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko vas bei Naugardas."
   pagrindžia:
     - c-176847
+
+<a id="claim-t-201056"></a>
+- t-020
+  global_id: t-201056
+  teiginys: "862 m., pasak Daukanto, po Gostomyslo mirties į gudų žemę atvykęs Riurikas pradėjo viešpatauti Didžiajame Naugarde."
+  pagrindžia:
+    - c-184406
 - susijęs iš Pskovas: Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis.
 - susijęs iš Pskovas: Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.
 - susijęs iš Pskovas: Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje.
@@ -659,6 +667,37 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194252
+
+- id: c-184406
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 51"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 51."
+  citata_originali: |
+    Nes paskesniai karšda-
+    mas Gostomyslas, rėdytojas Didžiojo Naugardo, ta­
+    ręs savo ūkiams, idant gudai sau tuos variagus už­
+    kviestų ant savo ūkės rėdos, vienok rašytojai nesa­
+    ko lyčiaus to užkvietimo, nuo kokių priešakių, arba
+    neprietelių, gudai gindamies ar kokiame tenai ūkės
+    ermydery viena šalis negalėdama antros nuveikti,
+    juos patelkė, to nė vienas nežino. Tas tėra 'žinoma,
+    jog, nustipus Gostomyslui, gudai užteikė variagus,
+    arba rusus, į savo žemę, kurių trys broliai, vardu
+    Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę
+    su talka ir savo tarnais į Gudus, pradėjo viešpatau­
+    ti, Riurikas, tai yra Rusnio rykys, arba viešpats,
+    Naugarde, Sineus Baltajame paežery, o Truvoras Iz-
+    borske. Vienok vienai daliai tų gudų, regis, paskui
+    įkyrėjo valdžia tų prašaleičių, kuri, vildamos ant jų
+    apmaudą nugiežti, patrako, bet variagai, arba rusai,
+    turėdami stiprią talką, nuveikė patrakusius gudus ir
+    jų patį karvedį Vadimą užmušė1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201056
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

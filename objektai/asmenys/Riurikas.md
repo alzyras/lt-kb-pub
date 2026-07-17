@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Riurikas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -37,6 +38,13 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   pagrindžia:
     - c-83824
 
+<a id="claim-t-201026"></a>
+- t-003
+  global_id: t-201026
+  teiginys: "Daukanto pasakojime Riurikas su broliais Sineusu ir Truvoru 862 m. atvyko į gudų žemę su palyda ir pradėjo viešpatauti Naugarde."
+  pagrindžia:
+    - c-184376
+
 <a id="claim-t-190965"></a>
 - t-002
   global_id: t-190965
@@ -55,6 +63,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 - susijęs iš Polockas: Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.
 - susijęs iš Polockas: Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.
 - susijęs iš Nikono metraštis: Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.
+- susijęs iš Didysis Naugardas: 862 m., pasak Daukanto, po Gostomyslo mirties į gudų žemę atvykęs Riurikas pradėjo viešpatauti Didžiajame Naugarde.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86456|Feodalinis ir leninis valdymas]]: Feodalinis valdymas nuo seno buvo įsitvirtinęs Lietuvoje, jai priklausiusioje Rusioje ir Livonijos vokiečių žemėse.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-55272|Variagai]]: Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio.
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-82105|Variagai]]: Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.
@@ -114,3 +123,34 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87845
+
+- id: c-184376
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 51"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 51."
+  citata_originali: |
+    Nes paskesniai karšda-
+    mas Gostomyslas, rėdytojas Didžiojo Naugardo, ta­
+    ręs savo ūkiams, idant gudai sau tuos variagus už­
+    kviestų ant savo ūkės rėdos, vienok rašytojai nesa­
+    ko lyčiaus to užkvietimo, nuo kokių priešakių, arba
+    neprietelių, gudai gindamies ar kokiame tenai ūkės
+    ermydery viena šalis negalėdama antros nuveikti,
+    juos patelkė, to nė vienas nežino. Tas tėra 'žinoma,
+    jog, nustipus Gostomyslui, gudai užteikė variagus,
+    arba rusus, į savo žemę, kurių trys broliai, vardu
+    Riurikas, Sineus ir Truvoras, metuose 862 atkeliavę
+    su talka ir savo tarnais į Gudus, pradėjo viešpatau­
+    ti, Riurikas, tai yra Rusnio rykys, arba viešpats,
+    Naugarde, Sineus Baltajame paežery, o Truvoras Iz-
+    borske. Vienok vienai daliai tų gudų, regis, paskui
+    įkyrėjo valdžia tų prašaleičių, kuri, vildamos ant jų
+    apmaudą nugiežti, patrako, bet variagai, arba rusai,
+    turėdami stiprią talką, nuveikė patrakusius gudus ir
+    jų patį karvedį Vadimą užmušė1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201026

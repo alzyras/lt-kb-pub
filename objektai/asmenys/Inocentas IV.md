@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Inocentas IV'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1240 m.'
@@ -53,11 +54,20 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   teiginys: "Inocentas IV apaštališkojo sosto vardu įsakė skelbti kryžiaus karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270."
   pagrindžia:
     - c-60965
+
+<a id="claim-t-200997"></a>
+- t-003
+  global_id: t-200997
+  teiginys: "Inocentas IV, išgirdęs apie Sviatopelko karus su kryžiuočiais, paskyrė Parto vyskupą teisėju ir liepė abiem pusėms atvykti į Lugduną."
+  pagrindžia:
+    - c-184347
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28779|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89834|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: 1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60078|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: 1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą.
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28780|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: 1254 m. birželio 24 d. Inocentas IV pavedė arkivyskupui Albertui išrinkti ir konsekruoti Mindaugo pageidaujamą vyskupo kandidatą.
 - susijęs iš [[objektai/posakiai/filius specialis sanctae Romanas Ecclesiae.md#claim-t-28696|filius specialis sanctae Romanas Ecclesiae]]: 1251 m. liepos 17 d. Inocentas IV suteikė Lietuvos vyskupijai Apaštalų Sosto globą, o Mindaugas tapo filius specialis sanctae Romanas Ecclesiae.
+- susijęs iš Christburgas (vieta): Daukantas rašo, kad kryžėjų rėdytojas Vida Pamezonijoje tarp Sirgūnės upės ir Draudžiu ežero pastatė pilį, pavadintą Christburgu.
+- susijęs iš Lugdunas (vieta): Popiežius Inocentas IV, pats gyvendamas Lugdune (Lione), liepė Sviatopelkui ir kryžėjams atvykti ten aiškintis jų ginčo.
 ## Citatos
 
 - id: c-60965
@@ -87,5 +97,27 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
     - t-60333
     - t-197104
 
-## Ryšiai
-- Inocentas IV siuntė į [[objektai/vietos/Prūsija]]
+- id: c-184347
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 336"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 336."
+  citata_originali: |
+    To dėjęsis, liepė visų pirma me­
+    džiagą jai patiekti, paskui, sutraukęs visus mel-
+    džionis, ėjo į Pamezoniją, kurie tenai tarp Sirgūnės
+    upies ir Draudžiu ežero ant kalno stiprioj vietoj ir
+    neprieinamoj pilį padirbo, kurią pravardavo taip
+    pat Christburgu ir tenai pagal savo būdą įgulę įdė­
+    jo.
+    Inocentas IV popiežius buvo jau jutęs apie ka­
+    res Sviatopelko su kryžėjais, kurie, lūgodami jo
+    teisybės, jam guodės. Popiežius, norėdamas teisybę
+    padaryti, paskyrė teisdariu vyskupą Parto, bet, no­
+    rėdamas geresniai tą reikalą permanyti, liepė abe­
+    jiems į Lugduną (Lioną) ateiti, kame pats gyveno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200997

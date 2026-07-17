@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Glapas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1267 m.'
@@ -88,6 +89,27 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: "Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė."
   pagrindžia:
     - c-85727
+
+<a id="claim-t-200991"></a>
+- t-008
+  global_id: t-200991
+  teiginys: "Daukanto pasakojime Glapas įvardijamas Varmijos srities vadu tarp penkių perkrikštų karvedžių."
+  pagrindžia:
+    - c-184341
+
+<a id="claim-t-200992"></a>
+- t-009
+  global_id: t-200992
+  teiginys: "Daukanto pasakojime, gavęs žinią, kad pilis tuščia, Glapas ją užėmė, sudegino trobesius, išgrobė turtą ir apgulė joje likusius kryžėjus."
+  pagrindžia:
+    - c-184342
+
+<a id="claim-t-200993"></a>
+- t-010
+  global_id: t-200993
+  teiginys: "Daukanto pasakojime namų išdavikas išdavė Glapą kryžėjams, kurie jį pakorė ant kalno, vėliau vadinto Glapo kalnu."
+  pagrindžia:
+    - c-184343
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60208|Steinavas]]: Steinavas buvo Glapo mėgtas valdinys, kurį varmių vadas daug kartų buvo išgelbėjęs iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-60209|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
@@ -224,6 +246,69 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   pagrindzia:
     - t-184072
 
-## Ryšiai
-- Paskyrė Glapą: [[objektai/grupes/Varmiai]]
-- Glapas užėmė [[objektai/vietos/Brandenburgo pilis]]
+- id: c-184341
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 386"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 386."
+  citata_originali: |
+    Ant didesnės laimos perkrikštų, pasitiko tarp jų
+    sumanančių karvedžių ir gudrių vyrų, kurie mo­
+    kėjo kliautį ir vienybę savo ūkėjų antturėti, ne vien
+    permaną vokyčių kalbą, bet sumaną dar su voky­
+    čių ginklu kariauti, mylį savo tėvūnę ir gai-lįs liuo-
+    sybės, nešykštaują nei turtų, nei vargų įkyrį, nė
+    pačios savo gyvybos negailintys, to vien įsitėpę,
+    idant tiktai galėtų tėvūnę išliuosuoti ir liuosais gy­
+    venti. Penkiose srityse atsirado tokie vyrai: Olan­
+    das Samijoj, Montė Natangijoj, Glapas Varmijoj, Di-
+    vonis Partijoj o Auktuma Pagezonijoj. Tie visi vy­
+    rai buvo dar gimę liuosybėj ir tėvūnei jų klestint,
+    todėl, mindami linksmas dienas senovės liuosybės,
+    neapvežėjo vergybos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200991
+
+- id: c-184342
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 416"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 416."
+  citata_originali: |
+    Tokiu pragumu moteriškė iš pilies pranešė Glapui,
+    karvedžiui lietuvių, jog pilis yra tuščia, į kurią be
+    kokio vargo gal jis įsilaužti. Skubinai atėjęs Gla-
+    pas vietovę užėmė, trobesius sudegino, labybą iš-
+    drevėjo ir likusiuosius kryžėjus pačioj pily užsira­
+    kinusius apgulė. Marčelga nusiminęs nedrįso tuo­
+    jau su nuvargusiais karėj ais ant lietuvių pulti, ne­
+    žinodamas jų galios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200992
+
+- id: c-184343
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 436"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
+  citata_originali: |
+    Daug
+    kartų jo smurtą karda gandino meldžionis, ant di­
+    desnės jų nelaimos mokėjo jis vokiškai, darin tan­
+    kiai giriose pasislėpusius meldžionis vokiškai va­
+    dindamas antpuoiė ir galavo.
+    Tuo pačiu laiku varmijonys nustojo taip pat sa­
+    vo karvedžio Glapo. Vienas namų zdraicė išdavė
+    jį kryžėjams, kurie jį pakorė ant kalno, kurį ilgą
+    laiką Glapo kalnu dar vadino minavonei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200993

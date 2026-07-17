@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Vulfstanas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -62,6 +63,13 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   teiginys: "Jei netu rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis nieko nežinotume apie šį miestą."
   pagrindžia:
     - c-175376
+
+<a id="claim-t-201049"></a>
+- t-006
+  global_id: t-201049
+  teiginys: "Daukanto aprašyme jūreivis Vulfstanas, Alfredo išsiųstas į Žemaičius teirautis apie prekybą, iš ten grįždamas esą pargabeno žinių."
+  pagrindžia:
+    - c-184399
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -178,6 +186,31 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
   pagrindzia:
     - t-192605
     - t-197843
+
+- id: c-184399
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  citata_originali: |
+    Pereidamas skaitytojas tas dabar minavotas šiau­
+    rės pasakas, noris maž ką teranda tenai apie Lietu­
+    vos tautą ir jos kraštą iki 9 amžiaus, bet galan to
+    amžiaus kelias vėl vyras, kurio raštai aiškiai jau ro­
+    do ne vien kraštus Lietuvos tautos, bet jos būdą,
+    dobę ir apsiėjimus, su visu pavėdžius į viršiaus gre-
+    konų ir rymionų minavotus*.
+    Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di­
+    džiojo anglų viešpaties, arba karaliaus, į Žemaičius
+    prekybos teirautis, nuo kur grįždamas tokias žinias
+    būk pargabenęs.
+    Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­
+    kyba pagirto Šlezvigo miesto, į įtaką Yslos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201049
 
 ## Ryšiai
 - Vulfstanas keliavo į [[objektai/vietos/Estija]]

@@ -2,11 +2,12 @@
 tipas: asmuo
 pavadinimas: 'Fridrichas II'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1226 m.'
+  - '1224 m.'
   - '1268 m.'
-date_start: '1226'
+date_start: '1224'
 date_end: '1268'
 periodo_grupes:
   - 'viduramžiai'
@@ -95,6 +96,13 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginys: "Kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera."
   pagrindžia:
     - c-60494
+
+<a id="claim-t-200985"></a>
+- t-009
+  global_id: t-200985
+  teiginys: "Daukanto pasakojime 1226 m. Fridrichas II, Teutonų ciesorius, išlaisvino kalavijuočius nuo vyskupo Alberto valdžios ir patvirtino jų valsčius Padaugavyje."
+  pagrindžia:
+    - c-184335
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
 - susijęs iš [[objektai/autoriai/Potkowski E.md#claim-t-60770|Potkowski E]]: E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.
@@ -337,3 +345,25 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59861
+
+- id: c-184335
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 270"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 270."
+  citata_originali: |
+    Albertas
+    metuose 1224 pats dalijo valsčius kalavijonims it
+    savo algočiams, kurie jo, kaipo savo vyriausios gal­
+    vos, klausė. Vienok mistras kalavijonų, norėdamas
+    išsiliuosuoti nuo tokios jo vyresnybės, metuose
+    1226 buvo įsteigęs slapta sau liecybą nuo Fridricho
+    II, ciesorius teutonų, kursai ne vien kalavijonis
+    nuo valdžios vyskupo Alberto išliuosavo, bet dar
+    ir įgytus valsčius Padaugavy būtinai jiems patvir­
+    tino. Tas didesniai dar kerštino v.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200985

@@ -3,12 +3,21 @@ tipas: asmuo
 pavadinimas: 'Vladislovas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1135 m.'
+date_start: '1135'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,6 +59,13 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   teiginys: "Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums."
   pagrindžia:
     - c-168217
+
+<a id="claim-t-201047"></a>
+- t-004
+  global_id: t-201047
+  teiginys: "Boleslovas Kreivburnis padalijo ūkę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui, bet broliai tuo padalijimu nepasitenkino."
+  pagrindžia:
+    - c-184397
 - susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas).md#claim-t-87884|Vladislovas (karalius, Stepono pirmtakas)]]: Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.
@@ -60,6 +76,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93548|Vladislovas iš Opolės]]: Vladislovas iš Opolės pasiūlė Vengrijos karaliui ir keliems kunigaikščiams pasidalyti Lenkijos žemes.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93549|Vladislovas iš Opolės]]: Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184527|Lenkai]]: Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Racionžo pilimi.md#claim-t-201337|Mūšis ties Racionžo pilimi (mūšis)]]: Rugpjūčio 15 d. ties Racionžo pilimi, netoli Nakelio, Vladislovas nugalėjo pamarionis ir jų lietuvių talkininkus.
 - susijęs iš Maskvos bajorų raštas dėl Vladislovo išrinkimo caru (1610 m.): 1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.
 - susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200504|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas.
 - susijęs iš [[objektai/asmenys/Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.).md#claim-t-200505|Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)]]: 1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai.
@@ -67,6 +84,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-200982|Dovydas]]: Gediminas Vladislovui į pagalbą nusiuntė Dovydą su 10 000 raitelių, o Daukantas šį vadą apibūdino kaip garbingą karvedį.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184749|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
@@ -264,6 +282,27 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   pagrindzia:
     - t-184856
 
-## Ryšiai
-- Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vladislovas mirė [[objektai/vietos/Bulgarija]]
+- id: c-184397
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 161"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
+  citata_originali: |
+    Yra raštuose randama, jog tą metą Vsevolodas,
+    kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135
+    pus Daugavos lietuvių kraštą Lotaviją, arba Letga-
+    liją, tai yra Lietuvos galą, nuteriojęs ir į pilį Jurje-
+    vą, arba Tarapatą, įsilaužęs, bet koksai galas buvo
+    tos karės, nėra parašyta.
+    Kitoj pusėj Boleslovas Kreivburnis bengdamos
+    paskaidė ūkę tarp sūnų savo Vladislovo, Mieško,
+    Henriko ir Kazimiero, kurie, nekakindamos tuo pa­
+    dalijimu, lig tėvui nustipus, lig sūnūs sukeršto. Vla­
+    dislovo žmona buvo lyčium tų kerštų, kuri, gobė-
+    damos valdžios, įgundino savo vyrą brolių dalis
+    atimti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201047

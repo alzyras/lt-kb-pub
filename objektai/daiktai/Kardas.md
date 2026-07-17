@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Kardas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -35,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę. 1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių. 1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.
+Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai). Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.
 
 ## Pavadinimai šaltiniuose
 
@@ -114,6 +115,13 @@ Nenurodyta
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
   pagrindžia:
     - c-88399
+
+<a id="claim-t-200940"></a>
+- t-009
+  global_id: t-200940
+  teiginys: "Daukanto pasakojime Gedimino vadovaujami lietuviai iš pradžių kovėsi vylyčiomis, o vėliau kardais susirėmė su Sviatoslavo pajėgomis."
+  pagrindžia:
+    - c-184290
 - susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
 - susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
 - susijęs iš [[objektai/daiktai/Pistoletas.md#claim-t-40752|Pistoletas]]: Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.
@@ -128,6 +136,7 @@ Nenurodyta
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
 - susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
+- susijęs iš [[objektai/asmenys/Dovydas.md#claim-t-200982|Dovydas]]: Gediminas Vladislovui į pagalbą nusiuntė Dovydą su 10 000 raitelių, o Daukantas šį vadą apibūdino kaip garbingą karvedį.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05173|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.
@@ -144,6 +153,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178827|Kryžiuočių ordinas]]: Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200923|Lietuviai]]: Daukantas lietuvių 1243 ir 1244 metų žygius į Krokuvos apygardas siejo su kerštu lenkams dėl pagalbos kryžėjams prieš Sviatopelką.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės armija.md#claim-t-78377|Lietuvos laisvės armija]]: Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78381|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
@@ -156,6 +166,8 @@ Nenurodyta
 - susijęs iš J. I. Kraševskio veikalas apie Lietuvą: Narbutas nurodo, kad, anot Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“.
 - susijęs iš Bobro upė: Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.
 - susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš Mozūrija: 1244 m. iš Lietuvos gilumos atėję pulkai nuniokojo Mozūriją, ypač Plocko apygardas.
+- susijęs iš Revelis: Revelį, Daukanto vadinamą danų pilimi, apgulė 10 000 igumių, išsirinkusių savo karvedį.
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07680|meldžionys]]: Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.
@@ -318,3 +330,28 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-92974
+
+- id: c-184290
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 532"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
+  citata_originali: |
+    Taip apdrąsinąs karėjus, Gediminas liepė ženg­
+    ti toliaus, vienok saugodamos, idant neprieteliai
+    pasalu neantpultų, kaipogi neilgai teėjus Gedimi­
+    nas, pavydęs eilas Sviatoslavo, liepė trimitus ko-
+    vėn pūsti. Susirėmusios šalys pirma vylyčiomis vars­
+    tės, paskui baisesniai dar kardomis skardės, kau-
+    sena buvo didžiai smarki ir maringa. Pirmasis pul­
+    kas lietuvių, suvargęs kelione, buvo jau begurstąs,
+    bet Gediminas laiku atskubėjęs pagalbon pastiprino
+    ir kovę atnaujino, kaipogi tas patsai pirmasis pul­
+    kas lietuvių metės su tokia narsybe ant spąrno ne­
+    prietelių, jog pirmuoju antpuoliu gudų rindą iš­
+    vertė ir pergalėtoju paliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200940

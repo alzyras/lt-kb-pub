@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Utenis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -74,6 +75,13 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   teiginys: "Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją ir pasiuntė lietuvius pulti Livonijos riterių žemių."
   pagrindžia:
     - c-178796
+
+<a id="claim-t-201041"></a>
+- t-006
+  global_id: t-201041
+  teiginys: "Utenis, Daukanto vadinamas Žemaičių kunigaikščiu, sutelkė savo karius ir išėjo prieš kalavijonis, žygiavusius į Žemaičius."
+  pagrindžia:
+    - c-184391
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 - susijęs iš [[objektai/daiktai/Kukovaičio atminimo stabas.md#claim-t-198531|Kukovaičio atminimo stabas]]: Lietuvos metraštis teigia, kad Utenis tėvui Kukovaičiui atminti padirbo stabą ir pastatė jį prie Šventosios upės ant kalno netoli Deltuvos.
 ## Citatos
@@ -203,5 +211,20 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   pagrindzia:
     - t-196610
 
-## Ryšiai
-- Utenis rėmė [[objektai/grupes/Prūsai]]
+- id: c-184391
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 268"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 268."
+  citata_originali: |
+    Užvis kalavijonys, regėdami vykstant kryžėjams
+    Paysly, tarės taip' pat laimėsią Padaugavy, todėl,
+    sutraukę savo kalavijonis ir meldžionis, ėjo į Že­
+    maičius, kaipogi letgaliai anapus Daugavos buvo
+    pergalėti ir apkrikštyti. Utenis, Žemaičių kunigaik.,
+    sukėlęs savo karėjus, ėjo prieš.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201041

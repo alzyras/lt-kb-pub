@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Divonis'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -48,13 +49,21 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginys: "Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
   pagrindžia:
     - c-179308
+
+<a id="claim-t-200981"></a>
+- t-004
+  global_id: t-200981
+  teiginys: "Grįžtantį į Bartiją Divonį prie Gurbės upės kryžėjai netikėtai užpuolė miegantį be sargybos, atėmė grobį ir vos jo paties nenužudė."
+  pagrindžia:
+    - c-184331
 - susijęs iš [[objektai/asmenys/Augustas Oktavianas.md#claim-t-191182|Augustas Oktavianas]]: Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190883|Jaroslavas]]: Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190883|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.
 - susijęs iš [[objektai/daiktai/Divonio kelionės rankraštis.md#claim-t-193010|Divonio kelionės rankraštis]]: Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš Divonio kelionės aprašymas: Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš Hartknocho Prūsijos istorija: Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo Divonio apsilankymą būsimame Prūsijos krašte.
 - susijęs iš Prūsų vyskupo Kristijono kronika: Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš [[objektai/autoriai/Jaroslavas.md#claim-t-191627|Jaroslavas]]: Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausiai rado Plocko katedros klebono Jaroslavo kronikoje.
+- susijęs iš [[objektai/ivykiai/Christburgo apgultis.md#claim-t-201279|Christburgo apgultis]]: Christburgo apgulties metu nauja kariauna apsupo pilį, o lietuviai Sirgūnėje nuskandino valtis, kuriomis įgula gaudavo maisto.
 - susijęs iš Plocko kanauninko Jaroslavo kronika: Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš Heraklio stulpai: Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.
 - susijęs iš Plockas: Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje.
@@ -149,3 +158,24 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197723
+
+- id: c-184331
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 418"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 418."
+  citata_originali: |
+    Divonis palikinąs tyrus grobį, gyvolius ir im­
+    tinius su didesne dalia savo kariaunos pirma pa­
+    leido, o pats su rinktiniais paskui grįžo namo į
+    Barti ją. Tuo tarpu kryžėjai iš Elbingo ir Christbur-
+    go ėmė jį vyti. Panokę jį ties upe Gurbe miegantį
+    be sargties, antpuolę staiga išmušė mažne lig pas-
+    kuojo ir visą grobį atėmė, Divonis pats vos su ke­
+    liais beišsprūdo, raudodamas savo genties Daubario
+    kritusio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200981

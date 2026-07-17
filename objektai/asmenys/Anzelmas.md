@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Anzelmas (vyskupas, XIII a.)'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -61,6 +62,13 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
   pagrindžia:
     - c-177306
+
+<a id="claim-t-200969"></a>
+- t-004
+  global_id: t-200969
+  teiginys: "Daukanto pasakojime popiežius paskyrė Varmijos vyskupą Anzelmą pasiuntiniu Prūsijoje ir liepė maldininkams jungtis prie kryžiuočių žygio prieš lietuvius, vadinamus netikėliais."
+  pagrindžia:
+    - c-184319
 - susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
 - susijęs iš Varmijos vyskupo Anzelmo raštas apie Lemptenburgą: Narbutas nurodo, kad Varmijos vyskupo Anzelmo rašte Lemptenburgas minimas frazėje „Rudolfus in Lemptenburg plebanus“.
 - susijęs iš [[objektai/asmenys/Augustas Friderikas Kocebu.md#claim-t-191175|Augustas Friderikas Kocebu]]: Narbutas taiso Kocebu vietovardį Cemptenbece į Lemptenburgą ir pabrėžia, kad šios vietos padėtį sunku tiksliai nustatyti.
@@ -128,6 +136,37 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194910
+
+- id: c-184319
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 388"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 388."
+  citata_originali: |
+    Todėl, — sako jis, — ant garbės
+    Dievo skubinkitės skatinti krikščionis".
+    Jis gi nuleido antrą raštą Anzelmui, Varmijos
+    vyskupui, keldamas jį siuntiniu savo Parusny ir
+    liepdamas jam, idant visiems meldžionims, susirin­
+    kusiems ant totorių, įsakytų nertis su kryžėjais ir
+    eiti netikėlių lietuvių kariauti.
+    Paskiaus, atėjus į Rymą antrai žiniai, jog lietu­
+    viai Parusny išsižadėjo tikybos krikščionygos ir su­
+    grįžo į savo bočių tikybą, kuo didesniai dar popie­
+    žius nuliūdo, kursai, regėdamas pabangą tikybos
+    krikščionygos šiaurėj, apskelbė vėl raštą didžiai
+    graudingą provincijolams dominikonų, Teutonijoj,
+    Lenkuose, Čekuose ir Danijoj gyvenantiems, skelbti
+    kryžiaus kares, sakydamas: „Seniai jau dejavo
+    brostviai, jų mistras ir tarnai guosdamies, jog, pla­
+    tinant tikybą krikščionų Parusny ir Padaugavy, daug
+    jų nugalavo smurtą ranka netikėlių lietuvių ir že­
+    maičių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200969
 
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

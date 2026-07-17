@@ -2,12 +2,21 @@
 tipas: asmuo
 pavadinimas: 'Mantvila'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1200 m.'
+date_start: '1200'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai. Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai.
+Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai. Lietuvos metraštis pasakoja, kad Mantvila, sužinojęs apie ištuštėjusią Rusų šalį, pavedė kariuomenę savo sūnui Erdvilai. Daukantas Mantvilą vadina Žemaičių kunigaikščiu ir aprašo, kad jis, sutelkęs žemaičių bei lietuvių karius, vėl žygiavo į Baltuosius Gudus.
 
 ## Teiginiai
 
@@ -36,13 +45,20 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   pagrindžia:
     - c-176727
 
+<a id="claim-t-201012"></a>
+- t-003
+  global_id: t-201012
+  teiginys: "Daukantas Mantvilą vadina Žemaičių kunigaikščiu ir aprašo, kad jis, sutelkęs žemaičių bei lietuvių karius, vėl žygiavo į Baltuosius Gudus."
+  pagrindžia:
+    - c-184362
+
 <a id="claim-t-194113"></a>
 - t-001
   global_id: t-194113
   teiginys: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
   pagrindžia:
     - c-176726
-
+- susijęs iš [[objektai/ivykiai/Mantvilos žygis į Baltuosius Gudus.md#claim-t-201331|Mantvilos žygis į Baltuosius Gudus]]: Daukanto vadinamas Žemaičių kunigaikščiu Mantvila su žemaičių ir lietuvių kariais, persikėlusiais per patvinusią Daugavą, netikėtai puolė gudus, sugriovė Lotavės pilį ir grįžo su grobiu.
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
@@ -94,3 +110,33 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194114
+
+- id: c-184362
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 167"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
+  citata_originali: |
+    Lietuviai ir žemaičiai vėl, norėdami atmonyti H98
+    Jaroslavui teriones žemgalių, patelkę dar Polocko
+    kunigaikštį, gulė į apygardas Pleskavo ir pirmaja­
+    me antpuoly priemiesčius pilės Velikije Lūki nu­
+    degino ir jo apygardas nuteriojo, bažnyčias, klioš-
+    torius nuplėšė, noris į pačią pilį neįsilaužė, vienok
+    su didžiu grobiu sugrįžo namo laimingai.
+    Neilgai buvus Mantvila, kunigaikštis Žemaičių,
+    sukėlęs kareivius žemaičių ir lietuvių, traukė vėl
+    į Baltuosius Gudus. Bet, radęs Daugavą didžiai pa­
+    tvinusią, nemintąs, ką bedaryti ir kaip veikesniai
+    per upį persikelti, būk liepęs savo kareiviams
+    dviejĮau] sutūpdamos ant taurio kailio per upį kel- 1200
+    tis, kaipogi tokiose odų valtyse žemaičiai ir lietu­
+    viai persikėlę staiga gudus antpuolė, kaimas nude­
+    gino, į pilį Lotavę varu įsilaužę sugriovė, apygar­
+    dose kurios daugybes grobio pagrieję, namo par­
+    grįžo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201012

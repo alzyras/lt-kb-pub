@@ -3,7 +3,7 @@ tipas: vieta
 pavadinimas: 'Pinskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -41,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį. Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.
+Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
 
 ## Teiginiai
 
@@ -114,6 +114,14 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
   teiginys: "Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
   pagrindžia:
     - c-182504
+
+<a id="claim-t-201099"></a>
+- t-010
+  global_id: t-201099
+  teiginys: "Pinsko versmėse, pasak Daukanto, gyveno budinai, kalbėję mišria graikų ir skitų kalba."
+  pagrindžia:
+    - c-184449
+- susijęs iš [[objektai/ivykiai/Mstislavo žygis į Lietuvą ir mūšis ties Jaselda.md#claim-t-201334|Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)]]: Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską.
 - susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
 - susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191343|Eduardas Eichvaldas]]: Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“ apie Darijaus žygį prieš skitus.
 - susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191344|Eduardas Eichvaldas]]: Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link.
@@ -122,6 +130,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
 - susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187760|Goštautų giminė]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Goštautų gimine ir, vedęs Oleną Aleksandrą, Lietuvos Didžiojoje Kunigaikštystėje gavo Pinską.
 - susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187762|Slucko kunigaikščiai Olelkaičiai]]: Fedoras Ivanovičius Jaroslavičius susigiminiavo su Slucko kunigaikščiais Olelkaičiais ir, vedęs Oleną Aleksandrą, gavo Pinską.
+- susijęs iš [[objektai/ivykiai/Mstislavo žygis į Lietuvą ir mūšis ties Jaselda.md#claim-t-201334|Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)]]: Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186599|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi.
 - susijęs iš Eichvaldo straipsnis „Darijus, Histapo sūnus, Pinsko apylinkėse“: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“, kuriame nagrinėjo Darijaus žygį prieš skitus.
 - susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
@@ -130,7 +139,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-187533|vietininkas]]: Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.
 - susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
-- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
+- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius (kunigas, XIII a.)]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
 - susijęs iš [[objektai/asmenys/Eichvaldas.md#claim-t-191390|Eichvaldas]]: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-190907|Konradas]]: Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną.
@@ -146,6 +155,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187732|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-192375|Dobrynės broliai]]: Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192433|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Konradas XIII a. pradžioje, pasak Narbuto, pasiekė didelių laimėjimų Jotvingijoje.
+- susijęs iš [[objektai/grupes/Neiriai (grupė).md#claim-t-201252|Neiriai (grupė)]]: Daukantas neirius lokalizuoja į šiaurę nuo budinų, Vilniaus apygardose, ir spėja, kad nuo jų pavadintos Neris bei Paneriai.
 - susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187767|Pskoviečiai]]: Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką.
 - susijęs iš [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.).md#claim-t-86908|Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]: 1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.
 - susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191011|Darijaus žygis prieš skitus]]: Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką.
@@ -163,6 +173,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
+- susijęs iš Jaselda: Pasak Daukanto, prie Jaseldos lietuviai perlaužė gudų pajėgas: dalį bėgančių išklojo kelyje, o kitus paskandino Jaseldoje.
 - susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
 - susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
 - susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
@@ -171,6 +182,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
+- susijęs iš Paneriai: Daukanto spėjimu, Neries upės ir Panerių pavadinimai galėjo būti susiję su Vilniaus apygardose gyvenusiais neiriais.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
@@ -180,6 +192,7 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Sčara: 1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
+- susijęs iš Vilnius: Daukantas svarstė, kad Vilniaus apygardose gyvenusių neirių vardu galėjo būti pavadinti Neris ir Paneriai.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
 - susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
@@ -497,9 +510,32 @@ Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimanta
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   citata_rodoma: "Vyriausias sūnus, Man-\nv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą\nir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-\ndas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų\npasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184449
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 23"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
+  citata_originali: |
+    Už tų tyragetų
+    juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
+    žės getai, arba medės gyventojai, kurie giriose Juo­
+    dojoj ir Žaliojoj gyveno. Versmėse Pinsko gyveno
+    vadinami budinai, kurie kalbėjo mišria grekonų ir
+    skitų kalba, už tų budinu juo dar į šiaurę, beje, apy­
+    gardose Vilniaus, neiriai; regis, upė Neris ir kalnai
+    to krašto Paneriai nuo tų gyventojų yra praminti.
+    Tie getai kariavo su Darijum, viešpačiu persų, pas-
+    kiaus su Pilypu, viešpačiu maudonų, bet tų karių
+    trumpumas mano rašto neleidžia čia išguldyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201099
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]

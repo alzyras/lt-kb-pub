@@ -1,0 +1,74 @@
+---
+tipas: vieta
+pavadinimas: 'Parusnys (vieta)'
+identifikacija: 'vieta'
+variantai:
+  - 'Parusnys'
+aliases:
+  - 'Parusnys'
+  - 'objektai/vietos/Parusnys'
+saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+datos:
+  - '1314 m.'
+date_start: '1314'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Parusnys (vieta)
+
+## Santrauka
+
+Daukanto vertinimu, Parusnį ir Padaugavį užkariavę kryžiuočiai draudė veiklas, kurios, jo manymu, galėjo ugdyti žmogaus akylumą.
+
+## Teiginiai
+
+<a id="claim-t-201129"></a>
+- t-001
+  global_id: t-201129
+  teiginys: "Daukanto vertinimu, Parusnį ir Padaugavį užkariavę kryžiuočiai draudė veiklas, kurios, jo manymu, galėjo ugdyti žmogaus akylumą."
+  pagrindžia:
+    - c-184479
+
+## Citatos
+
+- id: c-184479
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 517"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 517."
+  citata_originali: |
+    Nemintąs Erikas, viešpats danų, re­
+    gėdamas tokias neteisybes, vokyčių daromas per­
+    krikštams, užgynęs buvo savo kunigams ir jomy-
+    listoms metuose 1314 Igumijoj, idant, rinkdami de­
+    šimtines ar kitas rinkliavas nuo perkrikštų, saikų
+    nefalšavotų, nes senų laikų įpratimu juos seikėtų1.
+    Užkariavę kryžėjai Parusnį ir Padaugavį ne vien
+    tikybos nemokė, bet dar užgynė tokius darbus kne­
+    binėti, nuo kurių žmogus gal kokį tokį akylumą
+    įgyti. Žinoma yra alvienam, jog prekyba taip yra
+    reikalinga ūkė j, kaip' jei kraujas žmogaus kūne dėl
+    jo gyvybos, kaipogi žmogus prekiodamas tankiose
+    kelionėse daug pritiria, sueina į pažines su sveti­
+    momis tautomis, regi jų ūkės rėdą ir apsiėjimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201129

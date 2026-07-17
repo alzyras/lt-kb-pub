@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -303,6 +304,13 @@ media_all_json: |-
   teiginys: "Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis."
   pagrindžia:
     - c-180419
+
+<a id="claim-t-201050"></a>
+- t-035
+  global_id: t-201050
+  teiginys: "Daukantas aiškina, kad Kojalavičius minėjo vieną Vytenį nuo Traidžio iki Gedimino, o teutonų ir gudų rašytojai tame tarpe skyrė tris valdovus."
+  pagrindžia:
+    - c-184400
 - susijęs iš Polockas: Vytenio ir Gedimino brolis Vainys valdė Polocką.
 - susijęs iš Polockas: Vainys buvo vienas iš brolių ir valdė Polocką.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
@@ -312,6 +320,7 @@ media_all_json: |-
 - susijęs iš [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia.md#claim-t-87103|Vytenio minoritams pastatyta bažnyčia]]: Vytenis prašė atsiųsti minoritų, kuriems norėjo skirti jau pastatytą bažnyčią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179012|Kryžiuočių ordinas]]: Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.
 - susijęs iš [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.).md#claim-t-185506|Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]: Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko.
+- susijęs iš [[objektai/ivykiai/Gundingenos apgultis ir mūšis Nemuno verpetuose.md#claim-t-201321|Gundingenos apgultis ir mūšis Nemuno verpetuose (mūšis)]]: Kryžėjams apgulus Gundingenos pilį laivais, Vytenis pasiuntė Surminą, o lietuviai Nemune degino ir skandino kryžėjų laivus.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.).md#claim-t-62880|Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]: 1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.
 - susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-183949|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62885|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.
@@ -359,6 +368,7 @@ media_all_json: |-
 - susijęs iš Bartos žemė: Po Vytenio žygio į Varmę lietuviai grobio prisiplėšusius karius nuvedė į Bartos žemę ir sustojo pailsėti atvirame lauke.
 - susijęs iš Christmemelio pilis (pilis): Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų.
 - susijęs iš Drohičinas: Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.
+- susijęs iš Gundingena (vieta): Kryžiuočių kariaunos dalis, naudodama nuo strėlių apsaugotus laivus, apgulė Gundingenos pilį.
 - susijęs iš Kristmemelis: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių.
 - susijęs iš Kumanų žemė: Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, iš kurios Vytenis vėliau grįžo į Polocką.
 - susijęs iš Lenčica: Vytenis su 1800 raitelių įsiveržė į Lenčicos kraštą ir netikėtu antpuoliu užėmė Lenčicos miestą.
@@ -369,7 +379,10 @@ media_all_json: |-
 - susijęs iš Prūsija: Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš Sandomiras: Kojelavičiaus pasakojime Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir smarkiai nusiaubė jos kaimus bei dvarus.
+- susijęs iš Varniai: Žiemos viduryje kryžiuočių maršalas Plockė įsiveržė į Žemaičius, nusiaubė Varnių apygardas, bet neįstengė įsiveržti į pilį.
 - susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/zodynas/Marčelga.md#claim-t-200952|marčelga]]: Kryžėjų marčelga Plockė, kaip vaizduoja Daukantas, žiemos viduryje įsiveržė į Žemaitiją, nusiaubė Varnių apygardas ir sustojo į abažą, arba taborį.
+- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201194|abažas (sąvoka)]]: Daukanto pasakojime kryžėjų marčelga Plockė, nusiaubęs Varnių apygardas ir neįstengęs įsiveržti į pilį, sustojo į abažą, arba taborį.
 - susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70130|ekspansija]]: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
 - susijęs iš [[objektai/zodynas/ekspansija.md#claim-t-70131|ekspansija]]: Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
@@ -1502,17 +1515,39 @@ media_all_json: |-
     lietuvis, o abi šalys neteko daug karių sunkiai sužeistaisiais.
   citata_rodoma: "Dar apie tą patį\n\n   Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis\nįsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.\nBrolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,\nkai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis\nsubūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą, ir\nįsakė jam su šia kariuomene traukti link Lietuvos ir siaubti minėtojo karaliaus žemes."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184400
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 475"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 475."
+  citata_originali: |
+    126.)
+    Reikia žinoti,- jog yra didis su j augimas vardų
+    didžiųjų Lietuvos kunigaikščių: Kojalavičius savo
+    Lietuvos istorijoj teminavoja vieną Vytenį nuo pat
+    Traidžio lig pat Gedimino, nes teutonų ir gudų ra­
+    šytojai rodo savo raštuose tame tarpe buvus tris
+    didžiuosius Lietuvos kunigaikščius: Vytį, arba Bui­
+    vydą, Puteverą ir Vytenį, pagal kuriuos aš raštus
+    jų veikalus išguldžiau. Tame laike, regis, pasirinko
+    Vytis, arba Buivydas, kaipogi nuo tų metų nebėr
+    jo minavojamo daugesniai; bet kokiu smerčiu —
+    to nėra žinoma.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201050
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Vytenis (valdovas, XIII–XIV a.) buvo valdovas [[objektai/vietos/Lietuva]]
-- Vytenis (valdovas, XIII–XIV a.) keliavo į [[objektai/vietos/Livonija]]
 - Vytenis (valdovas, XIII–XIV a.) gimė [[objektai/vietos/Žemaitija]]
-- Vytenis (valdovas, XIII–XIV a.) puolė [[objektai/vietos/Kristmemelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Varmė]]
-- Vytenis (valdovas, XIII–XIV a.) apgulė [[objektai/vietos/Kristmemelis]]
-- Vytenis (valdovas, XIII–XIV a.) surengė žygį į [[objektai/vietos/Livonija]], [[objektai/vietos/Sandomiras]]
+- Vytenis (valdovas, XIII–XIV a.) puolė [[objektai/vietos/Lenkija]]
+- Vytenis (valdovas, XIII–XIV a.) surengė žygį į [[objektai/vietos/Livonija]]
 - Vytenis (valdovas, XIII–XIV a.) gyveno [[objektai/vietos/Ariogala]]

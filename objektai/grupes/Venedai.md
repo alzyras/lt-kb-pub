@@ -2,10 +2,12 @@
 tipas: grupe
 pavadinimas: 'Venedai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '253 m.'
+  - '1000 m.'
   - '1387 m.'
 date_start: '253'
 date_end: '1387'
@@ -116,6 +118,13 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginys: "Iš ankstesnio šios temos dėstymo ži nome, kad tuo metu prie šios jūros gyveno venedai, sla vai ir estai lietuviai arba visos šiuo bendriniu vardu va dinamos lietuvių genties tautos."
   pagrindžia:
     - c-179233
+
+<a id="claim-t-201459"></a>
+- t-012
+  global_id: t-201459
+  teiginys: "Daukanto pateiktame pasakojime prie Vyslos, Nemuno, Ventos, Dauguvos ir Gaujos gyveno venedai, galindai, sudenai, kareotai, saliai, osai, veltai ir penai."
+  pagrindžia:
+    - c-184809
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190867|Herodotas]]: P. J. Safaržykas Herodoto budinus apibūdino kaip venedų tautą, kurią slavai galį laikyti savo padermės šaka.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-192473|Slavai]]: Narbutas rašė, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką ir perėmė jo kraštą.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis.md#claim-t-191064|Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]: Narbutas pasakoja, kad Jarmerikas įsiveržė į slavų kraštą, sumušė venedų karalių Skalką, o Skalka krito mūšio lauke.
@@ -520,7 +529,25 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   pagrindzia:
     - t-197529
 
+- id: c-184809
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 37"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
+  citata_originali: |
+    Upis tenai didesniąsias minavoja,
+    Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
+    Daugava (Turuntas), Gauja (Kėsinąs) vadindamas.
+    Tautos ant tų upių, pasakoja, tos gyvenusios: vene-
+    dai, galindai, sudenai, kareotai, saliai, osai, veltai,
+    penai. Tarp tų tautų didžiai yra dėl skaitytojų ženk-
+    lingos tautos galindų ir sudenų dėl to, jog jas 1000
+    metų buvus tebras toj pačioj vietoj begyvenančias1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201459
+
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Skalka]]
 - Turėjo priklausinį: [[objektai/grupes/Budinai]]
-- Venedai dalyvavo mūšyje [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]

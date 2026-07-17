@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Grigalius X'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1272 m.'
@@ -13,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -44,8 +46,16 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   teiginys: "1272 m. Grigalius X buvo popiežius ir kanonizavo šventąją Jadvygą, Lenkijos kunigaikštienę."
   pagrindžia:
     - c-60757
+
+<a id="claim-t-200994"></a>
+- t-002
+  global_id: t-200994
+  teiginys: "Daukanto pasakojimu popiežiumi tapęs Liuticho archidiakonas Teobaldas, pasivadinęs Grigaliumi X, liepė skelbti kryžiaus karą prieš lietuvius ir žemaičius."
+  pagrindžia:
+    - c-184344
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176411|Jadvyga]]: Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.
 - susijęs iš Lionas: 1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti.
+- susijęs iš [[objektai/zodynas/liecyba (sąvoka).md#claim-t-201208|liecyba (sąvoka)]]: Daukanto pasakojime Habsburgas, tapęs vokiečių viešpačiu, patvirtino kryžėjų liecybas ir dovanas bei pasiskelbė jų užtarytoju.
 ## Citatos
 
 - id: c-60757
@@ -65,3 +75,25 @@ Dusburgietis teigia, kad apie Grigalių X, popiežių, ir šventos Jadvygos, Len
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60125
+
+- id: c-184344
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 433"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 433."
+  citata_originali: |
+    Pamarių kunigaikščiams kerštaujant tarp
+    savęs, kryžėjai nebijojos jų ir tylėjo, užvis jog
+    meldžionys, keliaudami į Parusnį, galėjo tenai ilsėti
+    ir per jų kraštą traukti.
+    Gavo tuojau kryžėjai pagalbą iš Rymo ir Teu­
+    tonuos; į popiežiaus suolą buvo pakeltas Teobal-
+    das, archidiakonas Liuticho, Gregorium X vadina­
+    mas. Tas pradžioj savo rėdos ne vien rūpinos, kaip
+    grabą šventą atvaduoti, bet dar liepė skelbti kry­
+    žiaus karę ant lietuvių ir žemaičių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200994

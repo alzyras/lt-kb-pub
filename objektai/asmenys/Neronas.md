@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Neronas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -49,6 +50,14 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
   teiginys: "2 Vidit enim eques Romanus missus ad id compar atidų m a Ju liana curante gladiatorium mumis Neronis principis, qui haec commercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia investa, ut retta arcendis feris podium protegentia succinis."
   pagrindžia:
     - c-177314
+
+<a id="claim-t-201017"></a>
+- t-004
+  global_id: t-201017
+  teiginys: "Daukantas Neroną vadina Romos viešpačiu ir rašo, kad jis pasiuntė savo eržilą į Žemaičių žemę pirkti gintaro."
+  pagrindžia:
+    - c-184367
+- susijęs iš [[objektai/ivykiai/Nerono pasiuntinio kelionė į gintarų žemę.md#claim-t-201297|Nerono pasiuntinio kelionė į gintarų žemę]]: Neronas pasiuntė savo rūmų kavalierių į gintarų žemę pirkti gintaro, o šis po metų pargabeno į Romą 13 000 svarų gintaro.
 - susijęs iš [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro.md#claim-t-191026|Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]: Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro.
 - susijęs iš [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro.md#claim-t-191027|Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]: Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru.
 - susijęs iš Giaros sala: Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį.
@@ -124,5 +133,33 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     - t-194918
     - t-197779
 
-## Ryšiai
-- Neronas siuntė į [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]
+- id: c-184367
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 120"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 120."
+  citata_originali: |
+    Paskesniuose laikuose rados ne vieni marselio-
+    nys, bet ir kitos pagirtos giminės prekyba, žinan­
+    čios gintarų žemę, kaipogi 115 metuose pirm gimi­
+    mo Kristaus Nemunas, jūrų vyras, išsidanginęs iš
+    Kartaginos su savo ūkinykais, tapo naujuku Žemai­
+    čių rasi dėl pačios prekybos, kaip viršiaus minavo-
+    jau.*
+    Jau pirmajame amžiuj gimus Kristui ne vien pa­
+    ti žemė gintarų, bet ir keliai, kuriais gaunami buvo,
+    rados žinomi, kaipogi Neronas, viešpats Rymo, siun­
+    tė tyčioms savo eržilą gintarų į Žemaičių žemę pirk­
+    ti, kursai, kely metus sutrukęs, sugrįžo ir ne vien
+    patį kraštą gintarų aplankė, bet dar didžią daugybę
+    jų su savim pargabeno, tarp kurių sako vieną luitą
+    13 svarų svėrus3.
+    Žinoma taip pat yra, jog žemaičiai siuntė į Ry­
+    mą dovenoms didžią daugybę gintarų Teodorikui,
+    viešpačiui gotų, kursai jiems mandagiai dėkavojo
+    gromatoj, šiandien dar tebesančioj.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201017

@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Konradas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -67,6 +68,27 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   teiginys: "Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną."
   pagrindžia:
     - c-173789
+
+<a id="claim-t-201002"></a>
+- t-005
+  global_id: t-201002
+  teiginys: "Žibuntas pasiuntė Konradui reikalavimą atsiųsti į jo stovyklą kelis šimtus stiprių arklių ir kareivių apdarų."
+  pagrindžia:
+    - c-184352
+
+<a id="claim-t-201003"></a>
+- t-006
+  global_id: t-201003
+  teiginys: "Konradui prašant ir vyskupui Kristijonui leidžiant, meldžionys pradėjo tvirtinti lietuvių sugriautą Kulmo pilį."
+  pagrindžia:
+    - c-184353
+
+<a id="claim-t-201004"></a>
+- t-007
+  global_id: t-201004
+  teiginys: "Daukantas vaizduoja Konradą, Mozūrų kunigaikštį, visur ieškojusį pagalbos savo kraštui, bet jos nesulaukusį nei iš kaimynų, nei iš Dobrynės brolių."
+  pagrindžia:
+    - c-184354
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
@@ -122,6 +144,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184897|Švitrigaila]]: Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.
+- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-200916|Dobrynės broliai]]: Dobrynės brolių susijungimas su kryžėjais jau buvo baigtas, o kryžėjai buvo pasisavinę Dobrynės pilį ir valsčius.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65110|Dobrynės broliai]]: Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
@@ -144,6 +167,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema).md#claim-t-62921|Skalvių pilies puolimas (1293 m. žiema)]]: 1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.
 - susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59459|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.
 - susijęs iš [[objektai/ivykiai/Štarkenbergo pilies užgrobimas ir įgulos išžudymas.md#claim-t-62543|Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)]]: Prūsai stipria kariuomene apsiautė Štarkenbergo pilį, ją užėmė, išžudė brolius ir gyventojus, o pilį pavertė pelenais.
+- susijęs iš [[objektai/ivykiai/Žibunto žygis į Mozūriją ir Kulmiją.md#claim-t-201354|Žibunto žygis į Mozūriją ir Kulmiją]]: Daukanto pasakojime lietuvių kunigaikštis Žibuntas nusiaubė Kulmiją, sugriovė ir sudegino 250 bažnyčių, o su grobiu grįžo į Kernavę.
 - susijęs iš [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka.md#claim-t-62725|Viešoji krikščionių atgaila ir saviplaka]]: Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti.
 - susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
 - susijęs iš Didžiųjų magistrų jaunesnioji kronika: Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.
@@ -273,6 +297,87 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190907
+
+- id: c-184352
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 227"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 227."
+  citata_originali: |
+    Pajutę tą gudai, kurie tuo pačiu
+    laiku letgalius teriojo, palikini juos pargrįžo namo,
+    bet tenai jau lietuvių ir žemaičių nebrado.
+    Lygia dalia Žibuntas, arba Žibinąs, kunigaikštis
+    lietuvių, su savo pulkais saulėlydy taip pat garbę
+    lietuvių platino: kaipogi, perlėkęs žiebų veikumu
+    visą Mozūriją, savo smarkybe ir narsybe visas šalis
+    nugandino, kursai, gieždamas dar apmaudą už se­
+    nų dienų savo nelaimas, visą Kulmiją, jau lenkams
+    vergaujančią, nuteriojo, pilis visur į dulkes išklas-
+    tė, 250 pačių bažnyčių sugriovė ir sudegino, jau
+    mojavo griautis į pačią buveinę Mozūrijos Plocką,
+    bet, nebgalėdamas ant galo turtų ir gėrybių suplėš­
+    tų su savo karėj ais bepačiuižt-i, nuleido siuntinius
+    pas Konradą, viešpatį mozūrų, su tokiu įsakymu,
+    jog jei jis nori liuosas namuose savo gyventi, tegul
+    atleidžia tuojau į jo abažą keletą šimtų stiprių ark­
+    lių ir apdarą kareiviams. Konradas tuomi taip nu­
+    siminė, jdg, neturėdamas nei tiek žirgų, nei apdaro,
+    viešintiems pas save svečiams arklius atėmęs ir
+    drabužius nudaręs, netikėliams lietuviams ir žemai­
+    čiams kuo veikesniai į abažą nusiuntė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201002
+
+- id: c-184353
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 247"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 247."
+  citata_originali: |
+    Silezijos su vyskupais ir jo-
+    mylistomis savo ūkės, visų pirma užėmė į savo už­
+    tarymą Kulmiją, kurios sugriautas pilis pradėjo tai­
+    syti ir stiprinti. Lūgojant Konradui, kunigaikščiui
+    mozūrų, ir leidžiant vyskupui Kristijonui, pradėjo
+    tie meldžionys ir pilį Kulmo tvirtinti, kurią lietuviai
+    buvo sugriovę. Užvis Henrikas steigė tame daikte
+    1 V o i g t , Preus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201003
+
+- id: c-184354
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 253"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 253."
+  citata_originali: |
+    Regis, vylės, jog brostviai Dobrynės
+    sudraus lietuvius ir žemaičius netikėlius, dėl to gi
+    apdovenojo tuos brostvius didžiomis liecybomis sa­
+    vo ūkė j, drausdamas alvieną už mažiausią netaiką
+    ir abydą, jiems padarytą1.
+    Konradas, kunigaikštis mozūrų, regėdamas ant
+    kranto pragaro savo ūkę, nuo visur veizėjo jai pa­
+    šalpos, bet nei nuo artimų tautų, nei nuo brostvių
+    Dobrynės nė kokios pagalbos nebgalėjo beviltis nei­
+    gi nuo nelaimų ir terionių savo kraštą beužtaryti.
+    Tame suspaudime viena pati stipri kariauna, ūkėj
+    jo gyvenanti ir kasdieną su netikėliais lietuviais ka­
+    riaujanti, tegalėjo juos sudrausti ir kraštą nuo te­
+    rionių ir nelaimų uždengti, bet tos nė nuo kur jis
+    negalėjo gauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201004
 
 ## Ryšiai
 - Konradas buvo valdovas [[objektai/vietos/Mazovija]]

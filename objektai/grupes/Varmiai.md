@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Varmiai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -130,8 +131,16 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginys: "Išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams."
   pagrindžia:
     - c-75812
+
+<a id="claim-t-200929"></a>
+- t-014
+  global_id: t-200929
+  teiginys: "Daukanto pasakojime Varmo vardu pavadintas kraštas vėliau vadintas Varmiais."
+  pagrindžia:
+    - c-184279
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
+- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-200991|Glapas]]: Daukanto pasakojime Glapas įvardijamas Varmijos srities vadu tarp penkių perkrikštų karvedžių.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89791|Glapas]]: Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-184119|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
 - susijęs iš [[objektai/asmenys/Pobravas.md#claim-t-60414|Pobravas]]: Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.
@@ -490,5 +499,22 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindzia:
     - t-78547
 
-## Ryšiai
-- Varmiai paskyrė [[objektai/asmenys/Glapas]]
+- id: c-184279
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
+  citata_originali: |
+    Ketvirtajam sūnui teko kraštas tarp upių Ska­
+    ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
+    do, tame gi krašte buvusi ir žinyčia Romovė. Lygia
+    dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto,
+    Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo
+    kraštus, kuriuos nuo savo vardo praminė. Nuo ko
+    paskui vadinos Šalau j ai, Natangai, Bartai, Galindai,
+    Varmiai, Ogoniai, Pamezonys, Kulmionys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200929

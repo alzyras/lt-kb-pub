@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kujavija'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -129,10 +130,18 @@ media_all_json: |-
   teiginys: "Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo 160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir Lenčicos, 1229 ir 1241—1243 m.."
   pagrindžia:
     - c-179047
+
+<a id="claim-t-201070"></a>
+- t-013
+  global_id: t-201070
+  teiginys: "Sviatopelkas, persikėlęs per Vyslą, įsiveržė į Kujaviją, siaubė kraštą ir grįžo su dideliu grobiu bei belaisviais."
+  pagrindžia:
+    - c-184420
 - susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63809|Kazimieras (Kujavijos kunigaikštis)]]: Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201032|Sviatopelkas]]: Daukanto pasakojime Sviatopelkas su didele kariauna persikėlė per Vyslą ir prie Golubo pasaloje užpuolė kryžėjų kariauną.
 - susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62928|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 - susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
@@ -173,6 +182,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60195|Pukuveras (Lietuvos karalius, XIII a.)]]: 1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201032|Sviatopelkas]]: Daukanto pasakojime Sviatopelkas su didele kariauna persikėlė per Vyslą ir prie Golubo pasaloje užpuolė kryžėjų kariauną.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-05202|Traidenis (valdovas, XIII a.)]]: 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90058|Traidenis (valdovas, XIII a.)]]: Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.
 - susijęs iš [[objektai/asmenys/Vilhelmas (dekanas).md#claim-t-60462|Vilhelmas (dekanas)]]: Dekanas Vilhelmas dalyvavo kaip liudytojas tvirtinant apie 1226 arba 1230 m. sudarytą Kulmo ir Lubavos žemių dovanojimą Ordinui.
@@ -180,6 +190,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88536|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
+- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-200916|Dobrynės broliai]]: Dobrynės brolių susijungimas su kryžėjais jau buvo baigtas, o kryžėjai buvo pasisavinę Dobrynės pilį ir valsčius.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65110|Dobrynės broliai]]: Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
@@ -196,6 +207,7 @@ media_all_json: |-
 - susijęs iš Reitgotija: Ksavero Bogušo veikaluose, Narbuto teigimu, esama įrodymų, kad herulai keliavo į Reitgotiją.
 - susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
 - susijęs iš Sedlcai: Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.
+- susijęs iš Švecas (vieta): 1245 m. Sviatopelkas pastiprino seną Šveco pilį prie Kulmo ant Vyslos skardžio ir įdėjo joje įgulę.
 - susijęs iš Dobryniaus: 1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.
 ## Reikšmingi paminėjimai
 - c-006
@@ -464,8 +476,28 @@ media_all_json: |-
   pagrindzia:
     - t-197174
 
+- id: c-184420
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 335"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
+  citata_originali: |
+    Lygia dalia patsai didysis mistras kaip
+    įmanąs steigė pašalpą kryžeiviams, bet, iki nesu­
+    traukiant jiems tas galybes, Sviatopelkas su didžia
+    kariauna, persikėlęs per Yslą, ties Toninę antpuolė
+    pasalu kryžėjų kariauną ties Golubu padrevency.
+    Paskui gulė į Kujaviją ir tenai sariodamas visame
+    krašte, sugriejęs didį grobį, grįžo namon, varyda­
+    mas daugybes imtinių motriškų ir vaikų. Tas jo
+    antpuolis taip staigus buvo, jog niekas jo nedrįso
+    ne vien ramdyti, bet ir mojuoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201070
+
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Zemislovas]]
 - Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]]
 - Turėjo priklausinį: [[objektai/vietos/Sedlcai]]
-- Kujavija priklausė [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

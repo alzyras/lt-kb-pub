@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Revelis'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -60,6 +61,13 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   teiginys: "Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje, vadinamojo Suomijos karo metu."
   pagrindžia:
     - c-171712
+
+<a id="claim-t-201100"></a>
+- t-004
+  global_id: t-201100
+  teiginys: "Revelį, Daukanto vadinamą danų pilimi, apgulė 10 000 igumių, išsirinkusių savo karvedį."
+  pagrindžia:
+    - c-184450
 - susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173144|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173138|Dovydas (Gardino pilininkas)]]: 1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą.
@@ -80,8 +88,11 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40871|Danijos karaliaus kariai iš Revelio]]: Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
+- susijęs iš [[objektai/ivykiai/Kalavijonų ir kryžėju suvienijimas.md#claim-t-201309|Kalavijonų ir kryžėju suvienijimas]]: Kalavijonų ir kryžėjų suvienijimą lydėjo ginčas dėl Revelio pilies bei Valdemaro pareigos grąžinti kraštus kalavijonims.
+- susijęs iš [[objektai/ivykiai/Kalavijonų ir kryžėjų suvienijimas.md#claim-t-201269|Kalavijonų ir kryžėjų suvienijimas]]: 1237 m. balandį įvykęs Kalavijonų ir kryžėjų ordinų suvienijimas, pasak Daukanto, kalavijonams nepatiko, nes popiežius Revelį atidavė Danijos valdovui.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
+- susijęs iš [[objektai/ivykiai/Taika tarp kalavijonų ir danų.md#claim-t-201345|Taika tarp kalavijonų ir danų]]: 1238 m. gegužės 9 d. ginčas tarp danų ir kalavijonų užbaigtas karaliaus Eriko ir danų diduomenės akivaizdoje, danams gavus Revelio pilį ir Igumijos sritis, o kalavijonams – Jervės kraštą.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103835|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš Livonija: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.
 - susijęs iš Revelio žemė: 1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją.
@@ -239,6 +250,28 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   pagrindzia:
     - t-188823
 
+- id: c-184450
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 586"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 586."
+  citata_originali: |
+    Igumiai džiaugdamies
+    nešiojo kruvinas kardas nuo namų lig namų, jog
+    išsiliuosavo nuo smarkių kraugerių, it prieš kokią
+    šventę grindis* trobų, kaipo subjaurotas nuo krau­
+    gerių vokyčių, išmazgojo, vildamies, jog nuo šiol
+    lykuos laimingas dienas savo gyvenimo. Tuojau
+    susirinkę 10 000 igumių pakėlė sau karvedį ir danų
+    pilį, arba Revelį, apgulė. Taip pat patrakę vikio-
+    nys vyskupą Hermaną su diduomene pilėj Hapsa-
+    loj apgulė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201100
+
 ## Ryšiai
-- Puolė Revelį: [[objektai/asmenys/Dovydas (Gardino pilininkas)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]
+- Puolė Revelį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pskoviečiai]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

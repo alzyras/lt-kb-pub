@@ -4,6 +4,7 @@ pavadinimas: 'Jaunutis (valdovas, XIV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -91,6 +92,13 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   teiginys: "Pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino."
   pagrindžia:
     - c-168078
+
+<a id="claim-t-200999"></a>
+- t-008
+  global_id: t-200999
+  teiginys: "Kęstutis 22 lapkričio dieną, auštant, užėmė Vilniaus pilis, o Jaunutis per sąmyšį pabėgo, tačiau Kęstučio kariai jį sugavo liekne ir parvedė į Vilnių."
+  pagrindžia:
+    - c-184349
 - susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
 - susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
 - susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
@@ -257,6 +265,27 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193915
+
+- id: c-184349
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 584"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 584."
+  citata_originali: |
+    Pasiėmė abudu ant sutartos dienos su karėj ais
+    į Vilnių ateiti, bet Algirdas dėl ūkės reikalų Vi­
+    tebske sugaišo ir neatėjo ant paženklintos dienos.
+    Kęstutis, nesulaukdamas jo, 22 dienoj lapkričio mė­
+    nesio įvedė auštant šienų vežimuose karėjus į Vil­
+    nių ir užėmė aukštąją ir žemąją pilis. Jaunutis ta­
+    me sąbrūzdy iš miego atsibudęs puspliki^ buvo iš­
+    sprukęs, vienok karėjai Kęstučio nutvėrė jį liekne
+    ir į Vilnių parvedė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200999
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Ukmergė]]

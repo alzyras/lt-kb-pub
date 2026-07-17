@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -174,6 +175,20 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginys: "Lietuvos metraštis Daumantą vaizduoja sutelkusį pskoviškę ir polockiškę kariuomenę ir žygiavusį į Lietuvą, ketinant tapti Lietuvos ir Žemaičių kunigaikščiu."
   pagrindžia:
     - c-178929
+
+<a id="claim-t-200978"></a>
+- t-020
+  global_id: t-200978
+  teiginys: "Daukanto perteikiamu gudų rašytojų pasakojimu, Daumantas susitarė su Treniota ir Tautvilu nužudyti Mindaugą, kai šis esą pasisavino jo žmoną."
+  pagrindžia:
+    - c-184328
+
+<a id="claim-t-200979"></a>
+- t-021
+  global_id: t-200979
+  teiginys: "Po Daumanto, kurį Daukantas vadina Polocko urėdu, mirties Guduose lietuviams kilo naujas karas."
+  pagrindžia:
+    - c-184329
 - susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-183745|Juozas Daumantas]]: Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.
 - susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-40235|Juozas Daumantas]]: Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.
 - susijęs iš [[objektai/asmenys/Kantautas.md#claim-t-186123|Kantautas]]: Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
@@ -627,7 +642,51 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindzia:
     - t-196818
 
+- id: c-184328
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 403"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 403."
+  citata_originali: |
+    Noris gudų rašytojai sako, jog tuo laiku būk nusti­
+    pusi karalienė Morta, į kurios budynę daugybė di­
+    duomenės Lietuvos ir Žemaičių susirinkusi ir palai­
+    dojusi ją pagal ūkės dobę su didžia iškilme. Tarp
+    kitų svečių buvęs tenai Daumantas su žmona, se­
+    seria nabaštikės, kurią tenai Mindaugas taip pamė­
+    gęs, jog, geisdamas ją už žmoną sau paskirti, būk
+    nebįdavęs daugiaus jos Daumantui, kursai, tuomi
+    būdamas abydytu ir negaudamas teisybės, būk su­
+    sitaręs su Treniota, kunigaikščiu Žemaičių, ir Taut­
+    vilu, kunig. Polocko, Mintautą nugaluoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200978
+
+- id: c-184329
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 498"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 498."
+  citata_originali: |
+    Lygia dalia lietuviai
+    antrą kariauną kryžėjų, nuo Gardino grįžtančią, ke­
+    liose kruvinose mūšose pergalėjo.
+    Ateinantį metą rados lietuviams Guduose nauja
+    karė. Nustipus Daumantui, urėdui Polocko, ūkėjai,
+    kitą kartą, kaip sakiau, krievais, arba krivičiais,
+    vadinami, jau krikščionys ir į gudus išvirtę, kuriuos
+    šiandien vadina baltaisiais gudais nuo to, jog dėvė­
+    jo lietuviškai, o kalba gudiškai jaugiai su lietuvių
+    kalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200979
+
 ## Ryšiai
-- Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]]
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]
 - Daumantas (kunigaikštis, XV a.) surengė žygį į [[objektai/vietos/Nalšėnai]]

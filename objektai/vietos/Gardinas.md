@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -574,6 +575,13 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   pagrindžia:
     - c-184057
 
+<a id="claim-t-201060"></a>
+- t-077
+  global_id: t-201060
+  teiginys: "Iš Parusnio į Lietuvą ir Žemaičius persikėlę lietuviai, pasak Daukanto, apsigyveno Gardino apygardose ir rodė žygiuojantiems lietuviams bei žemaičiams kelią į Parusnį."
+  pagrindžia:
+    - c-184410
+
 <a id="claim-t-188694"></a>
 - t-072
   global_id: t-188694
@@ -587,12 +595,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: 'Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.'
   pagrindžia:
     - c-171586
+- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184829|Skomantas]]: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113991|Steponas Batoras]]: Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d., o jo mirtis nuliūdino Vilnių ir visą šalį.
 - susijęs iš [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną.md#claim-t-185827|Skomanto antpuolis prieš Gardiną]]: Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185371|įgula]]: Skomantas po kruvino antpuolio paėmė Gardino pilį, išžudė jos įgulą ir sugriovė arba sudegino įtvirtinimus.
 - susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62886|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.
+- susijęs iš Nemunas: Vasarop Daukanto aprašomas kryžėjų mistras persikėlė per Nemuną, įsiveržė į Lietuvą ir apgulė ant Nemuno skardžio stovėjusią Gardino pilį.
 - susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
 - susijęs iš Brasta: Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.
 - susijęs iš [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną.md#claim-t-185827|Skomanto antpuolis prieš Gardiną]]: Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
@@ -660,6 +670,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas.md#claim-t-66483|Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]: Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.
 - susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66524|Dovydiškių sutarties sudarymas]]: 1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.
+- susijęs iš [[objektai/ivykiai/Gardino pilies apgultis ir sudeginimas.md#claim-t-201308|Gardino pilies apgultis ir sudeginimas]]: Skomantas, persikėlęs per Nemuną, apgulė Gardino pilį, įsiveržė pro silpnesnius mūrus, iškirto įgulę ir pilį sudegino.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-62782|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/ivykiai/Gardino pilies sunaikinimas.md#claim-t-62783|Gardino pilies sunaikinimas (pilis, XIII a.)]]: 1284 m. Ordino magistras su Skomantu patraukė prieš Gardino pilį, o broliai įsiveržė į ją ir sudegino.
@@ -671,6 +682,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio mirtis ir palaidojimas.md#claim-t-186769|Kazimiero Jogailaičio mirtis ir palaidojimas]]: Kazimieras Jogailaitis po 1492 m. gegužės 8 d. Trakuose susirgo vidurių liga keliaudamas iš Vilniaus į Gardiną.
 - susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
+- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
 - susijęs iš [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.).md#claim-t-62886|Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]: Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.
 - susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.).md#claim-t-35873|Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]: Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.
 - susijęs iš [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa).md#claim-t-92942|Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]: 1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę.
@@ -693,6 +705,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš Gardino gubernija: Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.
 - susijęs iš Gardino gubernija: 1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
+- susijęs iš Gardino pilis (pilis): Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė į Lietuvą ir apgulė dešiniajame Nemuno krante esančią Gardino pilį.
 - susijęs iš Gardino sritis: Apie VIII-IX a. slavai jau buvo prie Polocko ir Minsko, o iš pietų pasiekė Gardino sritį.
 - susijęs iš Gardino žemė: Gardino žemė su artimiausiomis pilimis buvo pradinis Mindaugo laimikis užimant Lietuvai artimiausias krivičių sritis.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.
@@ -708,6 +721,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
 - susijęs iš Naujasis Gardinas: Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos.
 - susijęs iš Naujasis Gardinas: Vytautas atsigręžė prieš Naująjį Gardiną ir Meteną, o šios pilys buvo sunaikintos iki pamatų.
+- susijęs iš Nemunas: Vasarop Daukanto aprašomas kryžėjų mistras persikėlė per Nemuną, įsiveržė į Lietuvą ir apgulė ant Nemuno skardžio stovėjusią Gardino pilį.
 - susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
 - susijęs iš Prūsija: Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi.
 - susijęs iš Trakai: Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną.
@@ -725,16 +739,16 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą su Trakais, Palenke, Gardinu ir Brasta.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46004|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
 - susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82241|Bodzanta (arkivyskupas, XIV a.)]]: 1386 m. vasario 15 d. Krokuvos katedroje Gniezno vyskupas Bodzanta pakrikštijo Jogailą Vladislovo vardu.
 - susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-200979|Daumantas (kunigaikštis, XV a.)]]: Po Daumanto, kurį Daukantas vadina Polocko urėdu, mirties Guduose lietuviams kilo naujas karas.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59840|Ditrichas (Sembos fogtas)]]: Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.
@@ -801,6 +815,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/autoriai/Paszkiewicz H.md#claim-t-64803|Paszkiewicz H]]: H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.
 - susijęs iš [[objektai/autoriai/Thunmanas.md#claim-t-88082|Thunmanas]]: Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
+- susijęs iš [[objektai/daiktai/Drobynas (daiktas).md#claim-t-201365|Drobynas (daiktas)]]: Gardino pilies apgulties metu kova prasidėjo vos drobynui pasiekus pilies mūrus.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87062|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
@@ -808,6 +823,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72029|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72031|Aukščiausioji Santarvininkių Taryba (institucija)]]: 1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72032|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-200915|Bartai]]: Užkariavus Bartiją, barčionų vyresnieji Numa ir Derska buvo išsikraustę į Lietuvą, o vėliau prašė leisti grįžti į Bartiją.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178772|Jotvingiai]]: Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187707|Jotvingiai]]: Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių.
@@ -824,6 +840,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179269|Lietuviai]]: Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179343|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200925|Lietuviai]]: Auktuma, pagezonų karvedys, buvo paėmęs Christburgo ir Elbingo pilių komendantus, vėliau gyveno Lietuvoje ir žuvo gindamas pilį.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169681|Lietuvos Didžioji Kunigaikštija]]: 1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169690|Lietuvos Didžioji Kunigaikštija]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89165|Pagudėnai]]: Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.
@@ -949,9 +966,11 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš Metenburgas: Ordino magistras liepė netoli Gardino pastatyti Metenburgą, kuriame buvo įkurdinta kryžiuočių įgula.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Mozūrijos žemė: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
+- susijęs iš Natangija: Daukanto pasakojime Kartinos kamendotas Dovydas, keršydamas kryžėjams, su 800 raitelių įsiveržė į Natangiją, nuniokojo kraštą, daug gyventojų iškirto ir išvarė į vergiją.
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
+- susijęs iš Nemunas: Traukiantis kariuomenei, nepakankamai tvirtas Nemuno ledas neatlaikė svorio, todėl dalis karių ir grobio paskendo.
 - susijęs iš Nemunas: Narbutas Gardiną apibūdino kaip miestą prie Krono upės, kuri jo tekste tapatinama su Nemunu.
 - susijęs iš Pagraudė: Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.
 - susijęs iš Palenkė: Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.
@@ -1029,13 +1048,11 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59916|Henrikas Cutsvertas]]: Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.
 - susijęs iš Gorodnica: Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179216|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
 - susijęs iš [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.).md#claim-t-66504|Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]: 1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.
 - susijęs iš Koložas: Koložas buvo Gardino priemiestis.
 - susijęs iš Palenkė: Kęstutis paveldėjo Trakus ir Gardiną su Palenke.
 - susijęs iš Pamarys: Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179088|Kryžiuočių ordinas]]: 1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183887|Lietuviai]]: Lietuvos karalius, sužinojęs apie Gardino pilies papilio sunaikinimą, nusiuntė pilies ginti daug rinktinių karių.
 - susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192225|chorunžuos]]: Narbutas mini tris „chorunžuos“: Merkio, Eišiškių ir Rodūnės karinius valsčius.
@@ -2447,6 +2464,32 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200712
+
+- id: c-184410
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 465"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
+  citata_originali: |
+    Ateinantį metą mistras sukėlė naują kariauną ir
+    nujautęs, jqg daug lietuvių Parusny, nenorinčių vo-
+    kyčiams vergauti, išsikraustė į Lietuvą ir Žemai­
+    čius ir apygardose Gardino apsigyveno, kurie, trau­
+    kiant lietuviams ir žemaičiams į Parusnį, rodė kelią
+    ir tuo pačiu didžiai pavojais buvo kryžėjams, kurie
+    dėl to vien ketėjo šiuo žygiu su kariauna tą sritį
+    aplankyti, kaipogi mistras paėmęs dar su savim
+    Skomantą, kaipo žinovą tų kraštų, kursai slapsty­
+    damos nuo kryžėjų pirma tenai gyveno. Vasarop
+    persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir
+    Gardino pilį, ant dešinio skardžio Nemuno riogsan­
+    čią, apgulė. Vos buvo atkolęs drobynas į mūrus,
+    tuojau visų baisiausia kova prasidėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201060
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -543,6 +544,20 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   pagrindžia:
     - c-181801
 
+<a id="claim-t-201066"></a>
+- t-070
+  global_id: t-201066
+  teiginys: "Daukantas Kijevą apibūdino kaip gudų buveinę, kurioje gyveno jų didysis kunigaikštis, vadintas caru arba visos Gudijos viešpačiu."
+  pagrindžia:
+    - c-184416
+
+<a id="claim-t-201067"></a>
+- t-071
+  global_id: t-201067
+  teiginys: "Daukanto pasakojime lietuviai, naktį palaidoję kūnus, auštant pasirodė prie Kijevo mūrų."
+  pagrindžia:
+    - c-184417
+
 <a id="claim-t-180001"></a>
 - t-002
   global_id: t-180001
@@ -629,7 +644,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/asmenys/Fotijus.md#claim-t-82303|Fotijus]]: Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87521|Ivanas Vasiljevičius]]: Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis).md#claim-t-53956|Jonas Algimantaitis (Alšėniškis)]]: Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.
 - susijęs iš [[objektai/asmenys/Jurgis Cemblakas.md#claim-t-35173|Jurgis Cemblakas]]: Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103052|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.
@@ -637,6 +652,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63828|Kiprijonas]]: Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas.
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190931|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.
+- susijęs iš [[objektai/asmenys/Olga.md#claim-t-201019|Olga]]: Daukanto pasakojime Olga, atkeršijusi juodgirėnams, apvažiavo savo kraštą, paliko sūnų Kijeve, suskirstė kraštą į valsčius ir išvyko krikštytis į Konstantinopolį.
 - susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/asmenys/Ptolemėjas.md#claim-t-191099|Ptolemėjas]]: Teodoro Narbuto perteikimu, Naruševičius Ptolemėjo chunų koloniją siejo su vieta, kur vėliau buvo Kijevas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179656|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
@@ -770,9 +786,10 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-93204|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Kojelavičiaus pasakojime Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė jam paklusti.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-200986|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Daukanto pasakojime kijevionys Gediminą, Lietuvos didįjį kunigaikštį, pakėlė savo viešpačiu, o Gediminas pažadėjo saugoti jų tikybą, kalbą ir papročius bei paskyrė Mintautą urėdu Kijeve.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93285|Gregorijus Cemblakas]]: Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182807|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.
 - susijęs iš [[objektai/asmenys/Jonas Nemiravičius.md#claim-t-186216|Jonas Nemiravičius]]: Žygimantas pasiuntė Joną Nemiravičių pranešti karaliui, kad Boleslovas išvytas iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
@@ -800,6 +817,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19265|Steponas (Vengrijos valdovas)]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Steponas.md#claim-t-64125|Steponas]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-201033|Sviatoslavas]]: Daukantas rašo, kad Sviatoslavas, dar nebūdamas krikščionis, perėmė valstybės valdžią ir siekė pasižymėti karais bei žygiais.
 - susijęs iš [[objektai/asmenys/Teodoras (Gedimino brolis).md#claim-t-30391|Teodoras (Gedimino brolis)]]: Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
 - susijęs iš [[objektai/asmenys/Teodoras (Karijoto sūnus).md#claim-t-35291|Teodoras (Karijoto sūnus)]]: Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64172|Teodoras (Liubarto sūnus)]]: Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų.
@@ -868,6 +886,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171418|Totoriai]]: Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171445|Totoriai]]: Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187747|Totoriai]]: Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.
+- susijęs iš [[objektai/grupes/Ugrai (grupė).md#claim-t-201256|Ugrai (grupė)]]: Daukanto pateiktame gudų raštų pasakojime teigiama, kad Olegui valdant ugrai, arba vengrai, iš rytų perėjo per Gudiją ir užėmė Moldaviją bei Valakiją.
 - susijęs iš [[objektai/grupes/Ukrainiečiai.md#claim-t-188356|Ukrainiečiai]]: Narbutas aiškino, kad ukrainiečių Rosės upės vardas kilo iš kadaise ten gyvenusių lietuvių genties tautų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176077|Vilniaus kapitula]]: Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
@@ -1013,7 +1032,6 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš Černigovas: Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.
 - susijęs iš Černigovas: Černigove susidarė atskira kunigaikštija.
 - susijęs iš Černigovas: Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis.
-- susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 - susijęs iš [[objektai/zodynas/Kerzono linija.md#claim-t-44061|Kerzono linija]]: Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189171|Plikasis kalnas Lyse góry]]: Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus.
@@ -1037,6 +1055,7 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11777|pravoslavai]]: Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169930|rusėnų kalba LDK raštų kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba.md#claim-t-22294|rusėnų kalba LDK slavų kanceliarinė kalba]]: Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų.
+- susijęs iš [[objektai/zodynas/urėdas.md#claim-t-200957|urėdas]]: Daukanto pasakojime Gediminas Kijeve urėdu paskyrė Alšėnų kunigaikštį Mintautą, neseniai persikrikštijusį.
 - susijęs iš [[objektai/zodynas/švietimo apygarda.md#claim-t-03234|švietimo apygarda]]: 1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179669|Skirgaila]]: Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
@@ -2907,16 +2926,61 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
     gė muitinę, vadintą Vytauto pirtimi.
   citata_rodoma: "27.\n79\nKijevo kunigaikštystė ir Podolė, \nanais laikais nusidriekusi iki pat \nDniepro ir Dniestro žiočių, priklau­\nsė Lietuvai; Kafos* miestas prie Juo­\ndosios jūros buvo svarbiausias Lie­\ntuvos prekybinis uostas, jungęs su \nRytais, iš kur prekės būdavo gabe­\nnamos į Kijevą; pastarajam tarpinin­\nkaujant Vilnius, kaip valstybės sos­\ntinė, palaikė prekybinius ryšius su \nRytais. Lietuvių Tavano pilyje, sto­\nvinčioje prie Dniepro, Vytautas įstei­\ngė muitinę, vadintą Vytauto pirtimi."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184416
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 531"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 531."
+  citata_originali: |
+    Negalėjo dar
+    numanyti, į kurią pusę Gediminas su tokia galybe
+    blokšis, bet tuojau išsireiškė: kaipogi, įėjęs į Juo­
+    duosius Gudus, apgulė stiprią pilį Ovničą*, į kurią
+    vienu antpuoliu įsilaužęs, užėmė, bet ilgesniai truko
+    ties Žitomiro pile, kurioje daugybė diduomenės, ar­
+    ba, kaip gudai vadina, bajorų, užsirakinusių ketėjo
+    gintis iki paskuojo, bet, regėdami neatsiturėsią nuo
+    lietuvių, pasidavė jiems. Gediminas, palikęs ir te­
+    nai savo įgulę, traukė į gilumą krašto gudų toli­
+    mesnių ir, leisdamas į visas puses rimtas virtines
+    sarioti, artinos Kijevan, buveinėn gudų, kurioje jų
+    didysis kunigaikštis, caru, arba viešpačiu, visos Gu­
+    dijos vadinamas, gyveno. Pažino gudai, bet vėlai,
+    jog jau lietuviai neb grobio ėjo į Gudus grieti, bet
+    ūkės užimti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201066
+
+- id: c-184417
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 533"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 533."
+  citata_originali: |
+    Krito tą dieną ne vien di­
+    džios daugybės gudų karėjų, bet ir pačių kunigaikš­
+    čių; vos patsai Sviatoslavas su Romanu beišsprūdo
+    nuo giltinės. Lietuviai, nakčia pagal palaidoję kū­
+    nus, auštant ties mūrais Kijevo pasirodė. Gyvento­
+    jai, tą matydami, nusiminė ir, noris jų 400 000 tenai
+    buvo, nebdrįso daugiatis su lietuviais begrumtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201067
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
+- Buvo valdoma: [[objektai/asmenys/Švitrigaila]]
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
-- Mirties vieta: [[objektai/asmenys/Skirgaila]]
 - Puolė Kijevą: [[objektai/grupes/Totoriai]]
 - Užėmė Kijevą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Buvo užkariauta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Kijevas priklausė [[objektai/grupes/Aukso orda]], [[objektai/vietos/Rusija]]

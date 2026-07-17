@@ -1,14 +1,19 @@
 ---
 tipas: asmuo
-pavadinimas: 'Danielius'
+pavadinimas: 'Danielius (kunigas, XIII a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1237 m.'
 date_start: '1237'
 date_end: ''
+variantai:
+  - 'Danielius'
+aliases:
+  - 'Danielius'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,11 +37,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Danielius
+# Danielius (kunigas, XIII a.)
 
 ## Santrauka
 
-Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai. Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos. Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą.
+Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.
 
 ## Teiginiai
 
@@ -74,10 +79,32 @@ Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, at
   teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
   pagrindžia:
     - c-179306
+
+<a id="claim-t-200975"></a>
+- t-006
+  global_id: t-200975
+  teiginys: "Daukanto pasakojime kunigas Danielius iškeliavo į Lenevaldę, kur buvo žmoniškai priimtas ir apkrikštijo ūkininkus."
+  pagrindžia:
+    - c-184325
+
+<a id="claim-t-200976"></a>
+- t-007
+  global_id: t-200976
+  teiginys: "Daukanto pasakojime Danielius Turaidoje ir Dabrelio pilyje krikštijo vietos gyventojus, o iš ten nuėjo į Kesės pilį krikštyti žmonių."
+  pagrindžia:
+    - c-184326
+
+<a id="claim-t-200977"></a>
+- t-008
+  global_id: t-200977
+  teiginys: "Daukanto pasakojime Danielius buvo Lenevaldės pilies kamendotas, o jo įgula naktį užpuolė miegančią Kuoknesės įgulą ir paėmė į nelaisvę kunigaikštį Veisekę su tarnais."
+  pagrindžia:
+    - c-184327
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
 - susijęs iš [[objektai/asmenys/Nebiastas.md#claim-t-191446|Nebiastas]]: Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais.
 - susijęs iš Brasta: Teodoras Narbutas Brastos apylinkėse mini svarbias jotvingių gyvenvietes, kurias 1237 m. ketino užpulti Danieliaus vadovauti Pietų Rusios kunigaikščiai.
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-200964|Aleksandras (kunigas, XIV a.)]]: Kunigas Aleksandras buvo nusiųstas į Medžiapolę, kur, Daukanto pasakojimu, apkrikštijo vietos gyventojus ir įkūrė jiems bažnyčią.
 - susijęs iš [[objektai/asmenys/Lozorius.md#claim-t-191439|Lozorius]]: Lozorius mūšio metu lūkuriavo rezerve su poloviečiais, kuriuos vėliau smarkiai puolė jotvingiai.
 - susijęs iš [[objektai/asmenys/Nebra.md#claim-t-191447|Nebra]]: Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė.
 - susijęs iš [[objektai/asmenys/Stegutas Zebrovičius.md#claim-t-191320|Stegutas Zebrovičius]]: 1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius.
@@ -87,6 +114,9 @@ Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, at
 - susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-192068|Šarvai]]: Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti.
 - susijęs iš Haličo-Voluinės (Ipatijaus) metraštis: Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius.
 - susijęs iš Būgas: Būgas jau tuomet buvo Mazovijos ir rusų žemių riba.
+- susijęs iš Kesės pilis (pilis): Danielius, pakrikštijęs žmones Turaidoje ir Dabrelio pilyje, nuėjo į Kesės pilį krikštyti.
+- susijęs iš Medžiapolė (vieta): Į Medžiapolę nusiųstas kunigas Aleksandras apkrikštijo tenykščius gyventojus ir įkūrė jiems bažnyčią.
+- susijęs iš Turaida (vieta): Alobramdas Turaidoje mokė ir krikštijo latvius, suskirstė kraštą į parapijas ir Kaupo pilyje įkūrė bažnyčią.
 - susijęs iš Vizna: Kunigaikštis Danielius nuėjo prie Viznos, persikėlė per Narevo upę ir iš nelaisvės išvadavo daug krikščionių.
 ## Reikšmingi paminėjimai
 - c-001
@@ -223,3 +253,74 @@ Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, at
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197721
+
+- id: c-184325
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  citata_originali: |
+    Kunigą
+    Aleksandrą nusiuntė į Medžiapolę, kursai visus te­
+    nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė. Ku­
+    nigas Danielius į Lenevaldę iškeliavo, priimtas tenai
+    žmoniškai, ūkinykus apkrikštijo. Vienu žodžiu sa­
+    kant, kur vien pasivaidino kunigai, ten visi klausė
+    mokslo Evangelijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200975
+
+- id: c-184326
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 200"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  citata_originali: |
+    Vienu žodžiu sa­
+    kant, kur vien pasivaidino kunigai, ten visi klausė
+    mokslo Evangelijos. Tas patsai Danielius nusisuko į
+    Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­
+    imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį
+    krikštyti. Paskui nukeliavo į Idumėją ir tenai daug
+    letgalių apkrikštijo ir Ropoj bažnyčią jiems įkūrė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200976
+
+- id: c-184327
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 208"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 208."
+  citata_originali: |
+    Albertui
+    apipasakoti, kursai vėl nusiuntė kunigą juos Dievo
+    žody stiprinti ir bažnyčią jiems įkūrė.
+    Tuo pačiu laiku rados netaikos tarp Veisekės,
+    Kuoknesės kunigaikščio, ir kamendoto Lenevaldės
+    pilės Danieliaus, kurios įgulė antpuolė naktį pasalu
+    Kuoknesės įgulę miegančią ir tenai, vienus netikė­
+    lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė
+    patį kunigaikštį ir su jo tarnais apkalo; tą padarius,
+    vokyčiai apreiškė savo pilės vyrui Danieliui, kursai
+    atstu veizėjos, kas tenai nutiko, drovėdamos pats
+    tenai kištis, nurašė apie tą v. Albertui, kursai, noris
+    tokiu darbu širdyj džiaugės, vienok rašte jį peikė ir
+    kunigaikščiui pilį sugrąžino, kurį, dar didžiomis do-
+    venomis apdovenojęs nuo savęs, paleido, bet jog
+    jis pirmiaus buvo Albertui pusę savo pilės doveno-
+    jęs, todėl įdavė jam įgulę vokyčių kareivių, kad jis
+    reikale galėtų nuo žemaičių gintis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200977
+
+## Ryšiai
+- Danielius (kunigas, XIII a.) keliavo į [[objektai/vietos/Vizna]]

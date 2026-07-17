@@ -1,18 +1,19 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jaroslavas'
+pavadinimas: 'Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1009 m.'
   - '1041 m.'
 date_start: '1009'
 date_end: '1041'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
+variantai:
+  - 'Jaroslavas'
+aliases:
+  - 'Jaroslavas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,6 +21,10 @@ tags:
   - vyskupas
   - asmuo
   - valdovas
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,7 +38,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Jaroslavas
+# Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)
 
 ## Santrauka
 
@@ -63,11 +68,25 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     - c-173766
 
 <a id="claim-t-197755"></a>
-- t-004
+- t-005
   global_id: t-197755
   teiginys: "Tas pats Jaroslavas 1041 metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur negalima matyti ukrainiečių tautybės žmonių susimai šymo su lietuviais."
   pagrindžia:
     - c-179326
+
+<a id="claim-t-200998"></a>
+- t-006
+  global_id: t-200998
+  teiginys: "Vladimiras, padalijęs valdžią dvylikai sūnų, Jaroslavui paskyrė Rostovą, o šiam mirus Rostovas kliuvo Borisui."
+  pagrindžia:
+    - c-184348
+
+<a id="claim-t-190885"></a>
+- t-004
+  global_id: t-190885
+  teiginys: 'Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.'
+  pagrindžia:
+    - c-173767
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -81,24 +100,33 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - susijęs iš Naugardukas: 1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.
 - susijęs iš Naugardukas: 1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.'
+- c-004
+  santrauka: 'Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Tačiau Tidemanas rašo, kad
-    jis laimingai sugrįžęs į Bitiniją1. Šio Divonio kelionės
-    aprašymas išliko rankraštyje, kuris atiteko Plocko kated­
-    ros klebonui Jaroslavui ar veikiau buvo vyskupo Kristijo­
-    no rastas šio Jaroslavo parašytoje kronikoje. Tai turėjusi
-    būti knyga, parašyta slavų kalba, bet graikiškomis raidė­
-    mis2.
+    Kai didysis kunigaikštis Jaroslavas užkariavo Červenės
+    slavus, o ypač po savo žygio į Lenkiją, — jo metu jis
+    apiplėšė daug miestų ir lankiai gyvenamų valsčių, o
+    287
+
+    ## Puslapis 298
+
+    žmones 1031 metais išsivedė vergijon, — iš šių belais­
+    vių arčiau Kijevo esančioje Ukrainoje steigė kolonijas,
+    statė tvirtoves1. Tačiau jis negalėjo įkurti jokių kolonijų
+    krašte, esančiame prie Rosės, nes ten gyveno pečenegai
+    su orda, vadinama Charoboe. Tas pats Jaroslavas 1041
+    metais puolė ir Lietuvą, tačiau nėra žinių, kad jis būtų
+    lietuvių belaisvius perkėlęs į Ukrainą, taiip pat niekur
+    negalima matyti ukrainiečių tautybės žmonių susimai­
+    šymo su lietuviais.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Citatos
 
@@ -187,6 +215,35 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   pagrindzia:
     - t-197755
 
+- id: c-184348
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 59"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
+  citata_originali: |
+    Tuo tarpu radimičiai, apkyrėjus donį bemokėti
+    Vladimirui, patrakę, kuriuos vienok jis sudraudęs
+    laimingai ir apent duoklę sau šilti prisuokęs. Paskui
+    pergalėjęs bulgarus pavolgy ir su jais būk pakajų
+    suderėjęs, žadėdami bendring ai su vieni antrais gy­
+    venti, paskiaus dar užėmęs miestą Chersoną, kurio
+    iros šiandien dar tebėra regimos Kryme. Ant galo
+    apsipačiavęs su Ona, seseria Baziliaus ir Konstanti­
+    no, ciesorių grekonų, apsikrikštijo pats su visa gudų
+    tauta metuose 988 ir Chersono miestą apent greko­
+    nų ciesoriui pagrąžinęs. Įkyrėjęs sau valdžią ūkės,
+    Vladimiras padalijęs ją tarp 12 savo sūnų. Višisla-
+    vas įgavęs Naugardą į valdžią, Iziaslavas Polocką,
+    Jaroslavas Rostovą, kuriam nustipus, kliuvo jis Bo­
+    risui, Glėbas gavo Muromą, Sviatoslavas Pajuodgirę,
+    * Viršuj: g eia i.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200998
+
 ## Ryšiai
-- Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]
-- Jaroslavas surengė žygį į [[objektai/vietos/Lenkija]]
+- Jaroslavas (Lietuvos didysis kunigaikštis, XI a.) buvo valdovas [[objektai/vietos/Kijevo Rusia]]
+- Jaroslavas (Lietuvos didysis kunigaikštis, XI a.) pastatė [[objektai/vietos/Naugardukas]]
+- Jaroslavas (Lietuvos didysis kunigaikštis, XI a.) surengė žygį į [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

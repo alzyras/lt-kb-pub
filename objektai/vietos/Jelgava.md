@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Jelgava'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 datos:
   - '1561 m.'
   - '1582 m.'
@@ -51,9 +52,20 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   teiginys: "Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų."
   pagrindžia:
     - c-47056
+
+<a id="claim-t-201063"></a>
+- t-003
+  global_id: t-201063
+  teiginys: "Daukanto pasakojime mistras, siekdamas sudrausminti žemgalius, užėmė Jelgavą, joje įkūrė pilį ir pavadino ją Mitau."
+  pagrindžia:
+    - c-184413
+- susijęs iš [[objektai/asmenys/Svelgotė (kunigaikštis, XX a.).md#claim-t-201403|Svelgotė (kunigaikštis, XX a.)]]: Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
+- susijęs iš [[objektai/asmenys/Svelgotė (kunigaikštis, XX a.).md#claim-t-201403|Svelgotė (kunigaikštis, XX a.)]]: Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
+- susijęs iš Heiligenburgas (vieta): Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, įkūrė Heiligenburgo pilį, joje apgyvendino 300 vyrų ir pasirūpino maistu bei ginklais.
 - susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
 - susijęs iš Ryga: 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
 - susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
+- susijęs iš Tauriavietė (vieta): Daukanto pasakojime kalavijonys, pasitelkę danus, per Jelgavą žygiavo į Tauriavietės pilį, niokojo apygardas, naikino javus ir degino kaimus.
 ## Citatos
 
 - id: c-47055
@@ -98,3 +110,26 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-43652
+
+- id: c-184413
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 427"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 427."
+  citata_originali: |
+    Parsibastęs mistras į Rygą nusiuntė ži­
+    nią į Kuršą kalavijonims, idant saugotųsi ir nenu-
+    sikropintų, kurie vienok taip pat laimingai sugrįžo.
+    Tas pats mistras ateinantį metą, norėdamas žem­
+    galius sudrausti, užėmė jiems Jelgavą ir tenai sau
+    pilį įkūrė ir Mitau pramanė. Norėdamas jiems dar
+    atmonyti praėjusį savo nuopuolį, didžią sritį Žem­
+    galių nuteriojo, nuo kur grįždamas su grobiu į dvi
+    dali savo kariauną perskiedė: su viena pats ėjo pir­
+    ma kelią ir tiltus taisydamas, antra dalis, užpakaly
+    eidama, grobį virdė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201063

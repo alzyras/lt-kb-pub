@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Kotzebue'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -35,6 +36,13 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   teiginys: "Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą."
   pagrindžia:
     - c-84051
+
+<a id="claim-t-201472"></a>
+- t-002
+  global_id: t-201472
+  teiginys: "Kotzebue veikale teigiama, kad Gediminas, didindamas dukters kraitį, pažadėjo paleisti 40 000 Lietuvoje vergavusių lenkų kalinių."
+  pagrindžia:
+    - c-184822
 - susijęs iš [[objektai/autoriai/A. Kotzebue.md#claim-t-30511|A. Kotzebue]]: A. Kotzebue parašė veikalą „Preussens ältere Geschichte“.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87938|August von Kotzebue]]: Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87939|August von Kotzebue]]: Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.
@@ -95,3 +103,19 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-88072
+
+- id: c-184822
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 552"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 552."
+  citata_originali: |
+    Gediminas, didindamas dar kraitį savo dukters,
+    pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu­
+    voj vergaujančių, namo paleisti, idant jie Aldoną,
+    1 Kotzebue, Preus. aelt. Gesch., T. II, K. 21.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201472

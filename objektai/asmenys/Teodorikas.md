@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Teodorikas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -72,6 +73,20 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   teiginys: "Tik žinoma tai, kad Teodorikas paža dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam net tam tikrą valdžios dalį Italijoje arba patikėjo jam tam tikras valdas."
   pagrindžia:
     - c-174115
+
+<a id="claim-t-201037"></a>
+- t-008
+  global_id: t-201037
+  teiginys: "Daukanto pasakojime Albertas Teodoriką, Daugavos įtakos opatą, paskyrė igumių vyskupu."
+  pagrindžia:
+    - c-184387
+
+<a id="claim-t-201038"></a>
+- t-009
+  global_id: t-201038
+  teiginys: "Teodorikas, Kuoknesės kamendotas, su kitais kariais sekė lietuvius ir kelyje su jais susigrūmė."
+  pagrindžia:
+    - c-184388
 
 <a id="claim-t-191232"></a>
 - t-003
@@ -246,3 +261,44 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196603
+
+- id: c-184387
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 219"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 219."
+  citata_originali: |
+    Albertu ir
+    pasiėmė krikštytis.
+    Taip vokyčiai, šlekindami latakais kraują nekal­
+    tų ūkių, apvertė vaisingą ir brandingą žemę į tyrus,
+    kuriuose, pastatę kryžių, vylės ir paskuojus giriose
+    slapstančiuos nuvergti; to dėjęsis, v. Albertas pakė­
+    lė vyskupu igumių Teodoriką, opatą Daugavos įta­
+    kos (Diunamiundė).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201037
+
+- id: c-184388
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 232"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 232."
+  citata_originali: |
+    Kalavijonys, nujautę kelią, kuriuo lietuviai grįž­
+    ti ketėjo per Daugavą, tykojo jų giriose tris nedė-
+    lias, ant galo įkyrėjus betimpsoti, parėjo į Rygą.
+    Teodorikas vienok, kamendotas Kuoknesės, su kitais
+    kareiviais, sekdamos lietuvius, nutykino į paleska-
+    vį, su kuriais susitikęs kely susigrūmė. Lietuviai,
+    nusluoguoti grobiu, negalėjo kaip reikiant stipruoti,
+    todėl prasikraustė patikini didumą grobio, kuriuo
+    meldžionys pasidaliję pargrįžo į Rygą1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201038

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Volynija'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1384 m.'
@@ -12,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
+  - kunigaikštis
   - miestas
   - pilis
-  - vieta
 amziai:
   - 'XIV'
   - 'XV'
@@ -73,6 +74,20 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   teiginys: "Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai."
   pagrindžia:
     - c-37848
+
+<a id="claim-t-201117"></a>
+- t-006
+  global_id: t-201117
+  teiginys: "Gediminas, įėjęs į Volynijos kraštą, pirmiausia apgulė Vladimiro pilį, kurios įgula ir gyventojai laukė pagalbos."
+  pagrindžia:
+    - c-184467
+
+<a id="claim-t-201118"></a>
+- t-007
+  global_id: t-201118
+  teiginys: "Daukantas Volyniją mini tarp Algirdo valdytų kraštų, kurie, jo teigimu, iki jo laikų tebebuvo tvarkomi pagal Lietuvos įstatymus."
+  pagrindžia:
+    - c-184468
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179673|Skirgaila]]: Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
@@ -167,3 +182,68 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-120058
+
+- id: c-184467
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 530"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 530."
+  citata_originali: |
+    Taip nudraudęs Gediminas kryžėjus sukos su
+    visa galia ant gudų, kurie seniai jau ermavos ir lie­
+    tuvių nebklausė. Visų pirma, įėjęs į Volynijos kraš­
+    tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su
+    gyventojais susinėrusi, didžiai kantriai gynės, vil­
+    damos veikios pagalbos nuo lauko ateinančios, kas
+    ir nutiko: pats kunigaikštis Volynijos, patelkęs rim­
+    tus pulkus totorių, traukė prieš lietuvius savo bu­
+    veinės liuosuoti. Nujautęs tą, Gediminas palikinąs
+    vietovę sukos ant ateinančių gudų, norėdamas kely
+    susigrumti, vienok to Gediminas nebsuskubėjo be­
+    padaryti, kaipogi gudai buvo jau pas pilį atėję, su
+    kuriais Gediminas tuojau susirėmė mažne pačiuose
+    Vladimiro pamūriuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201117
+
+- id: c-184468
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 659"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 659."
+  citata_originali: |
+    Veltui
+    nori šiandien tūli neprieteliai Lietuvos ir Žemaičių
+    kaip įmaną jų garbę ir galybę tuose amžiuose ma­
+    žinti, rodydami lietuvius visuomet niekais buvu­
+    sius, nes veltui stirvelėjo, jei jų darbai patys tų
+    laikų, iki šiai dienai užtverę, stigavoja jų galybę
+    ir garbę, kaiipogi viešpatija Algirdo ir Kęstučio
+    tęsės, kai sakiau, nuo Žemaičių jūros lig Juodajai,
+    nuo Dono lig Dunojaus ir Bugo, kurį kraštą pas­
+    kui dar lietuviai daugiaus nei per 400 metų val­
+    dė, ir tuo kartu tepradėjo ta viešpatija gaišti, kad
+    lenkai ėmė pačiais lietuviais rėdyti. Antras dava-
+    dąs lietuvių ir žemaičių galybės, jog visi tie kra­
+    štai, kuriais Algirdas rėdė, ik šiai dienai Lietuvos
+    įstatymais tebsirėdo, tai yra: Severija, Krivičiai,
+    arba Baltieji Gudai, Juodieji Gudai, Volynija, Pa­
+    dalija, Paletija. Trečiasis davadas Lietuvos galy­
+    bės yra, jog visuose tuose kraštuose yra randami
+    žemlionys, arba vyčiai, gyventojai, kaip jei Žemai­
+    čiuose ir Lietuvoj, pačiame Parusny dar ilgą laiką
+    nuo vokyčių laikomi, kurie nė kokio mokesnio ne­
+    mokėjo, nes, karei kėlusis, savo nauda turėjo į
+    karę traukti, kad tuo tarpu vokyčiai, įsinuomoję
+    į Payslį ir Padaugavį, daugiaus nei per 300 tuoin-
+    timpos kariaudami su talka visos Europos, vos
+    tarp Yslos ir Nemuno Žemaičių pašalį užėmė ir Pa-
+    daugavy užsiturėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201118

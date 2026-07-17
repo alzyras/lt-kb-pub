@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Skomantas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -38,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį. Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą. Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
+Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192). Dusburgietis teigia, kad apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę 439 Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D. Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
 
 ## Teiginiai
 
@@ -153,12 +154,21 @@ media_all_json: |-
   teiginys: "Todėl jis tarė Skomantui: „Negi tam čia mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu“."
   pagrindžia:
     - c-60456
+
+<a id="claim-t-201028"></a>
+- t-017
+  global_id: t-201028
+  teiginys: "1277 m. lapkričio 21 d. Skomantas su jotvingiais, lietuviais ir žemaičiais pasirodė prie Kulmijos sienos ir puolė Plovicės pilį."
+  pagrindžia:
+    - c-184378
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175130|Sūduviai-jotvingiai]]: Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175131|Sūduviai-jotvingiai]]: Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.
 - susijęs iš [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas.md#claim-t-66896|Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]: Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.
 - susijęs iš [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną.md#claim-t-185827|Skomanto antpuolis prieš Gardiną]]: Skomantas su prūsų kariais netikėtai užpuolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.
 - susijęs iš [[objektai/ivykiai/Skomanto mirtis.md#claim-t-62922|Skomanto mirtis]]: Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.
 - susijęs iš [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas.md#claim-t-62481|Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]: Sūduvių vadas Skomantas, neatsilaikydamas prieš nuolatinius brolių antpuolius, su šeimyna ir bičiuliais pasitraukė į Rusios žemę.
+- susijęs iš [[objektai/ivykiai/Skomanto žygis į Kulmiją ir Sūdaujas.md#claim-t-201303|Skomanto žygis į Kulmiją ir Sūdaujas]]: 1277 m. lapkričio 21 d. Skomantas su daugiau kaip 4000 jotų ir lietuvių bei žemaičių talkininkais pasirodė prie Kulmijos sienos.
+- susijęs iš [[objektai/ivykiai/Skomanto žygis į Kulmiją.md#claim-t-201343|Skomanto žygis į Kulmiją]]: 1277 m. lapkričio 21 d. Skomantas su daugiau kaip 4000 jotų ir lietuvių bei žemaičių talkininkais pasirodė prie Kulmijos sienos.
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
 - susijęs iš Didžiųjų magistrų jaunesnioji kronika: Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.
 - susijęs iš Eimsutis: Skomantas pasuko link Eimsučio pilies ir po veržlaus antpuolio ją užėmė, nukaudamas 40 jos sargybinių.
@@ -493,6 +503,30 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190972
+
+- id: c-184378
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 447"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 447."
+  citata_originali: |
+    Paskui antras kryžėjas, įgijęs valdžią, kruvinai te­
+    nai atvejų atvejais kovės su sūdau jais su įvairia
+    laime.
+    Ateinantį metą 1277 Skomantas, sukėlęs dau-
+    giaus nei 4000 karėjų jotų, stiprindamos dar patelkė
+    lietuvius ir žemaičius, su kuriais susinėręs, 21 die­
+    noj lapkričio pasirodė ant rubežiaus Kulmijos it
+    būt apmaudo giežti ir grobio grieti norįs. Bet tuo­
+    jau it kokia audra virto ant pilės Plovicės, nuo ku­
+    rios vienok būtino suardymo išsiliuosavo jos ka-
+    mendotas, duodamas du kelio žinovu, kuriuodu tu­
+    rėjo kelią rodyti lietuviams traukiant tolesniai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201028
 
 ## Ryšiai
 - Skomantas puolė [[objektai/vietos/Kulmas]]

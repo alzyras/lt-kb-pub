@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: "Daukantas, Istorija žemaitiška, t.1, 1995"
+pavadinimas: 'Daukantas, Istorija žemaitiška, t.1, 1995'
 saltinio_tipas: leidinys
 sukurta: ''
 atnaujinta: ''

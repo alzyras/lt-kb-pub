@@ -4,6 +4,7 @@ pavadinimas: 'Treniota'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -38,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį. 1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje. 1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
+Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.
 
 ## Teiginiai
 
@@ -118,11 +119,26 @@ Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamed
   teiginys: "Treniota (Mindaugo seserėnas) ten pat pas juos atvyktų ir susitiktų su jais."
   pagrindžia:
     - c-178952
+
+<a id="claim-t-201039"></a>
+- t-012
+  global_id: t-201039
+  teiginys: "Treniota, kurį Daukantas vadina Naujapilio urėdu, sutelkė brolius ir kitus kunigaikščius prieš totorius bei prie Okniaukos puolė Kurdos stovyklą."
+  pagrindžia:
+    - c-184389
+
+<a id="claim-t-201040"></a>
+- t-013
+  global_id: t-201040
+  teiginys: "Treniota, Daukanto vadinamas Žemaičių kunigaikščiu, su antra kariauna žygiavo į Žemgalius ir sugriovė Diunamiundės pilį."
+  pagrindžia:
+    - c-184390
 - susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-200978|Daumantas (kunigaikštis, XV a.)]]: Daukanto perteikiamu gudų rašytojų pasakojimu, Daumantas susitarė su Treniota ir Tautvilu nužudyti Mindaugą, kai šis esą pasisavino jo žmoną.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-188583|Mindaugas (valdovas, XIII a.)]]: Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-188604|Prokopas]]: Narbutas Prokopą vaizduoja kaip Polocko kunigaikščio patikėtinį ir išdaviką, kurį Treniota pasiuntė į Polocką po Tautvilos nužudymo.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
@@ -140,16 +156,17 @@ Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamed
 - susijęs iš [[objektai/zodynas/koniuši.md#claim-t-99983|koniuši]]: Ivinskio spėjimu, buvę Mindaugo dvariškiai arklininkai, koniuši, 1264 m. nužudė Treniotą su Vaišvilko žinia ir pritarimu.
 - susijęs iš [[objektai/asmenys/Konradas fon Tirbergas.md#claim-t-186129|Konradas fon Tirbergas]]: Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-201010|Liubartas]]: Treniota, rengdamasis grumtis su totoriais, sušaukė savo brolius Pryšmantą ir Liubartą, Daukanto vadinamus juodųjų gudų urėdais.
 - susijęs iš [[objektai/asmenys/Pisimantas.md#claim-t-186159|Pisimantas]]: Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.
 - susijęs iš [[objektai/grupes/Naugardukiečiai.md#claim-t-185442|Naugardukiečiai]]: Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185445|Polockiečiai]]: Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.
 - susijęs iš [[objektai/grupes/Polocko bajorai ir ponai.md#claim-t-189528|Polocko bajorai ir ponai]]: Narbutas pasakoja, kad Treniota įkalino Polocko bajorus, o Jonas, gelbėdamas Polocko ponus, išjojo į Naugardą ir tapo vienuoliu.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
+- susijęs iš [[objektai/ivykiai/Mstislavo žygis į Lietuvą ir mūšis ties Jaselda.md#claim-t-201334|Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)]]: Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską.
 - susijęs iš [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.).md#claim-t-31477|Tautvilo nužudymas (apie 1263-1264 m.)]]: Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą.
 - susijęs iš Birgelava: Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis.
 - susijęs iš Dauguva: Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.
-- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
 - susijęs iš Polockas: Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Vysla: Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.
@@ -388,3 +405,62 @@ Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamed
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196872
+
+- id: c-184389
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 299"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 299."
+  citata_originali: |
+    Treniota, urėdas Naujapi-
+    lio (Nowogrodek), tą nujautęs, sukėlė savo brolius
+    Pryšmantą ir Liubartą, urėdus juodųjų gudų, vie­
+    nok galybe vienų lietuvių nedrįsdamas su totoriais
+    grumtis, kaipogi Utenis, kaip sakiau, su žemaičiais
+    kariavo kalavijonis Padaugavy ir dvigube laima
+    kruvinas ir maringas mūšas su jais turėjo ir į Kal­
+    ną traukti negalėjo, todėl patelkė dar Sviatoslavą
+    Kijevo, Simeoną Drucko ir Dovydą Lucko kuni­
+    gaikščius. Tuo tarpu totorių, rimti būriai siaubė jau
+    Lietuvos kraštuose, grobį griedami ir drevėdami,
+    kuriems vienok taip belėbaujant, Treniota antpuolė
+    staiga patį Kurdą, stovintį abaze laukuose Mozy-
+    riaūs ties upe Okniauka. Kruvinai ir ilgai tenai di­
+    džiai kantriai totoriai rėmės, kurių rindas perlaužė
+    Treniota, vienok ne be didžios ir savo iškados, kai­
+    pogi jo broliai Pryšmantas, Liubartas, kunigaikščiai
+    Drucko ir Lucko, karvietėj paliko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201039
+
+- id: c-184390
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 384"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 384."
+  citata_originali: |
+    Mintautas, ketėdamas vokyčius tremti laukan iš
+    Padaugavio, patelkė ant karės gudus ir, sukėlęs sa­
+    vo ūkės karėjus, perskiedė juos į dvi kariauni; su
+    viena traukė pats į Padaugavį, kurio nusiaubęs apy-
+    kartas Lenevardos, bet nesulaukdamas tenai gudų
+    ateinančių pagal žadėjimą, pagrįžo namo su didžiu
+    grobiu.
+    Su antra kariauna Treniota, Žemaičių kunigaikš­
+    tis, traukė į Žemgalius, kursai visų pirma, varu įsi­
+    laužęs į Diunamiundės pilį, su žeme ją sulygino;
+    paskui nusiaubė salas Eželio ir Runo, nuo tenai,
+    išėjęs į kraštą igumių, visą sritį, vadinamą Viku,
+    nuteriojo, taip pat, į pilį Pernavo įsilaužęs, su žeme
+    ją sulygino. Tuo tarpu mistras kala vi jonų Brethu-
+    zenas, norėdamas jam atmonyti*, sukėlė savo ka­
+    riauną ir traukė į Kuršą, kursai, susinėręs su įgulė
+    * Rankraštyje po šio žodžio įterpta: žemaičiams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201040

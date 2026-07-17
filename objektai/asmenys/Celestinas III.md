@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Celestinas III'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -51,10 +52,18 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
   pagrindžia:
     - c-60857
+
+<a id="claim-t-200974"></a>
+- t-004
+  global_id: t-200974
+  teiginys: "Daukanto pasakojime popiežius Celestinas III paskelbė atlaidus ir nuodėmių atleidimą krikščionims, žygiuojantiems kariauti į žemaičių kraštą."
+  pagrindžia:
+    - c-184324
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183885|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš [[objektai/zodynas/liecyba (sąvoka).md#claim-t-201206|liecyba (sąvoka)]]: Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasakojimu, suteikė einantiems kariauti į žemaičių kraštą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178981|Kryžiuočių ordinas]]: Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179091|Kryžiuočių ordinas]]: Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89583|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
@@ -113,3 +122,33 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   pagrindzia:
     - t-60225
     - t-197063
+
+- id: c-184324
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 179"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 179."
+  citata_originali: |
+    Tuo tarpu Bertoldas, vyskupas Pa-
+    daugavio, kaip viršiaus minavojau, skatino Teutoni-
+    joj krikščionis ginklą imti ir, apsiženklinus kryžium,
+    taip pat eiti į Žemaičius ir Lietuvą netikėlių krikš­
+    tyti. Sugraudintas ant galo jo pasakomis, pats po­
+    piežius Celestinas III apskelbė atpuskus ir griekų
+    atleidimą tiems visiems krikščionims, kurie eis ka­
+    riauti pagonių į žemaičių kraštą ir tomis pačiomis
+    privilijomis, aiba liecybomis, džiaugsis kaip jei tie,
+    kurie ėjo į Žemę Šventą Išganytojo grabo išliuo-
+    suoti nuo turkų netikėlių, kaip viršiaus minavojau.
+    Tokie karės žygiai krikščionų prieš netikėlius va­
+    dinos kryžiaus karės, o karėjai vadinos kryžėjais,
+    arba kryžokais, tai yra už kryžių kariaujančiais,
+    vadino juos taip pat meldžionimis, tai yra kare
+    Dievą maldaujančiais sau atleidimo nuodėmių, kur­
+    sai žodis šiandien dar pas žemaičius ir lietuvius yra
+    minavojamas — meldžionis, meldžionų kapai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200974

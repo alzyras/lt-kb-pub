@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Paneriai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -36,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vilija dar buvo vadinama Nerimi. 1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai. Vilija buvo vadinama Nerimi kaimuose, priklausiusiuose Zubiškių palivarkui ir Paneriams Trakų apskrityje.
+Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.
 
 ## Teiginiai
 
@@ -61,6 +62,13 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
   teiginys: "Paneriai buvo viena dažniausiai minimų Jono Dominyko Lopacinskio laiškų sukūrimo ir išsiuntimo vietų."
   pagrindžia:
     - c-184015
+
+<a id="claim-t-201098"></a>
+- t-013
+  global_id: t-201098
+  teiginys: "Daukanto spėjimu, Neries upės ir Panerių pavadinimai galėjo būti susiję su Vilniaus apygardose gyvenusiais neiriais."
+  pagrindžia:
+    - c-184448
 
 <a id="claim-t-84407"></a>
 - t-001
@@ -130,6 +138,7 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173244|Vladislovas Jogaila]]: 1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
 - susijęs iš [[objektai/grupes/2-asis pėstininkų pulkas.md#claim-t-38927|2-asis pėstininkų pulkas]]: 2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
+- susijęs iš [[objektai/grupes/Neiriai (grupė).md#claim-t-201252|Neiriai (grupė)]]: Daukantas neirius lokalizuoja į šiaurę nuo budinų, Vilniaus apygardose, ir spėja, kad nuo jų pavadintos Neris bei Paneriai.
 - susijęs iš [[objektai/grupes/Trakų sukilėlių daliniai.md#claim-t-39006|Trakų sukilėlių daliniai]]: Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176077|Vilniaus kapitula]]: Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176080|Vilniaus kapitula]]: Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.
@@ -141,6 +150,7 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
 - susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Verkiai: Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.
 - susijęs iš Vilijos upė: Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.
+- susijęs iš Vilnius: Daukantas svarstė, kad Vilniaus apygardose gyvenusių neirių vardu galėjo būti pavadinti Neris ir Paneriai.
 - susijęs iš Vokė: Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.
 - susijęs iš [[objektai/zodynas/plaustai.md#claim-t-86608|plaustai]]: Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
@@ -151,6 +161,7 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39466|A. Chlapovskis]]: Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/E. Doterivas.md#claim-t-39722|E. Doterivas]]: Pulkininkas E. Doterivas ir generolas D. Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-200988|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Daukanto pasakojime medžiodamas Paneriuose Gediminas, kaip pasakojama, ant Tauro kalno vylyčia nuvėrė taurą.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/daiktai/Mažasis staliukas Panerių priėmime.md#claim-t-200668|Mažasis staliukas Panerių priėmime]]: 1751 m. Paneriuose Juozapas Antanas Solohubas ir Antanas Solohubas be ceremonijų pakvietė Joną Dominyką Lopacinskį prie mažojo staliuko.
@@ -168,6 +179,7 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
 - susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
 - susijęs iš Kernavė: Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.
 - susijęs iš Nemenčinė: Nuo Nemenčinės dvaro iki Kernavės miestelio buvo draudžiama per Viliją statyti mažus tiltelius, vadinamus jazais.
+- susijęs iš Pinskas: Pinsko versmėse, pasak Daukanto, gyveno budinai, kalbėję mišria graikų ir skitų kalba.
 - susijęs iš Stavanija: Narbutas aiškino Stavanijos pavadinimą iš posakio Isz-Tawas arba Isz-Tabas, reiškiančio kilimą iš tėvo.
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
@@ -390,3 +402,26 @@ Balińskio liudijimu, Paneriams priklausiusiuose Trakų apskrities kaimuose Vili
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200637
+
+- id: c-184448
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 23"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
+  citata_originali: |
+    Už tų tyragetų
+    juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
+    žės getai, arba medės gyventojai, kurie giriose Juo­
+    dojoj ir Žaliojoj gyveno. Versmėse Pinsko gyveno
+    vadinami budinai, kurie kalbėjo mišria grekonų ir
+    skitų kalba, už tų budinu juo dar į šiaurę, beje, apy­
+    gardose Vilniaus, neiriai; regis, upė Neris ir kalnai
+    to krašto Paneriai nuo tų gyventojų yra praminti.
+    Tie getai kariavo su Darijum, viešpačiu persų, pas-
+    kiaus su Pilypu, viešpačiu maudonų, bet tų karių
+    trumpumas mano rašto neleidžia čia išguldyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201098

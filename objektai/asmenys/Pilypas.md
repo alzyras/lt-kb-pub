@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Pilypas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -51,6 +52,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   teiginys: "358 m. pr. Kr. Pilypo valdoma Makedonija, anot Narbuto, didino politinę įtaką Graikijoje, kurią pajuto su graikų kolonistais susijusios Skitijos tautos."
   pagrindžia:
     - c-173831
+
+<a id="claim-t-201022"></a>
+- t-003
+  global_id: t-201022
+  teiginys: "Pilypas, Daukanto vadinamas teutonų ciesoriumi, Magdeburge susitiko su Albertu ir, šiam įsiteikus, padovanojo jam visą Padaugavį."
+  pagrindžia:
+    - c-184372
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184889|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara).md#claim-t-35895|Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]: 1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
 - susijęs iš [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.).md#claim-t-185670|Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]: 1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.
@@ -134,5 +142,25 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   pagrindzia:
     - t-190949
 
-## Ryšiai
-- Pilypas keliavo į [[objektai/vietos/Prūsija]]
+- id: c-184372
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 183"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
+  citata_originali: |
+    Pats tuo tarpu nukeliavo pas danus, nuo
+    kurių viešpaties ir arkivyskupo Lundo suičias do-
+    venas gavo. Nuo tenai grįždamas užkeliavo į Mag­
+    deburgą, kuriame tuo kartu pasitiko Pilypas, teu­
+    tonų ciesorius, kuriam Albertas taip mokėjo pa­
+    sigerinti, jog jis jam visą Padaugavį padovenojo,
+    noris tas jam kraštas tiek teprigulėjo, kiek kam pri­
+    guli svetimas drabužis ant svetimos nugaros. Bet
+    pagal nuomonę tų amžių krikščionys turėjo netikė­
+    lius už gyvolius, todėl tarės jų turtais ir valsčiais
+    galį savintis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201022

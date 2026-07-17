@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Natangija'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -42,11 +43,20 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   teiginys: "Kitų Natangijos įtvirtintų vie tų pavadinimai neišliko."
   pagrindžia:
     - c-175569
+
+<a id="claim-t-201087"></a>
+- t-003
+  global_id: t-201087
+  teiginys: "Daukanto pasakojime Kartinos kamendotas Dovydas, keršydamas kryžėjams, su 800 raitelių įsiveržė į Natangiją, nuniokojo kraštą, daug gyventojų iškirto ir išvarė į vergiją."
+  pagrindžia:
+    - c-184437
 - susijęs iš 1258 metų vicemagistro Gerardo Hircbergo sutartis: Narbutas 1258 m. Gerardo Hircbergo sutartį pateikia kaip Vitlandijos buvimo tarp Sambijos, Natangijos ir Varmijos įrodymą.
+- susijęs iš Samija (vieta): Daukanto pasakojime Kęstutis, įsiveržęs į Samiją, nusiaubė Varmiją, Natangiją ir Parusnį iki Yslos.
 - susijęs iš Varmija: Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta.
-- susijęs iš [[objektai/asmenys/Gerardas Hircbergas.md#claim-t-191403|Gerardas Hircbergas]]: 1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas.
 - susijęs iš [[objektai/asmenys/Suroveckis.md#claim-t-191323|Suroveckis]]: Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante.
 - susijęs iš [[objektai/autoriai/V. Suroveckis.md#claim-t-191559|V. Suroveckis]]: Pasak Narbuto, V. Suroveckis teigė, kad VI amžiaus pradžioje slavai plačiai išplito dešiniojoje Vyslos pakrantėje ir užėmė budinų kraštus.
+- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
+- susijęs iš [[objektai/ivykiai/Natangų ir samionių sukilimas.md#claim-t-201340|Natangų ir samionių sukilimas (sukilimas)]]: Natangijoje paskelbus magistro įsakymą, Govina, Stanta, Trinta, Misinas ir Sabinis slapta susitarė kelti kariuomenę, o jos vadu iškėlė Sabinį.
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192510|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
 - susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
@@ -145,3 +155,31 @@ Pagal Narbuto minimą žemės matavimą Varmijoje 2500 margų plotas turėjo bū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192799
+
+- id: c-184437
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 528"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 528."
+  citata_originali: |
+    Nevyko marčelgai nė
+    trečiasis žygis, kursai norėjo į pilį Gondingeną įsi­
+    grūsti, nes juo marčelga narsesniai grūdos, juo
+    kantresniai įgulė gynės, kurios vos pačias papilęs
+    nudeginęs sugrįžo į Parusnį.
+    Ateinantį metą, gieždamas ant kryžėjų apmau­
+    dą, kamendotas Kartinos Dovydas, įpuolęs su 800
+    rimtos joties į Natangiją ir jos kraštą baisiai bai-
+    sesniai nuteriojęs, daug gyventojų iškirto, daug į
+    vergus išvarė, kurį grįžtantį namon kryžėjai apnikę
+    didumą grobio iškratė.
+    Tuo tarpu Gediminas, didysis Lietuvos kunigaikš­
+    tis, sukėlęs kariauną visos ūkės, traukė į Žemaičius
+    ir ant Žeimelės upės į abažą sustojo, laukdamas
+    talkėjų iš Polocko ir Gardino ateinant, kurių sulau-
+    1 D u s b u r g, c.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201087

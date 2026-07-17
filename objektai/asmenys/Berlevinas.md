@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Berlevinas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -36,6 +37,13 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   pagrindžia:
     - c-60879
 
+<a id="claim-t-200970"></a>
+- t-002
+  global_id: t-200970
+  teiginys: "Marčelga Berlevinas iš Kulmo tą pačią naktį skubiai žygiavo prieš Sviatopelko stovyklą prie Redino pilies ir ją užpuolė."
+  pagrindžia:
+    - c-184320
+- susijęs iš [[objektai/zodynas/brostvis (sąvoka).md#claim-t-201209|brostvis (sąvoka)]]: Daukantas „brostviais“ vadina marčelgos Berlevino bendražygius, kuriuos Sviatopelko kariauna su lietuviais ir žemaičiais paklojo karvietėje.
 ## Citatos
 
 - id: c-60879
@@ -60,3 +68,27 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60247
+
+- id: c-184320
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 321"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 321."
+  citata_originali: |
+    Nu-
+    jautę Kulme kryžėjai Sviatopelką netoli nuo pilies
+    Redino taboriuj stovint sutarė naktį jį antpuiti. Sku-
+    biniai išsiuntė apie tą žinią kryžėjams į Toninę, bet
+    jų laukti negalėjo, kaipogi tas buvo valandos dar­
+    bu; kaipogi tą pačią naktį traukė marčelga Berlevi-
+    nas su kryžėjais iš Kulmo skubinai prieš netikėlius,
+    vildamos taip pat nuveiksiąs, kaip kad pilę Carto-
+    vicą nuveikė. Atėjęs marčelga pas taborių Sviato­
+    pelko puolė ant vienos dalies jo kariaunos, kuri,
+    negalėdama užsiturėti, paskydo palikina daugybę
+    karvietėj.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200970

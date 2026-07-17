@@ -1,6 +1,6 @@
 ---
 tipas: saltinis
-pavadinimas: "Daukantas, Istorija žemaitiška, t.1, 1995"
+pavadinimas: 'Daukantas, Istorija žemaitiška, t.1, 1995'
 saltinio_tipas: saltinio_dalis
 dalies_tipas: "work"
 tevinis_saltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"

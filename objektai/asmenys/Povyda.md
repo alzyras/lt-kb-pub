@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Povyda'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -43,6 +44,13 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   teiginys: "Povyda ir negebėjo duoti deramo atkirčio priešo išpuoliams."
   pagrindžia:
     - c-61049
+
+<a id="claim-t-201025"></a>
+- t-003
+  global_id: t-201025
+  teiginys: "Po kruvino susirėmimo pagezonis Povyda paleido gyvus sugautus kryžėjų kamendotus Helmoldą ir Goldbachą, nors Daukantas nenurodo priežasties."
+  pagrindžia:
+    - c-184375
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,3 +103,26 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   pagrindzia:
     - t-60417
     - t-197150
+
+- id: c-184375
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 446"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 446."
+  citata_originali: |
+    Visų pirma page-
+    zonys pakėlė sau karvedžiu Musį ir ėmė į karę
+    tiektis. Išgirdę tą, kryžėjai, norėdami pačioj pra­
+    džioj nuslopinti tą liepsną, susigrūmė baisiai kru­
+    vinai su patrakėliais, kurie vienok pergalėjo mel-
+    džionis, o jų kamendotus Helmoldą ir Goldbachą
+    gyvus sugavo, kuriuos vienok, nežinoma dėl ko,
+    pagezonis Povyda paleido.
+    Vienok svietas, kas dieną žūdamas kruvinoj ver-
+    gyboj, didyn vien tūžo, ir nežinoma buvo, kas te­
+    nai tiksis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201025

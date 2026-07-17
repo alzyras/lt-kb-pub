@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Elbingas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1237 m.'
@@ -212,6 +213,13 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginys: "Dar kartų apie tą patį Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami, pasiuntė atgal laivus ir savo žygūnus, gavę tikslesnių žinių apie padėtį Kulmo žemėje."
   pagrindžia:
     - c-179043
+
+<a id="claim-t-201058"></a>
+- t-025
+  global_id: t-201058
+  teiginys: "Truso prekyvietė, pasak Daukanto, buvo visų žemaičių prekių sankrova, o jos vietoje šiandien yra Elbingas, arba Elblongas."
+  pagrindžia:
+    - c-184408
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178894|Kryžiuočių ordinas]]: 1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184010|papilys]]: Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89824|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.
@@ -291,6 +299,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš Varmė: Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-184008|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
+- susijęs iš [[objektai/asmenys/Auktuma (karvedys, XIII a.).md#claim-t-201398|Auktuma (karvedys, XIII a.)]]: 1273 m. Auktuma, Pagezonijos karvedys, Daukanto pasakojimu dar gynė pagezonių laisvę nuo kryžiuočių.
+- susijęs iš [[objektai/asmenys/Divonis.md#claim-t-200981|Divonis]]: Grįžtantį į Bartiją Divonį prie Gurbės upės kryžėjai netikėtai užpuolė miegantį be sargybos, atėmė grobį ir vos jo paties nenužudė.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Veidos.md#claim-t-60278|Fridrichas iš Veidos]]: Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Grumbacho.md#claim-t-60300|Hartmanas iš Grumbacho]]: Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.
@@ -308,6 +318,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90251|Zigfridas iš Foichtvangeno]]: 1303 m. Elbingo kapituloje Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru.
 - susijęs iš [[objektai/daiktai/Varpai.md#claim-t-89438|Varpai]]: Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.
 - susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62984|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200925|Lietuviai]]: Auktuma, pagezonų karvedys, buvo paėmęs Christburgo ir Elbingo pilių komendantus, vėliau gyveno Lietuvoje ir žuvo gindamas pilį.
 - susijęs iš [[objektai/grupes/Marienverderio miestiečiai.md#claim-t-63149|Marienverderio miestiečiai]]: Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89163|Pagudėnai]]: Vėliau krikštą priėmę pagudėnai pasakojo matę lauką pilną ginkluotų vyrų prieš prūsų kariuomenės pabėgimą.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89170|Pagudėnai]]: Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.
@@ -322,8 +333,10 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183927|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.
 - susijęs iš [[objektai/ivykiai/Laivų kautynės prie Santyro.md#claim-t-62359|Laivų kautynės prie Santyro]]: Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.
 - susijęs iš [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas.md#claim-t-59559|Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]: Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies apgultis.md#claim-t-201332|Marienverderio pilies apgultis]]: Daukanto pasakojime Belichovo karvedys, nusiaubęs Kulmiją ir išblaškęs prieš jį žygiavusią Elbingo įgulę, vėl apgulė kryžėjų atkurtą Marienverderio pilį.
 - susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66830|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
+- susijęs iš [[objektai/ivykiai/Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje.md#claim-t-201344|Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje]]: Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje.
 - susijęs iš [[objektai/ivykiai/Veklico pilies ir vienos pilaitės sugriovimas.md#claim-t-66945|Veklico pilies ir vienos pilaitės sugriovimas]]: Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.
 - susijęs iš [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos.md#claim-t-62711|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]: Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis.
 - susijęs iš [[objektai/posakiai/apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės.md#claim-t-59073|apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės]]: Dusburgietis įvade nurodė aprašęs ir įvykius, apie kuriuos jam pasakojo juos matę ir juose dalyvavę žmonės.
@@ -341,6 +354,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš Drūsinė: Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
 - susijęs iš Gdanskas: XVI a. antroje pusėje Gdanske buvo saugotos kelios Dusburgiečio kronikos rankraštinės ištraukos.
 - susijęs iš Karaliaučius: Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.
+- susijęs iš Kilimėlis (vieta): Ragainės komtūras Libencelis, pasiųstas į Lietuvą, sugriovė dvi pilis, tarp jų ant Nemuno kranto stovėjusį Kilimėlį.
 - susijęs iš Kriukai: Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.
 - susijęs iš Kulmo žemė: Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.
 - susijęs iš Lanzanija: Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
@@ -938,7 +952,28 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   pagrindzia:
     - t-197169
 
+- id: c-184408
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  citata_originali: |
+    Ten, sa­
+    ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
+    sėj jos gyvena (Weonoland) gudai, antroj pusėj vy­
+    čiai, teka ji į Aestų, tai yra Žemaičių, jūrą. Juo į
+    saulėtekį yra antra upis, Ilfing vadinama, taip pat
+    tekanti į Žemaičių jūrą, ant jos skardžio yra preky­
+    bos vietovė, vadinama Trusas, į kurią atkeliavęs 7
+    naktimis irkluodamas dieną ir naktį. Ten buvusi san­
+    krova visų žemaičių prekių, kurios vietoj šiandien
+    vietovė, vadinama Elbingu, arba Elblongu, trakšo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201058
+
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Puolė Elbingą: [[objektai/grupes/Pagudėnai]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]

@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Laivai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -152,6 +153,13 @@ Nenurodyta
   teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
   pagrindžia:
     - c-176792
+
+<a id="claim-t-200941"></a>
+- t-013
+  global_id: t-200941
+  teiginys: "Daukanto pasakojime vyskupas Bertoldas, Liubeke surinkęs būrį, laivais atplaukė į Rygos apylinkes prie Dauguvos žiočių."
+  pagrindžia:
+    - c-184291
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190094|Enėjas]]: Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
@@ -168,6 +176,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60001|Surminas]]: Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.
 - susijęs iš [[objektai/asmenys/Surminas.md#claim-t-60003|Surminas]]: 1313 m. lietuvių karalius pasiuntė kilmingą ir karingą Surminą su šimtu laivų sunaikinti Ordino laivo.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90013|Sventopelkas]]: Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.
+- susijęs iš [[objektai/asmenys/Ulrichas Magdeburgas.md#claim-t-201404|Ulrichas Magdeburgas]]: Ulrichas Magdeburgas, Daukanto vadinamas kryžėjų Milžinu, su kitais broliais saugojo Karaliaučiaus įgulai skirtus laivus su maistu.
 - susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-184139|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 - susijęs iš [[objektai/asmenys/Verneris (Ragainės komtūras).md#claim-t-60461|Verneris (Ragainės komtūras)]]: 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
@@ -191,6 +200,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66506|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: 1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.
 - susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66508|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.
 - susijęs iš [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis.md#claim-t-91911|Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]: Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.
+- susijęs iš [[objektai/ivykiai/Gundingenos apgultis ir mūšis Nemuno verpetuose.md#claim-t-201321|Gundingenos apgultis ir mūšis Nemuno verpetuose (mūšis)]]: Kryžėjams apgulus Gundingenos pilį laivais, Vytenis pasiuntė Surminą, o lietuviai Nemune degino ir skandino kryžėjų laivus.
 - susijęs iš [[objektai/ivykiai/Herulų žygis prieš Bizantiją III a. pabaigoje.md#claim-t-191031|Herulų žygis prieš Bizantiją III a. pabaigoje]]: Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183928|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.
@@ -203,6 +213,7 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas.md#claim-t-62877|Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]: Meiseno markgrafas įsakė pastatyti du karo laivus: mažesnįjį „Piligrimą“ ir didesnįjį „Fridlandą“.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.).md#claim-t-59449|Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]: 1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.
 - susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
+- susijęs iš [[objektai/ivykiai/Žemaičių Klaipėdos pilies užėmimas ir sudeginimas.md#claim-t-201353|Žemaičių Klaipėdos pilies užėmimas ir sudeginimas]]: Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje.
 - susijęs iš [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.md#claim-t-59097|Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]: Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.
 - susijęs iš Sambijos vyskupo Henriko sutartis dėl Vitlandsorto valdų: Sambijos vyskupas Henrikas sutartimi perleido Vitlandsorto valdas Ordinui už atlyginimą, kad šis galėtų pastatyti laivų saugumą užtikrinančią tvirtovę.
 - susijęs iš XVII A. PRADŽIOS KARO LAIVAI IR BRANDERIAI: Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“.
@@ -263,6 +274,7 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184503|Kryžiuočių ordinas]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
+- susijęs iš [[objektai/grupes/Pečenegai.md#claim-t-200927|Pečenegai]]: Daukanto perteikiamu pasakojimu, Igorio viešpatavimo Guduose metu pečenegai, atkeliavę iš Azijos, apsistojo Gudijoje, su Igoriu susiderėjo ir ilgai taikiai gyveno.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
 - susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.).md#claim-t-62208|Bisenės pilies puolimas (1313 m.)]]: 1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.
@@ -310,6 +322,7 @@ Nenurodyta
 - susijęs iš Elbingas: 1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.
 - susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
 - susijęs iš Giaros sala: Senuosiuose pasakojimuose Giaros saloje gyvenę romėnų tremtiniai esą buvo Nerono kviečiami į karo žygį.
+- susijęs iš Gundingena (vieta): Kryžiuočių kariaunos dalis, naudodama nuo strėlių apsaugotus laivus, apgulė Gundingenos pilį.
 - susijęs iš Heraklio stulpai: Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.
 - susijęs iš Junigeda: Po to broliai nuplaukė beveik iki Junigedos pilies.
 - susijęs iš Junigeda: Po to broliai nuplaukė beveik iki Junigedos pilies.
@@ -344,6 +357,7 @@ Nenurodyta
 - susijęs iš Torunė: Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
+- susijęs iš Varniai: Žiemos viduryje kryžiuočių maršalas Plockė įsiveržė į Žemaičius, nusiaubė Varnių apygardas, bet neįstengė įsiveržti į pilį.
 - susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
 - susijęs iš Višogrudas: Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.
@@ -351,13 +365,16 @@ Nenurodyta
 - susijęs iš Vysla: Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.
 - susijęs iš Vysla: Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.
 - susijęs iš Vysla: Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.
+- susijęs iš [[objektai/zodynas/Marčelga.md#claim-t-200952|marčelga]]: Kryžėjų marčelga Plockė, kaip vaizduoja Daukantas, žiemos viduryje įsiveržė į Žemaitiją, nusiaubė Varnių apygardas ir sustojo į abažą, arba taborį.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-89572|Pilininkas]]: Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.
 - susijęs iš [[objektai/zodynas/Strungai Strungas.md#claim-t-189333|Strungai Strungas]]: Narbutas Vilija plaukiojusius krovininius laivus strungais kildino iš lietuviško žodžio „Strungas“ ir vaizdavo juos kaip upinių laivų milžinus.
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
+- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201194|abažas (sąvoka)]]: Daukanto pasakojime kryžėjų marčelga Plockė, nusiaubęs Varnių apygardas ir neįstengęs įsiveržti į pilį, sustojo į abažą, arba taborį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-184008|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70223|maldininkai / maldininko įžadai]]: 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70224|maldininkai / maldininko įžadai]]: `Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70226|maldininkai / maldininko įžadai]]: Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.
+- susijęs iš [[objektai/zodynas/mistras (sąvoka).md#claim-t-201198|mistras (sąvoka)]]: Kalavijonų mistras Zangerhauzenas Daukanto pasakojime, nujausdamas samionų neramumus, telkė stiprią kariauną ir su Klaipėdos įgula traukė į Samiją kopomis.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-184021|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58881|villa kaimas sodžius]]: Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 ## Reikšmingi paminėjimai
@@ -640,6 +657,32 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194182
+
+- id: c-184291
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 180"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 180."
+  citata_originali: |
+    To dėjęsi, piktadėjai teutonų, paskui nuo žemai­
+    čių vokyčiais pramanyti, vadinami saksonys, vest-
+    falionys, frizionys, apsiginklavę ir penu apsiveizėję,
+    kėlės į Padaugavį eiti, kurių būrį Bertoldas vysku­
+    pas, Liubeko mieste surinkęs, leidos laivais jūra
+    pagal ir, atirklavęs į Rygos atsiautą, išsigavo į Dau-
+    gavos įtaką, arba rėvą, ir tenai išlipo iš laivų kai-
+    moj, Ryge vadinamoj, kurioj vietoj paskui tie mel-
+    П87 džionys Rygos miestą įkūrė. Palikęs čia laivus, Ber­
+    toldas traukė su meldžionimis į Bažnyčios salą (Kir-
+    chholm), vidury Daugavos esančią, iš tenai nuleido
+    siuntinius pas žemgalius ir lotavus, klausdamas, ar
+    keta jie krikštytis ir tikybą krikščionų stipriai sek­
+    ti. Gyventojai atsakė jam abejotinai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200941
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Enėjas]], [[objektai/asmenys/Verneris (Ragainės komtūras)]]

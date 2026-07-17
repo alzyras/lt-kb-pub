@@ -1,13 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Fridrichas'
+pavadinimas: 'Fridrichas (vyskupas, XV a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1500 m.'
 date_start: '1500'
 date_end: ''
+variantai:
+  - 'Fridrichas'
+aliases:
+  - 'Fridrichas'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,7 +37,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Fridrichas
+# Fridrichas (vyskupas, XV a.)
 
 ## Santrauka
 
@@ -53,6 +58,13 @@ media_all_json: |-
   teiginys: "Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo."
   pagrindžia:
     - c-168059
+
+<a id="claim-t-200984"></a>
+- t-003
+  global_id: t-200984
+  teiginys: "Daukanto pasakojime Tarapato vyskupas Fridrichas kelerius metus Teutonijoje telkė kryžiaus karę, o Tirbergas ten vyko ieškoti pagalbos."
+  pagrindžia:
+    - c-184334
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
@@ -167,6 +179,29 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184698
+
+- id: c-184334
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 431"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 431."
+  citata_originali: |
+    Visų pirma rūpinos jis kaip įmanąs
+    kame noris pagalbos gauti. Jau nuo kelių metų
+    Fridrichas, vyskupas Tarapato, Teutonijoj steigė
+    kryžiaus karę patelkti, lygia dalia nukeliavo tenai
+    ir Tirbergas pašalpos veizėti. Vyskupas Samijostaip
+    pat naujos kryžiaus karės telkti iškeliavo [į] Teu­
+    tonų ą, tą patį darė ir Kulmijos vyskupas, keliau­
+    damas į svečias šalis pašalpos kryžėjams veizėti,
+    kaipogi kryžėjai, patys nieko nebgalėdami begauti
+    nuo svetimų viešpačių, išsiuntė vyskupus vardu ti­
+    kybos ir išganymo masinti svietą1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200984
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Feletėjas]]

@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Bartai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -39,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai. Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
+Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
 
 ## Teiginiai
 
@@ -160,6 +161,20 @@ Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įs
   teiginys: "Mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta."
   pagrindžia:
     - c-84516
+
+<a id="claim-t-200914"></a>
+- t-017
+  global_id: t-200914
+  teiginys: "Daukanto pasakojime Bartas buvo vienas Vitevudo sūnų, gavusių kraštus ir pavadinusių juos savo vardais."
+  pagrindžia:
+    - c-184264
+
+<a id="claim-t-200915"></a>
+- t-018
+  global_id: t-200915
+  teiginys: "Užkariavus Bartiją, barčionų vyresnieji Numa ir Derska buvo išsikraustę į Lietuvą, o vėliau prašė leisti grįžti į Bartiją."
+  pagrindžia:
+    - c-184265
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59840|Ditrichas (Sembos fogtas)]]: Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-184055|Divanas]]: 1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs.
@@ -611,8 +626,47 @@ Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įs
   pagrindzia:
     - t-192367
 
+- id: c-184264
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
+  citata_originali: |
+    Ketvirtajam sūnui teko kraštas tarp upių Ska­
+    ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
+    do, tame gi krašte buvusi ir žinyčia Romovė. Lygia
+    dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto,
+    Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo
+    kraštus, kuriuos nuo savo vardo praminė. Nuo ko
+    paskui vadinos Šalau j ai, Natangai, Bartai, Galindai,
+    Varmiai, Ogoniai, Pamezonys, Kulmionys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200914
+
+- id: c-184265
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 466"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 466."
+  citata_originali: |
+    Nusigandę lietuviai tomis terionėmis mistro kry-
+    žėjų giriose slapstės. Du barčionų vyresniuoju Nu-
+    ma ir Derska, užkariavus Barti ją, buvo išsikraus­
+    čiusiu į Lietuvą ir dabar su lietuviais iš Lenkų par-
+    grįždamu į abazą mistro slapta ėjusiu lūgojo, idant
+    leistų į Barti jų grįžti ir sugautas jų žmonas ir vai­
+    kus Gardino pilėj išliuosuotų. Mistras visa to pa­
+    klausė, ko juodu lūgojo, noris daug brostvių neno­
+    rėjo to daryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200915
+
 ## Ryšiai
-- Bartai puolė [[objektai/vietos/Baiga]], [[objektai/vietos/Senenzė]]
-- Bartai gyveno [[objektai/vietos/Barta]], [[objektai/vietos/Bartenšteinas]]
-- Bartai paskyrė [[objektai/asmenys/Divanas]]
+- Bartai puolė [[objektai/vietos/Senenzė]]
 - Bartai priklausė [[objektai/grupes/Baltai]]

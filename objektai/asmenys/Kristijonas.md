@@ -4,15 +4,16 @@ pavadinimas: 'Kristijonas (vyskupas, XIII a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1215 m.'
+  - '1214 m.'
   - '1259 m.'
-date_start: '1215'
+date_start: '1214'
 date_end: '1259'
 periodo_grupes:
   - 'viduramžiai'
@@ -171,6 +172,27 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginys: "Sis tvirtinimas labiau už kitus įrodymus parodo vys kupo Kristijono žiniose išlikusią tiesą."
   pagrindžia:
     - c-173794
+
+<a id="claim-t-201005"></a>
+- t-019
+  global_id: t-201005
+  teiginys: "Daukantas rašo, kad Kristijonas, pakrikštijęs daug netikėliais vadinamų žmonių, rūpinosi krikščionybės skelbimu Draudžiu ežero apygardoje."
+  pagrindžia:
+    - c-184355
+
+<a id="claim-t-201006"></a>
+- t-020
+  global_id: t-201006
+  teiginys: "Daukanto pasakojime Kristijonas laikė perkrikštų senosios laisvės saugojimą reikalingu ir buvo susirinkusių meldžionų karvedys."
+  pagrindžia:
+    - c-184356
+
+<a id="claim-t-201007"></a>
+- t-021
+  global_id: t-201007
+  teiginys: "Daukanto pasakojime Kristijonas pramoko lietuvių kalbos, pakrikštijo daug lietuvių ir lietuviškai išvertė Donato gramatiką."
+  pagrindžia:
+    - c-184357
 - susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -198,9 +220,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88538|Cistersų ordinas]]: Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.
 - susijęs iš [[objektai/grupes/Dobrinės ordinas.md#claim-t-01302|Dobrinės ordinas]]: Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.
 - susijęs iš [[objektai/grupes/Dobryniaus riterių brolija.md#claim-t-99990|Dobryniaus riterių brolija]]: Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
-- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65110|Dobrynės broliai]]: Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65112|Dobrynės broliai]]: Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją.
-- susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116741|Katalikų Bažnyčia]]: Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116744|Katalikų Bažnyčia]]: Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108280|Pranciškonų ordinas]]: 1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.
@@ -665,6 +685,80 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191959
+
+- id: c-184355
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 242"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 242."
+  citata_originali: |
+    Kristijonas, ap­
+    krikštijęs dar didžias daugybes netikėlių, rūpinos
+    paskui skelbimu žodžio Dievo apygardoj Draudžiu
+    ežero ir, sekdamas Albertą, vyskupą Rygos, keliavo
+    su tiedviem kunigaikščiais tą patį metą į Rymą po­
+    piežiui aprodyti ir apipasakoti apie platinimos tiky­
+    bos krikščionų toje šalyje. Pasakojant Kristijonui,
+    popiežius, matydamas skaitlių perkrikštų gausų esant,
+    užvis jog tuodu kunigaikščiu, dėkavodamu už moks­
+    lą savo mokytojui Kristijonui, kunigaikštystas savo
+    jam padovenojo, todėl Inocentas III pakėlė jį vys­
+    kupu Kulmijos ir visų tų kraštų, Parusniu vadina­
+    mų, vildamos, jog Kristijonas, išsiliuosavęs nuo zo-
+    kano, dar didesniai steigs platinti tikybą krikščionų
+    Lietuvos tautoj. Pats popiežius abudu kunigaikščiu
+    1214 akivaizdoj su iškilme Ryme perkrikštijo: Varpodą
+    ¿varduodamas Pilypu, o Sabunę Povilu, ir taip pa­
+    dėjo pamatus bažnyčiai tikybos krikščionygos Pa-
+    rusny.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201005
+
+- id: c-184356
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 247"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 247."
+  citata_originali: |
+    Todėl ro­
+    dės Kristijonui didžiai reikalingu ir naudingu per­
+    krikštams jų senų dienų liuosybę kuo didesniai
+    saugoti ir taupyti, todėl gi pats buvo karvedžiu su­
+    sirinkusių meldžionų, kurie trečius metus gulėjo
+    duonose netikėlių krašte, vienok jiems nieko pikto
+    nedarė; apkyrėjus meldžionims tenai begyventi, se­
+    nieji grįžo namo, o naujieji į jų vietą atkeliavo. Ne
+    vienas v. Kristijonas rūpinos skelbimu tų kryžiaus
+    karių, bet ir popiežius, regėdamas platinantis tiky­
+    bą, ne pamažu steigė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201006
+
+- id: c-184357
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 249"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
+  citata_originali: |
+    Kristijoną, kol pramoko
+    lietuvių kalbos, galėdamas jau kalbėti, pasigerino
+    netikėliams lietuviams, kurių daugybes apkrikštijo ir
+    kalbamokslę Donatą lietuviškai perguldė, iš kurios
+    jaunuomenė galėjo mokytis iškalose1.
+    Besant Vilhelmui Kulmijoj, v. Kristijonas norėjo
+    ketamą zokaną kareivių įkurti, kurio pasiteiravęs,
+    lūgojo popiežiaus patvirtinimo, kursai ir patvirtino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201007
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lubavos žemė]]

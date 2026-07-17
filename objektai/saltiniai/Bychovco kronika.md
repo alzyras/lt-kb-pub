@@ -2,6 +2,7 @@
 tipas: saltinis
 pavadinimas: 'Bychovco kronika'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -35,6 +36,13 @@ media_all_json: |-
   pagrindžia:
     - c-94042
 
+<a id="claim-t-200950"></a>
+- t-002
+  global_id: t-200950
+  teiginys: "Teodoras Narbutas netrukus turėjo paskelbti vėlyvąją Lietuvos metraščio redakciją – Bychovco kroniką, kuria Daukantas nebespėjo pasinaudoti."
+  pagrindžia:
+    - c-184300
+
 ## Citatos
 
 - id: c-94042
@@ -53,3 +61,25 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-100152
+
+- id: c-184300
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+  citata_originali: |
+    Si publikacija buvo itin
+    svarbi, nes įrodė, kad Lietuva tikrai turėjo savo met­
+    raščius. Netrukus Teodoras Narbutas paskelbs ir
+    vėlyvąją Lietuvos metraščio redakciją — Bychovco
+    kroniką, kuria Daukantas pasinaudoti nebespės.
+    Lietuviškus metraščius jam kompensavo vėlyva Mo­
+    tiejaus Strijkovskio kronika, Teodoro Lepnerio Ma­
+    žosios Lietuvos aprašymai, Motiejaus Pretorijaus
+    prūsų ir lietuvių praeities tyrinėjimai bei garsioji Al­
+    berto Vijūko-Kojalavičiaus „Lietuvos istorija".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200950

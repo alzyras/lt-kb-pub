@@ -2,21 +2,25 @@
 tipas: grupe
 pavadinimas: 'Galindai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
+  - '1000 m.'
   - '1058 m.'
   - '1147 m.'
-date_start: '1058'
+date_start: '1000'
 date_end: '1147'
 amziai:
   - 'XI'
   - 'XII'
+  - 'X'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - upė
   - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -108,11 +112,26 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginys: "Būtina atsižvelgti į tai, jog galindai prūsų karuose su kryžiuočiais iš pradžių nedalyvavo."
   pagrindžia:
     - c-175177
+
+<a id="claim-t-200918"></a>
+- t-011
+  global_id: t-200918
+  teiginys: "Daukantas pasakoja, kad galindai ir kitos tautos gyveno prie Vyslos, Nemuno, Ventos, Daugavos ir Gaujos."
+  pagrindžia:
+    - c-184268
+
+<a id="claim-t-200919"></a>
+- t-012
+  global_id: t-200919
+  teiginys: "Daukanto perpasakojamoje kilmės tradicijoje Galindas buvo vienas Vitevudo sūnų, nuo kurio vardo kildinti galindai."
+  pagrindžia:
+    - c-184269
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
 - susijęs iš [[objektai/autoriai/Gelonas.md#claim-t-191607|Gelonas]]: Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas apie Galindos kilmę.
 - susijęs iš [[objektai/autoriai/Jaskanis J.md#claim-t-60720|Jaskanis J]]: J. Jaskanio recenzija cituojama prie nuomonės, kad prūsiškuosius ir rytinius galindus siejo tik vardų panašumas.
 - susijęs iš [[objektai/autoriai/Ptolemėjas.md#claim-t-191519|Ptolemėjas]]: Narbutas teigė, kad alanai tapo Ptolemėjo Stavanijos ir Galindijos kaimynais, kai stavanai ir galindai jau gyveno savo žemėse.
 - susijęs iš [[objektai/daiktai/Auksiniai ir sidabriniai medaliai.md#claim-t-193009|Auksiniai ir sidabriniai medaliai]]: Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-201459|Venedai]]: Daukanto pateiktame pasakojime prie Vyslos, Nemuno, Ventos, Dauguvos ir Gaujos gyveno venedai, galindai, sudenai, kareotai, saliai, osai, veltai ir penai.
 - susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
 - susijęs iš [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m.md#claim-t-191047|Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]: Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais.
 - susijęs iš [[objektai/ivykiai/Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių.md#claim-t-191032|Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių]]: Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.
@@ -124,6 +143,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš Galinda: Narbutas Galindą apibūdino kaip vieną seniausių provincijų, kadaise plačiau besidriekusią Mazovijos ir Polesės link.
 - susijęs iš Galinda: Galindos vakarinė siena prasidėjo prie Sasavos žemės, Hohenšteino ir Noidenburgo, o Alnos upe ribojosi su Varmija.
 - susijęs iš Galinda: Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.
+- susijęs iš Galindų giria: Grįžtančius lietuvius Galindų girioje pasivijo Kulmo komtūras Sakas, atėmė grobį ir išblaškė jų būrį.
 - susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
 - susijęs iš [[objektai/zodynas/Galintuvojt ir galinduoti.md#claim-t-192210|Galintuvojt ir galinduoti]]: Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę.
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191198|Boleslovas Gėdingasis]]: 1253 m. galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero protekcijon, o šie kunigaikščiai apie tai pranešė popiežiui.
@@ -137,7 +157,9 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - susijęs iš [[objektai/autoriai/Вилинбахов В. Б.md#claim-t-91957|Вилинбахов В. Б]]: Imperatoriaus Voluziano (252— 253 m.) titule įrašyti ir galindai (Вилинбахов В.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-192411|Jotvingiai]]: Narbutas rašo, kad galindai ir jotvingiai perėjo Krokuvos Boleslovo ir Kujavijos Kazimiero globon, o kunigaikščiai apie tai pranešė popiežiui.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89218|Skalviai]]: Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
+- susijęs iš [[objektai/grupes/Sudenai (grupė).md#claim-t-201254|Sudenai (grupė)]]: Daukantas sudenus mini tarp tautų, kurios, jo perteikiamu pasakojimu, gyveno prie Yslos, Nemuno, Ventos, Daugavos ir Gaujos upių.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-192482|Venedai]]: Narbutas nurodo, kad apie 253 m. jungtiniai finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-197527|Venedai]]: Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89342|Žiemgaliai]]: Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.
 - susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-184030|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
 - susijęs iš [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą.md#claim-t-59099|Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]: Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.
@@ -332,6 +354,42 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-192383
     - t-197496
 
-## Ryšiai
-- Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Galindai dalyvavo mūšyje [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]
+- id: c-184268
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 37"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
+  citata_originali: |
+    Upis tenai didesniąsias minavoja,
+    Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
+    Daugava (Turuntas), Gauja (Kėsinąs) vadindamas.
+    Tautos ant tų upių, pasakoja, tos gyvenusios: vene-
+    dai, galindai, sudenai, kareotai, saliai, osai, veltai,
+    penai. Tarp tų tautų didžiai yra dėl skaitytojų ženk-
+    lingos tautos galindų ir sudenų dėl to, jog jas 1000
+    metų buvus tebras toj pačioj vietoj begyvenančias1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200918
+
+- id: c-184269
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 70"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
+  citata_originali: |
+    Ketvirtajam sūnui teko kraštas tarp upių Ska­
+    ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
+    do, tame gi krašte buvusi ir žinyčia Romovė. Lygia
+    dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto,
+    Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo
+    kraštus, kuriuos nuo savo vardo praminė. Nuo ko
+    paskui vadinos Šalau j ai, Natangai, Bartai, Galindai,
+    Varmiai, Ogoniai, Pamezonys, Kulmionys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200919

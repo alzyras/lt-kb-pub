@@ -2,15 +2,20 @@
 tipas: vieta
 pavadinimas: 'Lubava'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
+  - '1209 m.'
+  - '1210 m.'
+  - '1222 m.'
   - '1302 m.'
   - '1303 m.'
-date_start: '1302'
+date_start: '1209'
 date_end: '1303'
 amziai:
   - 'XIV'
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -88,6 +93,20 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: "Narbutas rašo, kad mažosios Lubavos ir Sasavos žemės ribojosi prie senosios sienos tarp Kulmo krašto ir senovės Prūsijos."
   pagrindžia:
     - c-175467
+
+<a id="claim-t-201081"></a>
+- t-007
+  global_id: t-201081
+  teiginys: "1209–1210 m. Kristijonas, perėjęs Vyslą, atvyko į Kulmiją, prie Lubavos apygardų ir Pamezonijos pasienio."
+  pagrindžia:
+    - c-184431
+
+<a id="claim-t-201082"></a>
+- t-009
+  global_id: t-201082
+  teiginys: "Daukanto pasakojime vyskupas Kristijonas rūpinosi Kulmijos ir Lubavos apygardų išlaisvinimu, nes jose jau buvo krikščionių."
+  pagrindžia:
+    - c-184432
 - susijęs iš [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.).md#claim-t-62383|Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]: 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
 - susijęs iš [[objektai/ivykiai/Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.).md#claim-t-62386|Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)]]: 1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179243|Lietuviai]]: 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
@@ -100,7 +119,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89247|Sūduviai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179296|Lietuviai]]: 1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
-- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas (kunigaikštis, XIII a.)]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
 - susijęs iš [[objektai/asmenys/Giunteris (Mazovijos vyskupas).md#claim-t-60292|Giunteris (Mazovijos vyskupas)]]: Apie 1226 (1230) m. Mazovijos vyskupas Giunteris dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
 - susijęs iš [[objektai/asmenys/Grigalius (vicekancleris).md#claim-t-60296|Grigalius (vicekancleris)]]: Apie 1226 (1230) m. vicekancleris Grigalius dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
@@ -133,6 +152,8 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 - susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
 - susijęs iš Kristburgas: Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.
 - susijęs iš Kristburgas: Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.
+- susijęs iš Kulmija: 1209–1210 m. Kristijonas, perėjęs Vyslą, atvyko į Kulmiją, prie Lubavos apygardų ir Pamezonijos pasienio.
+- susijęs iš Kulmija: Daukanto pasakojime vyskupas Kristijonas rūpinosi Kulmijos ir Lubavos apygardų išlaisvinimu, nes jose jau buvo krikščionių.
 - susijęs iš Lubavos žemė: Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.
 - susijęs iš Lubavos žemė: Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
@@ -384,6 +405,55 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192697
+
+- id: c-184431
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 240"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 240."
+  citata_originali: |
+    Paskesniai rados taip pat zokanykas cisternas, var­
+    du Kristijonas, iš klioštoriaus Olivos, vyras buklus,
+    taikus, rėdus ir išmintingas, gerai permanąs lietuvių
+    kalbą, žinąs jų būdą, dobę ir apsiėjimus, atėjęs
+    1209-1210 skelbti tame krašte tikybos krikščionų, padėjo jos
+    pamatus, kuri nuo to laiko jau be perglytos prasi­
+    deda tenai tvirtintis. Tasai zokanykas, persikėlęs
+    per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar­
+    das Lubavos, į parubežių Pamezonijos, kur buvo ne­
+    tikėliai jau apjunkę krikščionys; visų pirma nuėjo
+    tenai pas Sudreikį kunigaikštį. Apsikrikštijus dau­
+    gybei diduomenės, Kristijonas su savo tarnais nu­
+    keliavo į Rymą apipasakoti savo darbus Inocentui
+    III popiežiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201081
+
+- id: c-184432
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 247"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 247."
+  citata_originali: |
+    Vienoj gromatoj, rašyto j me­
+    tuose 1222 perkrikštams, kuriuos ragina tėvyga mei­
+    le kentėti ir stipruoti jų spaudimuose, žadėdamas
+    jiems toliaus savo paguodą ir pagalbą duoti ir jų
+    liuosybę kaip įmaųąs užlaikyti, lig tiktai karės su
+    netikėliais turkais rytuose pasibengs1.
+    Noris taip ilgai timpsojo būriai meldžionų Kūl­
+    ė jo j, vienok negrūdos į Parusnį, o v. Kristijonas
+    išliuosavimu nuo jų pačios Kulmijos ir Lubavos apy­
+    gardų terūpinos, kaipogi tose apygardose buvo jau
+    krikščionys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201082
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Helmerichas]]

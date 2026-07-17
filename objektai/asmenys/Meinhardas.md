@@ -3,10 +3,12 @@ tipas: asmuo
 pavadinimas: 'Meinhardas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - krikštas
   - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -25,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno. Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius. Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją.
+Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).
 
 ## Teiginiai
 
@@ -64,6 +66,15 @@ Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį a
   pagrindžia:
     - c-169430
 
+<a id="claim-t-201013"></a>
+- t-006
+  global_id: t-201013
+  teiginys: "Daukantas Meinhardą pristato kaip augustijonų kunigą, kuris, pramokęs vietos kalbos, pradėjo skelbti Dievo žodį žemgaliams ir lybiešams."
+  pagrindžia:
+    - c-184363
+- susijęs iš Gercikė (vieta): Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš Visvaldį, žinodami, kad joje dar yra daug gėrybių.
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201186|perkrikštas (sąvoka)]]: Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje miške užpuolė per girią žygiavusius žemaičius ir privertė juos trauktis.
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201187|perkrikštas (sąvoka)]]: Po Meinhardo mirties Daukanto pasakojime vokyčiai su kai kuriais perkrikštais Ikškilėje priėmė Bertoldą nauju vyskupu, o šis vaišino ir apdovanojo perkrikštų diduomenę.
 ## Citatos
 
 - id: c-169428
@@ -176,3 +187,29 @@ Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį a
   pagrindzia:
     - t-186069
     - t-193508
+
+- id: c-184363
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 171"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 171."
+  citata_originali: |
+    Idant vokyčiai tokį savo ketė­
+    jimą uždengtų, nuo pradžios taip elgės.
+    Tie atėjūnai turėjo su savim kunigą, vardu Mein-
+    hardą, augustijonį, noris apsenį vyrą, bet didį gei­
+    dulį Evangelijos platinimo, neskundžiantį nei darbo,
+    nei žygio, nei sveikatos dėl padauginimo skaitliaus
+    krikščionų, kursai, pramokęs tenai kalbos, pradėjo
+    skelbti Dievo žodį netikėliams. Bet jog buvo senis
+    dosnus, išmintingas, gudrus ir gailingas, įgijo tuo­
+    jau kliautį ir meilę vietinykų žemgalių ir lybiešų,
+    kurie ne taip nuo permanymo jo mokslo, kaip vie­
+    ni, smailaudami dovenų, turtų ir lobio, kiti, būda­
+    mi daug kartų gudų spaudžiami, vylės sau užtary­
+    tojus tuose atėjūnuose rasią, pradėjo krikštytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201013

@@ -1,18 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Norvegija'
-variantai:
-  - 'Norvegijos'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Mūsų tautosaka, t.4 (1931)'
 datos:
   - '1899 m.'
 date_start: '1899'
 date_end: '1899'
-sukurta: ''
-atnaujinta: ''
+variantai:
+  - 'Norvegijos'
 amziai:
   - 'XIX'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - valstybė
+  - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -25,9 +29,6 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
-tags:
-  - valstybė
-  - vieta
 ---
 # Norvegija
 
@@ -52,6 +53,13 @@ Norvegija šiame šaltinyje yra valstybė.
   teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
   pagrindžia:
     - c-178056
+
+<a id="claim-t-201092"></a>
+- t-002
+  global_id: t-201092
+  teiginys: "Daukantas Thula vadinamą žemę tapatino su Norvegija arba Skandija ir pasakojo, kad Pitėjas iš jos irklavo Baltijos jūros link."
+  pagrindžia:
+    - c-184442
 - susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
 ## Citatos
 
@@ -89,3 +97,38 @@ Norvegija šiame šaltinyje yra valstybė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195655
+
+- id: c-184442
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 27"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 27."
+  citata_originali: |
+    Nukeliavęs į vietovę, Kantium (Kanterbury) va­
+    dinamą, aplankė vieną dalį Anglijos, nuo ten irkla­
+    vo į pašalius žemės, vadinamos Thula (Norvegija),
+    arba Skandija, paskui, irkluodamas juo į pietus lin-
+    kant Baltijos, arba Žemaičių, jūros, atkeliavo į že­
+    maičių kraštą, šiandien Samland, arba Samija, tai
+    yra Žamiją, arba Žemąja žeme, kitaip Žemaičiais
+    vadinamą1.
+    Tame šaltame krašte, sako jis, žmonės nežiną
+    dar skanių ir lepnių vaisių ir maž teturį jaukių gy-
+    vol-ių; patys mintą vikiais, vaisiais, šaknimis ir ki­
+    tomis žalesomis; turtingieji iš javų ir medaus gėri­
+    mą sau darą. Stokodami tenai giedrų, javus kulian-
+    tys rejose, o kišimą džioviną duobose; kitaip, sako
+    jis, jų kluonai, būdami lauke, nuo tankių lytų sutiž-
+    tų. Toliaus dar tasai Pitėjas taip pasakoja: tenai at-
+    takotame bei išgraužotame jūros bangiomis krašte
+    gyvenanti dvi tauti — aestijonų ir gutonų, kursai
+    kraštas vadinęsis Mentonomon, 6000 straipsnių pla­
+    tus, nuo kurio viena diena gali nuirkluoti jūra pa­
+    gal į salą, vadinamą Abalus, kur pavasarį jūra ban-
+    giodama metusi laukan gintarus, beje, trąšas jūros
+    sustingusias.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201092

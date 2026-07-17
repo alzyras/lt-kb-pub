@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -44,7 +45,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus. Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse. Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.
+Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).
 
 ## Teiginiai
 
@@ -258,6 +259,13 @@ media_all_json: |-
   pagrindžia:
     - c-179409
 
+<a id="claim-t-201119"></a>
+- t-031
+  global_id: t-201119
+  teiginys: "Daukanto perteikiamas Vulfstanas Vyslą, arba Yslą, apibūdino kaip didelę upę, tekančią į Aestų, tai yra Žemaičių, jūrą."
+  pagrindžia:
+    - c-184469
+
 <a id="claim-t-192786"></a>
 - t-032
   global_id: t-192786
@@ -286,6 +294,7 @@ media_all_json: |-
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90016|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90020|Sventopelkas]]: 1245 m. Sventopelkas pradėjo statyti Sveče pavadintą pilį, turėjusią trukdyti broliams plaukioti Vysla.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90032|Sventopelkas]]: Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201032|Sviatopelkas]]: Daukanto pasakojime Sviatopelkas su didele kariauna persikėlė per Vyslą ir prie Golubo pasaloje užpuolė kryžėjų kariauną.
 - susijęs iš [[objektai/asmenys/Tunmanas.md#claim-t-191235|Tunmanas]]: Narbutas rašo, kad Tunmanas lietuvių kilmę siejo su bėgliais, apie 550 metus įsikūrusiais Vyslos šakų skalaujamoje saloje.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190673|Adomas Stanislovas Naruševičius]]: Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį.
 - susijęs iš [[objektai/autoriai/Bednarczuk L.md#claim-t-60676|Bednarczuk L]]: L. Bednarczukas tyrė antikinių šaltinių onomastiką, susijusią su Vyslos vardo baltiška kilme.
@@ -314,6 +323,7 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Vandalai.md#claim-t-192964|Vandalai]]: Narbutas vandalus priskiria germanų genčių kraustymuisi iš Vyslos žemupio ir šiauresnių kraštų į pietus.
 - susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-200933|Žemaičiai]]: Daukantas vaizduoja lietuvius žemaičius tuo pat metu ginančius laisvę tarp Vyslos ir Prūsijos bei kruvinai kariaujančius su gudais ir vokiečiais Žemaičiuose bei Kalne.
 - susijęs iš [[objektai/ivykiai/Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties.md#claim-t-191040|Didelių gintaro gabalų radiniai prie Gdansko ir Įsruties]]: Gintaro randama prie Vyslos ir Dauguvos žiočių, prie Ostrolenkos ir Narevo upės pakrantėse.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
@@ -325,6 +335,7 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66922|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66923|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.
 - susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66925|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.
+- susijęs iš [[objektai/ivykiai/Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje.md#claim-t-201344|Sviatopelko žygis prieš kryžėjus Kulmijoje ir Pamezonijoje]]: Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje.
 - susijęs iš Albericho 1228 metų kronika: Narbutas Albericho 1228 metų kronika rėmė teiginį, kad be Sambijos buvo Vitlandijos kraštas, driekęsis rytine Vyslos pakrante.
 - susijęs iš De geticae gentis origine ac rebus gestis: Veikale „De geticae gentis origine ac rebus gestis“ Jornandes minėjo prie Vyslos žiočių įsikūrusius vidivarijus.
 - susijęs iš Jordano De rebus Gothorum: Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę į dešiniąją Vyslos pakrantę, pateko į kraštą, vadinamą Owim.
@@ -334,6 +345,7 @@ media_all_json: |-
 - susijęs iš Tacitas, Germania: Narbuto perteikimu, Tacito „Germania“ 46 skyriuje venedai nepriskiriami nei sarmatams, nei germanams, o jų vakarinė riba siejama su Vysla.
 - susijęs iš Dobrynė: Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.
 - susijęs iš Dobrynė: Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.
+- susijęs iš Hedaby (vieta): Daukantas, perteikdamas Vulfstano žinią, Hedaby sieja su prekyba garsėjusiu Šlezvigu, iš kurio jūra keliauta Vyslos link.
 - susijęs iš Kulmas: Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno.
 - susijęs iš Kulmo žemė: 1222 ir 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos, Vyslos ir Drėvantos.
 - susijęs iš Kvidzinas: Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėliau išardytą vandens srautų.
@@ -360,6 +372,7 @@ media_all_json: |-
 - susijęs iš Višogrudas: Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.
 - susijęs iš Višogrudas: Višogrudas tapatinamas su dabartiniu Fordonu kairiajame Vyslos krante prie Bidgoščiaus, kur išliko piliakalnis.
 - susijęs iš Višogrudas: Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.
+- susijęs iš Švecas (vieta): 1245 m. Sviatopelkas pastiprino seną Šveco pilį prie Kulmo ant Vyslos skardžio ir įdėjo joje įgulę.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54799|Austurweg]]: Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/zodynas/Austurweg.md#claim-t-54800|Austurweg]]: Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.
 - susijęs iš [[objektai/zodynas/Prūsijos žemė terra Prussiae.md#claim-t-184019|Prūsijos žemė terra Prussiae]]: Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.
@@ -452,6 +465,7 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176141|Žemaičiai]]: Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176164|Žemaičiai]]: Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją.md#claim-t-191044|Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]]: Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją.
+- susijęs iš [[objektai/ivykiai/Kazimiero sandara su lietuviais.md#claim-t-201322|Kazimiero sandara su lietuviais]]: Kazimieras, pasak Daukanto, išsigandęs lietuvių smurto, sudarė sandorą su lietuviais ir įsipareigojo daugiau nebetalkinti kryžėjams.
 - susijęs iš [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais.md#claim-t-183938|Lenkijos žemės nuniokojimas prūsų antpuoliais]]: Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais.md#claim-t-66655|Lenkijos žemės nuniokojimas prūsų antpuoliais]]: Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
@@ -1242,6 +1256,27 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197942
+
+- id: c-184469
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  citata_originali: |
+    Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­
+    kyba pagirto Šlezvigo miesto, į įtaką Yslos. Ten, sa­
+    ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
+    sėj jos gyvena (Weonoland) gudai, antroj pusėj vy­
+    čiai, teka ji į Aestų, tai yra Žemaičių, jūrą. Juo į
+    saulėtekį yra antra upis, Ilfing vadinama, taip pat
+    tekanti į Žemaičių jūrą, ant jos skardžio yra preky­
+    bos vietovė, vadinama Trusas, į kurią atkeliavęs 7
+    naktimis irkluodamas dieną ir naktį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201119
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gotai]], [[objektai/grupes/Vidivarii]]

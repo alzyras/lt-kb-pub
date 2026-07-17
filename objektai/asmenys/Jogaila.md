@@ -4,6 +4,7 @@ pavadinimas: 'Jogaila (kunigaikštis, XIV–XV a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
@@ -49,7 +50,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį. Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio. Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.
+piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430). Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
 
 ## Teiginiai
 
@@ -543,6 +544,13 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   pagrindžia:
     - c-171435
 
+<a id="claim-t-201000"></a>
+- t-074
+  global_id: t-201000
+  teiginys: "Daukantas Jogailą vaizduoja 1420 m. dėvėjus avikailinius kailinius ir valdžius kraštą nuo Baltijos iki Juodosios jūros."
+  pagrindžia:
+    - c-184350
+
 <a id="claim-t-193916"></a>
 - t-053
   global_id: t-193916
@@ -747,7 +755,7 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
 - susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199227|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 - susijęs iš [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline.md#claim-t-199228|Vytauto tėviškės užrašymas Skirgailai Liubline]]: Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liubline Vytauto akivaizdoje užrašė Skirgailai jo tėviškę, ir Vytautui tai buvo skaudu.
 - susijęs iš [[objektai/paprociai/Važinėjimas tartis dėl reikalų pas didįjį kunigaikštį.md#claim-t-199230|Važinėjimas tartis dėl reikalų pas didįjį kunigaikštį]]: Kunigaikštis Jogaila ir kunigaikštis Vy tautas, jų tėvams dar gyviems esant, buvo labai su sidraugavę.
-- susijęs iš Liublino pilis: Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje.
+- susijęs iš Liublino pilis (pilis): Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/asmenys/Aleksandra (Jogailos sesuo).md#claim-t-87614|Aleksandra (Jogailos sesuo)]]: Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.
 - susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87386|Andrius Važila]]: 1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.
@@ -2783,6 +2791,39 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   pagrindzia:
     - t-196491
 
+- id: c-184350
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 95"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 95."
+  citata_originali: |
+    Di­
+    duomenė pati kitą kartą tą patį valgė, ką kiti žmo­
+    nės. Tą teisybę paskesniuose dar laikuose randam:
+    kaipogi Jogaila, didysis Lietuvos kunigaikštis ir
+    Lenkų karalius, dar metuose 1420 kailinius avikai­
+    lius dėvėjo, valdydamas kraštą nuo Baltijos, arba
+    Žemaičių, jūros iki Juodajai, nuo Možaisko ir upės
+    Dono lig upei Odrai ir kalnų Karpatų, vienok ir
+    tokiame apdare nuo visų godojamas ir tapnojamas
+    buvo1.
+    Mažuose ūkės reikaluose pats kunigaikštis su ku­
+    nigais ryžos, bet didžiuose ūkės reikaluose turėjo
+    kelti visą tautą į sueimą, kur visi susirinkę iš vieno
+    teiravos pragumo, kuriuo galėtų ūkę savo nuo ne-
+    laimos gelbėti, susirinkę tenai ūkinykai večieji jau­
+    name mėnesy arba pilnijoj (ką šiandien dar visuose
+    darbuose tebsaugoja) visi ginkluoti; pirmą, antrą ir
+    trečiąją dieną niekšai negalėjo kalbėti, bet alvienas
+    tyliai rymodamas dūmojo, kas gal praveringesniu
+    ir naudingesnių jo ūkei būti, ketvirtąją dieną susėdę
+    į suolus ėmė balsu teirautis tarp savęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201000
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
@@ -2791,11 +2832,10 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
 - Rėmė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Vilniaus miestiečių luomas]]
 - Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
 - Jogaila (kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Didžioji Lenkija]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Ostrovas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) puolė [[objektai/vietos/Dobrino žemė]], [[objektai/vietos/Trakai]]
-- Jogaila (kunigaikštis, XIV–XV a.) užėmė [[objektai/vietos/Brasta]], [[objektai/vietos/Suražas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Ostrovas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) puolė [[objektai/vietos/Dobrino žemė]]
+- Jogaila (kunigaikštis, XIV–XV a.) užėmė [[objektai/vietos/Brasta]], [[objektai/vietos/Suražas]], [[objektai/vietos/Vilnius]]
 - Jogaila (kunigaikštis, XIV–XV a.) siuntė į [[objektai/vietos/Haličas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
-- Jogaila (kunigaikštis, XIV–XV a.) surengė žygį į [[objektai/vietos/Trakai]]
 - Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]]
 - Jogaila (kunigaikštis, XIV–XV a.) paskyrė [[objektai/asmenys/Skirgaila]]
