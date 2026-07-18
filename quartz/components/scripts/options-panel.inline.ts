@@ -358,26 +358,14 @@ function syncCurrentPageFilter() {
 }
 
 function applyCitationFilters() {
-  const citationEntries = document.querySelectorAll<HTMLElement>('[data-citation-entry="true"]')
-  const visibleCitationIds = new Set<string>()
-  citationEntries.forEach((entry) => {
-    const sourceId = String(entry.dataset.citationSourceId ?? "")
-    const citationId = String(entry.dataset.citationId ?? "")
-    const keep = matchesSourceSelection(sourceId ? [sourceId] : [])
-    entry.hidden = !keep
-    if (keep && citationId) {
-      visibleCitationIds.add(citationId)
-    }
-  })
-
   const claimRows = document.querySelectorAll<HTMLElement>('[data-claim-row="true"]')
   claimRows.forEach((row) => {
     if (state.textSources.mode === "all" && state.textSources.rules.length === 0) {
       row.hidden = false
       return
     }
-    const supportingIds = parseSourceIds(row.dataset.supportingIds)
-    row.hidden = !supportingIds.some((id) => visibleCitationIds.has(id))
+    const sourceIds = parseSourceIds(row.dataset.citationSourceIds)
+    row.hidden = !matchesSourceSelection(sourceIds)
   })
 
   document.querySelectorAll<HTMLElement>('[data-claims-table="true"]').forEach((table) => {
@@ -385,15 +373,6 @@ function applyCitationFilters() {
       table.querySelectorAll('[data-claim-row="true"]:not([hidden])').length > 0
     table.hidden = !hasVisibleRows
   })
-
-  document.querySelectorAll<HTMLElement>('[data-citation-section="true"]').forEach((wrapper) =>
-    syncEmptyState(wrapper, {
-      selector: '[data-citation-entry="true"]',
-      emptySelector: "[data-citation-empty-state]",
-      emptyAttr: "data-citation-empty-state",
-      emptyText: "Nėra citatų pagal pasirinktus filtrus.",
-    }),
-  )
 
   document.querySelectorAll<HTMLElement>('[data-claims-section="true"]').forEach((wrapper) =>
     syncEmptyState(wrapper, {

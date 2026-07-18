@@ -163,8 +163,7 @@ document.addEventListener("nav", () => {
       toggle.setAttribute("aria-expanded", String(open))
     }
     if (open && wasHidden && userInitiated) {
-      const citationKey =
-        row.dataset.supportingIds || row.dataset.globalClaimId || row.dataset.claimId || "evidence"
+      const citationKey = row.id || "evidence"
       document.dispatchEvent(
         new CustomEvent("citationopen", {
           detail: { citationKey, sourceKind: "embedded_evidence" },

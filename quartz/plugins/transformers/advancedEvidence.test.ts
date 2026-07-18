@@ -45,7 +45,7 @@ function inspectLazyClaimPayloads(output: string): string {
 }
 
 describe("AdvancedEvidence transformer", () => {
-  test("renders citations inline under their supporting claim and keeps a hidden citation store", () => {
+  test("renders citations inline under their supporting claim without a duplicate hidden store", () => {
     const plugin = AdvancedEvidence()
     const transformed = inspectLazyClaimPayloads(
       plugin.textTransform?.(
@@ -66,16 +66,11 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(transformed, /<th>Kontekstas<\/th>/)
     assert.doesNotMatch(transformed, /<th>Pagrindžia<\/th>/)
     assert.doesNotMatch(transformed, /colspan="3"/)
-    assert.match(transformed, /data-claim-id="t-00042"/)
-    assert.match(transformed, /data-claim-key="t-00042"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-original-claim-id="t-001"/)
     assert.match(transformed, /id="claim-t-00042"/)
-    assert.match(transformed, /data-global-claim-id="t-00042"/)
     assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
-    assert.match(transformed, /data-supporting-ids="c-001"/)
+    assert.match(transformed, /data-citation-source-ids="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
     assert.match(transformed, /data-claim-detail="t-00042"/)
     assert.match(transformed, /id="claim-evidence-t-00042"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
@@ -138,12 +133,8 @@ describe("AdvancedEvidence transformer", () => {
     assert.doesNotMatch(summaryRegion, /global_id/)
     assert.doesNotMatch(summaryRegion, /ryšio_sprendimo_taisykle/)
     assert.doesNotMatch(summaryRegion, /rule_marriage_local_spouse/)
-    assert.match(transformed, /data-citation-entry="true"/)
-    assert.match(transformed, /data-citation-store="true"/)
-    assert.match(transformed, /data-citation-id="c-001"/)
-    assert.match(transformed, /data-citation-source-title="Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties \(1978 m\.\)"/)
-    assert.match(transformed, /data-citation-source-id="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
-    assert.match(transformed, /data-citation-author="Zenonas Ivinskis"/)
+    assert.doesNotMatch(transformed, /data-citation-entry="true"/)
+    assert.doesNotMatch(transformed, /data-citation-store="true"/)
     assert.doesNotMatch(transformed, /^## Šaltiniai ir įrodymai/m)
   })
 
@@ -169,7 +160,7 @@ describe("AdvancedEvidence transformer", () => {
     )
 
     assert.doesNotMatch(transformed, /<strong>Autorius:<\/strong>/)
-    assert.match(transformed, /data-citation-author=""/)
+    assert.doesNotMatch(transformed, /data-citation-entry="true"/)
   })
 
   test("renders all citations linked from one claim", () => {
@@ -291,17 +282,14 @@ describe("AdvancedEvidence transformer", () => {
       plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown,
     )
 
-    assert.match(transformed, /data-claim-id="t-111"/)
-    assert.match(transformed, /data-claim-id="t-222"/)
+    assert.match(transformed, /id="claim-t-111"/)
+    assert.match(transformed, /id="claim-t-222"/)
     assert.match(transformed, /id="claim-evidence-t-111"/)
     assert.match(transformed, /id="claim-evidence-t-222"/)
     assert.match(transformed, /data-claim-detail="t-111"/)
     assert.match(transformed, /data-claim-detail="t-222"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-111"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-222"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-public-claim-id="t-002"/)
-    assert.equal((transformed.match(/data-original-claim-id="t-001"/g) ?? []).length, 4)
     assert.match(transformed, /Nuoroda į teiginį t-001/)
     assert.match(transformed, /Nuoroda į teiginį t-002/)
   })
@@ -343,9 +331,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /aria-controls="claim-evidence-t-333-2"/)
     assert.equal((transformed.match(/id="claim-evidence-t-333"/g) ?? []).length, 1)
     assert.equal((transformed.match(/id="claim-evidence-t-333-2"/g) ?? []).length, 1)
-    assert.match(transformed, /data-global-claim-id="t-333"/)
-    assert.match(transformed, /data-public-claim-id="t-001"/)
-    assert.match(transformed, /data-public-claim-id="t-002"/)
+    assert.match(transformed, /Globalus ID/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {

@@ -217,10 +217,6 @@ const CITATION_CONTRIBUTOR_FIELDS = [
   { keys: ["vertėjai", "vertejai"], label: "Vertėjai", className: "translator" },
 ]
 
-function citationAuthor(entry: EvidenceEntry): string {
-  return firstCitationField(entry, ["autorius", "autoriai"])
-}
-
 function citationContributorRows(entry: EvidenceEntry): string {
   return CITATION_CONTRIBUTOR_FIELDS.map((field) => {
     const value = firstCitationField(entry, field.keys)
@@ -558,18 +554,24 @@ function renderClaimsSection(
   entries.forEach((entry, index) => {
     const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const globalId = entry.fields.get("global_id") ?? ""
+    const sourceIds = [...new Set(
+      refs
+        .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
+        .filter((citation): citation is EvidenceEntry => Boolean(citation))
+        .map((citation) => citation.fields.get("šaltinis") ?? citation.fields.get("saltinis") ?? "")
+        .filter(Boolean)
+        .map(normalizeCitationSourceId),
+    )]
     const publicId = claimPublicId(index)
     const domKey = claimDomKey(entry, index, usedDomKeys)
     const anchorId = `claim-${domKey}`
-    const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(publicId, anchorId)
     const detailId = `claim-evidence-${domKey}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(domKey)}" data-claim-key="${escapeHtml(domKey)}" data-public-claim-id="${escapeHtml(publicId)}" data-original-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(
         entry,
         detailId,
@@ -740,7 +742,7 @@ function renderClaimEvidenceDetailRow(
     cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
   const content = `${claimTechnicalHtml}${citationContent}`
   const payload = JSON.stringify(content).replaceAll("<", "\\u003c")
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
 }
 
 function advancedRows(
@@ -771,33 +773,6 @@ function advancedRows(
   return rows
 }
 
-function renderMentionsSection(sectionLines: string[]): string[] | null {
-  const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
-  if (entries.length === 0) {
-    return null
-  }
-
-  const out: string[] = [
-    "",
-    `<div class="citations-section citation-evidence-store" data-citation-section="true" data-citation-store="true" hidden aria-hidden="true">`,
-  ]
-  for (const entry of entries) {
-    const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
-    const author = citationAuthor(entry)
-    const sourceId = source ? normalizeCitationSourceId(source) : ""
-
-    out.push(
-      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}" data-citation-author="${escapeHtml(author)}"></section>`,
-    )
-  }
-  out.push(
-    `<p class="options-filter-empty" data-citation-empty-state hidden>Nėra citatų pagal pasirinktus filtrus.</p>`,
-    `</div>`,
-    "",
-  )
-  return out
-}
-
 function renderStructuredSection(
   title: string,
   sectionLines: string[],
@@ -807,14 +782,10 @@ function renderStructuredSection(
   if (title === "Teiginiai") {
     return renderClaimsSection(sectionLines, resolveIndex, citationsById)
   }
-  if (
-    title === "Reikšmingi paminėjimai" ||
-    title === "Citatos" ||
-    title === "Šaltiniai ir įrodymai" ||
-    title === "Bibliografiniai įrodymai"
-  ) {
-    return renderMentionsSection(sectionLines)
-  }
+  // Citation bodies are loaded from the claim that uses them. Keeping an
+  // invisible duplicate store in every object page made large pages heavier
+  // without adding reader-visible content.
+  if (isEvidenceStoreSection(title)) return null
   return null
 }
 
