@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - žemė
+  - pilis
   - kraštas
   - vieta
 amziai:
@@ -57,6 +58,65 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-34010
+
+<a id="claim-t-201458"></a>
+- t-002
+  global_id: t-201458
+  teiginys: "Ordinas visą nukariautą kraštą vadino Prūsais pagal vakarines aisčių gimines, pirmąsias jo pavergtas."
+  atnaujinta: "2026-07-18 19:52"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-184808
+
+<a id="claim-t-201459"></a>
+- t-003
+  global_id: t-201459
+  teiginys: "Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas."
+  atnaujinta: "2026-07-18 19:52"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-184809
+
+<a id="claim-t-201460"></a>
+- t-004
+  global_id: t-201460
+  teiginys: "Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų."
+  atnaujinta: "2026-07-18 19:52"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-184810
+
+<a id="claim-t-201461"></a>
+- t-005
+  global_id: t-201461
+  teiginys: "Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu."
+  atnaujinta: "2026-07-18 19:52"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-184811
+
+<a id="claim-t-201462"></a>
+- t-006
+  global_id: t-201462
+  teiginys: "Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos."
+  atnaujinta: "2026-07-18 19:52"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-184808
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
@@ -648,6 +708,87 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32483
+
+- id: c-184808
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo tarpu visos kiltys, buvusios anapus Nemuno,
+    liko amžinoje vokiečių vergovėje.
+    Visą savo nukariautą kraštą ordinas vadino Prūsais, nors
+    prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios
+    anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino paverg-
+    tos. Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
+    visą nukariautą kraštą.
+  statusas: verified
+  atnaujinta: "2026-07-18 19:52"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201458
+    - t-201462
+
+- id: c-184809
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
+    visą nukariautą kraštą.
+    Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,
+    užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
+    bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.) net buvo sukilusios visos pa-
+    vergtos jų giminės.
+  citata_rodoma: "Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir\nvisą nukariautą kraštą.\nPrūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,\nužpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-\nbas. O du kartus (1242 - 1249 ir 1260 — 1274 m."
+  statusas: verified
+  atnaujinta: "2026-07-18 19:52"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201459
+
+- id: c-184810
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tas kraštas jį ir politiškai iš­
+    lavino. Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
+    žiuočių disciplinos, jų administracijos, karo mokslų ir daug kitų
+    dalykų. Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
+    dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­
+    šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo
+    ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.
+  statusas: verified
+  atnaujinta: "2026-07-18 19:52"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201460
+
+- id: c-184811
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **11. Kryžiuočių ordino atsikraustymas į Prūsus**
+
+    Prūsuose gyvenusios aisčių giminės anksčiau už kitas susi-
+    dūrė su krikščioniškuoju pasauliu. O tam krikščioniškajam pa-
+    sauliui iš pradžių čia atstovavo ne kolonistai ateiviai, bet kaimy-
+    nai lenkai ir pamarėnai.
+  statusas: verified
+  atnaujinta: "2026-07-18 19:52"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201461
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
