@@ -6,11 +6,13 @@ export type ClaimDetailAsset = {
   payload: string
 }
 
-const claimDetailPayload = /<script type="application\/json" data-claim-detail-payload="true">([^<]*)<\/script>/g
+const claimDetailPayload =
+  /<script type="application\/json" data-claim-detail-payload="true">([^<]*)<\/script>/g
 
-function assetSlug(pageSlug: FullSlug, index: number): FullSlug {
+function assetSlug(pageSlug: FullSlug, index: number, payload: string): FullSlug {
   const digest = createHash("sha256")
-    .update(`${pageSlug}:${index}`)
+    .update(`${pageSlug}:${index}:`)
+    .update(payload)
     .digest("hex")
     .slice(0, 24)
   return joinSegments("static", "claim-details", digest) as FullSlug
@@ -27,7 +29,7 @@ export function extractClaimDetailAssets(
 ): { html: string; assets: ClaimDetailAsset[] } {
   const assets: ClaimDetailAsset[] = []
   const extracted = html.replace(claimDetailPayload, (_match, payload: string) => {
-    const slug = assetSlug(pageSlug, assets.length)
+    const slug = assetSlug(pageSlug, assets.length, payload)
     assets.push({ slug, payload })
     return `<span data-claim-detail-url="/${slug}.json" hidden></span>`
   })

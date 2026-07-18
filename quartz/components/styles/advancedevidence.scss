@@ -330,6 +330,15 @@ article table.advanced-claims-table {
   }
 }
 
+.claim-citation-quote-label {
+  margin: 0.75rem 0 0.2rem;
+  color: var(--gray);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 .citation-evidence-store {
   display: none !important;
 }

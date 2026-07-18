@@ -71,7 +71,7 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
   ["vertinimo_atnaujinta", "Paskutinis atnaujinimas"],
   ["atnaujinta", "Paskutinis atnaujinimas"],
-  ["citata_originali", "Originali citata"],
+  ["citata_originali", "Originalus šaltinio fragmentas"],
 ])
 const ADVANCED_HINTS = new Map<string, string>([
   ["teiginio_tipas", "Kokio tipo faktas ar teiginys čia pateikiamas."],
@@ -107,7 +107,10 @@ const ADVANCED_HINTS = new Map<string, string>([
   ["ai_siulymo_pagrindimas", "Automatinio vertinimo pasiūlymo paaiškinimas."],
   ["vertinimo_atnaujinta", "Kada paskutinį kartą atnaujintas vertinimas."],
   ["atnaujinta", "Kada paskutinį kartą atnaujintas šis teiginys arba šaltinio įrašas."],
-  ["citata_originali", "Tikslus šaltinio fragmentas, iš kurio pateikiama citata."],
+  [
+    "citata_originali",
+    "Tikslus visas šaltinio fragmentas pagal jo indeksą; jis gali būti platesnis už rodomą ištrauką.",
+  ],
 ])
 const CLAIM_ADVANCED_KEYS = [
   "teiginio_tipas",
@@ -720,6 +723,8 @@ function renderCitationCard(
 ): string {
   const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
   const quote = citationQuote(citationEntry)
+  const originalQuote = citationEntry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
+  const quoteIsExcerpt = Boolean(originalQuote && quote.trim() !== originalQuote)
   const rows = advancedRows(citationEntry, quote, resolveIndex)
   const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
   const contributorHtml = citationContributorRows(citationEntry)
@@ -727,7 +732,7 @@ function renderCitationCard(
     ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
     : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
   const quoteHtml = quote
-    ? `<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
+    ? `${quoteIsExcerpt ? '<div class="claim-citation-quote-label">Rodoma citatos ištrauka</div>' : '<div class="claim-citation-quote-label">Citata</div>'}<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
     : `<p class="claim-citation-missing">Citatos tekstas nerastas.</p>`
   const advancedHtml =
     rows.length > 0
