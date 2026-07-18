@@ -74,6 +74,18 @@ describe("ContentIndex sitemap", () => {
     )
     assert.match(xml, /<lastmod>2026-07-13T10:00:00\.000Z<\/lastmod>/)
   })
+
+  test("omits pages explicitly marked noindex", () => {
+    const idx: ContentIndexMap = new Map([
+      ["index" as FullSlug, page()],
+      [
+        "objektai/asmenys/OCR" as FullSlug,
+        { ...page(), slug: "objektai/asmenys/OCR" as FullSlug, noindex: true },
+      ],
+    ])
+    const xml = generateSiteMap(cfg, idx)
+    assert.doesNotMatch(xml, /objektai\/asmenys\/OCR/)
+  })
 })
 
 describe("ContentIndex links", () => {

@@ -81,6 +81,14 @@ function MediaDetailPage({ entry }: { entry: MediaEntry }) {
   const provider = cleanText(entry.providerLabel || entry.provider)
   const imageUrl = cleanText(entry.sourceUrl || entry.thumbUrl)
   const tags = [...new Map((entry.tags ?? []).map((tag) => [tag.code || tag.label, tag])).values()]
+  const sourceTags = [
+    ...new Map(
+      (entry.sourceTags ?? []).map((tag) => [
+        `${tag.provider}:${tag.field}:${tag.label.toLocaleLowerCase("lt")}`,
+        tag,
+      ]),
+    ).values(),
+  ]
   const context = cleanText(entry.visualEvidence || entry.metadataEvidence || entry.judgeReason)
   const facts = [
     ["Kūrėjas", creator],
@@ -148,6 +156,16 @@ function MediaDetailPage({ entry }: { entry: MediaEntry }) {
               <div class="media-detail-tags">
                 {tags.map((tag) => (
                   <a href={`/galerija?tags=${encodeURIComponent(tag.code)}`}>#{tag.label}</a>
+                ))}
+              </div>
+            </section>
+          )}
+          {sourceTags.length > 0 && (
+            <section>
+              <h2>Šaltinio žymos</h2>
+              <div class="media-detail-source-tags">
+                {sourceTags.map((tag) => (
+                  <span title={`${tag.provider} · ${tag.field}`}>{tag.label}</span>
                 ))}
               </div>
             </section>

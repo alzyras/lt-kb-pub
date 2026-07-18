@@ -615,6 +615,41 @@ body:is([data-slug="galerija"], [data-slug$="/galerija"]) .object-media-gallery-
   max-width: none;
 }
 
+body[data-slug^="parodos"] .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+
+body[data-slug^="parodos"] .left.sidebar,
+body[data-slug^="parodos"] .right.sidebar,
+body[data-slug^="parodos"] .page-footer,
+body[data-slug^="parodos"] .center > hr {
+  display: none !important;
+}
+
+body[data-slug^="parodos"] .page > #quartz-body .center {
+  display: block;
+  grid-area: grid-center;
+  grid-column: 1 / -1 !important;
+  grid-row: 2 !important;
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+  margin: 0 auto;
+}
+
+body[data-slug^="parodos"] .page > #quartz-body .center > article,
+body[data-slug^="parodos"] .page > #quartz-body .center > article > .popover-hint {
+  width: 100%;
+  max-width: none;
+}
+
 body[data-slug$="/galerija"] .object-map-cta-actions {
   grid-template-columns: minmax(0, 14rem);
 }

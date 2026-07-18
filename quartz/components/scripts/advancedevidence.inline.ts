@@ -102,6 +102,7 @@ document.addEventListener("nav", () => {
     if (open) {
       const content = detail.querySelector<HTMLElement>("[data-claim-detail-content]")
       const payload = detail.querySelector<HTMLScriptElement>("[data-claim-detail-payload]")
+      const remotePayload = detail.querySelector<HTMLElement>("[data-claim-detail-url]")
       if (content && payload) {
         try {
           const decoder = document.createElement("textarea")
@@ -111,6 +112,23 @@ document.addEventListener("nav", () => {
         } catch {
           content.textContent = "Citatos duomenų nepavyko parodyti."
         }
+      } else if (content && remotePayload?.dataset.claimDetailUrl) {
+        const url = remotePayload.dataset.claimDetailUrl
+        remotePayload.removeAttribute("data-claim-detail-url")
+        content.textContent = "Kraunami citatos duomenys…"
+        void fetch(url, { cache: "force-cache" })
+          .then((response) => {
+            if (!response.ok) throw new Error(`claim detail ${response.status}`)
+            return response.text()
+          })
+          .then((raw) => {
+            const decoder = document.createElement("textarea")
+            decoder.innerHTML = raw
+            content.innerHTML = JSON.parse(decoder.value)
+          })
+          .catch(() => {
+            content.textContent = "Citatos duomenų nepavyko parodyti."
+          })
       }
     }
 

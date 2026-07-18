@@ -45,6 +45,10 @@ const config: QuartzConfig = {
       "tyrimai/auditai/**",
       "objektai/autoriai/Дельбрюк Г.md",
       "objektai/saltiniai/Полное собрание русских летописей.md",
+      // Superseded by the curated public record below; keep old inbound links via AliasRedirects.
+      "objektai/asmenys/Vytautas.md",
+      // This legacy duplicate collides with the parenthetical canonical record's generated alias.
+      "objektai/grupes/Draugija užsienio lietuviams remti.md",
     ],
     defaultDateType: "created",
     theme: {
@@ -108,11 +112,13 @@ const config: QuartzConfig = {
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
+      Plugin.HomeCollectionData(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.GraphExplorerPage(),
       Plugin.ObjectGalleryPage(),
+      Plugin.ExhibitionPages(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,

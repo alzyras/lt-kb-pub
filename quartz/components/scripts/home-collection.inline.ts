@@ -70,6 +70,7 @@ const collectionObjectTypeByValue = new Map(
 )
 
 let collectionObjectItemsPromise: Promise<CollectionObjectItem[]> | undefined
+let collectionSpotlightObjectsPromise: Promise<CollectionSpotlightObject[]> | undefined
 let collectionSpotlightSelection: CollectionSpotlightSelection | undefined
 
 function normalizeCollectionSearchText(value: string): string {
@@ -214,6 +215,21 @@ function collectionClaimHref(object: CollectionSpotlightObject, claim: Collectio
   return `${collectionObjectHref(object.slug)}#claim-${claim.id}`
 }
 
+function validCollectionSpotlightData(value: unknown): CollectionSpotlightObject[] {
+  if (!Array.isArray(value)) return []
+  return value.filter(
+    (object): object is CollectionSpotlightObject =>
+      Boolean(
+        object &&
+          typeof object === "object" &&
+          typeof (object as CollectionSpotlightObject).title === "string" &&
+          typeof (object as CollectionSpotlightObject).slug === "string" &&
+          Array.isArray((object as CollectionSpotlightObject).claims) &&
+          (object as CollectionSpotlightObject).claims.length >= 10,
+      ),
+  )
+}
+
 function parseCollectionSpotlightData(host: HTMLElement): CollectionSpotlightObject[] {
   const data = host.querySelector<HTMLScriptElement>("[data-collection-spotlight-data]")
   if (!data?.textContent) {
@@ -221,22 +237,23 @@ function parseCollectionSpotlightData(host: HTMLElement): CollectionSpotlightObj
   }
 
   try {
-    const parsed = JSON.parse(data.textContent) as CollectionSpotlightObject[]
-    if (!Array.isArray(parsed)) {
-      return []
-    }
-
-    return parsed.filter(
-      (object) =>
-        object &&
-        typeof object.title === "string" &&
-        typeof object.slug === "string" &&
-        Array.isArray(object.claims) &&
-        object.claims.length >= 10,
-    )
+    return validCollectionSpotlightData(JSON.parse(data.textContent))
   } catch {
     return []
   }
+}
+
+function loadCollectionSpotlightData(host: HTMLElement): Promise<CollectionSpotlightObject[]> {
+  const inline = parseCollectionSpotlightData(host)
+  if (inline.length) return Promise.resolve(inline)
+  if (collectionSpotlightObjectsPromise) return collectionSpotlightObjectsPromise
+  const url = host.querySelector<HTMLElement>("[data-collection-spotlight-url]")?.dataset.collectionSpotlightUrl
+  if (!url) return Promise.resolve([])
+  collectionSpotlightObjectsPromise = fetch(url, { cache: "force-cache" })
+    .then((response) => (response.ok ? response.json() : []))
+    .then(validCollectionSpotlightData)
+    .catch(() => [])
+  return collectionSpotlightObjectsPromise
 }
 
 function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string {
@@ -255,12 +272,12 @@ function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string 
   return ""
 }
 
-function pickCollectionSpotlight(host: HTMLElement): CollectionSpotlightSelection | undefined {
+async function pickCollectionSpotlight(host: HTMLElement): Promise<CollectionSpotlightSelection | undefined> {
   if (collectionSpotlightSelection) {
     return collectionSpotlightSelection
   }
 
-  const objects = parseCollectionSpotlightData(host)
+  const objects = await loadCollectionSpotlightData(host)
   const object = objects[collectionRandomIndex(objects.length)]
   if (!object) {
     return undefined
@@ -275,14 +292,14 @@ function pickCollectionSpotlight(host: HTMLElement): CollectionSpotlightSelectio
   return collectionSpotlightSelection
 }
 
-function setupCollectionClaimSpotlight() {
+async function setupCollectionClaimSpotlight() {
   for (const host of document.querySelectorAll<HTMLElement>("[data-collection-claim-spotlight]")) {
     if (host.dataset.collectionClaimSpotlightBound === "true") {
       continue
     }
     host.dataset.collectionClaimSpotlightBound = "true"
 
-    const selection = pickCollectionSpotlight(host)
+    const selection = await pickCollectionSpotlight(host)
     const objectLink = host.querySelector<HTMLAnchorElement>("[data-collection-spotlight-object]")
     const claimLink = host.querySelector<HTMLAnchorElement>("[data-collection-spotlight-claim]")
     const source = host.querySelector<HTMLElement>("[data-collection-spotlight-source]")
@@ -713,7 +730,7 @@ function setupCollectionSearch() {
 }
 
 document.addEventListener("nav", () => {
-  setupCollectionClaimSpotlight()
+  void setupCollectionClaimSpotlight()
   setupCollectionBrowseTabs()
   setupCollectionObjectSearch()
   setupCollectionSearch()

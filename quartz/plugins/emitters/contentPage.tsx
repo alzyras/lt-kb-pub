@@ -14,6 +14,7 @@ import { BuildCtx } from "../../util/ctx"
 import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
+import { extractClaimDetailAssets } from "../../util/claimDetailAssets"
 
 async function processContent(
   ctx: BuildCtx,
@@ -36,13 +37,20 @@ async function processContent(
     allFiles,
   }
 
-  const content = renderPage(cfg, slug, componentData, opts, externalResources)
-  return write({
+  const rendered = renderPage(cfg, slug, componentData, opts, externalResources)
+  const extracted = extractClaimDetailAssets(rendered, slug)
+  const assets = await Promise.all(
+    extracted.assets.map((asset) =>
+      write({ ctx, content: asset.payload, slug: asset.slug, ext: ".json" }),
+    ),
+  )
+  const page = await write({
     ctx,
-    content,
+    content: extracted.html,
     slug,
     ext: ".html",
   })
+  return [...assets, page]
 }
 
 export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
@@ -85,7 +93,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
 
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
-        yield processContent(ctx, tree, file.data, allFiles, opts, resources)
+        yield* await processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
 
       if (!containsIndex) {
@@ -114,7 +122,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         if (!changedSlugs.has(slug)) continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
-        yield processContent(ctx, tree, file.data, allFiles, opts, resources)
+        yield* await processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
     },
   }

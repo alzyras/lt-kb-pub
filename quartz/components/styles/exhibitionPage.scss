@@ -1,0 +1,451 @@
+.exhibition-page,
+.exhibitions-index {
+  width: min(100%, 90rem);
+  margin: 0 auto;
+  color: var(--dark);
+}
+
+.exhibition-hero {
+  display: grid;
+  min-height: min(78vh, 50rem);
+  align-items: end;
+  margin: -2rem calc(50% - 50vw) 0;
+  padding: clamp(4rem, 10vw, 8rem) max(1.25rem, calc((100vw - 82rem) / 2));
+  background-color: #16100d;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.exhibition-hero > div {
+  max-width: 52rem;
+}
+
+.exhibition-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0 0 1rem;
+  color: var(--secondary);
+  font: 800 0.75rem/1.2 var(--bodyFont);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.exhibition-hero .exhibition-eyebrow {
+  color: #ff8b88;
+}
+
+.exhibition-hero h1 {
+  max-width: 48rem;
+  margin: 0;
+  color: #fff;
+  font-size: clamp(2.7rem, 7vw, 6.4rem);
+  line-height: 0.95;
+  letter-spacing: -0.055em;
+}
+
+.exhibition-subtitle {
+  max-width: 44rem;
+  margin: 1.4rem 0 0;
+  color: #f2e8de;
+  font-size: clamp(1.2rem, 2.4vw, 2rem);
+  line-height: 1.25;
+}
+
+.exhibition-intro {
+  max-width: 42rem;
+  margin: 1.2rem 0 1.6rem;
+  color: #ddd1c5;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.exhibition-hero a,
+.exhibition-footer a,
+.exhibitions-index article > div > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: inherit;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.exhibition-chapters {
+  position: sticky;
+  z-index: 8;
+  top: 0;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  margin: 0 calc(50% - 50vw);
+  border-bottom: 1px solid var(--lightgray);
+  background: color-mix(in srgb, var(--light) 94%, transparent);
+  backdrop-filter: blur(16px);
+}
+
+.exhibition-chapters a {
+  display: flex;
+  min-height: 4.4rem;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.8rem;
+  border-right: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  font-size: 0.72rem;
+  font-weight: 750;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.exhibition-chapters a:hover {
+  background: var(--highlight);
+  color: var(--secondary);
+}
+
+.exhibition-chapters span {
+  color: var(--secondary);
+  font: 800 0.64rem/1 var(--codeFont);
+}
+
+.exhibition-section {
+  padding: clamp(4rem, 9vw, 8rem) 0 2rem;
+  scroll-margin-top: 4rem;
+}
+
+.exhibition-section > header {
+  display: grid;
+  max-width: 58rem;
+  grid-template-columns: 3.4rem 1fr;
+  margin-bottom: clamp(3rem, 7vw, 6rem);
+}
+
+.exhibition-section > header > span {
+  grid-row: 1 / 3;
+  color: var(--secondary);
+  font: 800 0.8rem/1 var(--codeFont);
+}
+
+.exhibition-section h2 {
+  margin: 0;
+  font-size: clamp(2.2rem, 5vw, 4.6rem);
+  line-height: 1;
+  letter-spacing: -0.045em;
+}
+
+.exhibition-section > header p {
+  max-width: 46rem;
+  margin: 1rem 0 0;
+  color: var(--darkgray);
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.exhibition-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1.14fr) minmax(20rem, 0.86fr);
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: center;
+  padding: clamp(2.5rem, 6vw, 6rem) 0;
+  border-top: 1px solid var(--lightgray);
+}
+
+.exhibition-item.is-reversed .exhibition-item-image {
+  order: 2;
+}
+
+.exhibition-item > * {
+  min-width: 0;
+}
+
+.exhibition-item-image {
+  position: relative;
+  display: grid;
+  min-height: 24rem;
+  place-items: center;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+}
+
+.exhibition-item-image img {
+  width: 100%;
+  max-height: 70vh;
+  object-fit: contain;
+  transition: transform 320ms ease;
+}
+
+.exhibition-item-image:hover img {
+  transform: scale(1.018);
+}
+
+.exhibition-item-image > span {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 0.65rem;
+  background: rgba(0, 0, 0, 0.74);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 750;
+}
+
+.exhibition-item-number {
+  color: var(--secondary);
+  font: 800 0.72rem/1 var(--codeFont);
+}
+
+.exhibition-item-copy h3 {
+  margin: 0.7rem 0 0;
+  font-size: clamp(1.8rem, 3.5vw, 3.1rem);
+  line-height: 1.04;
+  letter-spacing: -0.035em;
+}
+
+.exhibition-item-meta {
+  margin: 0.85rem 0;
+  color: var(--gray);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.exhibition-item-description {
+  margin: 1.2rem 0;
+  color: var(--darkgray);
+  font-size: 0.98rem;
+  line-height: 1.75;
+}
+
+.exhibition-inline-claims {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-left: 0.25rem;
+}
+
+.exhibition-inline-claims a {
+  color: var(--secondary);
+  font: 750 0.7rem/1 var(--codeFont);
+  text-decoration: none;
+}
+
+.exhibition-inline-claims a:hover,
+.exhibition-inline-claims a:focus-visible {
+  text-decoration: underline;
+}
+
+.exhibition-item-rights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.8rem;
+  color: var(--gray);
+  font-size: 0.68rem;
+  overflow-wrap: anywhere;
+}
+
+.exhibition-claims {
+  display: grid;
+  gap: 0.5rem;
+  margin: 1.4rem 0;
+}
+
+.exhibition-claims details {
+  min-width: 0;
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  padding: 0.8rem 0.9rem;
+  overflow-wrap: anywhere;
+}
+
+.exhibition-claims summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--secondary);
+  cursor: pointer;
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
+.exhibition-claims p {
+  margin: 0.75rem 0;
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.exhibition-claims a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--secondary);
+  font-size: 0.74rem;
+  font-weight: 800;
+}
+
+.exhibition-claims small {
+  display: block;
+  margin-top: 0.6rem;
+  color: var(--gray);
+  font-size: 0.66rem;
+}
+
+.exhibition-tag-groups {
+  display: grid;
+  gap: 0.7rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  color: var(--gray);
+  font-size: 0.7rem;
+}
+
+.exhibition-tag-groups strong {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--darkgray);
+}
+
+.exhibition-tag-groups p {
+  margin: 0.35rem 0 0;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.exhibition-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 1rem;
+  color: var(--secondary);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.exhibition-catalogue {
+  padding: 6rem 0;
+  border-top: 1px solid var(--secondary);
+}
+
+.exhibition-catalogue > div {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.exhibition-catalogue img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: var(--lightgray);
+  object-fit: contain;
+}
+
+.exhibition-catalogue h3 {
+  margin-bottom: 0.5rem;
+}
+
+.exhibition-catalogue article > p {
+  color: var(--darkgray);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.exhibition-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 3rem 0;
+  border-top: 1px solid var(--lightgray);
+  color: var(--secondary);
+}
+
+.exhibitions-index > header {
+  max-width: 58rem;
+  padding: 5rem 0 3rem;
+}
+
+.exhibitions-index > header h1 {
+  margin: 0;
+  font-size: clamp(2.8rem, 6vw, 5.6rem);
+  letter-spacing: -0.05em;
+}
+
+.exhibitions-index > header > p:last-child {
+  color: var(--darkgray);
+  font-size: 1.1rem;
+}
+
+.exhibitions-index > div > article {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  min-height: 28rem;
+  border: 1px solid var(--lightgray);
+}
+
+.exhibitions-index article > a img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.exhibitions-index article > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(2rem, 5vw, 5rem);
+}
+
+.exhibitions-index article > div > span {
+  color: var(--secondary);
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.exhibitions-index h2 {
+  margin: 1rem 0;
+  font-size: clamp(2rem, 4vw, 3.6rem);
+  line-height: 1.05;
+}
+
+.exhibitions-index h2 a {
+  color: var(--dark);
+  text-decoration: none;
+}
+
+@media (max-width: 800px) {
+  .exhibition-hero {
+    min-height: 72vh;
+    margin-top: -1rem;
+  }
+  .exhibition-chapters {
+    display: flex;
+    overflow-x: auto;
+  }
+  .exhibition-chapters a {
+    min-width: 12rem;
+  }
+  .exhibition-item,
+  .exhibitions-index > div > article {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .exhibition-item.is-reversed .exhibition-item-image {
+    order: 0;
+  }
+  .exhibition-item-image {
+    min-height: 18rem;
+  }
+  .exhibition-catalogue > div {
+    grid-template-columns: 1fr;
+  }
+  .exhibition-footer {
+    flex-direction: column;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .exhibition-item-image img {
+    transition: none;
+  }
+}

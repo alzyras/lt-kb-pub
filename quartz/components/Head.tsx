@@ -5,6 +5,7 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import { isPoorSeoPage, pageStructuredData, seoDescription, seoTitle } from "../util/seo"
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -17,11 +18,21 @@ export default (() => {
     ).trim()
     const siteTitle = String(cfg.pageTitle ?? "").trim()
     const titleSuffix = titleBase === siteTitle ? "" : (cfg.pageTitleSuffix ?? "")
-    const title = titleBase + titleSuffix
-    const description =
+    const descriptionSource =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const seoInput = {
+      slug: fileData.slug,
+      title: titleBase,
+      description: descriptionSource,
+      text: fileData.text,
+      itemType: fileData.frontmatter?.tipas,
+      noindex: fileData.frontmatter?.noindex,
+    }
+    const title = seoTitle(seoInput, siteTitle, titleSuffix)
+    const description = seoDescription(seoInput)
+    const noindex = isPoorSeoPage(seoInput)
     const mediaPrimaryThumb =
       String(fileData.frontmatter?.media_primary_thumb_url ?? "").trim() ||
       String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
@@ -47,6 +58,19 @@ export default (() => {
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
     const canonicalUrl =
       fileData.slug === "404" ? undefined : fileData.slug === "index" ? url.toString() : socialUrl
+    const automaticStructuredData =
+      canonicalUrl && cfg.baseUrl
+        ? JSON.stringify(
+            pageStructuredData({
+              ...seoInput,
+              baseUrl: cfg.baseUrl,
+              canonicalUrl,
+              mediaUrl: mediaPrimaryThumb || undefined,
+              mediaWidth: mediaPrimaryWidth || undefined,
+              mediaHeight: mediaPrimaryHeight || undefined,
+            }),
+          )
+        : ""
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -113,7 +137,14 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
         <meta name="description" content={description} />
+        {noindex && <meta name="robots" content="noindex,follow" />}
         <meta name="generator" content="Quartz" />
+        {automaticStructuredData && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: automaticStructuredData.replace(/</g, "\\u003c") }}
+          />
+        )}
         {structuredData && (
           <script
             type="application/ld+json"

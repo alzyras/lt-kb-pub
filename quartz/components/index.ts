@@ -14,6 +14,7 @@ import LIHeader from "./LIHeader"
 import GoogleTranslate from "./GoogleTranslate"
 import ObjectMapCTA from "./ObjectMapCTA"
 import ObjectMediaGallery from "./ObjectMediaGallery"
+import ExhibitionPage from "./ExhibitionPage"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -50,6 +51,7 @@ export {
   GoogleTranslate,
   ObjectMapCTA,
   ObjectMediaGallery,
+  ExhibitionPage,
   Head,
   PageTitle,
   ContentMeta,

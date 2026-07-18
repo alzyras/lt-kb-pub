@@ -7,6 +7,13 @@ import path from "path"
 
 const MAX_SEGMENT_BYTES = 240
 const TRAILING_PARENTHETICAL = /-\([^)]{1,120}\)$/
+const LEGACY_CANONICAL_REDIRECTS: Array<[FullSlug, FullSlug]> = [
+  ["objektai/asmenys/Vytautas" as FullSlug, "objektai/asmenys/Vytautas-Didysis" as FullSlug],
+  [
+    "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti" as FullSlug,
+    "objektai/grupes/Draugija-Uzsienio-Lietuviams-Remti-(DULR)" as FullSlug,
+  ],
+]
 
 function hasOverlongSegment(slug: FullSlug): boolean {
   return String(slug)
@@ -65,6 +72,7 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
       <head>
       <title>${toSlug}</title>
       <link rel="canonical" href="${canonicalUrl}">
+      <meta name="robots" content="noindex,follow">
       <meta charset="utf-8">
       <meta http-equiv="refresh" content="0; url=${redirUrl}">
       </head>
@@ -172,6 +180,10 @@ async function* processGeneratedAliases(ctx: BuildCtx, content: [unknown, VFile]
 export const AliasRedirects: QuartzEmitterPlugin = () => ({
   name: "AliasRedirects",
   async *emit(ctx, content) {
+    for (const [fromSlug, toSlug] of LEGACY_CANONICAL_REDIRECTS) {
+      const page = redirectPage(fromSlug, toSlug, ctx)
+      if (page) yield page
+    }
     for (const [_tree, file] of content) {
       yield* processFile(ctx, file)
     }
