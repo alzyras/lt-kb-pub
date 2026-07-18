@@ -726,10 +726,12 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
                 frontmatter?.published,
             )
           const contentText = file.data.text ?? ""
+          const descriptionSource =
+            frontmatter?.socialDescription ?? frontmatter?.description ?? file.data.description
           const noindex = isPoorSeoPage({
             slug,
             title: frontmatter?.title,
-            description: file.data.description,
+            description: descriptionSource,
             text: contentText,
             itemType: frontmatter?.tipas,
             noindex: frontmatter?.noindex,
@@ -747,7 +749,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             modifiedDate: sitemapModifiedDate,
-            description: file.data.description ?? "",
+            description: descriptionSource ?? "",
             citationFilterable: Boolean(citationMetadata),
             quoteCount: citationMetadata?.quoteCount ?? 0,
             citationSourceIds: citationMetadata?.sourceIds ?? [],

@@ -22,6 +22,37 @@ function applyMode(mode: "on" | "off") {
 let mode: "on" | "off" = readMode()
 applyMode(mode)
 
+// The page keeps the citation markup out of its initial HTML, but readers
+// should not have to wait for a network request after opening a claim. Cache
+// fetched details by their immutable content URL; a background queue warms the
+// cache gradually once the page itself is usable.
+const remoteDetailCache = new Map<string, Promise<string>>()
+
+function decodeDetailPayload(raw: string): string {
+  const decoder = document.createElement("textarea")
+  decoder.innerHTML = raw
+  return JSON.parse(decoder.value)
+}
+
+function fetchRemoteDetail(url: string): Promise<string> {
+  const cached = remoteDetailCache.get(url)
+  if (cached) return cached
+
+  const request = fetch(url, { cache: "force-cache" })
+    .then((response) => {
+      if (!response.ok) throw new Error(`claim detail ${response.status}`)
+      return response.text()
+    })
+    .then(decodeDetailPayload)
+    .catch((error) => {
+      // Do not cache a failed request: opening the claim later may succeed.
+      remoteDetailCache.delete(url)
+      throw error
+    })
+  remoteDetailCache.set(url, request)
+  return request
+}
+
 document.addEventListener("nav", () => {
   mode = readMode()
   applyMode(mode)
@@ -105,29 +136,23 @@ document.addEventListener("nav", () => {
       const remotePayload = detail.querySelector<HTMLElement>("[data-claim-detail-url]")
       if (content && payload) {
         try {
-          const decoder = document.createElement("textarea")
-          decoder.innerHTML = payload.textContent ?? '""'
-          content.innerHTML = JSON.parse(decoder.value)
+          content.innerHTML = decodeDetailPayload(payload.textContent ?? '""')
           payload.remove()
         } catch {
           content.textContent = "Citatos duomenų nepavyko parodyti."
         }
       } else if (content && remotePayload?.dataset.claimDetailUrl) {
         const url = remotePayload.dataset.claimDetailUrl
-        remotePayload.removeAttribute("data-claim-detail-url")
         content.textContent = "Kraunami citatos duomenys…"
-        void fetch(url, { cache: "force-cache" })
-          .then((response) => {
-            if (!response.ok) throw new Error(`claim detail ${response.status}`)
-            return response.text()
-          })
-          .then((raw) => {
-            const decoder = document.createElement("textarea")
-            decoder.innerHTML = raw
-            content.innerHTML = JSON.parse(decoder.value)
+        remotePayload.dataset.claimDetailState = "loading"
+        void fetchRemoteDetail(url)
+          .then((html) => {
+            content.innerHTML = html
+            remotePayload.remove()
           })
           .catch(() => {
-            content.textContent = "Citatos duomenų nepavyko parodyti."
+            remotePayload.dataset.claimDetailState = "error"
+            content.textContent = "Citatos dar nepavyko įkelti. Bandykite dar kartą."
           })
       }
     }
@@ -188,8 +213,33 @@ document.addEventListener("nav", () => {
   document.addEventListener("click", onClick)
   document.addEventListener("keydown", onKeyDown)
   applyClaimHashTarget()
+
+  let prefetchCancelled = false
+  const pendingDetailUrls = Array.from(
+    document.querySelectorAll<HTMLElement>('[data-claim-detail-url]'),
+    (element) => element.dataset.claimDetailUrl,
+  ).filter((url): url is string => Boolean(url))
+  let prefetchOffset = 0
+
+  const warmNextDetails = () => {
+    if (prefetchCancelled || prefetchOffset >= pendingDetailUrls.length) return
+    const batch = pendingDetailUrls.slice(prefetchOffset, prefetchOffset + 3)
+    prefetchOffset += batch.length
+    void Promise.allSettled(batch.map(fetchRemoteDetail)).finally(() => {
+      if (!prefetchCancelled && prefetchOffset < pendingDetailUrls.length) {
+        window.setTimeout(warmNextDetails, 300)
+      }
+    })
+  }
+
+  // Leave the initial render and interaction handlers alone first. Three
+  // small requests at a time avoid turning a large source page into a burst of
+  // hundreds of simultaneous requests.
+  const prefetchTimer = window.setTimeout(warmNextDetails, 900)
   window.addEventListener("hashchange", applyClaimHashTarget)
   window.addCleanup(() => {
+    prefetchCancelled = true
+    window.clearTimeout(prefetchTimer)
     document.removeEventListener("click", onClick)
     document.removeEventListener("keydown", onKeyDown)
     window.removeEventListener("hashchange", applyClaimHashTarget)
