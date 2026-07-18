@@ -4,6 +4,7 @@ import {
   resolvePreferredLanguage,
   type SiteLanguage,
 } from "./google-translate-state"
+import { emitAnalyticsFeature } from "../../util/analytics-client"
 
 const LANGUAGE_NAMES: Record<SiteLanguage, string> = {
   lt: "lietuvių",
@@ -197,7 +198,14 @@ function loadGoogleTranslate() {
   script.id = TRANSLATE_SCRIPT_ID
   script.src = TRANSLATE_SCRIPT_URL
   script.async = true
-  script.addEventListener("error", () => updateControls("lt", true))
+  script.addEventListener("error", () => {
+    emitAnalyticsFeature({
+      name: "translation",
+      action: "load_error",
+      params: { translation_status: "unavailable" },
+    })
+    updateControls("lt", true)
+  })
   document.head.appendChild(script)
 }
 

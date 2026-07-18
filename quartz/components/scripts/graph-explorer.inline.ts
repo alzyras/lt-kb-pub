@@ -2,6 +2,8 @@ import { Application, Container, Graphics, Text } from "pixi.js"
 import { select, zoom, zoomIdentity, ZoomTransform } from "d3"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { loadSourceCatalog } from "../../util/sourceSettings"
+import { emitAnalyticsMap } from "../../util/analytics-client"
+import { analyticsZoomBucket } from "../../util/analytics"
 import {
   buildVisibleGraph,
   cloneGraphState,
@@ -256,13 +258,13 @@ function panelControls(state: GraphState): string {
   return `<div class="graph-explorer-panel-modes"><button data-panel-mode="details" class="${state.panel === "details" ? "is-active" : ""}">Detalės</button><button data-panel-mode="page" class="${state.panel === "page" ? "is-active" : ""}">Puslapis</button><button data-panel-mode="hidden">Slėpti</button></div>`
 }
 function bindPanelControls(panel: HTMLElement, change: (mode: GraphState["panel"]) => void) {
-  panel
-    .querySelectorAll<HTMLButtonElement>("[data-panel-mode]")
-    .forEach((button) =>
-      button.addEventListener("click", () =>
-        change(button.dataset.panelMode as GraphState["panel"]),
-      ),
-    )
+  panel.querySelectorAll<HTMLButtonElement>("[data-panel-mode]").forEach((button) =>
+    button.addEventListener("click", () => {
+      const mode = button.dataset.panelMode as GraphState["panel"]
+      emitAnalyticsMap("panel_mode_change", { map_view: "full", map_panel_mode: mode })
+      change(mode)
+    }),
+  )
 }
 function relationBreakdown(
   node: TopologyNode,
@@ -969,6 +971,7 @@ function popovers(root: HTMLElement) {
 }
 async function setup(root: HTMLElement) {
   document.body.classList.add("graph-explorer-active")
+  emitAnalyticsMap("open", { map_view: "full" }, { dedupeScope: "page", dedupeKey: "full" })
   const status = root.querySelector<HTMLElement>("[data-graph-status]")!,
     canvas = root.querySelector<HTMLElement>("[data-graph-canvas]")!,
     panel = root.querySelector<HTMLElement>("[data-graph-panel]")!
@@ -981,6 +984,7 @@ async function setup(root: HTMLElement) {
       : json<GraphSlugMap>(new URL("../graphSlugMap.json", graphDataBase)),
   ])
   graphSlugMap = loadedSlugMap
+  emitAnalyticsMap("load_success", { map_view: "full" }, { dedupeScope: "page", dedupeKey: "load" })
   const allTypes = [...new Set(topology.nodes.map((node) => node.type))].filter(
     (type) => typeLabels[type],
   )
@@ -992,12 +996,6 @@ async function setup(root: HTMLElement) {
   }
   let state = stateFromUrl(defaults.relations, defaults.types, graphSlugMap)
   state.focus = resolveTopologyFocus(topology, state.focus)
-  const emitGraphFeature = (action: string, value = "") =>
-    document.dispatchEvent(
-      new CustomEvent("analyticsfeature", {
-        detail: { name: "graph", action, ...(value ? { value } : {}) },
-      }),
-    )
   const onGraphFilterChange = (event: Event) => {
     const control =
       event.target instanceof HTMLInputElement || event.target instanceof HTMLSelectElement
@@ -1005,7 +1003,24 @@ async function setup(root: HTMLElement) {
         : null
     if (!control) return
     const value = control.name || control.dataset.relation || control.dataset.type || "filter"
-    emitGraphFeature("filter_change", value)
+    const sourceControl = Boolean(control.closest("[data-source-list]"))
+    const action = control.dataset.relation
+      ? "relation_change"
+      : control.dataset.type
+        ? "type_change"
+        : sourceControl || control.name === "sources"
+          ? "source_change"
+          : "filter_change"
+    emitAnalyticsMap(action, {
+      map_view: "full",
+      map_filter_name: sourceControl ? "source" : value,
+      map_filter_value:
+        sourceControl && control instanceof HTMLInputElement
+          ? control.checked
+            ? "selected"
+            : "cleared"
+          : control.value,
+    })
   }
   root.addEventListener("change", onGraphFilterChange)
   let allEdges = [...topology.edges]
@@ -1015,6 +1030,7 @@ async function setup(root: HTMLElement) {
   let camera: Camera | undefined
   let historyEntries: HistoryEntry[] = [{ state: cloneGraphState(state) }],
     historyIndex = 0
+  let lastCamera: Camera | undefined
   const sourceCatalog = (await loadSourceCatalog().catch(() => [])) as SourceEntry[]
   for (const source of sourceCatalog) sourceTitleCache.set(source.id, source.title)
   const selectedSourceIds = () => new Set(state.sources)
@@ -1072,13 +1088,23 @@ async function setup(root: HTMLElement) {
           panel: state.panel === "hidden" ? "details" : state.panel,
         }
         commit()
-        emitGraphFeature("focus", slug)
+        const node = topology.nodes.find((candidate) => candidate.slug === slug)
+        emitAnalyticsMap("node_select", {
+          map_view: "full",
+          map_object_type: node?.type ?? "unknown",
+          input_method: "canvas",
+        })
         sync()
         void rerender()
       },
       edge: (edge) => {
         state = { ...state, panel: "details" }
         root.dataset.panel = "details"
+        emitAnalyticsMap("edge_select", {
+          map_view: "full",
+          map_relation_type: edge.kind,
+          input_method: "canvas",
+        })
         commit("replace")
         void renderEdgePanel(panel, edge, topology, state, (mode) => {
           state = { ...state, panel: mode }
@@ -1088,6 +1114,18 @@ async function setup(root: HTMLElement) {
         })
       },
       camera: (value) => {
+        if (lastCamera) {
+          const action = Math.abs(value.k - lastCamera.k) > 0.001 ? "zoom" : "pan"
+          emitAnalyticsMap(
+            action,
+            {
+              map_view: "full",
+              map_zoom_bucket: analyticsZoomBucket(value.k),
+            },
+            { dedupeScope: "none" },
+          )
+        }
+        lastCamera = value
         camera = value
         saveCamera()
       },
@@ -1227,7 +1265,23 @@ async function setup(root: HTMLElement) {
       panel: state.panel === "hidden" ? "details" : state.panel,
     }
     commit()
-    emitGraphFeature("focus", slug)
+    const node = topology.nodes.find((candidate) => candidate.slug === slug)
+    emitAnalyticsMap("search_submit", {
+      map_view: "full",
+      input_method: "search",
+      result_count: suggestions.length,
+    })
+    emitAnalyticsMap("search_result_select", {
+      map_view: "full",
+      map_object_type: node?.type ?? "unknown",
+      input_method: "search",
+      result_count: suggestions.length,
+    })
+    emitAnalyticsMap("focus", {
+      map_view: "full",
+      map_object_type: node?.type ?? "unknown",
+      input_method: "search",
+    })
     sync()
     void rerender()
   }
@@ -1247,15 +1301,36 @@ async function setup(root: HTMLElement) {
     } else if (event.key === "Enter" && suggestions[active]) {
       event.preventDefault()
       choose(suggestions[active].slug)
+    } else if (event.key === "Enter") {
+      event.preventDefault()
+      emitAnalyticsMap("search_submit", {
+        map_view: "full",
+        input_method: "search",
+        result_count: suggestions.length,
+      })
+      if (suggestions.length === 0) {
+        emitAnalyticsMap("search_zero_results", {
+          map_view: "full",
+          input_method: "search",
+          result_count: 0,
+        })
+      }
     } else if (event.key === "Escape") suggest.hidden = true
   })
   root.querySelector<HTMLButtonElement>("[data-history-back]")!.onclick = () => {
-    if (historyIndex > 0) window.history.back()
+    if (historyIndex > 0) {
+      emitAnalyticsMap("history_back", { map_view: "full", input_method: "button" })
+      window.history.back()
+    }
   }
   root.querySelector<HTMLButtonElement>("[data-history-forward]")!.onclick = () => {
-    if (historyIndex < historyEntries.length - 1) window.history.forward()
+    if (historyIndex < historyEntries.length - 1) {
+      emitAnalyticsMap("history_forward", { map_view: "full", input_method: "button" })
+      window.history.forward()
+    }
   }
   root.querySelector<HTMLButtonElement>("[data-graph-home]")!.onclick = () => {
+    emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
     state = { ...state, focus: "", depth: 1, panel: "hidden" }
     commit()
     sync()
@@ -1265,6 +1340,7 @@ async function setup(root: HTMLElement) {
     status.hidden = true
   }
   root.querySelector<HTMLButtonElement>("[data-clear-focus]")!.onclick = () => {
+    emitAnalyticsMap("home", { map_view: "full", input_method: "button" })
     state = { ...state, focus: "", depth: 1, panel: "hidden" }
     const context = root.querySelector<HTMLElement>("[data-focus-context]")!
     context.hidden = true
@@ -1277,6 +1353,7 @@ async function setup(root: HTMLElement) {
     status.hidden = true
   }
   root.querySelector<HTMLButtonElement>("[data-graph-reset]")!.onclick = () => {
+    emitAnalyticsMap("reset", { map_view: "full", input_method: "button" })
     state = { ...stateFromUrl(defaults.relations, defaults.types, graphSlugMap), sources: [] }
     state.focus = resolveTopologyFocus(topology, state.focus)
     commit()
@@ -1285,12 +1362,18 @@ async function setup(root: HTMLElement) {
   }
   root.querySelector<HTMLButtonElement>("[data-panel-toggle]")!.onclick = () => {
     state = { ...state, panel: state.panel === "hidden" ? "details" : "hidden" }
+    emitAnalyticsMap("panel_mode_change", {
+      map_view: "full",
+      map_panel_mode: state.panel,
+      input_method: "button",
+    })
     commit("replace")
     sync()
     void rerender()
   }
   root.querySelector<HTMLButtonElement>("[data-panel-show]")!.onclick = () => {
     state = { ...state, panel: "details" }
+    emitAnalyticsMap("panel_open", { map_view: "full", map_panel_mode: "details" })
     commit("replace")
     sync()
     void rerender()
@@ -1299,6 +1382,11 @@ async function setup(root: HTMLElement) {
     (input) =>
       (input.onchange = () => {
         state.depth = Number(input.value)
+        emitAnalyticsMap("filter_change", {
+          map_view: "full",
+          map_filter_name: "depth",
+          map_filter_value: input.value,
+        })
         commit()
         sync()
         void rerender()
@@ -1311,6 +1399,11 @@ async function setup(root: HTMLElement) {
       if (name === "minQuotes") state.minQuotes = parseNumber(input.value, 0)
       if (name === "from") state.from = parseOptional(input.value)
       if (name === "to") state.to = parseOptional(input.value)
+      emitAnalyticsMap("filter_change", {
+        map_view: "full",
+        map_filter_name: name,
+        map_filter_value: input.value || "unset",
+      })
       commit()
       void rerender()
     }
@@ -1323,10 +1416,23 @@ async function setup(root: HTMLElement) {
     commit("replace")
     void rerender()
   }
-  confidence.onchange = () => commit()
+  confidence.onchange = () => {
+    commit()
+    emitAnalyticsMap("filter_change", {
+      map_view: "full",
+      map_filter_name: "minConfidence",
+      map_filter_value:
+        state.minConfidence < 0.6 ? "low" : state.minConfidence < 0.8 ? "medium" : "high",
+    })
+  }
   const direction = root.querySelector<HTMLSelectElement>("select[name='direction']")!
   direction.onchange = () => {
     state.direction = direction.value as GraphState["direction"]
+    emitAnalyticsMap("filter_change", {
+      map_view: "full",
+      map_filter_name: "direction",
+      map_filter_value: state.direction,
+    })
     commit()
     void rerender()
   }
@@ -1355,12 +1461,14 @@ async function setup(root: HTMLElement) {
   sourceSearch.oninput = renderSources
   root.querySelector<HTMLButtonElement>("[data-source-select-all]")!.onclick = () => {
     state.sources = []
+    emitAnalyticsMap("source_change", { map_view: "full", map_filter_value: "all" })
     commit()
     renderSources()
     void rerender()
   }
   root.querySelector<HTMLButtonElement>("[data-source-clear]")!.onclick = () => {
     state.sources = ["__none__"]
+    emitAnalyticsMap("source_change", { map_view: "full", map_filter_value: "none" })
     commit()
     renderSources()
     void rerender()
@@ -1401,6 +1509,7 @@ document.addEventListener("nav", () => {
   const root = document.querySelector<HTMLElement>("[data-graph-explorer]")
   if (root)
     void setup(root).catch((error) => {
+      emitAnalyticsMap("load_error", { map_view: "full" })
       const status = root.querySelector<HTMLElement>("[data-graph-status]")
       if (status)
         status.textContent = `Nepavyko įkelti žemėlapio: ${error instanceof Error ? error.message : String(error)}`
