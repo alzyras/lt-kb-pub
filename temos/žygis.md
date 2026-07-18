@@ -1,0 +1,242 @@
+---
+tipas: tema
+pavadinimas: "žygis"
+kanonine_tema: true
+tema_kategorija: "ivykiai"
+tema_kategorijos_pavadinimas: "Įvykiai"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 214
+graph_hub: false
+sukurta: '2026-04-26'
+tags: []
+---
+
+# žygis
+
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Objektų skaičius: 214.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+
+## Susiję objektai
+
+### Įvykiai
+- [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
+- [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
+- [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas]]
+- [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]
+- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
+- [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]
+- [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
+- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
+- [[objektai/ivykiai/Brandenburgo komtūro žygis į Lietuvą ir lietuvių atsakomasis žygis į Prūsiją (1299 m.)]]
+- [[objektai/ivykiai/Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.)]]
+- [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]
+- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]
+- [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]
+- [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]
+- [[objektai/ivykiai/Darijaus žygis prieš skitus]]
+- [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
+- [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- [[objektai/ivykiai/Filimero 161 metų žygis į Rytų Europą ir gotų patekimas į Owim]]
+- [Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos](../objektai/ivykiai/Frotono%20III%20%C5%BEygis%20prie%C5%A1%20slavus%20ir%20rusus%20prie%20Rusn%C4%97s%20%C4%AFlankos)
+- [Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki](../objektai/ivykiai/Gabrieliaus%20Beke%C5%A1o%20vadovavimas%20vengr%C5%B3%20kariuomenei%20%C5%BEygyje%20prie%C5%A1%20Maskvos%20kunigaik%C5%A1t%C4%AF%20ties%20Velikije%20L%C5%ABki)
+- [Galindų žygis be ginklų ir Galindos žemės nusiaubimas](../objektai/ivykiai/Galind%C5%B3%20%C5%BEygis%20be%20ginkl%C5%B3%20ir%20Galindos%20%C5%BEem%C4%97s%20nusiaubimas)
+- [Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)](../objektai/ivykiai/Gedimino%20%C5%BEygis%20%C4%AF%20Kijevo%20%C5%BEem%C4%99%2C%20m%C5%AB%C5%A1is%20prie%20Irpenio%20ir%20Kijevo%20u%C5%BE%C4%97mimas%20%281320%20m.%29)
+- [Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)](../objektai/ivykiai/Gele%C5%BEut%C4%97s%20%C5%BEygis%20%C4%AF%20Livonij%C4%85%20ir%20Vytenio%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%2C%20pasibaig%C4%99s%20pralaim%C4%97jimu%20%281310-1311%20m.%29)
+- [Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)](../objektai/ivykiai/Gelgaudo%20vadovaujami%20kariuomen%C4%97s%20%C5%BEygiai%20%C4%AF%20Vilni%C5%B3%20ir%20%C5%A0iaulius%20%281831%20m.%29)
+- [Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)](../objektai/ivykiai/Glotavos%20vals%C4%8Diaus%20antpuolis%20ir%2072%20lietuvi%C5%B3%20%C5%BE%C5%ABtis%20%281300%20m.%20ruduo%29)
+- [Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)](../objektai/ivykiai/Gotfrido%20Hohenloh%C4%97s%20%C5%BEygis%20%C4%AF%20Livonij%C4%85%2C%20atsistatydinimas%20ir%20Zigfrido%20i%C5%A1%20Foichtvangeno%20i%C5%A1rinkimas%20%281302%E2%80%931303%20m.%29)
+- [Grafo iš Barbio žygis į Sembą ir pralaimėjimas](../objektai/ivykiai/Grafo%20i%C5%A1%20Barbio%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20pralaim%C4%97jimas)
+- [Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas](../objektai/ivykiai/Henriko%20Meiseno%20markgrafo%20%C5%BEygis%20%C4%AF%20Pamed%C4%99%2C%20pili%C5%B3%20naikinimas%20ir%20pamed%C4%97n%C5%B3%20pavergimas)
+- [Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas](../objektai/ivykiai/Henriko%20Stang%C4%97s%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20Girmavos%20nuniokojimas)
+- [Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)](../objektai/ivykiai/Henriko%20%C5%BEygis%20prie%C5%A1%20Naugarduk%C4%85%20ir%20Dovydo%20sm%C5%ABgis%20kry%C5%BEiuo%C4%8Di%C5%B3%20stovyklai%20%281314%20m.%29)
+- [Herulų 267 m. puolimas prieš Romos valdas ir taika su Malabatu](../objektai/ivykiai/Herul%C5%B3%20267%20m.%20puolimas%20prie%C5%A1%20Romos%20valdas%20ir%20taika%20su%20Malabatu)
+- [Herulų žygis prieš Bizantiją III a. pabaigoje](../objektai/ivykiai/Herul%C5%B3%20%C5%BEygis%20prie%C5%A1%20Bizantij%C4%85%20III%20a.%20pabaigoje)
+- [Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)](../objektai/ivykiai/Jazbuto%20%C5%BEygis%20%C4%AF%20Lenkij%C4%85%20ir%20beveik%20penki%C5%B3%20%C5%A1imt%C5%B3%20lietuvi%C5%B3%20%C5%BE%C5%ABtis%20%281290%20m.%29)
+- [Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)](../objektai/ivykiai/Jono%20Olbrachto%20pralaim%C4%97jimas%20Vengrijoje%20%281491%20m.%29)
+- [Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis](../objektai/ivykiai/Jono%20Olbrachto%20%C5%BEygis%20%C4%AF%20Moldavij%C4%85%20ir%20Su%C4%8Diavos%20apgultis)
+- [Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas](../objektai/ivykiai/Jonu%C5%A1o%20antpuolis%20%C4%AF%20Poleksij%C4%85%20ir%20pasienio%20pili%C5%B3%20u%C5%BE%C4%97mimas)
+- [Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)](../objektai/ivykiai/Junig%C4%97dos%20puolimas%20ir%20Mederabos%20sunaikinimas%20%281291%20m.%29)
+- [Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)](../objektai/ivykiai/Junig%C4%97dos%2C%20Pe%C5%A1tv%C4%97s%20ir%20Pograudos%20kampanija%20%281293%20m.%29)
+- [Kampsvykių pilies užkariavimas (pilis)](../objektai/ivykiai/Kampsvyki%C5%B3%20pilies%20u%C5%BEkariavimas)
+- [Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula](../objektai/ivykiai/Karaliaus%20%C5%BDygimanto%20%C5%BEygis%20prie%C5%A1%20Glinsk%C4%AF%20ir%20nes%C4%97kminga%20Minsko%20apgula)
+- [Kariuomenės vedimas į Prūsiją ir lietuvių nubaudimas už šventvagystę (1410 m.)](../objektai/ivykiai/Kariuomen%C4%97s%20vedimas%20%C4%AF%20Pr%C5%ABsij%C4%85%20ir%20lietuvi%C5%B3%20nubaudimas%20u%C5%BE%20%C5%A1ventvagyst%C4%99%20%281410%20m.%29)
+- [Karolio Didžiojo žygis prieš langobardus (776 m.)](../objektai/ivykiai/Karolio%20Did%C5%BEiojo%20%C5%BEygis%20prie%C5%A1%20langobardus%20%28776%20m.%29)
+- [Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)](../objektai/ivykiai/Karolio%20XII%20%C5%BEygis%20%C4%AF%20Rusij%C4%85%20ir%20Poltavos%20m%C5%AB%C5%A1is%20%281709%20m.%29)
+- [Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)](../objektai/ivykiai/Karolio%20XII%20%C5%BEygis%20%C4%AF%20Saksonij%C4%85%20ir%20Altrand%C5%A1tato%20taika%20%281706%20m.%29)
+- [Kauno apgulties pradžia (1362 m.)](../objektai/ivykiai/Kauno%20apgulties%20prad%C5%BEia%20%281362%20m.%29)
+- [Kauno susitarimas su Vokiečių ordinu (1402 m.)](../objektai/ivykiai/Kauno%20susitarimas%20su%20Vokie%C4%8Di%C5%B3%20ordinu%20%281402%20m.%29)
+- [Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę](../objektai/ivykiai/Kazimiero%20karo%20su%20maskv%C4%97nais%20prad%C5%BEia%20ir%20%C5%BEygis%20%C4%AF%20Maskvos%20%C5%BEem%C4%99)
+- [Kernavės sunaikinimas prieš Trakų pilies pastatymą](../objektai/ivykiai/Kernav%C4%97s%20sunaikinimas%20prie%C5%A1%20Trak%C5%B3%20pilies%20pastatym%C4%85)
+- [Kijevo atėmimas iš Aukso ordos (apie 1325 m.)](../objektai/ivykiai/Kijevo%20at%C4%97mimas%20i%C5%A1%20Aukso%20ordos%20%28apie%201325%20m.%29)
+- [Kijevo Jaroslavo žygis į Lietuvą (1040 m.)](../objektai/ivykiai/Kijevo%20Jaroslavo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281040%20m.%29)
+- [Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)](../objektai/ivykiai/Kijevo%20Jaroslavo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Naugarduko%20%C4%AFk%C5%ABrimas%20%281044%20m.%29)
+- [Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)](../objektai/ivykiai/Kijevo%20Mstislavo%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85%20%281131%E2%80%931132%20m.%29)
+- [Klaipėdos prisijungimas prie Lietuvos (1923 m.)](../objektai/ivykiai/Klaip%C4%97dos%20prisijungimas%20prie%20Lietuvos%20%281923%20m.%29)
+- [Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)](../objektai/ivykiai/Konrado%20Wallenrodo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Vytauto%20kontrpuolimas%20Nemuno%20ruo%C5%BEe%20%281391%20m.%29)
+- [Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)](../objektai/ivykiai/Konrado%20%C5%BEygis%20%C4%AF%20Gardino%20kra%C5%A1t%C4%85%20ir%20Eberhardo%20fon%20Firneburgo%20Aukaimio%20pilies%20u%C5%BE%C4%97mimas%20%281303-1304%20m.%29)
+- [Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas](../objektai/ivykiai/Krik%C5%A1%C4%8Dioni%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%20ir%20Brandenburgo%20%C4%AFk%C5%ABrimas)
+- [Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė](../objektai/ivykiai/Kristburgo%20komt%C5%ABro%20Ditricho%20i%C5%A1%20Rod%C4%97s%20%C5%BEygis%20%C4%AF%20Pagud%C4%99%20ir%20pergal%C4%97)
+- [Kristijono kryžiaus žygio įteisinimas ir įvykdymas](../objektai/ivykiai/Kristijono%20kry%C5%BEiaus%20%C5%BEygio%20%C4%AFteisinimas%20ir%20%C4%AFvykdymas)
+- [Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)](../objektai/ivykiai/Krokuvos%20sutartis%20d%C4%97l%20bendro%20karo%20su%20%C5%A0ich%20Achmetu%20ir%20%C5%BEygis%20%C4%AF%20Seversk%C4%85)
+- [Krymo totorių įsiveržimas į Lietuvą (1506 m.)](../objektai/ivykiai/Krymo%20totori%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Lietuv%C4%85%20%281506%20m.%29)
+- [Kryžiaus žygis į Prūsiją (1218 m.)](../objektai/ivykiai/Kry%C5%BEiaus%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%20%281218%20m.%29)
+- [Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20laivyno%20%C5%BEygis%20prie%20Junigedos%20ir%20Surmino%20pergal%C4%97%20%281313%20m.%29)
+- [Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20provokacijos%20ir%20Rumbaudo%20%C5%BEygis%20i%C5%A1varant%20juos%20i%C5%A1%20%C5%BDemaitijos%20%281408%20m.%29)
+- [Kryžiuočių sutriuškinimas Medininkų valsčiuje ir Gedimino žygis į Mazoviją bei Dobrynę (1319 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20sutriu%C5%A1kinimas%20Medinink%C5%B3%20vals%C4%8Diuje%20ir%20Gedimino%20%C5%BEygis%20%C4%AF%20Mazovij%C4%85%20bei%20Dobryn%C4%99%20%281319%20m.%29)
+- [Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20iki%20Vilniaus%20tvirtovi%C5%B3%20%281375%20m.%29)
+- [Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20per%20Kaun%C4%85%20ir%20Vilniaus%20apylinki%C5%B3%20nuniokojimas%20%281385%20m.%20rugpj%C5%ABtis%29)
+- [Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20%C4%AF%20Junigedos%20apylinkes%20ir%20Kolaini%C5%B3%20pilies%20sudeginimas%20%281291%20m.%29)
+- [Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20%C4%AF%20Kar%C5%A1uv%C4%85%20ir%20Aukaimio%20pilies%20praradimas%20per%20Draikos%20i%C5%A1davyst%C4%99)
+- [Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20%C4%AF%20%C5%BDemaitij%C4%85%20ir%20atmu%C5%A1imas%20prie%20Pie%C5%A1tv%C4%97s%20%281322%20m.%29)
+- [Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygis%20%C4%AF%20%C5%BDemaitij%C4%85%20su%20Leopoldo%20parama%20ir%20K%C4%99stu%C4%8Dio%20atsakomasis%20antpuolis)
+- [Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20pa%C4%97mimas%2C%20pab%C4%97gimas%20i%C5%A1%20Marienburgo%20ir%20ker%C5%A1to%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%20%281361%20m.%29)
+- [Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)](../objektai/ivykiai/K%C4%99stu%C4%8Dio%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20m%C5%AB%C5%A1is%20su%20kry%C5%BEiuo%C4%8Diais%20%281370%20m.%29)
+- [LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)](../objektai/ivykiai/LDK%20ir%20Maskvos%20Did%C5%BEiosios%20Kunigaik%C5%A1tyst%C4%97s%20karai%20%281406%E2%80%941408%20m.%29)
+- [Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)](../objektai/ivykiai/Lenkijos%20ir%20Lietuvos%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Brandenburgo%20valdas%20%281326%20m.%29)
+- [Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)](../objektai/ivykiai/Lenk%C5%B3%20%C5%BEygis%20prie%20Belzo%20ir%20K%C4%99stu%C4%8Dio%20i%C5%A1der%C4%97tos%20paliaubos%20%281377%20m.%29)
+- [Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20atsiimta%20jotvingi%C5%B3%20%C5%A1alis%20ir%20Raigardo%20%C4%AFk%C5%ABrimas%20%281281%20m.%29)
+- [Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo](../objektai/ivykiai/Lietuvi%C5%B3%20didik%C5%B3%20%C5%BEygis%20prie%C5%A1%20skitus%20ir%20turkus%2C%20pasibaig%C4%99s%20pergale%20prie%20Kijevo)
+- [Lietuvių ir rusų žygis į Mazoviją (1262 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20ir%20rus%C5%B3%20%C5%BEygis%20%C4%AF%20Mazovij%C4%85%20%281262%20m.%29)
+- [Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20ir%20%C5%BEemai%C4%8Di%C5%B3%20Pr%C5%ABsijos%20nusiaubimas%20bei%20nes%C4%97kmingas%20Europos%20valdov%C5%B3%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281342-1343%20m.%29)
+- [Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20%C5%BEygiai%20%C4%AF%20Revelio%20%C5%BEem%C4%99%2C%20Klaip%C4%97d%C4%85%2C%20V%C4%97luv%C4%85%20ir%20Dobryn%C4%99%20%281323%20m.%29)
+- [Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Dobryn%C4%99%20ir%20Kulmo%20kra%C5%A1t%C4%85%20%281300-1301%20m.%29)
+- [Lietuvių žygis į Kališo ir Seradzo žemes](../objektai/ivykiai/Lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Kali%C5%A1o%20ir%20Seradzo%20%C5%BEemes)
+- [Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Lenkij%C4%85%20ir%20Volyn%C4%97s%20atgavimas%3B%20K%C4%99stu%C4%8Dio%20nelaisv%C4%97%20ir%20pab%C4%97gimas%20%281350-1351%20m.%29)
+- [Lietuvių žygis į Mazoviją ir pralaimėjimas prie Narevo (1336-1337 m.)](../objektai/ivykiai/Lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Mazovij%C4%85%20ir%20pralaim%C4%97jimas%20prie%20Narevo%20%281336-1337%20m.%29)
+- [Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)](../objektai/ivykiai/Lietuvos%20atsakom%C5%B3j%C5%B3%20sm%C5%ABgi%C5%B3%20kampanija%20prie%C5%A1%20Ordin%C4%85%20ir%20jo%20s%C4%85jungininkus%20%281324%20m.%29)
+- [Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)](../objektai/ivykiai/Lietuvos%20ir%20jotvingi%C5%B3%20veiksmai%20prie%C5%A1%20Volyn%C4%99%20%28apie%201205%201209%E2%80%941210%20m.%29)
+- [Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)](../objektai/ivykiai/Lietuvos%20ir%20pskovie%C4%8Di%C5%B3%20kampanija%20Revelio%20%C5%BEem%C4%97je%20ir%20prie%20Pskovo%20%281323%20m.%20vasaris%E2%80%94kovas%29)
+- [Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)](../objektai/ivykiai/Lietuvos%20%C5%BEygiai%20%C4%AF%20Semb%C4%85%20ir%20Dobryn%C4%97s%20kunigaik%C5%A1tyst%C4%99%20%281323%20m.%20vasara%E2%80%94ruduo%29)
+- [Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)](../objektai/ivykiai/Lietuvos%20%C5%BEygis%20%C4%AF%20Dorpato%20vyskupo%20valdas%20%281322%20m.%29)
+- [Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)](../objektai/ivykiai/Lietuvos%20%C5%BEygis%20%C4%AF%20Mazovij%C4%85%20ir%20Lovi%C4%8Diaus%20apygard%C5%B3%20nusiaubimas%20%281263%20m.%29)
+- [Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)](../objektai/ivykiai/Lietuvos%20%C5%BEygis%20%C4%AF%20Volyn%C4%99%20ir%20Bresto%20%C5%BEem%C4%97s%20u%C5%BE%C4%97mimas%20%281323%20m.%20pabaiga%E2%80%941324%20m.%20prad%C5%BEia%29)
+- [Liubarto Volynės atgavimas ir lietuvių žygis į Liublino bei Sandomiro kraštus](../objektai/ivykiai/Liubarto%20Volyn%C4%97s%20atgavimas%20ir%20lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Liublino%20bei%20Sandomiro%20kra%C5%A1tus)
+- [Livonijos ordino reidas po šiaurės rytų Lietuvą](../objektai/ivykiai/Livonijos%20ordino%20reidas%20po%20%C5%A1iaur%C4%97s%20ryt%C5%B3%20Lietuv%C4%85)
+- [Martyno iš Golino vakarinis antpuolis Sūduvos kaime](../objektai/ivykiai/Martyno%20i%C5%A1%20Golino%20vakarinis%20antpuolis%20S%C5%ABduvos%20kaime)
+- [Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas](../objektai/ivykiai/Martyno%20i%C5%A1%20Golino%20%C5%BEygis%20%C4%AF%20S%C5%ABduvos%20kaim%C4%85%2C%20bendra%C5%BEygi%C5%B3%20%C5%BE%C5%ABtis%20ir%20ker%C5%A1tas)
+- [Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis](../objektai/ivykiai/Maskv%C4%97n%C5%B3%20paliaub%C5%B3%20pa%C5%BEeidimai%20prie%20Usviat%C5%B3%20ir%20Stanislovo%20Paco%20atsakomasis%20%C5%BEygis)
+- [Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis](../objektai/ivykiai/Maskv%C4%97n%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Baltarusij%C4%85%20ir%20lietuvi%C5%B3%20bei%20lenk%C5%B3%20atsakomasis%20%C5%BEygis)
+- [Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko](../objektai/ivykiai/Mechmet%20Gir%C4%97jaus%20niokojamasis%20%C5%BEygis%20iki%20Minsko%2C%20Polocko%20ir%20Vitebsko)
+- [Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)](../objektai/ivykiai/Medinink%C5%B3%20vals%C4%8Diaus%20apipl%C4%97%C5%A1imas%20ir%20kari%C5%B3%20%C4%AF%C5%A1ventinimas%20prie%20Medv%C4%97galio%20%281316%20m.%29)
+- [Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)](../objektai/ivykiai/Medinink%C5%B3%20vals%C4%8Diaus%20du%20%C5%BEygiai%20ir%20Sizdit%C4%97s%20pilies%20puolimas%20%281314%20m.%20sausis-vasaris%29)
+- [Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)](../objektai/ivykiai/Meinhardo%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20pasitraukimas%20d%C4%97l%20i%C5%A1duoto%20sumanymo%20%281292%20m.%29)
+- [Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis](../objektai/ivykiai/Meinhardo%20%C5%BEygis%20%C4%AF%20Pa%C5%A1tuvos%20ir%20Gai%C5%BEuvos%20vals%C4%8Dius%20ir%20Jazbuto%20%C5%BE%C5%ABtis)
+- [Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)](../objektai/ivykiai/Meiseno%20markos%20valdovo%20Ditricho%20%C5%BEygis%20%C4%AF%20Notang%C4%85%20%281272%20m.%29)
+- [Mindaugo karūnacija (1253 m.)](../objektai/ivykiai/Mindaugo%20kar%C5%ABnacija%20%281253%20m.%29)
+- [Mindaugo žygis į Livonijos Ordino žemes](../objektai/ivykiai/Mindaugo%20%C5%BEygis%20%C4%AF%20Livonijos%20Ordino%20%C5%BEemes)
+- [Mindaugo žygis į Mozūrus](../objektai/ivykiai/Mindaugo%20%C5%BEygis%20%C4%AF%20Moz%C5%ABrus)
+- [Mindaugo žygis į Prūsiją ir Karaliaučiaus apsiaustis](../objektai/ivykiai/Mindaugo%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%20ir%20Karaliau%C4%8Diaus%20apsiaustis)
+- [Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)](../objektai/ivykiai/Mingailos%20%C5%BEygis%20prie%C5%A1%20Polock%C4%85%20ir%20miesto%20u%C5%BE%C4%97mimas%20%281219%20m.%29)
+- [Moldavijos ir osmanų žygis į Lenkiją](../objektai/ivykiai/Moldavijos%20ir%20osman%C5%B3%20%C5%BEygis%20%C4%AF%20Lenkij%C4%85)
+- [Mykolo ir skitų įsiveržimas į Severską bei Kazimiero atsakomasis žygis (1448 m.)](../objektai/ivykiai/Mykolo%20ir%20skit%C5%B3%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Seversk%C4%85%20bei%20Kazimiero%20atsakomasis%20%C5%BEygis%20%281448%20m.%29)
+- [Mėlynųjų Vandenų mūšis (1362 m.)](../objektai/ivykiai/M%C4%97lyn%C5%B3j%C5%B3%20Vanden%C5%B3%20m%C5%AB%C5%A1is%20%281362%20m.%29)
+- [Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)](../objektai/ivykiai/Nameisio%20vadovaujamas%20Lietuvos%20%C5%BEygis%20po%20Ordino%20u%C5%BEnugar%C4%AF%20%281281%20m.%29)
+- [Napoleono kariuomenės žygis į Lietuvą (1812 m.)](../objektai/ivykiai/Napoleono%20kariuomen%C4%97s%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281812%20m.%29)
+- [Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)](../objektai/ivykiai/Neuerm%C3%BChleno%2C%20Karkhauso%20ir%20Toreidos%20kampanija%20%281298%20m.%29)
+- [Notangos žemės nuniokojimas ir 250 krikščionių žūtis (1299 m.)](../objektai/ivykiai/Notangos%20%C5%BEem%C4%97s%20nuniokojimas%20ir%20250%20krik%C5%A1%C4%8Dioni%C5%B3%20%C5%BE%C5%ABtis%20%281299%20m.%29)
+- [Odoakro 486 m. žygis prieš rugius Norike](../objektai/ivykiai/Odoakro%20486%20m.%20%C5%BEygis%20prie%C5%A1%20rugius%20Norike)
+- [Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą](../objektai/ivykiai/Odoakro%20paskelbimas%20vadu%20ir%20karaliumi%20bei%20476%20m.%20%C5%BEygis%20prie%C5%A1%20Orest%C4%85)
+- [Onulfo žygis prieš Frederiką ir Noriko gyventojų perkėlimas į Italiją](../objektai/ivykiai/Onulfo%20%C5%BEygis%20prie%C5%A1%20Frederik%C4%85%20ir%20Noriko%20gyventoj%C5%B3%20perk%C4%97limas%20%C4%AF%20Italij%C4%85)
+- [Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)](../objektai/ivykiai/Ordino%20%C5%BEygiai%20%C4%AF%20Pograud%C4%85%20ir%20%C5%A0al%C4%8Dininkus%20%281311%20m.%29)
+- [Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)](../objektai/ivykiai/Ordino%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Gardino%2C%20Merkin%C4%97s%2C%20Drohi%C4%8Dino%20bei%20Lydos%20sudeginimas%20%281393%20m.%29)
+- [Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)](../objektai/ivykiai/Ordino%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Sura%C5%BEiaus%20pilies%20sudeginimas%20%281392%20m.%20ruduo%29)
+- [Ostrogiškio ir Kiškos niokojamasis žygis į Maskvos kunigaikštystę](../objektai/ivykiai/Ostrogi%C5%A1kio%20ir%20Ki%C5%A1kos%20niokojamasis%20%C5%BEygis%20%C4%AF%20Maskvos%20kunigaik%C5%A1tyst%C4%99)
+- [Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)](../objektai/ivykiai/Otokaro%20II%20ir%20kry%C5%BEiuo%C4%8Di%C5%B3%20puolimas%20prie%C5%A1%20Semb%C4%85%20%281255%20m.%29)
+- [Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)](../objektai/ivykiai/Otokaro%20II%20%C5%BEygis%20%C4%AF%20Semb%C4%85%20ir%20semb%C5%B3%20pajungimas%20broliams%20%281255%20m.%29)
+- [Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)](../objektai/ivykiai/Pagraud%C4%97s%20vals%C4%8Diaus%20%C5%BEygis%20ir%20Gedimino%20pilies%20papilio%20sudeginimas%20%281317%20m.%20apie%20bir%C5%BEelio%2024%20d.%29)
+- [Pakimos valsčiaus nusiaubimas](../objektai/ivykiai/Pakimos%20vals%C4%8Diaus%20nusiaubimas)
+- [Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)](../objektai/ivykiai/Pa%C5%A1tuvos%20ir%20Gai%C5%BEuvos%20vals%C4%8Di%C5%B3%20apipl%C4%97%C5%A1imas%20bei%20susir%C4%97mimas%20su%20Jazbutu%20%281291%20m.%29)
+- [Paštuvos valsčiaus nusiaubimas (1316 m. žiema)](../objektai/ivykiai/Pa%C5%A1tuvos%20vals%C4%8Diaus%20nusiaubimas%20%281316%20m.%20%C5%BEiema%29)
+- [Penkių kaimų apiplėšimas Goliubo pilies apylinkėse (pilis)](../objektai/ivykiai/Penki%C5%B3%20kaim%C5%B3%20apipl%C4%97%C5%A1imas%20Goliubo%20pilies%20apylink%C4%97se)
+- [Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)](../objektai/ivykiai/Pie%C5%A1tv%C4%97s%20ir%20Veliuonos%20pili%C5%B3%20sunaikinimas%20tame%20pa%C4%8Diame%20%C5%BEygyje%20%281362%20m.%29)
+- [Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)](../objektai/ivykiai/Pirmasis%20Medinink%C5%B3%20vals%C4%8Diaus%20apipl%C4%97%C5%A1imas%20%281314%20m.%20sausio%20prad%C5%BEia%29)
+- [Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)](../objektai/ivykiai/Pirmasis%20savaranki%C5%A1kas%20lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Rusios%20%C5%BEemes%20%281183%20m.%29)
+- [Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)](../objektai/ivykiai/Pirmojo%20kry%C5%BEiaus%20%C5%BEygio%20prie%C5%A1%20lietuvius%20paskelbimas%20%281236.II.19%29)
+- [Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus](../objektai/ivykiai/Pit%C4%97jo%20Masilie%C4%8Dio%20kelion%C4%97%20%C4%AF%20%C5%A1iaurines%20j%C5%ABras%20ir%20gintaringus%20krantus)
+- [Pobravo žygis į Balgos lauką ir jo žūtis](../objektai/ivykiai/Pobravo%20%C5%BEygis%20%C4%AF%20Balgos%20lauk%C4%85%20ir%20jo%20%C5%BE%C5%ABtis)
+- [Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)](../objektai/ivykiai/Pr%C5%ABsijos%20kry%C5%BEiuo%C4%8Di%C5%B3%20%C5%BEygiai%20prie%C5%A1%20Lietuv%C4%85%2C%20P%C5%ABtv%C4%97s%20sunaikinimas%20ir%20Bisen%C4%97s%20%C4%AFgulos%20i%C5%A1%C5%BEudymas%20%281307%20m.%29)
+- [Prūsų puolimai prieš Dobrynės pilį (pilis, XIII a.)](../objektai/ivykiai/Pr%C5%ABs%C5%B3%20puolimai%20prie%C5%A1%20Dobryn%C4%97s%20pil%C4%AF)
+- [Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)](../objektai/ivykiai/Pr%C5%ABs%C5%B3%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20nes%C4%97kminga%20Gardino%20apgultis%20%281363%20m.%29)
+- [Ragainės karių klasta užimant Junigedą](../objektai/ivykiai/Ragain%C4%97s%20kari%C5%B3%20klasta%20u%C5%BEimant%20Juniged%C4%85)
+- [Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)](../objektai/ivykiai/Ragain%C4%97s%20pilies%20u%C5%BEpuolimas%20%281315%20m.%20apie%20rugpj%C5%AB%C4%8Dio%2015%20d.%29)
+- [Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)](../objektai/ivykiai/Renzeno%20m%C5%AB%C5%A1is%20ir%20lietuvi%C5%B3-pr%C5%ABs%C5%B3%20%C5%BEygis%20%C4%AF%20Kulmo%20%C5%BEem%C4%99%20%281243%20m.%29)
+- [Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)](../objektai/ivykiai/Rittersverderio%2C%20Naujojo%20Gardino%20ir%20Metenos%20sunaikinimas%20%281392%20m.%20liepa%29)
+- [Saulės mūšis (1236 m. rugsėjo 22 d.)](../objektai/ivykiai/Saul%C4%97s%20m%C5%AB%C5%A1is%20%281236%20m.%20rugs%C4%97jo%2022%20d.%29)
+- [Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)](../objektai/ivykiai/Skit%C5%B3%20niokojamas%20%C5%BEygis%20%C4%AF%20lenk%C5%B3%20valdom%C4%85%20Podol%C4%99%20ir%20Braclavo%20%C5%BEem%C4%97s%20i%C5%A1pirkimas%20%281449%20m.%29)
+- [Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas](../objektai/ivykiai/Skomanto%209%20dien%C5%B3%20%C5%BEygis%2C%20Nineriko%20i%C5%A1davyst%C4%97%20ir%20Eimsu%C4%8Dio%20bei%20Cipelio%20pili%C5%B3%20sunaikinimas)
+- [Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)](../objektai/ivykiai/Skomanto%20vadovaujamas%20s%C5%ABduvi%C5%B3%20ir%20lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Ordino%20valdas%20pavyslyje%20%281277%20m.%29)
+- [Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)](../objektai/ivykiai/Smolensko%20u%C5%BE%C4%97mimas%20ir%20Viazmos%20pa%C4%97mimas%20%281396%20m.%20ruden%C4%AF%29)
+- [Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas](../objektai/ivykiai/Sturlaugo%20%C5%BEygis%20Rusioje%20Ingvaro%20nu%C5%BEudymas%20ir%20Aldejaborgo%20perdavimas)
+- [Sūduvių ir lietuvių antpuolis prieš Sembą](../objektai/ivykiai/S%C5%ABduvi%C5%B3%20ir%20lietuvi%C5%B3%20antpuolis%20prie%C5%A1%20Semb%C4%85)
+- [Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)](../objektai/ivykiai/S%C5%ABduvi%C5%B3%20ir%20lietuvi%C5%B3%20%C5%BEygis%20%C4%AF%20Ordino%20valdas%20Semboje%20%281280%20m.%29)
+- [Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas](../objektai/ivykiai/S%C5%ABduvi%C5%B3%20%C5%BEygis%20Lubavos%20sugriovimas%2C%20Torun%C4%97s%20ligonin%C4%97s%20sudeginimas%20ir%20Kulmo%20puolimas)
+- [Sūduvių žygis į Notangą ir jų išblaškymas](../objektai/ivykiai/S%C5%ABduvi%C5%B3%20%C5%BEygis%20%C4%AF%20Notang%C4%85%20ir%20j%C5%B3%20i%C5%A1bla%C5%A1kymas)
+- [Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis](../objektai/ivykiai/Tautvilos%20ir%20s%C4%85junginink%C5%B3%20%C5%BEygis%20prie%C5%A1%20Mindaug%C4%85%20bei%20Vorutos%20apgultis)
+- [Teodoriko Italijos žygis su ostrogotais ir kolonistais](../objektai/ivykiai/Teodoriko%20Italijos%20%C5%BEygis%20su%20ostrogotais%20ir%20kolonistais)
+- [Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)](../objektai/ivykiai/Totori%C5%B3%2C%20arm%C4%97n%C5%B3%20ir%20gruzin%C5%B3%20%C5%BEygis%20%C4%AF%20Sirij%C4%85%20bei%20Palestin%C4%85%20%281311%20m.%29)
+- [Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą](../objektai/ivykiai/Traidenio%20ir%20Skomanto%20%C5%BEygiai%20%C4%AF%20Mazovij%C4%85%2C%20Kulmo%20%C5%BEem%C4%99%2C%20Kujavij%C4%85%20ir%20Len%C4%8Dic%C4%85)
+- [Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)](../objektai/ivykiai/Treniotos%20vadovaujamas%20Mindaugo%20kariuomen%C4%97s%20%C5%BEygis%20%C4%AF%20Ordino%20u%C5%BEnugar%C4%AF%20%281262%20m.%29)
+- [Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)](../objektai/ivykiai/Treniotos%20%C5%BEygis%20%C4%AF%20Kulmo%20%C5%BEem%C4%99%20ir%20Birgelavos%20pilies%20apipl%C4%97%C5%A1imas)
+- [Treniotos žygis į Mazoviją (1264 m.)](../objektai/ivykiai/Treniotos%20%C5%BEygis%20%C4%AF%20Mazovij%C4%85%20%281264%20m.%29)
+- [tūkstančių saracėnų žūtis totorių žygyje (1300 m.)](../objektai/ivykiai/t%C5%ABkstan%C4%8Di%C5%B3%20sarac%C4%97n%C5%B3%20%C5%BE%C5%ABtis%20totori%C5%B3%20%C5%BEygyje%20%281300%20m.%29)
+- [Ulricho Bajerio žygis į Sūduvą](../objektai/ivykiai/Ulricho%20Bajerio%20%C5%BEygis%20%C4%AF%20S%C5%ABduv%C4%85)
+- [Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę](../objektai/ivykiai/Urbono%20II%20susirinkimas%20ir%201096%20m.%20kry%C5%BEiaus%20%C5%BEygis%20%C4%AF%20Jeruzal%C4%99)
+- [Vernerio karo laivo žygis prieš Junigedą (1313 m.)](../objektai/ivykiai/Vernerio%20karo%20laivo%20%C5%BEygis%20prie%C5%A1%20Juniged%C4%85%20%281313%20m.%29)
+- [Vilkų-liutikų jūros žygis ir įsitvirtinimas Vakaruose](../objektai/ivykiai/Vilk%C5%B3-liutik%C5%B3%20j%C5%ABros%20%C5%BEygis%20ir%20%C4%AFsitvirtinimas%20Vakaruose)
+- [Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)](../objektai/ivykiai/Vilniaus%20apgultis%20ir%20m%C5%AB%C5%A1iai%20prie%20Rudaminos%20%281394%20m.%20vasara%29)
+- [Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)](../objektai/ivykiai/Vinricho%20Kniprod%C4%97s%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20ir%20Vilniaus%20apgulties%20nutraukimas%20%281365%20m.%29)
+- [Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas](../objektai/ivykiai/Voluin%C4%97s%20kunigaik%C5%A1%C4%8Di%C5%B3%20%C5%BEygiai%20prie%C5%A1%20jotvingus%20ir%20Gardino%20u%C5%BE%C4%97mimas)
+- [Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)](../objektai/ivykiai/Vytauto%20ir%20K%C4%99stu%C4%8Dio%20%C5%BEygiai%20%C4%AF%20Pr%C5%ABsij%C4%85%20bei%20kry%C5%BEiuo%C4%8Di%C5%B3%20sutriu%C5%A1kinimas%20pasalose%20%281377%20m.%29)
+- [Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)](../objektai/ivykiai/Vytauto%20ir%20Ordino%20%C5%BEygis%20%C4%AF%20Trakus%20bei%20Vilni%C5%B3%20%281383%20m.%20rugs%C4%97jo%2011%E2%80%9322%20d.%29)
+- [Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia](../objektai/ivykiai/Vytauto%20pasitraukimas%20%C4%AF%20Mazovij%C4%85%2C%20per%C4%97jimas%20pas%20kry%C5%BEiuo%C4%8Dius%20ir%20karo%20su%20kry%C5%BEiuo%C4%8Diais%20prad%C5%BEia)
+- [Vytauto siųstas žygis į Riazanę](../objektai/ivykiai/Vytauto%20si%C5%B3stas%20%C5%BEygis%20%C4%AF%20Riazan%C4%99)
+- [Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.)](../objektai/ivykiai/Vytauto%20%C5%A1alinink%C5%B3%20niokojamasis%20%C5%BEygis%20Lietuvoje%20%281390%20m.%29)
+- [Vytauto šalininkų žygis į Riazanę](../objektai/ivykiai/Vytauto%20%C5%A1alinink%C5%B3%20%C5%BEygis%20%C4%AF%20Riazan%C4%99)
+- [Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas](../objektai/ivykiai/Vytauto%20%C5%BEygis%20prie%C5%A1%20%C5%A0vitrigail%C4%85%20ir%20Vitebsko%20atgavimas)
+- [Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Livonij%C4%85%20ir%20Daugpilio%20u%C5%BE%C4%97mimas%20%281396%20m.%29)
+- [Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Maskvos%20apylinkes%20ir%20Vosyliaus%20II%20globos%20prisi%C4%97mimas%20%281427%20m.%29)
+- [Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Maskvos%20valdas%20ir%20taika%20su%20Vasilijumi%20%281407%20m.%29)
+- [Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Maskv%C4%85%20ir%20rytini%C5%B3%20pakra%C5%A1%C4%8Di%C5%B3%20pajungimai)
+- [Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Medininkus%20%281392%20m.%20gegu%C5%BE%C4%97s%2020%20d.%29)
+- [Vytauto žygis į Naugardo žemę ir Porchovo apgultis](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Naugardo%20%C5%BEem%C4%99%20ir%20Porchovo%20apgultis)
+- [Vytauto žygis į Naugardą (1428 m. vasara)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Naugard%C4%85%20%281428%20m.%20vasara%29)
+- [Vytauto žygis į Ordino žemes (1377 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Ordino%20%C5%BEemes%20%281377%20m.%29)
+- [Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Pskov%C4%85%20ir%20Pskovo%20taika%20%281426%20m.%29)
+- [Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)](../objektai/ivykiai/Vytenio%20antpuolis%20Pilypo%20fon%20Bolando%20grobikams%20ir%20kautyn%C4%97s%20prie%20Dubysos%20pamin%C4%97jimas%20%281305%20m.%29)
+- [Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)](../objektai/ivykiai/Vytenio%20ir%20rygie%C4%8Di%C5%B3%20%C5%BEygis%20Livonijoje%20Karksio%20pa%C4%97mimas%20ir%20pergal%C4%97%20prie%20Treider%C4%97s%20up%C4%97s%20%281298%20m.%29)
+- [Vytenio trijų mėnesių žygis po Prūsiją ir lietuvių sutriuškinimas traukiantis](../objektai/ivykiai/Vytenio%20trij%C5%B3%20m%C4%97nesi%C5%B3%20%C5%BEygis%20po%20Pr%C5%ABsij%C4%85%20ir%20lietuvi%C5%B3%20sutriu%C5%A1kinimas%20traukiantis)
+- [Vytenio įsiveržimas į Livoniją ir Gardino priešpilio užėmimas (1296 m.)](../objektai/ivykiai/Vytenio%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Livonij%C4%85%20ir%20Gardino%20prie%C5%A1pilio%20u%C5%BE%C4%97mimas%20%281296%20m.%29)
+- [Vytenio žygiai į Dobrynę ir prieš kryžiuočius (1297 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygiai%20%C4%AF%20Dobryn%C4%99%20ir%20prie%C5%A1%20kry%C5%BEiuo%C4%8Dius%20%281297%20m.%29)
+- [Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Bresto%20%C5%BEem%C4%99%20ir%20Meinhardo%20atsitraukimas%20%281291%20m.%29)
+- [Vytenio žygis į Didžiąją Lenkiją ir kryžiuočių antpuoliai prieš Gardiną (1306 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Did%C5%BEi%C4%85j%C4%85%20Lenkij%C4%85%20ir%20kry%C5%BEiuo%C4%8Di%C5%B3%20antpuoliai%20prie%C5%A1%20Gardin%C4%85%20%281306%20m.%29)
+- [Vytenio žygis į Lenkiją ir Lenčicos žudynės](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Lenkij%C4%85%20ir%20Len%C4%8Dicos%20%C5%BEudyn%C4%97s)
+- [Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Lenkij%C4%85%20ir%20Le%C5%A1eko%20pergal%C4%97%20prie%C5%A1%20lietuvius%20%281283%20m.%29)
+- [Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Pr%C5%ABsij%C4%85%20ir%20Straisbergo%20apipl%C4%97%C5%A1imas)
+- [Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Semb%C4%85%2C%20Natang%C4%85%20ir%20Varm%C4%99%20bei%20pralaim%C4%97jimas%20Woplaukene%20%281311%20m.%29)
+- [Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)](../objektai/ivykiai/V%C4%97juk%C5%B3%20srities%20nusiaubimas%20ir%20Raseini%C5%B3%20bei%20Ariogalos%20sri%C4%8Di%C5%B3%20gaisrai%20%281322%20m.%29)
+- [Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę](../objektai/ivykiai/Zilijos%20vals%C4%8Diaus%20nusiaubimas%20ir%20antrasis%20Liudviko%20pa%C4%97mimas%20%C4%AF%20nelaisv%C4%99)
+- [Čingischano vadų žygis į Samachą ir Derbentą 1223 m](../objektai/ivykiai/%C4%8Cingischano%20vad%C5%B3%20%C5%BEygis%20%C4%AF%20Samach%C4%85%20ir%20Derbent%C4%85%201223%20m)
+- [Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis](../objektai/ivykiai/%C5%A0vitrigailos%201433%20m.%20%C5%BEygis%20Lietuvos%20siaubimas%2C%20Vitebsko%20u%C5%BE%C4%97mimas%20ir%20Bresto%20apgultis)
+- [Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė](../objektai/ivykiai/%C5%A0vitrigailos%201435%20m.%20%C5%BEygis%2C%20Ukmerg%C4%97s%20apgultis%20ir%20Mykolo%20vadovaujama%20pergal%C4%97)
+- [Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)](../objektai/ivykiai/%C5%A0vitrigailos%20ir%20Konrado%20Jungingeno%20%C5%BEygis%20%C4%AF%20Lietuv%C4%85%20%281394%20m.%29)
+- [Švitrigailos Vitebsko žemės užėmimas](../objektai/ivykiai/%C5%A0vitrigailos%20Vitebsko%20%C5%BEem%C4%97s%20u%C5%BE%C4%97mimas)
+- [Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)](../objektai/ivykiai/%C5%A0vitrigailos%20%C4%AFsiver%C5%BEimas%20%C4%AF%20Lietuv%C4%85%20ir%20Fiodoro%20Ostrogi%C5%A1kio%20%C5%BEygis%20%C4%AF%20Podol%C4%99%20%281432%20m.%29)
+- [Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)](../objektai/ivykiai/%C5%BDygimanto%20pergal%C4%97%20prie%C5%A1%20%C5%A0vitrigail%C4%85%2C%20%C5%BEygis%20%C4%AF%20Livonij%C4%85%20ir%20A%C5%A1menos%20fundacija%20%281432%20m.%20gruod%C5%BEio%202%20d.%20ir%20po%20to%29)
+- [Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)](../objektai/ivykiai/%C5%BDygio%20prie%C5%A1%20Vaiki%C5%B3%20vals%C4%8Di%C5%B3%20nutraukimas%20po%20audros%20%281317%20m.%20%C5%BEiema%29)
+- [Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos](../objektai/ivykiai/%C5%BDygis%20prie%C5%A1%20varmius%2C%20notangus%20ir%20bartus%20ir%20broli%C5%B3%20%C5%BE%C5%ABtis%20prie%20b%C5%ABsimos%20Baigos)
+- [Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)](../objektai/ivykiai/%C5%BDygis%20%C4%AF%20Pagud%C4%99%20ir%20Elbingo%20pilies%20pastatymas%20%281237%20m.%29)
+- [Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)](../objektai/ivykiai/%C5%BDygis%20%C4%AF%20Pagud%C4%99%2C%20Heilsbergo%20pilies%20u%C5%BE%C4%97mimas%20ir%20taikos%20atk%C5%ABrimas)

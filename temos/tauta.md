@@ -1,0 +1,298 @@
+---
+tipas: tema
+pavadinimas: "tauta"
+kanonine_tema: true
+tema_kategorija: "grupes"
+tema_kategorijos_pavadinimas: "Grupės ir institucijos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 258
+graph_hub: false
+sukurta: '2026-04-26'
+tags: []
+---
+
+# tauta
+
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Objektų skaičius: 258.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+
+## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Danielius]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Helmerichas]]
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Tautvilas]]
+
+### Autoriai
+- [[objektai/autoriai/Adomas Stanislovas Naruševičius]]
+
+### Grupės
+- [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/Abiejų Tautų konfederacija]]
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Alanai]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
+- [[objektai/grupes/Arabai]]
+- [[objektai/grupes/Armėnai]]
+- [[objektai/grupes/Atėniečiai]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
+- [[objektai/grupes/Aušrėnai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltai]]
+- [Baltarusiai](../objektai/grupes/Baltarusiai)
+- [Baltijos valstybės](../objektai/grupes/Baltijos%20valstyb%C4%97s)
+- [Baltų žyniai](../objektai/grupes/Balt%C5%B3%20%C5%BEyniai)
+- [Biarmiai](../objektai/grupes/Biarmiai)
+- [Birutės draugija](../objektai/grupes/Birut%C4%97s%20draugija)
+- [Bizantijos imperija](../objektai/grupes/Bizantijos%20imperija)
+- [Boristeniečiai](../objektai/grupes/Boristenie%C4%8Diai)
+- [Budinai](../objektai/grupes/Budinai)
+- [Burgundai](../objektai/grupes/Burgundai)
+- [Chaldėjai](../objektai/grupes/Chald%C4%97jai)
+- [Didžioji Lietuvos kunigaikštystė](../objektai/grupes/Did%C5%BEioji%20Lietuvos%20kunigaik%C5%A1tyst%C4%97)
+- [Draugija Užsienio Lietuviams Remti (DULR)](../objektai/grupes/Draugija%20U%C5%BEsienio%20Lietuviams%20Remti%20%28DULR%29)
+- [Egiptiečiai](../objektai/grupes/Egiptie%C4%8Diai)
+- [Estai](../objektai/grupes/Estai)
+- [Etninių lietuvių tautinis kultūrinis sąjūdis](../objektai/grupes/Etnini%C5%B3%20lietuvi%C5%B3%20tautinis%20kult%C5%ABrinis%20s%C4%85j%C5%ABdis)
+- [Europos Sąjunga](../objektai/grupes/Europos%20S%C4%85junga)
+- [Europos Taryba (institucija)](../objektai/grupes/Europos%20Taryba)
+- [Finikiečiai](../objektai/grupes/Finikie%C4%8Diai)
+- [Flandrai](../objektai/grupes/Flandrai)
+- [Galai ir skandinavai](../objektai/grupes/Galai%20ir%20skandinavai)
+- [Galindai](../objektai/grupes/Galindai)
+- [Geležinis vilkas](../objektai/grupes/Gele%C5%BEinis%20vilkas)
+- [Gelonai](../objektai/grupes/Gelonai)
+- [Germanai](../objektai/grupes/Germanai)
+- [Giruliai](../objektai/grupes/Giruliai)
+- [Graikai](../objektai/grupes/Graikai)
+- [Graikai, romėnai, skandinavai ir slavų kiltys](../objektai/grupes/Graikai%2C%20rom%C4%97nai%2C%20skandinavai%20ir%20slav%C5%B3%20kiltys)
+- [Gruzinai](../objektai/grupes/Gruzinai)
+- [Gudai](../objektai/grupes/Gudai)
+- [Herulai](../objektai/grupes/Herulai)
+- [Hiperborėjai](../objektai/grupes/Hiperbor%C4%97jai)
+- [Hiriai](../objektai/grupes/Hiriai)
+- [Hohenzollernai](../objektai/grupes/Hohenzollernai)
+- [Huronai](../objektai/grupes/Huronai)
+- [Iboristeniečiai](../objektai/grupes/Iboristenie%C4%8Diai)
+- [Indai](../objektai/grupes/Indai)
+- [Indijonai](../objektai/grupes/Indijonai)
+- [Italai](../objektai/grupes/Italai)
+- [Italų ateiviai](../objektai/grupes/Ital%C5%B3%20ateiviai)
+- [IV Seimas (seimas)](../objektai/grupes/IV%20Seimas)
+- [Izraelitai](../objektai/grupes/Izraelitai)
+- [Japonai](../objektai/grupes/Japonai)
+- [Jaunieji tautininkai](../objektai/grupes/Jaunieji%20tautininkai)
+- [JAV lietuviai](../objektai/grupes/JAV%20lietuviai)
+- [Jono Mejeno divizija](../objektai/grupes/Jono%20Mejeno%20divizija)
+- [Jotvingai](../objektai/grupes/Jotvingai)
+- [Jotvingiai](../objektai/grupes/Jotvingiai)
+- [Jozefo Grabinskio Jėgerių batalionas](../objektai/grupes/Jozefo%20Grabinskio%20J%C4%97geri%C5%B3%20batalionas)
+- [Jungtinių Tautų organizacija](../objektai/grupes/Jungtini%C5%B3%20Taut%C5%B3%20organizacija)
+- [Karaimai](../objektai/grupes/Karaimai)
+- [Kartaginiečiai](../objektai/grupes/Kartaginie%C4%8Diai)
+- [Karšuviai](../objektai/grupes/Kar%C5%A1uviai)
+- [Katalikų veikimo centras](../objektai/grupes/Katalik%C5%B3%20veikimo%20centras)
+- [Kašubai](../objektai/grupes/Ka%C5%A1ubai)
+- [Keltai](../objektai/grupes/Keltai)
+- [Kimbrai](../objektai/grupes/Kimbrai)
+- [Kinai](../objektai/grupes/Kinai)
+- [Klaipėdos krašto lietuviai (kraštas)](../objektai/grupes/Klaip%C4%97dos%20kra%C5%A1to%20lietuviai)
+- [Kolchai](../objektai/grupes/Kolchai)
+- [Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“](../objektai/grupes/Kooperacin%C4%97s%20bendrov%C4%97s%20%E2%80%9ELiet%C5%ABkis%E2%80%9C%2C%20%E2%80%9EPienocentras%E2%80%9C%20ir%20%E2%80%9EMaistas%E2%80%9C)
+- [Krikščionių demokratų blokas](../objektai/grupes/Krik%C5%A1%C4%8Dioni%C5%B3%20demokrat%C5%B3%20blokas)
+- [Krimo totoriai](../objektai/grupes/Krimo%20totoriai)
+- [Kriviai ir Krivių Krivaičiai](../objektai/grupes/Kriviai%20ir%20Krivi%C5%B3%20Krivai%C4%8Diai)
+- [Krivičiai](../objektai/grupes/Krivi%C4%8Diai)
+- [Krymo totoriai](../objektai/grupes/Krymo%20totoriai)
+- [Kujavai](../objektai/grupes/Kujavai)
+- [Kuršiai ir latviai](../objektai/grupes/Kur%C5%A1iai%20ir%20latviai)
+- [Laikinoji vyriausybė](../objektai/grupes/Laikinoji%20vyriausyb%C4%97)
+- [Lamatiečiai](../objektai/grupes/Lamatie%C4%8Diai)
+- [Langobardai](../objektai/grupes/Langobardai)
+- [Latviai](../objektai/grupes/Latviai)
+- [Latvijos Lietuvių Sąjunga](../objektai/grupes/Latvijos%20Lietuvi%C5%B3%20S%C4%85junga)
+- [Latvių Tautos Taryba (institucija)](../objektai/grupes/Latvi%C5%B3%20Tautos%20Taryba)
+- [LDK 1-oji Tautinė brigada](../objektai/grupes/LDK%201-oji%20Tautin%C4%97%20brigada)
+- [Lenkai](../objektai/grupes/Lenkai)
+- [Lenkijos laikinoji tautinė vyriausybė](../objektai/grupes/Lenkijos%20laikinoji%20tautin%C4%97%20vyriausyb%C4%97)
+- [Lenkų tautiniai demokratai](../objektai/grupes/Lenk%C5%B3%20tautiniai%20demokratai)
+- [Lenkų įgula Vilniaus Aukštutinėje pilyje](../objektai/grupes/Lenk%C5%B3%20%C4%AFgula%20Vilniaus%20Auk%C5%A1tutin%C4%97je%20pilyje)
+- [Lenčicos seimas (seimas)](../objektai/grupes/Len%C4%8Dicos%20seimas)
+- [Liaudies seimas (seimas)](../objektai/grupes/Liaudies%20seimas)
+- [Lietuviai](../objektai/grupes/Lietuviai)
+- [Lietuvininkai](../objektai/grupes/Lietuvininkai)
+- [Lietuviškoji partija](../objektai/grupes/Lietuvi%C5%A1koji%20partija)
+- [Lietuviškoji socialdemokratų partija](../objektai/grupes/Lietuvi%C5%A1koji%20socialdemokrat%C5%B3%20partija)
+- [Lietuvių Dailės Draugija](../objektai/grupes/Lietuvi%C5%B3%20Dail%C4%97s%20Draugija)
+- [Lietuvių frontas](../objektai/grupes/Lietuvi%C5%B3%20frontas)
+- [Lietuvių Mokslo Draugija](../objektai/grupes/Lietuvi%C5%B3%20Mokslo%20Draugija)
+- [Lietuvių tautininkų sąjunga](../objektai/grupes/Lietuvi%C5%B3%20tautinink%C5%B3%20s%C4%85junga)
+- [Lietuvių Tautos Taryba (institucija)](../objektai/grupes/Lietuvi%C5%B3%20Tautos%20Taryba)
+- [Lietuvių vienybės sąjūdis](../objektai/grupes/Lietuvi%C5%B3%20vienyb%C4%97s%20s%C4%85j%C5%ABdis)
+- [Lietuvos delegacija prie Paryžiaus taikos konferencijos](../objektai/grupes/Lietuvos%20delegacija%20prie%20Pary%C5%BEiaus%20taikos%20konferencijos)
+- [Lietuvos demokratų partija](../objektai/grupes/Lietuvos%20demokrat%C5%B3%20partija)
+- [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
+- [Lietuvos Didžiosios Kunigaikštystės Ponų Taryba](../objektai/grupes/Lietuvos%20Did%C5%BEiosios%20Kunigaik%C5%A1tyst%C4%97s%20Pon%C5%B3%20Taryba)
+- [Lietuvos disidentai](../objektai/grupes/Lietuvos%20disidentai)
+- [Lietuvos laisvės kovotojų sąjunga](../objektai/grupes/Lietuvos%20laisv%C4%97s%20kovotoj%C5%B3%20s%C4%85junga)
+- [Lietuvos laisvės lyga](../objektai/grupes/Lietuvos%20laisv%C4%97s%20lyga)
+- [Lietuvos partizanai](../objektai/grupes/Lietuvos%20partizanai)
+- [Lietuvos policija](../objektai/grupes/Lietuvos%20policija)
+- [Lietuvos Respublikos Seimas (seimas)](../objektai/grupes/Lietuvos%20Respublikos%20Seimas)
+- [Lietuvos rusinai](../objektai/grupes/Lietuvos%20rusinai)
+- [Lietuvos SSR Aukščiausioji Taryba](../objektai/grupes/Lietuvos%20SSR%20Auk%C5%A1%C4%8Diausioji%20Taryba)
+- [Lietuvos Taryba (institucija)](../objektai/grupes/Lietuvos%20Taryba)
+- [Lietuvos Tarybų socialistinė respublika (institucija)](../objektai/grupes/Lietuvos%20Taryb%C5%B3%20socialistin%C4%97%20respublika)
+- [Lietuvos tautinis olimpinis komitetas (institucija)](../objektai/grupes/Lietuvos%20tautinis%20olimpinis%20komitetas)
+- [Lietuvos tautinė aukščiausioji taryba](../objektai/grupes/Lietuvos%20tautin%C4%97%20auk%C5%A1%C4%8Diausioji%20taryba)
+- [Lietuvos valstiečių liaudininkų sąjunga](../objektai/grupes/Lietuvos%20valstie%C4%8Di%C5%B3%20liaudinink%C5%B3%20s%C4%85junga)
+- [Lietuvos vyrų krepšinio rinktinė](../objektai/grupes/Lietuvos%20vyr%C5%B3%20krep%C5%A1inio%20rinktin%C4%97)
+- [Lietuvos šaulių sąjunga](../objektai/grupes/Lietuvos%20%C5%A1auli%C5%B3%20s%C4%85junga)
+- [Lietuvos žydai](../objektai/grupes/Lietuvos%20%C5%BEydai)
+- [Litalarai](../objektai/grupes/Litalarai)
+- [Litvakai](../objektai/grupes/Litvakai)
+- [Liutauro dinastija](../objektai/grupes/Liutauro%20dinastija)
+- [LTSR Mokslų Akademijos Istorijos Institutas](../objektai/grupes/LTSR%20Moksl%C5%B3%20Akademijos%20Istorijos%20Institutas)
+- [Lybiai](../objektai/grupes/Lybiai)
+- [Masiliečiai](../objektai/grupes/Masilie%C4%8Diai)
+- [Maskvėnai](../objektai/grupes/Maskv%C4%97nai)
+- [Mažalenkiai](../objektai/grupes/Ma%C5%BEalenkiai)
+- [Miestelėnų luomas](../objektai/grupes/Miestel%C4%97n%C5%B3%20luomas)
+- [Miestiečiai ir valstiečiai](../objektai/grupes/Miestie%C4%8Diai%20ir%20valstie%C4%8Diai)
+- [Ministerių kabinetas](../objektai/grupes/Ministeri%C5%B3%20kabinetas)
+- [Mokslo bičiulių draugija](../objektai/grupes/Mokslo%20bi%C4%8Diuli%C5%B3%20draugija)
+- [Moravai](../objektai/grupes/Moravai)
+- [Mordviai](../objektai/grupes/Mordviai)
+- [Mozūrai (XV amžius)](../objektai/grupes/Moz%C5%ABrai%20%28XV%20am%C5%BEius%29)
+- [Nacių Vokietija](../objektai/grupes/Naci%C5%B3%20Vokietija)
+- [Nemunaičio apylinkių partizanų būrys](../objektai/grupes/Nemunai%C4%8Dio%20apylinki%C5%B3%20partizan%C5%B3%20b%C5%ABrys)
+- [Normanai](../objektai/grupes/Normanai)
+- [oji ir 3-ioji Tautinės kavalerijos brigados](../objektai/grupes/oji%20ir%203-ioji%20Tautin%C4%97s%20kavalerijos%20brigados)
+- [Ostrogotai](../objektai/grupes/Ostrogotai)
+- [Pabaltijo slavai](../objektai/grupes/Pabaltijo%20slavai)
+- [Pamarėnai](../objektai/grupes/Pamar%C4%97nai)
+- [Parusėnai](../objektai/grupes/Parus%C4%97nai)
+- [Pelazgai](../objektai/grupes/Pelazgai)
+- [Persai](../objektai/grupes/Persai)
+- [Petrapilio latvių pabėgėlių komitetas (institucija)](../objektai/grupes/Petrapilio%20latvi%C5%B3%20pab%C4%97g%C4%97li%C5%B3%20komitetas)
+- [Pečenegai](../objektai/grupes/Pe%C4%8Denegai)
+- [Polockiečiai](../objektai/grupes/Polockie%C4%8Diai)
+- [Poloviečiai](../objektai/grupes/Polovie%C4%8Diai)
+- [Prancūzai](../objektai/grupes/Pranc%C5%ABzai)
+- [Prancūzijos steigiamasis susirinkimas](../objektai/grupes/Pranc%C5%ABzijos%20steigiamasis%20susirinkimas)
+- [Prūsai](../objektai/grupes/Pr%C5%ABsai)
+- [Prūsijos gyventojai](../objektai/grupes/Pr%C5%ABsijos%20gyventojai)
+- [Prūsijos valstybė](../objektai/grupes/Pr%C5%ABsijos%20valstyb%C4%97)
+- [Pskoviečiai](../objektai/grupes/Pskovie%C4%8Diai)
+- [Raudonoji armija](../objektai/grupes/Raudonoji%20armija)
+- [Rendaliai](../objektai/grupes/Rendaliai)
+- [Roksolanai](../objektai/grupes/Roksolanai)
+- [Romėnai](../objektai/grupes/Rom%C4%97nai)
+- [Rusai](../objektai/grupes/Rusai)
+- [Rusijos Federacija](../objektai/grupes/Rusijos%20Federacija)
+- [Rusiškoji bajorų partija](../objektai/grupes/Rusi%C5%A1koji%20bajor%C5%B3%20partija)
+- [Rusėnai](../objektai/grupes/Rus%C4%97nai)
+- [Rygos vokiečiai](../objektai/grupes/Rygos%20vokie%C4%8Diai)
+- [Samojedai](../objektai/grupes/Samojedai)
+- [Saracėnai](../objektai/grupes/Sarac%C4%97nai)
+- [Sarmatai](../objektai/grupes/Sarmatai)
+- [Sarmatai ir variagai](../objektai/grupes/Sarmatai%20ir%20variagai)
+- [Saulė](../objektai/grupes/Saul%C4%97)
+- [Senalietuviai](../objektai/grupes/Senalietuviai)
+- [Senovės egiptiečiai](../objektai/grupes/Senov%C4%97s%20egiptie%C4%8Diai)
+- [Senovės graikai](../objektai/grupes/Senov%C4%97s%20graikai)
+- [Senovės romėnai](../objektai/grupes/Senov%C4%97s%20rom%C4%97nai)
+- [Senovės vokiečiai](../objektai/grupes/Senov%C4%97s%20vokie%C4%8Diai)
+- [Skandinavai](../objektai/grupes/Skandinavai)
+- [Skandinavai ir germanai](../objektai/grupes/Skandinavai%20ir%20germanai)
+- [Skitai](../objektai/grupes/Skitai)
+- [Skyrai](../objektai/grupes/Skyrai)
+- [Slavai](../objektai/grupes/Slavai)
+- [Slavai obotritai](../objektai/grupes/Slavai%20obotritai)
+- [Smolenskiečiai](../objektai/grupes/Smolenskie%C4%8Diai)
+- [SSRS liaudies deputatų II suvažiavimas](../objektai/grupes/SSRS%20liaudies%20deputat%C5%B3%20II%20suva%C5%BEiavimas)
+- [Stačiatikiai](../objektai/grupes/Sta%C4%8Diatikiai)
+- [Suomiai](../objektai/grupes/Suomiai)
+- [Susivienijimas Lietuvių Amerikoje](../objektai/grupes/Susivienijimas%20Lietuvi%C5%B3%20Amerikoje)
+- [Svebai](../objektai/grupes/Svebai)
+- [Tarptautinis olimpinis komitetas (institucija)](../objektai/grupes/Tarptautinis%20olimpinis%20komitetas)
+- [Tarptautinė darbo organizacija](../objektai/grupes/Tarptautin%C4%97%20darbo%20organizacija)
+- [Tautininkų grupuotė apie „Viltį“](../objektai/grupes/Tautinink%C5%B3%20grupuot%C4%97%20apie%20%E2%80%9EVilt%C4%AF%E2%80%9C)
+- [Tautinės darbo apsaugos batalionas](../objektai/grupes/Tautin%C4%97s%20darbo%20apsaugos%20batalionas)
+- [Tautos taryba (institucija)](../objektai/grupes/Tautos%20taryba)
+- [Tautų Sąjunga](../objektai/grupes/Taut%C5%B3%20S%C4%85junga)
+- [Tautų Sąjungos kontrolės komisija](../objektai/grupes/Taut%C5%B3%20S%C4%85jungos%20kontrol%C4%97s%20komisija)
+- [Tautų Sąjungos susirinkimas](../objektai/grupes/Taut%C5%B3%20S%C4%85jungos%20susirinkimas)
+- [Teutonai](../objektai/grupes/Teutonai)
+- [Tiuringiai](../objektai/grupes/Tiuringiai)
+- [Totoriai](../objektai/grupes/Totoriai)
+- [Trakų žydai](../objektai/grupes/Trak%C5%B3%20%C5%BEydai)
+- [Triznų giminė](../objektai/grupes/Trizn%C5%B3%20gimin%C4%97)
+- [Turkai](../objektai/grupes/Turkai)
+- [Tėvynės Mylėtojų Draugija](../objektai/grupes/T%C4%97vyn%C4%97s%20Myl%C4%97toj%C5%B3%20Draugija)
+- [Ukrainiečiai](../objektai/grupes/Ukrainie%C4%8Diai)
+- [UNESCO](../objektai/grupes/UNESCO)
+- [Užsienio lietuviai](../objektai/grupes/U%C5%BEsienio%20lietuviai)
+- [Vaidilutės](../objektai/grupes/Vaidilut%C4%97s)
+- [Valachai](../objektai/grupes/Valachai)
+- [Vandalai](../objektai/grupes/Vandalai)
+- [Venedai](../objektai/grupes/Venedai)
+- [Vengrai](../objektai/grupes/Vengrai)
+- [Vidivariai](../objektai/grupes/Vidivariai)
+- [Vidivarii](../objektai/grupes/Vidivarii)
+- [Vidivarijai](../objektai/grupes/Vidivarijai)
+- [Vikingai](../objektai/grupes/Vikingai)
+- [Vilkai-liutikai](../objektai/grupes/Vilkai-liutikai)
+- [Vilkolakiai](../objektai/grupes/Vilkolakiai)
+- [Vilniaus dailės draugija](../objektai/grupes/Vilniaus%20dail%C4%97s%20draugija)
+- [Vilniaus konfederacija](../objektai/grupes/Vilniaus%20konfederacija)
+- [Vilniaus mokslo bičiulių draugija](../objektai/grupes/Vilniaus%20mokslo%20bi%C4%8Diuli%C5%B3%20draugija)
+- [Vilniaus rusinai](../objektai/grupes/Vilniaus%20rusinai)
+- [Vilniaus rusų vienuoliai „čiornai“](../objektai/grupes/Vilniaus%20rus%C5%B3%20vienuoliai%20%E2%80%9E%C4%8Diornai%E2%80%9C)
+- [Vilniui vaduoti sąjunga](../objektai/grupes/Vilniui%20vaduoti%20s%C4%85junga)
+- [Vokiečiai](../objektai/grupes/Vokie%C4%8Diai)
+- [Vokiečių tauta](../objektai/grupes/Vokie%C4%8Di%C5%B3%20tauta)
+- [Voluiniečiai](../objektai/grupes/Voluinie%C4%8Diai)
+- [Volyniečiai](../objektai/grupes/Volynie%C4%8Diai)
+- [Čekai](../objektai/grupes/%C4%8Cekai)
+- [Šaulių sąjunga](../objektai/grupes/%C5%A0auli%C5%B3%20s%C4%85junga)
+- [Šeloniečiai](../objektai/grupes/%C5%A0elonie%C4%8Diai)
+- [Šiaurės Atlanto sutarties organizacija (NATO)](../objektai/grupes/%C5%A0iaur%C4%97s%20Atlanto%20sutarties%20organizacija%20%28NATO%29)
+- [Šiaurės slavai](../objektai/grupes/%C5%A0iaur%C4%97s%20slavai)
+- [Šiaurės tautos](../objektai/grupes/%C5%A0iaur%C4%97s%20tautos)
+- [Želigovskininkai](../objektai/grupes/%C5%BDeligovskininkai)
+- [Žemgaliai](../objektai/grupes/%C5%BDemgaliai)
+- [Žečpospolita](../objektai/grupes/%C5%BDe%C4%8Dpospolita)
+- [Žmogėdros (androfagai)](../objektai/grupes/%C5%BDmog%C4%97dros%20%28androfagai%29)
+- [Žuvėdai](../objektai/grupes/%C5%BDuv%C4%97dai)
+- [Žydai](../objektai/grupes/%C5%BDydai)
+- [Žydų Hapoelio klubas](../objektai/grupes/%C5%BDyd%C5%B3%20Hapoelio%20klubas)
+
+### Papročiai
+- [Stojimas į Ordiną kaip šventas sumanymas](../objektai/paprociai/Stojimas%20%C4%AF%20Ordin%C4%85%20kaip%20%C5%A1ventas%20sumanymas)
+
+### Posakiai
+- [Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti](../objektai/posakiai/Pasigail%C4%97k%2C%20vie%C5%A1patie%2C%20pasigail%C4%97k%20savo%20tautos%20ir%20neduok%20savo%20t%C4%97vonijos%20paniekinti)
+
+### Šaltiniai
+- [Lenkų tautos istorija](../objektai/saltiniai/Lenk%C5%B3%20tautos%20istorija)
+
+### Žodynas
+- [luomas](../objektai/zodynas/luomas)
+- [viešpaties dievo kariuomenė dievo tauta](../objektai/zodynas/vie%C5%A1paties%20dievo%20kariuomen%C4%97%20dievo%20tauta)

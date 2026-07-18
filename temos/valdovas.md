@@ -1,0 +1,333 @@
+---
+tipas: tema
+pavadinimas: "valdovas"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 293
+graph_hub: false
+sukurta: '2026-04-26'
+tags: []
+---
+
+# valdovas
+
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Objektų skaičius: 293.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+
+## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Adalbertas]]
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/asmenys/Albrechtas (Prūsijos hercogas)]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Aleksandras II]]
+- [[objektai/asmenys/Aleksandras III]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Aleksandras Lukašenka]]
+- [[objektai/asmenys/Aleksandras Makedonietis]]
+- [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/asmenys/Aleksandras Vygantas]]
+- [[objektai/asmenys/Aleksejus Michailovičius]]
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Almimolinas]]
+- [[objektai/asmenys/Andriejus Obolenskis]]
+- [[objektai/asmenys/Andrius Sakavičius]]
+- [[objektai/asmenys/Andrius Važila]]
+- [[objektai/asmenys/Antiochas Epifanas]]
+- [[objektai/asmenys/Antiochas Eupatoras]]
+- [Anzelmas (vyskupas, XIII a.)](../objektai/asmenys/Anzelmas)
+- [Atila](../objektai/asmenys/Atila)
+- [Augustas II](../objektai/asmenys/Augustas%20II)
+- [Ač Girėjus](../objektai/asmenys/A%C4%8D%20Gir%C4%97jus)
+- [Balduinas (Flandrijos grafas)](../objektai/asmenys/Balduinas%20%28Flandrijos%20grafas%29)
+- [Bazilius (Vasilius) II](../objektai/asmenys/Bazilius%20%28Vasilius%29%20II)
+- [Benito Musolinis](../objektai/asmenys/Benito%20Musolinis)
+- [Bernardas (Vroclavo kunigaikštis)](../objektai/asmenys/Bernardas%20%28Vroclavo%20kunigaik%C5%A1tis%29)
+- [Biti Girėjus](../objektai/asmenys/Biti%20Gir%C4%97jus)
+- [Boleslovas](../objektai/asmenys/Boleslovas)
+- [Borisas Jelcinas](../objektai/asmenys/Borisas%20Jelcinas)
+- [Boristenė](../objektai/asmenys/Boristen%C4%97)
+- [Borėjas](../objektai/asmenys/Bor%C4%97jas)
+- [Bronislovas Komorovskis](../objektai/asmenys/Bronislovas%20Komorovskis)
+- [Chadži Girėjus](../objektai/asmenys/Chad%C5%BEi%20Gir%C4%97jus)
+- [Chadžibėjus](../objektai/asmenys/Chad%C5%BEib%C4%97jus)
+- [Cronos](../objektai/asmenys/Cronos)
+- [Daugirdas Gedgaila](../objektai/asmenys/Daugirdas%20Gedgaila)
+- [Devlet-Berdi](../objektai/asmenys/Devlet-Berdi)
+- [Devletas](../objektai/asmenys/Devletas)
+- [Devletberdi](../objektai/asmenys/Devletberdi)
+- [Didysis Machmetas](../objektai/asmenys/Didysis%20Machmetas)
+- [Dimitrijus](../objektai/asmenys/Dimitrijus)
+- [Ditrichas (Meiseno markgrafas)](../objektai/asmenys/Ditrichas%20%28Meiseno%20markgrafas%29)
+- [Ditrichas (Meiseno markos valdovas)](../objektai/asmenys/Ditrichas%20%28Meiseno%20markos%20valdovas%29)
+- [Dmitrijus](../objektai/asmenys/Dmitrijus)
+- [Dmitrijus (totorių vadas)](../objektai/asmenys/Dmitrijus%20%28totori%C5%B3%20vadas%29)
+- [Dmitrijus Ivanovičius](../objektai/asmenys/Dmitrijus%20Ivanovi%C4%8Dius)
+- [Dmitrijus Kaributas](../objektai/asmenys/Dmitrijus%20Kaributas)
+- [Druzigeris](../objektai/asmenys/Druzigeris)
+- [Dželad-Eddinas](../objektai/asmenys/D%C5%BEelad-Eddinas)
+- [Džordžas Bušas](../objektai/asmenys/D%C5%BEord%C5%BEas%20Bu%C5%A1as)
+- [Ediga](../objektai/asmenys/Ediga)
+- [Edigejus](../objektai/asmenys/Edigejus)
+- [Edyga](../objektai/asmenys/Edyga)
+- [Eimaras iš Cezarėjos](../objektai/asmenys/Eimaras%20i%C5%A1%20Cezar%C4%97jos)
+- [Eneas Silvius Picolomini](../objektai/asmenys/Eneas%20Silvius%20Picolomini)
+- [Enejas Silvijus Picolomini](../objektai/asmenys/Enejas%20Silvijus%20Picolomini)
+- [Engelhardas Rabė](../objektai/asmenys/Engelhardas%20Rab%C4%97)
+- [Feletėjas](../objektai/asmenys/Felet%C4%97jas)
+- [Fiodoras](../objektai/asmenys/Fiodoras)
+- [Fridrichas](../objektai/asmenys/Fridrichas)
+- [Fridrichas (Austrijos kunigaikštis)](../objektai/asmenys/Fridrichas%20%28Austrijos%20kunigaik%C5%A1tis%29)
+- [Fridrichas (Rygos arkivyskupas)](../objektai/asmenys/Fridrichas%20%28Rygos%20arkivyskupas%29)
+- [Fridrichas (Švabijos kunigaikštis)](../objektai/asmenys/Fridrichas%20%28%C5%A0vabijos%20kunigaik%C5%A1tis%29)
+- [Fridrichas iš Vildenbergo](../objektai/asmenys/Fridrichas%20i%C5%A1%20Vildenbergo)
+- [Fulvio Ruggieri](../objektai/asmenys/Fulvio%20Ruggieri)
+- [Gajus Mesijus Kvintas Decijus](../objektai/asmenys/Gajus%20Mesijus%20Kvintas%20Decijus)
+- [Galėnas](../objektai/asmenys/Gal%C4%97nas)
+- [Gardolfas](../objektai/asmenys/Gardolfas)
+- [Genserikas](../objektai/asmenys/Genserikas)
+- [Geremferdenas](../objektai/asmenys/Geremferdenas)
+- [Gerhardas (valdovas)](../objektai/asmenys/Gerhardas)
+- [Germanarikas](../objektai/asmenys/Germanarikas)
+- [Giliginas](../objektai/asmenys/Giliginas)
+- [Giunteris iš Regenšteino](../objektai/asmenys/Giunteris%20i%C5%A1%20Regen%C5%A1teino)
+- [Gliceras](../objektai/asmenys/Gliceras)
+- [Gregoras Kierdėjus](../objektai/asmenys/Gregoras%20Kierd%C4%97jus)
+- [Grigalius IX](../objektai/asmenys/Grigalius%20IX)
+- [Grigorijus Fiodorovičius Davidovas](../objektai/asmenys/Grigorijus%20Fiodorovi%C4%8Dius%20Davidovas)
+- [Henrikas (Brabanto kunigaikštis)](../objektai/asmenys/Henrikas%20%28Brabanto%20kunigaik%C5%A1tis%29)
+- [Henrikas (Jeruzalės karalius)](../objektai/asmenys/Henrikas%20%28Jeruzal%C4%97s%20karalius%29)
+- [Henrikas (Jeruzalės patriarchas)](../objektai/asmenys/Henrikas%20%28Jeruzal%C4%97s%20patriarchas%29)
+- [Henrikas (kryžiuočių magistras)](../objektai/asmenys/Henrikas%20%28kry%C5%BEiuo%C4%8Di%C5%B3%20magistras%29)
+- [Henrikas (Meiseno markgrafas)](../objektai/asmenys/Henrikas%20%28Meiseno%20markgrafas%29)
+- [Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)](../objektai/asmenys/Henrikas%20%28Pfalco%20grafas%20prie%20Reino%20ir%20Braun%C5%A1veigo%20kunigaik%C5%A1tis%29)
+- [Henrikas (Varmės vyskupas)](../objektai/asmenys/Henrikas%20%28Varm%C4%97s%20vyskupas%29)
+- [Henrikas I Paukštininkas](../objektai/asmenys/Henrikas%20I%20Pauk%C5%A1tininkas)
+- [Henrikas iš Kalendino](../objektai/asmenys/Henrikas%20i%C5%A1%20Kalendino)
+- [Henrikas iš Lichtenšteino](../objektai/asmenys/Henrikas%20i%C5%A1%20Lichten%C5%A1teino)
+- [Henrikas iš Veidos](../objektai/asmenys/Henrikas%20i%C5%A1%20Veidos)
+- [Henrikas Valpotas](../objektai/asmenys/Henrikas%20Valpotas)
+- [Henrikas VII](../objektai/asmenys/Henrikas%20VII)
+- [Hermanas (Petro iš Rozenbergo dėdė)](../objektai/asmenys/Hermanas%20%28Petro%20i%C5%A1%20Rozenbergo%20d%C4%97d%C4%97%29)
+- [Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)](../objektai/asmenys/Hermanas%20%28Saksonijos%20hercogas%20ir%20Tiuringijos%20landgrafas%29)
+- [Hugas Kolontajus](../objektai/asmenys/Hugas%20Kolontajus)
+- [Hugonas](../objektai/asmenys/Hugonas)
+- [Ibrahimas (Turkijos čiaušas)](../objektai/asmenys/Ibrahimas%20%28Turkijos%20%C4%8Diau%C5%A1as%29)
+- [Imperatorius Vaclovas](../objektai/asmenys/Imperatorius%20Vaclovas)
+- [imperatorius Zigmantas](../objektai/asmenys/imperatorius%20Zigmantas)
+- [Ivanas](../objektai/asmenys/Ivanas)
+- [Ivanas (Maskvos valdovas)](../objektai/asmenys/Ivanas%20%28Maskvos%20valdovas%29)
+- [Ivanas Andrejevičius Čeliadninas](../objektai/asmenys/Ivanas%20Andrejevi%C4%8Dius%20%C4%8Celiadninas)
+- [Ivanas IV Rūstusis](../objektai/asmenys/Ivanas%20IV%20R%C5%ABstusis)
+- [Ivanas Pronskis](../objektai/asmenys/Ivanas%20Pronskis)
+- [Ivanas Rūstusis](../objektai/asmenys/Ivanas%20R%C5%ABstusis)
+- [Ivanas Tiomka Rostovskis](../objektai/asmenys/Ivanas%20Tiomka%20Rostovskis)
+- [Jaroslavas](../objektai/asmenys/Jaroslavas)
+- [Jaroslavas (Kijevo valdovas)](../objektai/asmenys/Jaroslavas%20%28Kijevo%20valdovas%29)
+- [Jaunutis (valdovas, XIV a.)](../objektai/asmenys/Jaunutis)
+- [Jogaila (kunigaikštis, XIV–XV a.)](../objektai/asmenys/Jogaila)
+- [Jomantas](../objektai/asmenys/Jomantas)
+- [Jonas](../objektai/asmenys/Jonas)
+- [Jonas (Brandenburgo markgrafas)](../objektai/asmenys/Jonas%20%28Brandenburgo%20markgrafas%29)
+- [Jonas (Čekijos karalius)](../objektai/asmenys/Jonas%20%28%C4%8Cekijos%20karalius%29)
+- [Jonas iš Hibelino](../objektai/asmenys/Jonas%20i%C5%A1%20Hibelino)
+- [Jonas iš Liuksemburgo](../objektai/asmenys/Jonas%20i%C5%A1%20Liuksemburgo)
+- [Jonas Komninas](../objektai/asmenys/Jonas%20Komninas)
+- [Jonas Lonei](../objektai/asmenys/Jonas%20Lonei)
+- [Jonas XXII (popiežius)](../objektai/asmenys/Jonas%20XXII%20%28popie%C5%BEius%29)
+- [Julijus Nepas](../objektai/asmenys/Julijus%20Nepas)
+- [Jurga (pasienio seniūnas)](../objektai/asmenys/Jurga%20%28pasienio%20seni%C5%ABnas%29)
+- [Jurgis Sviatoslavaitis](../objektai/asmenys/Jurgis%20Sviatoslavaitis)
+- [Jurgis Volazkavičius](../objektai/asmenys/Jurgis%20Volazkavi%C4%8Dius)
+- [Jurijus Sviatoslavovičius](../objektai/asmenys/Jurijus%20Sviatoslavovi%C4%8Dius)
+- [Jurijus Vytutaitis](../objektai/asmenys/Jurijus%20Vytutaitis)
+- [Kandaksas](../objektai/asmenys/Kandaksas)
+- [Kantautas](../objektai/asmenys/Kantautas)
+- [Karijotas](../objektai/asmenys/Karijotas)
+- [Karolis](../objektai/asmenys/Karolis)
+- [Karolis (didysis magistras)](../objektai/asmenys/Karolis%20%28didysis%20magistras%29)
+- [Kazimieras (Konrado sūnus)](../objektai/asmenys/Kazimieras%20%28Konrado%20s%C5%ABnus%29)
+- [Kazimieras Jogailaitis](../objektai/asmenys/Kazimieras%20Jogailaitis)
+- [Kerim Berdis](../objektai/asmenys/Kerim%20Berdis)
+- [Kerimberdėjus](../objektai/asmenys/Kerimberd%C4%97jus)
+- [Kerskorfas](../objektai/asmenys/Kerskorfas)
+- [Klaudijus](../objektai/asmenys/Klaudijus)
+- [Klemensas IV](../objektai/asmenys/Klemensas%20IV)
+- [Konradas (Landsbergo markgrafas)](../objektai/asmenys/Konradas%20%28Landsbergo%20markgrafas%29)
+- [Konradas (Mainco arkivyskupas)](../objektai/asmenys/Konradas%20%28Mainco%20arkivyskupas%29)
+- [Konradas (Mazovijos kunigaikštis)](../objektai/asmenys/Konradas%20%28Mazovijos%20kunigaik%C5%A1tis%29)
+- [Konradas (Tiuringijos landgrafas)](../objektai/asmenys/Konradas%20%28Tiuringijos%20landgrafas%29)
+- [Konradas (Viurcburgo vyskupas)](../objektai/asmenys/Konradas%20%28Viurcburgo%20vyskupas%29)
+- [Konradas iš Landsbergo](../objektai/asmenys/Konradas%20i%C5%A1%20Landsbergo)
+- [Kristupas iš Viljandžio](../objektai/asmenys/Kristupas%20i%C5%A1%20Viljand%C5%BEio)
+- [Kristupas Radvila](../objektai/asmenys/Kristupas%20Radvila)
+- [Kutlubuga](../objektai/asmenys/Kutlubuga)
+- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
+- [Lešekas](../objektai/asmenys/Le%C5%A1ekas)
+- [Lešekas Juodasis](../objektai/asmenys/Le%C5%A1ekas%20Juodasis)
+- [Liubartas](../objektai/asmenys/Liubartas)
+- [Liudvikas (Antiochijos patriarchas)](../objektai/asmenys/Liudvikas%20%28Antiochijos%20patriarchas%29)
+- [Liudvikas (Vengrijos karalius)](../objektai/asmenys/Liudvikas%20%28Vengrijos%20karalius%29)
+- [Mahometas Aminas](../objektai/asmenys/Mahometas%20Aminas)
+- [Maksimilijonas I](../objektai/asmenys/Maksimilijonas%20I)
+- [Malabatas](../objektai/asmenys/Malabatas)
+- [Manuelis](../objektai/asmenys/Manuelis)
+- [Markvardas Salzbaclias](../objektai/asmenys/Markvardas%20Salzbaclias)
+- [Martynas iš Krušvicos](../objektai/asmenys/Martynas%20i%C5%A1%20Kru%C5%A1vicos)
+- [Martynas Volodkovičius](../objektai/asmenys/Martynas%20Volodkovi%C4%8Dius)
+- [Mažasis Saladinas](../objektai/asmenys/Ma%C5%BEasis%20Saladinas)
+- [Mechmedas](../objektai/asmenys/Mechmedas)
+- [Mechmetas](../objektai/asmenys/Mechmetas)
+- [Mengu-Timuras](../objektai/asmenys/Mengu-Timuras)
+- [Mergelė Marija](../objektai/asmenys/Mergel%C4%97%20Marija)
+- [Michailas Aleksandrovičius](../objektai/asmenys/Michailas%20Aleksandrovi%C4%8Dius)
+- [Michailas Fiodorovičius Romanovas](../objektai/asmenys/Michailas%20Fiodorovi%C4%8Dius%20Romanovas)
+- [Michailas Gorbačiovas](../objektai/asmenys/Michailas%20Gorba%C4%8Diovas)
+- [Mieška](../objektai/asmenys/Mie%C5%A1ka)
+- [Mikalojus iš Jerošino](../objektai/asmenys/Mikalojus%20i%C5%A1%20Jero%C5%A1ino)
+- [Motiejus (Žemaičių ir Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28%C5%BDemai%C4%8Di%C5%B3%20ir%20Vilniaus%20vyskupas%29)
+- [Muradas II](../objektai/asmenys/Muradas%20II)
+- [Mykolas Borisovičius Šeina](../objektai/asmenys/Mykolas%20Borisovi%C4%8Dius%20%C5%A0eina)
+- [Mykolas Rusalka](../objektai/asmenys/Mykolas%20Rusalka)
+- [Nameisis (žiemgalių kunigaikštis)](../objektai/asmenys/Nameisis%20%28%C5%BEiemgali%C5%B3%20kunigaik%C5%A1tis%29)
+- [Napoleonas Bonapartas](../objektai/asmenys/Napoleonas%20Bonapartas)
+- [Neronas](../objektai/asmenys/Neronas)
+- [Nestanas](../objektai/asmenys/Nestanas)
+- [Netimeras](../objektai/asmenys/Netimeras)
+- [Nikolajus II](../objektai/asmenys/Nikolajus%20II)
+- [Odoakras](../objektai/asmenys/Odoakras)
+- [Oktavianas Augustas](../objektai/asmenys/Oktavianas%20Augustas)
+- [Olafas (Norvegijos valdovas)](../objektai/asmenys/Olafas%20%28Norvegijos%20valdovas%29)
+- [Olafas (pietų Švedijos kunigaikštis)](../objektai/asmenys/Olafas%20%28piet%C5%B3%20%C5%A0vedijos%20kunigaik%C5%A1tis%29)
+- [Olegas (Riazanės kunigaikštis)](../objektai/asmenys/Olegas%20%28Riazan%C4%97s%20kunigaik%C5%A1tis%29)
+- [Omaras](../objektai/asmenys/Omaras)
+- [Ona (Zigmanto Augusto sesuo)](../objektai/asmenys/Ona%20%28Zigmanto%20Augusto%20sesuo%29)
+- [Oramas](../objektai/asmenys/Oramas)
+- [Orestas](../objektai/asmenys/Orestas)
+- [Otonas (Braunšveigo-Liuneburgo kunigaikštis)](../objektai/asmenys/Otonas%20%28Braun%C5%A1veigo-Liuneburgo%20kunigaik%C5%A1tis%29)
+- [Otonas Didysis](../objektai/asmenys/Otonas%20Didysis)
+- [Palemonas](../objektai/asmenys/Palemonas)
+- [Paleologas](../objektai/asmenys/Paleologas)
+- [Parfėjus](../objektai/asmenys/Parf%C4%97jus)
+- [Paulius Rusdorfas](../objektai/asmenys/Paulius%20Rusdorfas)
+- [Petras Atsiskyrėlis](../objektai/asmenys/Petras%20Atsiskyr%C4%97lis)
+- [Petras iš Rozenbergo](../objektai/asmenys/Petras%20i%C5%A1%20Rozenbergo)
+- [Pilypas](../objektai/asmenys/Pilypas)
+- [Pisimantas](../objektai/asmenys/Pisimantas)
+- [Popiežius Honorijus III](../objektai/asmenys/Popie%C5%BEius%20Honorijus%20III)
+- [Povilas Višenskis](../objektai/asmenys/Povilas%20Vi%C5%A1enskis)
+- [Pukuveras (Lietuvos karalius, XIII a.)](../objektai/asmenys/Pukuveras)
+- [Radvila (maršalka)](../objektai/asmenys/Radvila%20%28mar%C5%A1alka%29)
+- [Ratajus Širiajevas](../objektai/asmenys/Ratajus%20%C5%A0iriajevas)
+- [Reinoldas](../objektai/asmenys/Reinoldas)
+- [Ričardas (Kornvalijos grafas)](../objektai/asmenys/Ri%C4%8Dardas%20%28Kornvalijos%20grafas%29)
+- [Romulas Momilijus Augustulas](../objektai/asmenys/Romulas%20Momilijus%20Augustulas)
+- [Rudolfas (Tiberiados valdovas)](../objektai/asmenys/Rudolfas%20%28Tiberiados%20valdovas%29)
+- [Saladinas](../objektai/asmenys/Saladinas)
+- [Severas](../objektai/asmenys/Severas)
+- [Silvestras Levontjevičius](../objektai/asmenys/Silvestras%20Levontjevi%C4%8Dius)
+- [Simeonas](../objektai/asmenys/Simeonas)
+- [Simonas (Maskvos kunigaikštis)](../objektai/asmenys/Simonas%20%28Maskvos%20kunigaik%C5%A1tis%29)
+- [Simonas Lengvenis (valdovas, XIV a.)](../objektai/asmenys/Simonas%20Lengvenis)
+- [Simonas Rapolovskis](../objektai/asmenys/Simonas%20Rapolovskis)
+- [Sirputis (Traidenio brolis)](../objektai/asmenys/Sirputis%20%28Traidenio%20brolis%29)
+- [Spera](../objektai/asmenys/Spera)
+- [Stanislovas Augustas Poniatovskis (valdovas)](../objektai/asmenys/Stanislovas%20Augustas%20Poniatovskis)
+- [Stanislovas Jendžejevskis](../objektai/asmenys/Stanislovas%20Jend%C5%BEejevskis)
+- [Stanislovas Kiška](../objektai/asmenys/Stanislovas%20Ki%C5%A1ka)
+- [Steponas](../objektai/asmenys/Steponas)
+- [Steponas (Vengrijos valdovas)](../objektai/asmenys/Steponas%20%28Vengrijos%20valdovas%29)
+- [Targitas](../objektai/asmenys/Targitas)
+- [Teodoras](../objektai/asmenys/Teodoras)
+- [Teodorikas](../objektai/asmenys/Teodorikas)
+- [Timur-Kutlugas](../objektai/asmenys/Timur-Kutlugas)
+- [Timuras](../objektai/asmenys/Timuras)
+- [Tochtamyšas](../objektai/asmenys/Tochtamy%C5%A1as)
+- [Tochtamyšas (Krymo ordos chanas)](../objektai/asmenys/Tochtamy%C5%A1as%20%28Krymo%20ordos%20chanas%29)
+- [Totila](../objektai/asmenys/Totila)
+- [Traidenis (valdovas, XIII a.)](../objektai/asmenys/Traidenis)
+- [Treniota Vykintaitis](../objektai/asmenys/Treniota%20Vykintaitis)
+- [Trojanas](../objektai/asmenys/Trojanas)
+- [Uzbeko](../objektai/asmenys/Uzbeko)
+- [Vaclovas Pragiečius](../objektai/asmenys/Vaclovas%20Pragie%C4%8Dius)
+- [Vaišelga (kunigaikštis)](../objektai/asmenys/Vai%C5%A1elga)
+- [Valerijonas Suškovskis Protasevičius (vyskupas)](../objektai/asmenys/Valerijonas%20Su%C5%A1kovskis%20Protasevi%C4%8Dius)
+- [Valuzianas](../objektai/asmenys/Valuzianas)
+- [Vasilijus Dimitrijevičius](../objektai/asmenys/Vasilijus%20Dimitrijevi%C4%8Dius)
+- [Vasilijus III](../objektai/asmenys/Vasilijus%20III)
+- [Vasiljevičius (Maskvos valdovas)](../objektai/asmenys/Vasiljevi%C4%8Dius%20%28Maskvos%20valdovas%29)
+- [Vilhelmas Habsburgas](../objektai/asmenys/Vilhelmas%20Habsburgas)
+- [Vladimiras Leninas](../objektai/asmenys/Vladimiras%20Leninas)
+- [Vladimiras Putinas](../objektai/asmenys/Vladimiras%20Putinas)
+- [Vladislovas (Jogailos sūnus)](../objektai/asmenys/Vladislovas%20%28Jogailos%20s%C5%ABnus%29)
+- [Vladislovas iš Opolės](../objektai/asmenys/Vladislovas%20i%C5%A1%20Opol%C4%97s)
+- [Vladislovas Jogaila](../objektai/asmenys/Vladislovas%20Jogaila)
+- [Vladislovas Vaza](../objektai/asmenys/Vladislovas%20Vaza)
+- [Vladislovas Łokietka](../objektai/asmenys/Vladislovas%20%C5%81okietka)
+- [Volfgeris](../objektai/asmenys/Volfgeris)
+- [Vosylius I](../objektai/asmenys/Vosylius%20I)
+- [Vudrau Vilsonas](../objektai/asmenys/Vudrau%20Vilsonas)
+- [Vydimantas](../objektai/asmenys/Vydimantas)
+- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
+- [Vytautas Landsbergis](../objektai/asmenys/Vytautas%20Landsbergis)
+- [Vytenis (valdovas, XIII–XIV a.)](../objektai/asmenys/Vytenis)
+- [Wilhelmas II](../objektai/asmenys/Wilhelmas%20II)
+- [Zemislovas](../objektai/asmenys/Zemislovas)
+- [Zemovitas](../objektai/asmenys/Zemovitas)
+- [Zenonas iš Rodo](../objektai/asmenys/Zenonas%20i%C5%A1%20Rodo)
+- [Ziemovitas III](../objektai/asmenys/Ziemovitas%20III)
+- [Zigmantas Augustas](../objektai/asmenys/Zigmantas%20Augustas)
+- [Zigmantas I](../objektai/asmenys/Zigmantas%20I)
+- [Zigtrigas](../objektai/asmenys/Zigtrigas)
+- [Zugurlamas](../objektai/asmenys/Zugurlamas)
+- [Zygfridas iš Da\[he\]nfeldo](../objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- [Čingischanas](../objektai/asmenys/%C4%8Cingischanas)
+- [Šich Achmetas](../objektai/asmenys/%C5%A0ich%20Achmetas)
+- [Švitrigaila](../objektai/asmenys/%C5%A0vitrigaila)
+
+### Autoriai
+- [Grigorijus Camblakas](../objektai/autoriai/Grigorijus%20Camblakas)
+- [J. Pfitzner](../objektai/autoriai/J.%20Pfitzner)
+- [Jurginis J](../objektai/autoriai/Jurginis%20J)
+- [K. Heinl](../objektai/autoriai/K.%20Heinl)
+- [Kochanovskis](../objektai/autoriai/Kochanovskis)
+- [Kučinskas A](../objektai/autoriai/Ku%C4%8Dinskas%20A)
+- [Lenkų istorikai ir Lietuvos istoriografijos tyrėjai](../objektai/autoriai/Lenk%C5%B3%20istorikai%20ir%20Lietuvos%20istoriografijos%20tyr%C4%97jai)
+- [M. Strijkovskis Stryjkowski](../objektai/autoriai/M.%20Strijkovskis%20Stryjkowski)
+- [Machiavellio](../objektai/autoriai/Machiavellio)
+- [Potkowski E](../objektai/autoriai/Potkowski%20E)
+- [Stryjkowski Strijkovskis](../objektai/autoriai/Stryjkowski%20Strijkovskis)
+- [T. Wierzbowski](../objektai/autoriai/T.%20Wierzbowski)
+- [V. Putinas-Mykolaitis](../objektai/autoriai/V.%20Putinas-Mykolaitis)
+
+### Daiktai
+- [Šventojo kryžiaus relikvija](../objektai/daiktai/%C5%A0ventojo%20kry%C5%BEiaus%20relikvija)
+
+### Grupės
+- [Gediminaičių dinastija](../objektai/grupes/Gediminai%C4%8Di%C5%B3%20dinastija)
+
+### Posakiai
+- [Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais](../objektai/posakiai/Argi%20nematote%2C%20kaip%20m%C5%ABs%C5%B3%20valdovai%20broliai%20grumiasi%20su%20netik%C4%97liais)
+
+### Vietos
+- [Lenkija](../objektai/vietos/Lenkija)
+- [Šventaragio slėnis](../objektai/vietos/%C5%A0ventaragio%20sl%C4%97nis)
+
+### Įvykiai
+- [Liublino unija (1569 m.)](../objektai/ivykiai/Liublino%20unija%20%281569%20m.%29)

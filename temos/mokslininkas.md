@@ -1,0 +1,279 @@
+---
+tipas: tema
+pavadinimas: "mokslininkas"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 247
+graph_hub: false
+sukurta: '2026-04-26'
+tags: []
+---
+
+# mokslininkas
+
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Objektų skaičius: 247.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+
+## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Aaron Klug]]
+- [[objektai/asmenys/Abraomas Kulvietis]]
+- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
+- [[objektai/asmenys/Albertas Vijūkas-Kojalavičius]]
+- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Aleksandras Humboltas]]
+- [[objektai/asmenys/Algimantas Marcinkevičius]]
+- [[objektai/asmenys/Algirdas Julius Greimas]]
+- [[objektai/asmenys/Andrejus Sacharovas]]
+- [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/asmenys/Andrius Volanas]]
+- [[objektai/asmenys/Antanas Baranauskas]]
+- [[objektai/asmenys/Antanas Buračas]]
+- [[objektai/asmenys/Aristotelis]]
+- [[objektai/asmenys/Bernard Lown]]
+- [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/Biufonas]]
+- [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/asmenys/Cvinglis]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Dionyzas iš Charakso]]
+- [[objektai/asmenys/Džiovani Ramusio]]
+- [Eduardas Eichvaldas](../objektai/asmenys/Eduardas%20Eichvaldas)
+- [Eduardas Karolis Eichvaldas](../objektai/asmenys/Eduardas%20Karolis%20Eichvaldas)
+- [Eduardas Vilkas](../objektai/asmenys/Eduardas%20Vilkas)
+- [Eichvaldas](../objektai/asmenys/Eichvaldas)
+- [Eitanas Finkelšteinas](../objektai/asmenys/Eitanas%20Finkel%C5%A1teinas)
+- [Eratostenas](../objektai/asmenys/Eratostenas)
+- [Eustachijus Tiškevičius](../objektai/asmenys/Eustachijus%20Ti%C5%A1kevi%C4%8Dius)
+- [Fonbergas](../objektai/asmenys/Fonbergas)
+- [Fransua Noelis](../objektai/asmenys/Fransua%20Noelis)
+- [G. Braunas](../objektai/asmenys/G.%20Braunas)
+- [Gartneris](../objektai/asmenys/Gartneris)
+- [Gatereris](../objektai/asmenys/Gatereris)
+- [Georgas Zauerveinas](../objektai/asmenys/Georgas%20Zauerveinas)
+- [Gertrude Ellion](../objektai/asmenys/Gertrude%20Ellion)
+- [Hameris](../objektai/asmenys/Hameris)
+- [Henrikas Julijus Klaprotas](../objektai/asmenys/Henrikas%20Julijus%20Klaprotas)
+- [Hugas Grocijus](../objektai/asmenys/Hugas%20Grocijus)
+- [Humboltas](../objektai/asmenys/Humboltas)
+- [Ignas Onacevičius](../objektai/asmenys/Ignas%20Onacevi%C4%8Dius)
+- [Istachris Abu Izaokas al Farisi](../objektai/asmenys/Istachris%20Abu%20Izaokas%20al%20Farisi)
+- [Joachimas Lelevelis (istorikas, XVIII–XIX a.)](../objektai/asmenys/Joachimas%20Lelevelis)
+- [Johanas Pėteris Frankas](../objektai/asmenys/Johanas%20P%C4%97teris%20Frankas)
+- [Jokūbas Babičius](../objektai/asmenys/Jok%C5%ABbas%20Babi%C4%8Dius)
+- [Jonas Basanavičius](../objektai/asmenys/Jonas%20Basanavi%C4%8Dius)
+- [Jonas Jablonskis](../objektai/asmenys/Jonas%20Jablonskis)
+- [Jonas Sniadeckis](../objektai/asmenys/Jonas%20Sniadeckis)
+- [Jonas XXI](../objektai/asmenys/Jonas%20XXI)
+- [Jozefas Frankas](../objektai/asmenys/Jozefas%20Frankas)
+- [Julija Žymantienė-Žemaitė](../objektai/asmenys/Julija%20%C5%BDymantien%C4%97-%C5%BDemait%C4%97)
+- [Jurgis de Biufonas](../objektai/asmenys/Jurgis%20de%20Biufonas)
+- [Jurgis Sniadeckis](../objektai/asmenys/Jurgis%20Sniadeckis)
+- [Karolina Praniauskaitė](../objektai/asmenys/Karolina%20Praniauskait%C4%97)
+- [Kasparas Bekešas](../objektai/asmenys/Kasparas%20Beke%C5%A1as)
+- [Kazimieras Antanavičius](../objektai/asmenys/Kazimieras%20Antanavi%C4%8Dius)
+- [Kazimieras Simanavičius](../objektai/asmenys/Kazimieras%20Simanavi%C4%8Dius)
+- [Klaprotas](../objektai/asmenys/Klaprotas)
+- [Konradas Ciolneris Rotenšteinas](../objektai/asmenys/Konradas%20Ciolneris%20Roten%C5%A1teinas)
+- [Konradas Valenrodas](../objektai/asmenys/Konradas%20Valenrodas)
+- [Kristijonas Donelaitis](../objektai/asmenys/Kristijonas%20Donelaitis)
+- [Kruze](../objektai/asmenys/Kruze)
+- [Kruzė](../objektai/asmenys/Kruz%C4%97)
+- [Ksaveras Bogušas](../objektai/asmenys/Ksaveras%20Bogu%C5%A1as)
+- [Kunzas Lochneris](../objektai/asmenys/Kunzas%20Lochneris)
+- [Laurinavičius](../objektai/asmenys/Laurinavi%C4%8Dius)
+- [Laurynas Goslickis](../objektai/asmenys/Laurynas%20Goslickis)
+- [Liudvigas Heinrichas Bojanus](../objektai/asmenys/Liudvigas%20Heinrichas%20Bojanus)
+- [Liudvika Didžiulienė-Žmona](../objektai/asmenys/Liudvika%20Did%C5%BEiulien%C4%97-%C5%BDmona)
+- [Liudvikas Rėza](../objektai/asmenys/Liudvikas%20R%C4%97za)
+- [M. K. Čiurlionis](../objektai/asmenys/M.%20K.%20%C4%8Ciurlionis)
+- [Mikalojus Malinovskis](../objektai/asmenys/Mikalojus%20Malinovskis)
+- [Mikalojus Radvila Juodasis](../objektai/asmenys/Mikalojus%20Radvila%20Juodasis)
+- [Mindaugas (valdovas, XIII a.)](../objektai/asmenys/Mindaugas)
+- [Motiejus (Žemaičių ir Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28%C5%BDemai%C4%8Di%C5%B3%20ir%20Vilniaus%20vyskupas%29)
+- [Mykolas Grigaravičius](../objektai/asmenys/Mykolas%20Grigaravi%C4%8Dius)
+- [Mykolas Šulcas](../objektai/asmenys/Mykolas%20%C5%A0ulcas)
+- [Nadine Gordimer](../objektai/asmenys/Nadine%20Gordimer)
+- [Necelas](../objektai/asmenys/Necelas)
+- [Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)](../objektai/asmenys/Oskaras%20Vilhelmas%20Lautenbachas%20%28latvi%C5%B3%20kalbos%20lektorius%29)
+- [Ožechovskis](../objektai/asmenys/O%C5%BEechovskis)
+- [Pitėjas](../objektai/asmenys/Pit%C4%97jas)
+- [Pitėjas Masilietis](../objektai/asmenys/Pit%C4%97jas%20Masilietis)
+- [Plinijus](../objektai/asmenys/Plinijus)
+- [Plinijus Vyresnysis](../objektai/asmenys/Plinijus%20Vyresnysis)
+- [Pompomijus Mela](../objektai/asmenys/Pompomijus%20Mela)
+- [Pomponijus Mela](../objektai/asmenys/Pomponijus%20Mela)
+- [Povilas Juozapas Safaržykas](../objektai/asmenys/Povilas%20Juozapas%20Safar%C5%BEykas)
+- [Pranciškus Skorina](../objektai/asmenys/Pranci%C5%A1kus%20Skorina)
+- [Ptolemajas](../objektai/asmenys/Ptolemajas)
+- [Ptolemėjas](../objektai/asmenys/Ptolem%C4%97jas)
+- [Raskas](../objektai/asmenys/Raskas)
+- [Rasmusas Raskas](../objektai/asmenys/Rasmusas%20Raskas)
+- [Rotundas (Augustinas Milesijus Mieleskis)](../objektai/asmenys/Rotundas%20%28Augustinas%20Milesijus%20Mieleskis%29)
+- [Russdorfas](../objektai/asmenys/Russdorfas)
+- [Slėceris](../objektai/asmenys/Sl%C4%97ceris)
+- [Suroveckis](../objektai/asmenys/Suroveckis)
+- [Surovieckis](../objektai/asmenys/Surovieckis)
+- [Sydney Brenner](../objektai/asmenys/Sydney%20Brenner)
+- [Tacitas](../objektai/asmenys/Tacitas)
+- [Tadas Volianskis](../objektai/asmenys/Tadas%20Volianskis)
+- [Talis](../objektai/asmenys/Talis)
+- [Teofrastas](../objektai/asmenys/Teofrastas)
+- [Teokritas Scholastas](../objektai/asmenys/Teokritas%20Scholastas)
+- [Tšecieskis](../objektai/asmenys/T%C5%A1ecieskis)
+- [Uphagenas](../objektai/asmenys/Uphagenas)
+- [Volfgangas Lazius](../objektai/asmenys/Volfgangas%20Lazius)
+- [Vredė](../objektai/asmenys/Vred%C4%97)
+- [Vytautas Sirvydis](../objektai/asmenys/Vytautas%20Sirvydis)
+
+### Autoriai
+- [A. Becenbergeris](../objektai/autoriai/A.%20Becenbergeris)
+- [A. Plateris](../objektai/autoriai/A.%20Plateris)
+- [A. Vireliūnas](../objektai/autoriai/A.%20Vireli%C5%ABnas)
+- [A. Šidlauskas](../objektai/autoriai/A.%20%C5%A0idlauskas)
+- [Adrian Balbi](../objektai/autoriai/Adrian%20Balbi)
+- [Al''-Idrisi](../objektai/autoriai/Al%27-Idrisi)
+- [Aleksandras Humboltas](../objektai/autoriai/Aleksandras%20Humboltas)
+- [Alfonsas Eidintas](../objektai/autoriai/Alfonsas%20Eidintas)
+- [Alfredas Bumblauskas](../objektai/autoriai/Alfredas%20Bumblauskas)
+- [Alvydas Jokubaitis](../objektai/autoriai/Alvydas%20Jokubaitis)
+- [Andrius Volanas Volanus](../objektai/autoriai/Andrius%20Volanas%20Volanus)
+- [Antanas Buračas](../objektai/autoriai/Antanas%20Bura%C4%8Das)
+- [Antanas Kulakauskas](../objektai/autoriai/Antanas%20Kulakauskas)
+- [Archeologai ir priešistorės tyrėjai](../objektai/autoriai/Archeologai%20ir%20prie%C5%A1istor%C4%97s%20tyr%C4%97jai)
+- [Aristotelis](../objektai/autoriai/Aristotelis)
+- [Audronius Ažubalis](../objektai/autoriai/Audronius%20A%C5%BEubalis)
+- [Aug. Janulaitis](../objektai/autoriai/Aug.%20Janulaitis)
+- [August von Kotzebue](../objektai/autoriai/August%20von%20Kotzebue)
+- [Augustas fon Kocebus](../objektai/autoriai/Augustas%20fon%20Kocebus)
+- [Augustas Liudvikas fon Slėceris](../objektai/autoriai/Augustas%20Liudvikas%20fon%20Sl%C4%97ceris)
+- [Augustas Robertas Niemi](../objektai/autoriai/Augustas%20Robertas%20Niemi)
+- [B. Nerman](../objektai/autoriai/B.%20Nerman)
+- [Baranowski T](../objektai/autoriai/Baranowski%20T)
+- [Baturlinas](../objektai/autoriai/Baturlinas)
+- [Biufonas](../objektai/autoriai/Biufonas)
+- [Bleikas](../objektai/autoriai/Bleikas)
+- [Bochartas](../objektai/autoriai/Bochartas)
+- [Boetticher A](../objektai/autoriai/Boetticher%20A)
+- [Bonegartas](../objektai/autoriai/Bonegartas)
+- [Cz. Kudzinowski](../objektai/autoriai/Cz.%20Kudzinowski)
+- [D. Pochilevyč](../objektai/autoriai/D.%20Pochilevy%C4%8D)
+- [D. Poška](../objektai/autoriai/D.%20Po%C5%A1ka)
+- [Darius Baronas](../objektai/autoriai/Darius%20Baronas)
+- [Dionyzas iš Charakso](../objektai/autoriai/Dionyzas%20i%C5%A1%20Charakso)
+- [Diu Fresnas](../objektai/autoriai/Diu%20Fresnas)
+- [Dominykas Šybinskis](../objektai/autoriai/Dominykas%20%C5%A0ybinskis)
+- [Dominyko Gabrieliaus Šybinskio](../objektai/autoriai/Dominyko%20Gabrieliaus%20%C5%A0ybinskio)
+- [Dundulienė P](../objektai/autoriai/Dundulien%C4%97%20P)
+- [Dusburgas](../objektai/autoriai/Dusburgas)
+- [E. Radzvilovaitė](../objektai/autoriai/E.%20Radzvilovait%C4%97)
+- [Francua Žozefas Noelis](../objektai/autoriai/Francua%20%C5%BDozefas%20Noelis)
+- [Friderikas Aleksandras fon Humboltas](../objektai/autoriai/Friderikas%20Aleksandras%20fon%20Humboltas)
+- [Georgas (liet. Jurgis) Zauerveinas](../objektai/autoriai/Georgas%20%28liet.%20Jurgis%29%20Zauerveinas)
+- [Gimbutienė M](../objektai/autoriai/Gimbutien%C4%97%20M)
+- [Gintautas Sliesoriūnas](../objektai/autoriai/Gintautas%20Sliesori%C5%ABnas)
+- [Gotfrydas Ostermejeris](../objektai/autoriai/Gotfrydas%20Ostermejeris)
+- [Greimas A](../objektai/autoriai/Greimas%20A)
+- [Grigalius Kniaževičius](../objektai/autoriai/Grigalius%20Knia%C5%BEevi%C4%8Dius)
+- [Grigorijus Camblakas](../objektai/autoriai/Grigorijus%20Camblakas)
+- [H. Biezais](../objektai/autoriai/H.%20Biezais)
+- [H. Olszewski](../objektai/autoriai/H.%20Olszewski)
+- [Haackas](../objektai/autoriai/Haackas)
+- [Heningas Henning](../objektai/autoriai/Heningas%20Henning)
+- [Hevekeb, K](../objektai/autoriai/Hevekeb%2C%20K)
+- [Ignacas Danila vičius](../objektai/autoriai/Ignacas%20Danila%20vi%C4%8Dius)
+- [Ignacas Danilavičius Danilowicz](../objektai/autoriai/Ignacas%20Danilavi%C4%8Dius%20Danilowicz)
+- [Ignacas Onacevičius](../objektai/autoriai/Ignacas%20Onacevi%C4%8Dius)
+- [Ignotas Benediktas Rakoveckis](../objektai/autoriai/Ignotas%20Benediktas%20Rakoveckis)
+- [Isaac Taylor](../objektai/autoriai/Isaac%20Taylor)
+- [Istachris Abu Izaokas ai Farisi](../objektai/autoriai/Istachris%20Abu%20Izaokas%20ai%20Farisi)
+- [J. Poverskis](../objektai/autoriai/J.%20Poverskis)
+- [J. Puzinas](../objektai/autoriai/J.%20Puzinas)
+- [J. Stankus](../objektai/autoriai/J.%20Stankus)
+- [Joachimas Lelevelis (istorikas)](../objektai/autoriai/Joachimas%20Lelevelis%20%28istorikas%29)
+- [Johanas Foigtas](../objektai/autoriai/J.%20Foigtas)
+- [Jonas Basanavičius](../objektai/autoriai/Jonas%20Basanavi%C4%8Dius)
+- [Jonas Lasickis](../objektai/autoriai/J.%20Lasickis)
+- [Jornandesas](../objektai/autoriai/Jornandesas)
+- [Juozapas fon Hameris](../objektai/autoriai/Juozapas%20fon%20Hameris)
+- [K. Jablonskis](../objektai/autoriai/K.%20Jablonskis)
+- [K. Kantrimas](../objektai/autoriai/K.%20Kantrimas)
+- [Karolis Riteris](../objektai/autoriai/Karolis%20Riteris)
+- [Kazimieras Semenavičius](../objektai/autoriai/Kazimieras%20Semenavi%C4%8Dius)
+- [Klaprotas](../objektai/autoriai/Klaprotas)
+- [Klaudios Ptolemaios](../objektai/autoriai/Klaudios%20Ptolemaios)
+- [Konradas Hesneris](../objektai/autoriai/Konradas%20Hesneris)
+- [Konstantinas Jablonskis](../objektai/autoriai/Konstantinas%20Jablonskis)
+- [Kotzebue](../objektai/autoriai/Kotzebue)
+- [Kruzė](../objektai/autoriai/Kruz%C4%97)
+- [Ksaveras Bogušas (kunigas, XIX a.)](../objektai/autoriai/Ksaveras%20Bogu%C5%A1as)
+- [Lelevelis](../objektai/autoriai/Lelevelis)
+- [Lenkų istorikai ir Lietuvos istoriografijos tyrėjai](../objektai/autoriai/Lenk%C5%B3%20istorikai%20ir%20Lietuvos%20istoriografijos%20tyr%C4%97jai)
+- [Lietuvos istorikai ir socialinės istorijos tyrėjai](../objektai/autoriai/Lietuvos%20istorikai%20ir%20socialin%C4%97s%20istorijos%20tyr%C4%97jai)
+- [M. Gimbutienė](../objektai/autoriai/M.%20Gimbutien%C4%97)
+- [M. Michelbertas](../objektai/autoriai/M.%20Michelbertas)
+- [M. Tepenas](../objektai/autoriai/M.%20Tepenas)
+- [Maksimas Tirėjietis](../objektai/autoriai/Maksimas%20Tir%C4%97jietis)
+- [Mannhardt M](../objektai/autoriai/Mannhardt%20M)
+- [Martynas Smigleckis](../objektai/autoriai/Martynas%20Smigleckis)
+- [Mickevičius](../objektai/autoriai/Mickevi%C4%8Dius)
+- [Miechovita](../objektai/autoriai/Miechovita)
+- [Miechowita Miechovita](../objektai/autoriai/Miechowita%20Miechovita)
+- [Mikalojus Malinovskis](../objektai/autoriai/Mikalojus%20Malinovskis)
+- [Mindaugas Tamošaitis](../objektai/autoriai/Mindaugas%20Tamo%C5%A1aitis)
+- [Motiejus Valančius](../objektai/autoriai/Motiejus%20Valan%C4%8Dius)
+- [Mykolas Balinskis](../objektai/autoriai/Mykolas%20Balinskis)
+- [Nepokupnas A](../objektai/autoriai/Nepokupnas%20A)
+- [Ossoliński](../objektai/autoriai/Ossoli%C5%84ski)
+- [P. W. Koppebs](../objektai/autoriai/P.%20W.%20Koppebs)
+- [Petras Roizijus](../objektai/autoriai/Petras%20Roizijus)
+- [Pitėjas](../objektai/autoriai/Pit%C4%97jas)
+- [Plinijus](../objektai/autoriai/Plinijus)
+- [Pranciškus Malevskis](../objektai/autoriai/Pranci%C5%A1kus%20Malevskis)
+- [Pranciškus Skorina](../objektai/autoriai/Pranci%C5%A1kus%20Skorina)
+- [Ptolemėjas](../objektai/autoriai/Ptolem%C4%97jas)
+- [Raimundas Lopata](../objektai/autoriai/Raimundas%20Lopata)
+- [Robert Gordon Latham](../objektai/autoriai/Robert%20Gordon%20Latham)
+- [Rygiškių Jonas](../objektai/autoriai/Rygi%C5%A1ki%C5%B3%20Jonas)
+- [Rėza (leidėjas, 1818 m.)](../objektai/autoriai/R%C4%97za%20%28leid%C4%97jas%2C%201818%20m.%29)
+- [S. Daukantas](../objektai/autoriai/S.%20Daukantas)
+- [S. Matulaitytė](../objektai/autoriai/S.%20Matulaityt%C4%97)
+- [Schmalstieg W. R](../objektai/autoriai/Schmalstieg%20W.%20R)
+- [Tacitas (romėnų rašytojas, I amžiaus gale)](../objektai/autoriai/Tacitas%20%28rom%C4%97n%C5%B3%20ra%C5%A1ytojas%2C%20I%20am%C5%BEiaus%20gale%29)
+- [Talis](../objektai/autoriai/Talis)
+- [Teofrastas](../objektai/autoriai/Teofrastas)
+- [Thunmanas](../objektai/autoriai/Thunmanas)
+- [Tuulse A](../objektai/autoriai/Tuulse%20A)
+- [V. Daugudis](../objektai/autoriai/V.%20Daugudis)
+- [V. Essen](../objektai/autoriai/V.%20Essen)
+- [V. K. Jaśkiewicz](../objektai/autoriai/V.%20K.%20Ja%C5%9Bkiewicz)
+- [V. Pisani](../objektai/autoriai/V.%20Pisani)
+- [V. Trumpa](../objektai/autoriai/V.%20Trumpa)
+- [V. Urbanavičius](../objektai/autoriai/V.%20Urbanavi%C4%8Dius)
+- [Vaitkunskienė L](../objektai/autoriai/Vaitkunskien%C4%97%20L)
+- [Vilniaus Gaonas ben Saliamonas Zalmanas Elijas](../objektai/autoriai/Vilniaus%20Gaonas%20ben%20Saliamonas%20Zalmanas%20Elijas)
+- [Vincas Vyčinas](../objektai/autoriai/Vincas%20Vy%C4%8Dinas)
+- [Vredė](../objektai/autoriai/Vred%C4%97)
+- [W. Caland](../objektai/autoriai/W.%20Caland)
+- [W. Eckert](../objektai/autoriai/W.%20Eckert)
+- [W. Hubatsch](../objektai/autoriai/W.%20Hubatsch)
+- [W. Kamienieckis](../objektai/autoriai/W.%20Kamienieckis)
+- [W. Kętrzyński](../objektai/autoriai/W.%20K%C4%99trzy%C5%84ski)
+- [W. Manhardt](../objektai/autoriai/W.%20Manhardt)
+- [W. Schmidt](../objektai/autoriai/W.%20Schmidt)
+
+### Vietos
+- [Šv. Kazimiero bažnyčia](../objektai/vietos/%C5%A0v.%20Kazimiero%20ba%C5%BEny%C4%8Dia)
