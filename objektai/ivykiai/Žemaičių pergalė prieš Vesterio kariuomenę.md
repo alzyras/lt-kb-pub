@@ -1,0 +1,79 @@
+---
+tipas: ivykis
+pavadinimas: 'Žemaičių pergalė prieš Vesterio kariuomenę'
+saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Žemaičių pergalė prieš Vesterio kariuomenę
+
+## Santrauka
+
+Daukanto pasakojime žemaičiai puolė šarvuotus vokiečius, po atkaklios kovos privertė juos bėgti, o retas bėglys pasiekė Rygą.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-201305"></a>
+- t-001
+  global_id: t-201305
+  teiginys: "Daukanto pasakojime žemaičiai puolė šarvuotus vokiečius, po atkaklios kovos privertė juos bėgti, o retas bėglys pasiekė Rygą."
+  pagrindžia:
+    - c-184655
+
+## Citatos
+
+- id: c-184655
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 210"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
+  citata_originali: |
+    Vieni vokyčiai paliko be­
+    žibą rindoj savo plieno ir vario šarvose, vildamies,
+    jog žemaičiai, pamatę plienu žirgus ir pačius ap­
+    dengtus, nedrįs ant jų pulti, būdami patys viena
+    meškena prisidengę. Bet juo vokyčių eilos žibėjo,
+    juo žemaičiai narsesniai gulė, su kuriais susirėmus,
+    vienos ugnys nuo kardų ir ragotinių žiebavo, patys
+    kalavijonys brostviai it ąžuolai krito, kurie juo nar­
+    sesniai buvo ramdomi, juo kantresniai dar gynės
+    sau galą daromi; ant galo vokyčiai, apkrėtę savo
+    kūnais laukus, išguro, retas kurs beišsprūdo nuo
+    giltinės to baisaus nuopuolio žinią į Rygą parbo-
+    ginti.
+    Rygoj pilionys, išgirdę tą nuokrytį, nusiminė,
+    vieni raudojo, kiti meldės, o seni vaikams tvirtino,
+    jog niekados nereikia leisti netikėliams prieš neti­
+    kėlius kariauti, o reikiant su jais kariauti, geriaus
+    į Dievo valią atsiduoti ir su vienais perkrikštais te-
+    bendrautis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201305

@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Taurės'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Mūsų tautosaka, t.4 (1931)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'

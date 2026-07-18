@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Pitėjas'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -37,7 +38,7 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174102
 
 <a id="claim-t-191222"></a>
-- t-002
+- t-003
   global_id: t-191222
   teiginys: "Narbutas aiškino, kad lotyniškame Pitėjo vertime Aestuarium reiškė seklias, kartais apsemiamas vietas, tinkamas senovės Prūsijai apibūdinti."
   pagrindžia:
@@ -51,54 +52,67 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
     - c-174105
 
 <a id="claim-t-197793"></a>
-- t-003
+- t-005
   global_id: t-197793
   teiginys: "Apie Pitėją manoma, jog jis keliavęs du kartus: pir mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado Baltijos salą."
   pagrindžia:
     - c-174102
 
 <a id="claim-t-197794"></a>
-- t-005
+- t-006
   global_id: t-197794
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   pagrindžia:
     - c-174104
 
 <a id="claim-t-197795"></a>
-- t-006
+- t-007
   global_id: t-197795
   teiginys: "Argi tuo būdu negalima buvo patekti j Baltiją, Plinijaus vadinamą gintaringa sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už šiandienės."
   pagrindžia:
     - c-179343
 
+<a id="claim-t-201023"></a>
+- t-008
+  global_id: t-201023
+  teiginys: "Daukanto aptariamame pasakojime Pitėjas tą žemę vadina šventa, o Nemunas esą įkūrė pirmąją žinyčią Rusnėje."
+  pagrindžia:
+    - c-184373
+
+<a id="claim-t-191221"></a>
+- t-002
+  global_id: t-191221
+  teiginys: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
+  pagrindžia:
+    - c-174103
+
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos.'
+- c-002
+  santrauka: 'Narbutas pažymėjo, kad Pitėjas gutonus vadino germanų gentimi, o Tacitas šį pavadinimą laikė neseniai pradėtu vartoti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
   citata_originali: |
-    Kopija iš Karaliau­
-    čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
-    do, yra be pradžios ir pabaigos. Argi tuo būdu negalima
-    buvo patekti j Baltiją, Plinijaus vadinamą gintaringa
-    sala, kuri Pitėjo laikais, jei atsižvelgsime į Vitlandijos
-    ir Sambijos sausumos mažėjimo proporcijas, plytėjo maž­
-    daug tiek, kiek pastaroji buvo išsikišusi į jūrą toli už
-    šiandienės nerijos, be to, ir gintaro čia galėjo būti ne ma­
-    žiau kaip šiandien Sambijoje.
-    Laikui bėgant, čia marių vandenys visiškai pakeitė
-    pakrančių vaizdą, taip pat dėl smarkių jūros štormų ge­
-    rokai pakito ir vakarinė Sambijos pakrantė, nes anksčiau
-    ji plytėjo gerokai toliau į jūros pusę, ten, kur šiandien
-    nardo žuvys ir iš paslaptingų jūros gelmių išgaunama
-    labai daug gintaro, — ten seniau buvo daugelį mylių
-    besitęsianti sausuma.
+    Dažnai
+    jo, kaip venecijiečio Marko Polo, žinios apie Kiniją buvo
+    ilgai išjuokiamos, tačiau vėlesnis keliautojas Barovas, lydė­
+    jęs anglų pasiuntinį Makartnį, jo teiginius paverčia šlo­
+    vintais jėzuitų aprašymais. Pitėjas vadina gutonus ger­
+    manų gentimi, tuo tarpu Tacitas tikina, jog šis pavadi­
+    nimas pradėtas vartoti tik neseniai. Vadinasi, norint iš­
+    gelbėti Pitėją, reikia daryti prielaidą, jog šį pavadinimą
+    1 Reikia atkreipti dėmesį, jog pirklių pavydas ir valdžios politika
+    daugelį atradimų laikė paslaptyje. Tai tekste jau minėta.
+    325
+
+    ## Puslapis 336
+
+    Plinijus bus pridūręs1.
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Citatos
 
@@ -205,3 +219,35 @@ Narbutas nurodė nuomonę, kad Pitėjas keliavo du kartus: pirmą kartą į Brit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197795
+
+- id: c-184373
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
+  citata_originali: |
+    Nuo to gi gal lemti, jog ta pasaka galėjo bū­
+    ti pradžioj yna, bet paskui yra pertaisyta nuo kokio
+    noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj,
+    kaipogi daugioj vietoj pati pasaka sau prieštarauja,
+    bylodama, jog pirmąją žinyčią Rusnėj viešpats Bra-
+    tenis įkūręs ties ąžuolu, visuomet žaliuojančiu, savo
+    buveinę Rūmais pravardavęs ir kunigus įstatęs. Nes
+    jei Brutenis buvo jau viešpačiu ir tarnu dievų ir
+    visų vyriausiu valdymieru ūkės dar pirm Vitevudo,
+    kaip pati pasaka byloja, tai turėjo pirmesniai būti
+    žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus
+    pirm to jau godojo, ką ne vien Pitėjas, kurs tą žemę
+    šventa vadina, bet ir patys raštai Nemuno, kursai
+    būk pirmasis žinyčią Rusnėj įkūręs, aiškiai rodo.
+    Pats vardas upės Nemuno Niemon regimai yra len­
+    kiškas žodis, taip pat Romovė neženklina žinyčios,
+    kaip pasakoj skelbia, bet trobesį, kuriame viešpats
+    ir visų vyriausias valdymieras visos tautos gyvenęs,
+    kaipogi šiandien dar žemaičiai namus viešpaties ir
+    kunigaikščio rūmais vadina.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201023

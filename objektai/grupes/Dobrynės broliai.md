@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Dobrynės broliai'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -21,6 +22,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - kunigaikštis
   - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -91,6 +93,20 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginys: "Iki 1237 metų Konradas perdavė Drohičiną magistrui Henrikui ir jo vienuoliams, Dobrynės riteriams."
   pagrindžia:
     - c-175169
+
+<a id="claim-t-200916"></a>
+- t-008
+  global_id: t-200916
+  teiginys: "Dobrynės brolių susijungimas su kryžėjais jau buvo baigtas, o kryžėjai buvo pasisavinę Dobrynės pilį ir valsčius."
+  pagrindžia:
+    - c-184266
+
+<a id="claim-t-200917"></a>
+- t-009
+  global_id: t-200917
+  teiginys: "Daukanto aiškinimu, Sviatopelkas baiminosi kryžėjų, kalavijonų ir Dobrynės brolių sąjungos galios užkariauti jo kraštą."
+  pagrindžia:
+    - c-184267
 - susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58854|Kristaus kariai]]: Kristaus kariais vadinti Dobrynės broliai.
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 - susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60035|Julijus Cezaris (vyskupas)]]: Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.
@@ -267,3 +283,48 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192375
+
+- id: c-184266
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 286"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 286."
+  citata_originali: |
+    Bet ne taip veikiai nusibengė kerštai mozūrų
+    kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
+    vių Dobrynės su kryžėjais buvo jau nubengtas, ku­
+    rie buvo apsisavinę ne vien Dobrynės pilę, bet ir
+    visais valsčiais, Konradui gyniojant. Ne visai te­
+    vyko ir pačiam Vilhelmui tame daikte taikinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200916
+
+- id: c-184267
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 296"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 296."
+  citata_originali: |
+    Tuo tarpu kunigaikštis Pamario Sviatopelkas,
+    taikinėjęs ilgą laiką kryžėjams,' kaip minavo jau,
+    nuo šiol, regėdamas vieną dalį Lietuvos tautos nu­
+    vergta, rados abejotiniu, ailba dvigubiu, dėl kryžė-
+    jų ir nebnorėjo jų bestiprinti tolesniai. Užvis kry­
+    žeiviams susinėrus su kalavijonimis ir Dobrynės
+    brostviais rodės jam galinčiais, netikėlius nuveikus,
+    paties kraštą užkariauti; užvis dar didesniai krūpa­
+    vo, matydamas, jog vokyčiai, kurdamies į tą kraštą,
+    naikino tenai kalbą ir apsiėjimus senųjų gyventojų
+    ir į jų vietą savo dobę, kalbą ir būdą veisė ir pla­
+    tino, *todėl nebkentė jų ir nebnorėjo, idant kryžė-
+    jai tolimesnius kraštus lietuvių ir žemaičių tautos
+    užkariautų. Nuo to kėlės tuojau skaugės, barnės ir
+    kerštai tarp abejų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200917

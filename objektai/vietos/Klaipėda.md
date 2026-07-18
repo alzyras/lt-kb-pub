@@ -4,6 +4,7 @@ pavadinimas: 'Klaipėda'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -300,6 +301,13 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginys: "Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo."
   pagrindžia:
     - c-86468
+
+<a id="claim-t-201068"></a>
+- t-034
+  global_id: t-201068
+  teiginys: "Šalaujai išsiuntė Sareikį pas Klaipėdos komtūrą prašyti, kad šis atskubėtų ir palydėtų jį per priešišką kraštą."
+  pagrindžia:
+    - c-184418
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
@@ -1051,6 +1059,37 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184418
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 444"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 444."
+  citata_originali: |
+    Taip besirėdant, žiemą urėdas kryžėjų
+    su stipria kariauna įsigrūdo tenai ir nuo vieno pa­
+    šalio lig antro visą kraštą nuteriojo, noris Stene-
+    gaudis vijo jį įkandin su viena dalia kariaunos, nes
+    tuo tarpu antra dalis užslėptoji antpuolė meldžio-
+    nis staiga taip smarkiai, jog, daug didžiai savo ka­
+    rėj ų nustoję, turėjo jų urėdas su visa kariauna
+    mukti šalin nuo įbingusių šalaujų.
+    Paskui nestengdami šalau j ai nuveikti kryžėjų
+    išsiuntė siuntinį Sareikį pas Klaipėdos kamendotą,
+    lūgodami, idant jis veikiai atskubėtų ir per netikė­
+    lių kraštą jį palydėtų, sakydamos norįs tapti krikš­
+    čioniu su visa savo gimine. Kamendotas veikiai
+    nuskubėjo į pilį Sareikio, bet bekeliaujančiam prane­
+    šė jo draugas, jog Sareikis pasislėpęs tyko jį ant*
+    pulti; kamendotas ryžos tą pasalą kankinti ir, at­
+    vestas į tą vietą, kurioj Sareikis su savo kariauna
+    tykojo, antpuolė jį patį staiga, kurio kariauna nu­
+    sigandusi paskydo taip, jog kamendotas Klaipėdos
+    nutvėrė patį Stenegaudį su 8 jo tarnais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201068
 
 ## Ryšiai
 - Puolė Klaipėdą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]

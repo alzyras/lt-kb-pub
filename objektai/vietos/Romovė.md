@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Romovė'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -99,6 +100,13 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   teiginys: "Būtent provincijos vakaruose plytėjo didelė šventa giria, kurios viduryje buvo dievų šventovė Romovė; šis miškas ošė beveik nuo pat šiaurinės pakrantės galo net iki prie Aistmarių esančių pakrantės žemių."
   pagrindžia:
     - c-179396
+
+<a id="claim-t-201101"></a>
+- t-011
+  global_id: t-201101
+  teiginys: "Daukantas Romovę aiškino ne kaip žinyčią, o kaip valdovo rūmus, kuriuose gyvenęs visos tautos vyriausias valdymieras."
+  pagrindžia:
+    - c-184451
 - susijęs iš [[objektai/autoriai/Dusburgiečio kronikos perdirbinio autorius.md#claim-t-190384|Dusburgiečio kronikos perdirbinio autorius]]: Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasakojime krivį vadino „kilmingesniu iš jų“ ir praleido srities pavadinimą.
 - susijęs iš [[objektai/asmenys/Boleslovas Kreivaburnis.md#claim-t-190137|Boleslovas Kreivaburnis]]: Narbutas nurodo kronikininkų liudijimą, kad Boleslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti Romovės ąžuolą.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-190908|Kristijonas (vyskupas, XIII a.)]]: Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės.
@@ -154,6 +162,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
 - susijęs iš Prūsa: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
 - susijęs iš Prūsija: Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
 - susijęs iš Prūsija: Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.
+- susijęs iš Rusnė: Daukantas manė, kad pasaka apie pirmąją Rusnės žinyčią galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
 - susijęs iš Sambija: Narbutas nurodo Voigto veikalo puslapius, kuriuose pateikiami įrodymai, kad Romovė buvo Sambijoje.
 - susijęs iš Sipapilis: Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189106|Krivis Krewe Crive]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
@@ -427,5 +436,32 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   pagrindzia:
     - t-197918
 
+- id: c-184451
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 73"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 73."
+  citata_originali: |
+    Nes
+    jei Brutenis buvo jau viešpačiu ir tarnu dievų ir
+    visų vyriausiu valdymieru ūkės dar pirm Vitevudo,
+    kaip pati pasaka byloja, tai turėjo pirmesniai būti
+    žinyčia įkurta ir kunigai paskirti, kurie ūkės dievus
+    pirm to jau godojo, ką ne vien Pitėjas, kurs tą žemę
+    šventa vadina, bet ir patys raštai Nemuno, kursai
+    būk pirmasis žinyčią Rusnėj įkūręs, aiškiai rodo.
+    Pats vardas upės Nemuno Niemon regimai yra len­
+    kiškas žodis, taip pat Romovė neženklina žinyčios,
+    kaip pasakoj skelbia, bet trobesį, kuriame viešpats
+    ir visų vyriausias valdymieras visos tautos gyvenęs,
+    kaipogi šiandien dar žemaičiai namus viešpaties ir
+    kunigaikščio rūmais vadina. Visur rodo lietuvius it
+    1 V o i g t, Geschięh.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201101
+
 ## Ryšiai
-- Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]
+- Romovė priklausė [[objektai/vietos/Prūsija]]

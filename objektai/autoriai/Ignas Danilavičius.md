@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Ignas Danilavičius'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -71,6 +72,13 @@ media_all_json: |-
   teiginys: "Ignas Danilavičius turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kunigaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip žmoną."
   pagrindžia:
     - c-177057
+
+<a id="claim-t-200945"></a>
+- t-006
+  global_id: t-200945
+  teiginys: "Ignotas Danilavičius buvo radęs ir paskelbęs Lietuvos metraščio Supraslio nuorašą, kurį Daukantas mini vienintelį kartą tarp lietuviškų šaltinių."
+  pagrindžia:
+    - c-184295
 - susijęs iš [[objektai/zodynas/regestai.md#claim-t-28625|regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 - susijęs iš [[objektai/zodynas/regestas regestai.md#claim-t-28626|regestas regestai]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 ## Reikšmingi paminėjimai
@@ -205,3 +213,21 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194660
+
+- id: c-184295
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 5"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+  citata_originali: |
+    Lietuviškų šaltinių Daukantas tuomet žinojo ma­
+    žai. Vienintelį kartą jis mini Lietuvos metraščio Su-
+    praslio nuorašą, kurį neseniai buvo radęs ir paskel­
+    bęs Ignotas Danilavičius. Si publikacija buvo itin
+    svarbi, nes įrodė, kad Lietuva tikrai turėjo savo met­
+    raščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200945

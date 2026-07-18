@@ -4,6 +4,7 @@ pavadinimas: 'Prūsai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -17,9 +18,11 @@ datos:
   - '1265 m.'
   - '1274 m.'
   - '1326 m.'
+  - '1540 m.'
   - '1545 m.'
+  - '1572 m.'
 date_start: '1096'
-date_end: '1545'
+date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -603,12 +606,18 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   teiginys: "Šitokiais bei panašiais būdais [prūsai] jį ilgai viliojo į dvikovą, kol galop, nutykoję progą, nužudė."
   pagrindžia:
     - c-176931
+
+<a id="claim-t-201458"></a>
+- t-080
+  global_id: t-201458
+  teiginys: "Daukanto pasakojime dabartinių lietuvių ir žemaičių gyvenami kraštai gilioje senovėje vadinami prūsais, žemgaliais ir letvėžais."
+  pagrindžia:
+    - c-184808
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179086|Kryžiuočių ordinas]]: XIII a. į Prūsiją atsikėlęs Vokiečių ordinas pirmiausia pavergė prūsus.
 - susijęs iš [[objektai/asmenys/Utenis.md#claim-t-190993|Utenis]]: Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113900|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113923|Mindaugas (valdovas, XIII a.)]]: Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
-- susijęs iš [[objektai/asmenys/Utenis.md#claim-t-190126|Utenis]]: Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams.
 - susijęs iš [[objektai/autoriai/Prūsijos vyskupas Kristijonas.md#claim-t-190450|Prūsijos vyskupas Kristijonas]]: Narbutas spėjo, kad prūsų vėliavos runų užrašas buvo senovinis vertimas iš dingusios Prūsijos vyskupo Kristijono kronikos.
 - susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
 - susijęs iš Nadruva: Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva.
@@ -653,7 +662,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-188569|Kristijonas (vyskupas, XIII a.)]]: Narbutas sprendė, kad vyskupas Kristijonas žinojo apie krivio buvimą ir galėjo jį pažinti būdamas prūsų nelaisvėje.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-190909|Kristijonas (vyskupas, XIII a.)]]: Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi.
-- susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-191959|Kristijonas (vyskupas, XIII a.)]]: Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93427|Kristijonas (vyskupas, XIII a.)]]: Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93437|Kristijonas (vyskupas, XIII a.)]]: Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189970|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas lietuvių Žemininką ir prūsų Kurchų argumentuotai laikė tuo pačiu žemės dievu.
@@ -695,7 +703,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš [[objektai/asmenys/Slėceris.md#claim-t-191179|Slėceris]]: Slėceris prūsų ir slavų kalbas skelbė esant antro giminystės laipsnio.
 - susijęs iš [[objektai/asmenys/Sudimantas.md#claim-t-87582|Sudimantas]]: Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90031|Sventopelkas]]: Dusburgietis pasakoja, kad kitame epizode Sventopelkas su Samboru užstojo prūsams kelius ir prisidėjo prie jų triuškinimo.
-- susijęs iš [[objektai/asmenys/Utenis.md#claim-t-190126|Utenis]]: Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad vėliava priklausė Lietuvos kunigaikščiui Uteniui, padėjusiam prūsams.
 - susijęs iš [[objektai/asmenys/Utenis.md#claim-t-190993|Utenis]]: Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.
 - susijęs iš [[objektai/asmenys/Vaiselijus.md#claim-t-191481|Vaiselijus]]: Narbutas Vaiselijų mini tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją.
 - susijęs iš [[objektai/asmenys/Vincentas Kadlubekas.md#claim-t-191251|Vincentas Kadlubekas]]: Narbutas, cituodamas Kadlubeką, rašė, kad Maslavo kariuomenėje prieš lenkų karalių Kazimierą jotvingiai kovojo šalia mozūrų ir prūsų.
@@ -1398,7 +1405,6 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
 - susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192138|paminklai]]: Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius.
 - susijęs iš [[objektai/zodynas/paminklai.md#claim-t-192568|paminklai]]: Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
-- susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70376|vakariniai baltai]]: Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
@@ -3238,10 +3244,33 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindzia:
     - t-196919
 
+- id: c-184808
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 20-21"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 20-21."
+  citata_originali: |
+    Sigismuntas III Augustas 1540—1572.
+    7-oji dalis
+    Lietuvos iros
+
+    § I
+    Žinios grekonų apie lietuvių bei žemaičių tautą
+    Gilioj senovėj visi tie kraštai, kuriuose šiandien
+    gyvena lietuviai žemaičiai, vadinami prūsais, žem­
+    galiais, letvėžais, yra amžina nakčia nežinios apgob­
+    ti. Veltui spitrinės visų bukliausias dabotojas toj ak­
+    loj* tamsybėj, geisdamas tenai bent vardą lietuvių
+    bei žemaičių rasti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201458
+
 ## Ryšiai
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Rėmė Prūsai: [[objektai/asmenys/Utenis]]
 - Prūsai valdė [[objektai/vietos/Kulmas]]
 - Prūsai puolė [[objektai/asmenys/Adalbertas]]
-- Prūsai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]]
-- Prūsai priklausė [[objektai/grupes/Baltai]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Prūsai kariavo prieš [[objektai/grupes/Lenkai]]
+- Prūsai priklausė [[objektai/grupes/Baltai]]

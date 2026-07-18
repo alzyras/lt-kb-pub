@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Vulfstanas (jūrininkas, IX amžius)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -89,6 +90,13 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   teiginys: "Apie juos jau rašė keliautojas Vulfstanas; jų karta išliko ligi šiol."
   pagrindžia:
     - c-174793
+
+<a id="claim-t-200948"></a>
+- t-009
+  global_id: t-200948
+  teiginys: "Daukantas Vulfstaną vaizdavo kaip Alfredo, anglų valdovo, į Žemaičius prekybos žinių rinkti išsiųstą jūreivį."
+  pagrindžia:
+    - c-184298
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -257,3 +265,28 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   pagrindzia:
     - t-191911
     - t-197659
+
+- id: c-184298
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 48"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  citata_originali: |
+    Pereidamas skaitytojas tas dabar minavotas šiau­
+    rės pasakas, noris maž ką teranda tenai apie Lietu­
+    vos tautą ir jos kraštą iki 9 amžiaus, bet galan to
+    amžiaus kelias vėl vyras, kurio raštai aiškiai jau ro­
+    do ne vien kraštus Lietuvos tautos, bet jos būdą,
+    dobę ir apsiėjimus, su visu pavėdžius į viršiaus gre-
+    konų ir rymionų minavotus*.
+    Buklus jūreivis Vulfstanas, išsiųstas Alfredo, di­
+    džiojo anglų viešpaties, arba karaliaus, į Žemaičius
+    prekybos teirautis, nuo kur grįždamas tokias žinias
+    būk pargabenęs.
+    Vulfstanas keliavęs jūra pagal nuo Hedaby, pre­
+    kyba pagirto Šlezvigo miesto, į įtaką Yslos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200948

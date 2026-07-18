@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -40,7 +41,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą. H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
+kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
 ## Teiginiai
 
@@ -162,6 +163,20 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
   teiginys: "Nugalėjęs ir apmalšinęs Rusią, Gedi minas Kernavėje atšventė 1321 m e ta i pergalę: tėvų papročiu pa gerbęs dievus, paleido ka riuomenę sumokėjęs atlyginimą ir apdovanojęs dova nomis."
   pagrindžia:
     - c-178846
+
+<a id="claim-t-201064"></a>
+- t-018
+  global_id: t-201064
+  teiginys: "Daukantas mini, kad netoli Kernavės, vadintos senąja lietuvių buveine, žmonės dar neseniai darę senovės atminimo apeigas."
+  pagrindžia:
+    - c-184414
+
+<a id="claim-t-201065"></a>
+- t-019
+  global_id: t-201065
+  teiginys: "Gediminas, pasak Daukanto, perkėlė buveinę iš Kernavės į Vilnių, kurį papuošė ir apjuosė mūrais bei pylimais."
+  pagrindžia:
+    - c-184415
 - susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
 - susijęs iš Lietuva: Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.
 - susijęs iš Lenkija: Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.
@@ -169,19 +184,23 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
+- susijęs iš [[objektai/asmenys/Erdvilas.md#claim-t-200983|Erdvilas]]: Daukantas Erdvilą vaizduoja kaip Žemaičių kunigaikštį, kuris Kernavėje delsė atsakyti totorių siuntiniams, kol telkė karius karui.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
 - susijęs iš [[objektai/asmenys/Kernius.md#claim-t-188564|Kernius]]: Narbutas Kernių vaizduoja kaip Vidurio, arba Užnerio, Lietuvos kunigaikštį, kurio sostinė buvo Kernavė.
 - susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178817|Kryžiuočių ordinas]]: Lietuvių pasipriešinimas neatbaidė kryžiuočių nuo kasmetinių žygių iki Vilniaus, o 1384 m. jų antpuoliai siekė Kernavę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178834|Kryžiuočių ordinas]]: Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
 - susijęs iš [[objektai/grupes/Vytauto šalininkai.md#claim-t-86739|Vytauto šalininkai]]: Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.
+- susijęs iš [[objektai/ivykiai/Braslavo mūšis.md#claim-t-201315|Braslavo mūšis (mūšis)]]: Braslavo lygumose, Daukanto pasakojimu, Lietuvos tėvūnai Kernavėje ir žemaičių vyresnieji apsupo gudus, nukovė 9000 karių, o Vseslavičiai vos gyvi paspruko.
 - susijęs iš [[objektai/ivykiai/Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.).md#claim-t-185701|Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)]]: 1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę.
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/ivykiai/Kernavės sunaikinimas prieš Trakų pilies pastatymą.md#claim-t-189630|Kernavės sunaikinimas prieš Trakų pilies pastatymą]]: Narbutas siejo Trakų pilies statybą su XI a. rusinų žygiais į Lietuvą ir visišku Kernavės sunaikinimu.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Narimanto išrinkimas valdovu.md#claim-t-185713|Kernavės susirinkimas ir Narimanto išrinkimas valdovu]]: Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
+- susijęs iš [[objektai/ivykiai/Kerniaus žygis į Juodgirėnus ir Polocką.md#claim-t-201324|Kerniaus žygis į Juodgirėnus ir Polocką]]: Kernius ir Gimbutas, pasak Daukanto, žygiavo į Juodgirėnus, nuniokojo Polocko apygardas, bet laužtis į Polocko pilį liovėsi ir su grobiu grįžo į Kernavę.
 - susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-55149|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: 1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.
+- susijęs iš [[objektai/ivykiai/Žibunto žygis į Mozūriją ir Kulmiją.md#claim-t-201354|Žibunto žygis į Mozūriją ir Kulmiją]]: Daukanto pasakojime lietuvių kunigaikštis Žibuntas nusiaubė Kulmiją, sugriovė ir sudegino 250 bažnyčių, o su grobiu grįžo į Kernavę.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86880|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.
 - susijęs iš Dobrynė: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
 - susijęs iš Kernavos kunigaikštija: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes Kernavos kunigaikštija buvo maža.
@@ -197,7 +216,7 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - susijęs iš Vilniaus tiltas per Viliją: Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-200988|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Daukanto pasakojime medžiodamas Paneriuose Gediminas, kaip pasakojama, ant Tauro kalno vylyčia nuvėrė taurą.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-188600|Pajauta]]: Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.
 - susijęs iš [[objektai/asmenys/Survila.md#claim-t-82731|Survila]]: 1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.
@@ -224,11 +243,13 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
 - susijęs iš Maišiagala: Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.
 - susijęs iš Paneriai: Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Paneriai: Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
+- susijęs iš Tauro kalnas: Daukanto pasakojime Gediminas, medžiodamas Paneriuose, esą pats vylyčia nuvėrė taurą ant Tauro kalno.
 - susijęs iš Ukmergės sritis: Narbutas Zivinbudą vadino Dausprungų giminės Ukmergės srities kunigaikščiu, vedusiu Kerniaus dukterį Pajautą.
 - susijęs iš Verkiai: Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.
 - susijęs iš Verkiai: Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.
 - susijęs iš Vilijos upė: Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.
 - susijęs iš Vilnius: 1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.
+- susijęs iš Vilnius: Gediminas perkėlė buveinę iš Kernavės į Vilnių, papuošė miestą ir apjuosė jį mūrais bei pylimais.
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/kunigaikštija.md#claim-t-36803|kunigaikštija]]: Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.
 - susijęs iš [[objektai/zodynas/plaustai.md#claim-t-86608|plaustai]]: Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.
@@ -641,6 +662,48 @@ Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196693
+
+- id: c-184414
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 106"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 106."
+  citata_originali: |
+    Taip pat akmenys,
+    ant kurių apieras javų ar žuvių dievams degino,
+    buvo šventais vadinami. Sako dar, jog netoli nuo
+    Kernavės, senosios lietuvių buveinės, žmonys ne­
+    seniai dar tokius atminimus senovės darę.
+    Buvo dar taip pat lieknai ir girios šventomis va­
+    dinamos, į kurias patys kunigai ir žmonės, galą da­
+    romi arba apžadus pildydami, tegalėjo įžengti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201064
+
+- id: c-184415
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 578"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 578."
+  citata_originali: |
+    Bet Gediminas ne vien baisiomis karėmis nepriete­
+    lius savo giminės draudė, nes ir pačia ūke rūpinos
+    ir apie jos reikalus ir laimą trūsinėjo. Trakų vieto­
+    vę, savo gimtuvę, praplatino, perkėlė buveinę iš
+    Kernavės į Vilnių ir, turtingai jį papuošęs, mūrais
+    ir pylomis aprietė1.
+    Pasakoja, jog Gediminas, kitu kartu medžioda­
+    mas Paneriuose, ant visų aukštojo kalno, Tauro kal­
+    nu vadinamo, o šiandien Pilies kalnu, patsai vyly-
+    čia taurį būk nuvėręs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201065
 
 ## Ryšiai
 - Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

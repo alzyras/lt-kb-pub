@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -520,6 +521,48 @@ media_all_json: |-
   pagrindžia:
     - c-181561
 
+<a id="claim-t-200933"></a>
+- t-063
+  global_id: t-200933
+  teiginys: "Daukantas vaizduoja lietuvius žemaičius tuo pat metu ginančius laisvę tarp Vyslos ir Prūsijos bei kruvinai kariaujančius su gudais ir vokiečiais Žemaičiuose bei Kalne."
+  pagrindžia:
+    - c-184283
+
+<a id="claim-t-200934"></a>
+- t-064
+  global_id: t-200934
+  teiginys: "Daukanto pasakojime Otokaras su kryžėjais kariavo prieš samionis ir kitus žemaičius tarp Pragaro ir Nemuno, o kalavijuočiai per Žemgalius veržėsi į Žemaičius."
+  pagrindžia:
+    - c-184284
+
+<a id="claim-t-200935"></a>
+- t-065
+  global_id: t-200935
+  teiginys: "Po mūšio kuržemiai atėjo į prie Sintelės, arba Santeklės, pilies įsikūrusią žemaičių stovyklą prašyti pagalbos ir žadėjo kartu kariauti prieš vokiečius."
+  pagrindžia:
+    - c-184285
+
+<a id="claim-t-200936"></a>
+- t-056
+  global_id: t-200936
+  teiginys: "Daukanto pasakojime žemaičiai, norėdami atkeršyti kalavijuočiams, surinko kariauną ir patraukė į Rygą."
+  pagrindžia:
+    - c-184286
+
+<a id="claim-t-201460"></a>
+- t-067
+  global_id: t-201460
+  teiginys: "Daukanto pasakojime lietuviams ir žemaičiams teko vienu metu siųsti kariuomenes į rytus, pietus, vakarus ir šiaurę, nes iš visų pusių į jų kraštą veržėsi gudai, lenkai, mozūrai, žuvėdai ir vokiečiai."
+  pagrindžia:
+    - c-184810
+
+<a id="claim-t-201461"></a>
+- t-068
+  global_id: t-201461
+  teiginys: "Daukanto pasakojime po pergalės žemaičiai nusiaubė Žemgaliją, žudė ir naikino sutiktuosius, prisiplėšė grobio ir grįžo namo, o giriose tykoję žemgaliai pasaloje nužudė dalį grįžtančių žemaičių."
+  pagrindžia:
+    - c-184811
+
 <a id="claim-t-199153"></a>
 - t-062
   global_id: t-199153
@@ -582,26 +625,34 @@ media_all_json: |-
   teiginys: 'Yra padavimas, jog Žemaičiuose buvę septynios deivės par kos.'
   pagrindžia:
     - c-181596
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201186|perkrikštas (sąvoka)]]: Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje miške užpuolė per girią žygiavusius žemaičius ir privertė juos trauktis.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-184372|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Dlugošas.md#claim-t-30223|Dlugošas]]: Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51026|Jadvyga (Jogailos duktė)]]: Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184433|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184440|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
+- susijęs iš [[objektai/asmenys/Neronas.md#claim-t-201017|Neronas]]: Daukantas Neroną vadina Romos viešpačiu ir rašo, kad jis pasiuntė savo eržilą į Žemaičių žemę pirkti gintaro.
+- susijęs iš [[objektai/asmenys/Svelgotė (kunigaikštis, XX a.).md#claim-t-201403|Svelgotė (kunigaikštis, XX a.)]]: Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
 - susijęs iš [[objektai/asmenys/Vydimantas.md#claim-t-35338|Vydimantas]]: Vydimantas buvo žinomas Žemaičių bajoras, kurio dukterį Birutę vedė Kęstutis.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-188449|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.
 - susijęs iš [[objektai/daiktai/Kalvė.md#claim-t-08291|Kalvė]]: Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.
 - susijęs iš [[objektai/daiktai/Kūlgrindos.md#claim-t-06735|Kūlgrindos]]: Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.
+- susijęs iš [[objektai/grupes/Ezelionys (grupė).md#claim-t-201246|Ezelionys (grupė)]]: Daukanto pasakojime ezelionys, išgirdę apie žemaičių sėkmingus karus, atsimetė nuo krikščionybės ir prašė žemaičių pagalbos prieš vokiečius.
 - susijęs iš [[objektai/grupes/Giruliai.md#claim-t-07834|Giruliai]]: Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus.
 - susijęs iš [[objektai/grupes/Kalnėnai.md#claim-t-65270|Kalnėnai]]: Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178862|Kryžiuočių ordinas]]: Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184492|Kryžiuočių ordinas]]: Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184493|Kryžiuočių ordinas]]: Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.
+- susijęs iš [[objektai/grupes/Lietuviai ir žemaičiai.md#claim-t-201232|Lietuviai ir žemaičiai]]: Daukantas rašo, kad lietuviai ir žemaičiai gaivinančią galybę vadino Perkūnu arba Perūnu ir laikė ją regimojo bei neregimojo pasaulio pradžia.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.
 - susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66402|Žuvėdai]]: Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66423|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasarį Jogaila vienas sudarė paliaubas su Livonijos ordinu, iš jų išskirdamas Žemaičius ir kitas Kęstučio žemes.
 - susijęs iš [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu.md#claim-t-66424|1380 m. vasario paliaubos su Livonijos ordinu]]: 1380 m. vasario paliaubos su Livonijos ordinu neapėmė Žemaičių ir kitų Kęstučio žemių, todėl Ordinas galėjo jas pulti.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Brandenburgiją.md#claim-t-201276|Algirdo žygis į Brandenburgiją]]: 1327 m. Algirdas, Daukanto pasakojimu, buvo paskirtas lietuvių ir žemaičių karvedžiu, žygiavo į Brandenburgiją ir sustojo ties Frankfurtu.
+- susijęs iš [[objektai/ivykiai/Kalėdų žygis į Turaidą ir Ašradės mūšis.md#claim-t-201285|Kalėdų žygis į Turaidą ir Ašradės mūšis (mūšis)]]: Prieš Kalėdas Turaidos apygardos ūkininkai, kaip aprašo Daukantas, pasitelkę latvius ir žemaičius, perėjo Dauguvą, atėjo į Turaidą ir puolė kaimus.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.).md#claim-t-185742|Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]: Lietuviai ir žemaičiai įsiveržė į menkai saugomą Prūsiją, beveik visą kraštą nusiaubė ir pavertė pelenais.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir žemaičių žygis į Pleskavą.md#claim-t-201329|Lietuvių ir žemaičių žygis į Pleskavą]]: Daukanto pasakojime lietuviai ir žemaičiai, pasitelkę Polocko kunigaikštį, puolė Pleskavo apygardas, sudegino Velikije Lūki priemiesčius ir grįžo su grobiu.
 - susijęs iš [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.).md#claim-t-95972|Ordino išvijimas iš Žemaičių krašto (1401 m.)]]: 1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus.
 - susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas.md#claim-t-77906|Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]: 1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje.
@@ -614,14 +665,19 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186613|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas priėmė žemaičius savo globon po jų pasiuntinių prašymo valdyti Žemaičius.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186614|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis vaizduoja Prūsijos ir Livonijos vokiečius telkus kariuomenę Palangoje, o žemaičius nuo kopų akmenimis ją išmušus.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
+- susijęs iš [[objektai/ivykiai/Žemaičių pergalė prieš Vesterio kariuomenę.md#claim-t-201305|Žemaičių pergalė prieš Vesterio kariuomenę]]: Daukanto pasakojime žemaičiai puolė šarvuotus vokiečius, po atkaklios kovos privertė juos bėgti, o retas bėglys pasiekė Rygą.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune.md#claim-t-186629|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]: Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
 - susijęs iš [[objektai/paprociai/Aisčių medžių ir girių garbinimas.md#claim-t-07763|Aisčių medžių ir girių garbinimas]]: Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.
 - susijęs iš [[objektai/paprociai/Aisčių medžių ir girių garbinimas.md#claim-t-07764|Aisčių medžių ir girių garbinimas]]: Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.
 - susijęs iš [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų.md#claim-t-67117|Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]: Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.
+- susijęs iš [[objektai/paprociai/Senovės lietuvių ir žemaičių laisvas bendruomeninis gyvenimo būdas.md#claim-t-201379|Senovės lietuvių ir žemaičių laisvas bendruomeninis gyvenimo būdas]]: Daukantas senovės lietuvių ir žemaičių gyvenimą vaizduoja kaip laisvą bendruomenę be lažo, pavynasčių ir baudžiavų.
 - susijęs iš [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos.md#claim-t-07813|Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]: Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67243|Įkaitų davimas kaip sutarties garantija (sutartis)]]: 1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.
 - susijęs iš [[objektai/paprociai/Šventųjų paukščių laikymas namuose.md#claim-t-67248|Šventųjų paukščių laikymas namuose]]: Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos.
+- susijęs iš [[objektai/paprociai/Žemaičių laidotuvių papročiai.md#claim-t-201374|Žemaičių laidotuvių papročiai]]: Daukantas perpasakoja, kad Žemaičiuose buvęs paprotys deginti visus lavonus, o nedeginto numirėlio atveju bausti tuos, kurie turėjo jį sudeginti.
+- susijęs iš [[objektai/paprociai/Žemaičių lavonų deginimas ir šaldymas.md#claim-t-201392|Žemaičių lavonų deginimas ir šaldymas]]: Daukantas perpasakoja, kad Žemaičiuose lavonai buvę deginami, o jų ilgą negedimą aiškina žemaičiams priskirtu mokėjimu užšaldyti alų ar vandenį.
+- susijęs iš [[objektai/paprociai/Žemaičių lavonų užšaldymas.md#claim-t-201393|Žemaičių lavonų užšaldymas]]: Daukantas perpasakoja, kad žemaičiai mokėję užšaldyti alų ar vandenį, todėl jų lavonai ilgai laikyti negedę.
 - susijęs iš [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui.md#claim-t-11635|Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]: 1384 m. vasario pradžioje Žemaičių krašto Medininkų, Vangių ir kitų vietų gyventojai pareiškė Ordinui savo paklusnumą; tai buvo pirmas savarankiškas jų mėginimas pasiduoti naujai jėgai.
 - susijęs iš [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui.md#claim-t-11636|Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]: 1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto vietų gyventojai pareiškė paklusnumą Ordinui.
 - susijęs iš [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis.md#claim-t-05373|Žemaičių savivalda ir seniūno rinkimasis]]: Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.
@@ -632,6 +688,7 @@ media_all_json: |-
 - susijęs iš 1380 m. vasario mėnesio paliaubos su Livonijos ordinu: 1380 m. vasarį sudarytos paliaubos su Livonijos ordinu neapėmė Žemaičių ir kitų Kęstučio žemių.
 - susijęs iš Eilėtoji Livonijos kronika: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 - susijęs iš Livonijos kronika: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
+- susijęs iš Vulfstanas (šaltinis): Daukanto vertinimu, Vulfstano pasakojimą apie žemaičius patvirtina vėlesni Lietuvos tautos rašytojai.
 - susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
 - susijęs iš Jurbarkas: 1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.
 - susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
@@ -650,13 +707,23 @@ media_all_json: |-
 - susijęs iš Žemaitija: Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui dažnai mokėdavo duoklę arkliais.
 - susijęs iš Žemaičių aukštuma: Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės.
 - susijęs iš Žemaičių seniūnija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
+- susijęs iš [[objektai/zodynas/mistras (sąvoka).md#claim-t-201199|mistras (sąvoka)]]: Daukanto pasakojime kalavijonų mistras Andriejus Vestfalenas, siekdamas atkeršyti žemaičiams už ankstesnį pralaimėjimą, surengė žygį, tačiau žemaičiai jį, 20 brolių ir daug karių nukovė stovykloje.
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201186|perkrikštas (sąvoka)]]: Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje miške užpuolė per girią žygiavusius žemaičius ir privertė juos trauktis.
+- susijęs iš [[objektai/zodynas/Žinyčia (sąvoka).md#claim-t-201213|Žinyčia (sąvoka)]]: Daukantas žinyčiomis vadina vietas, kuriose senieji lietuviai ir žemaičiai teiravosi, kaip spręsti svarbius namų ir ūkės reikalus.
 - susijęs iš [[objektai/asmenys/Andrius fon Vestfalenas.md#claim-t-186179|Andrius fon Vestfalenas]]: Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176315|Birutė]]: Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
 - susijęs iš [[objektai/asmenys/Henrikas (kryžiuočių magistras).md#claim-t-186002|Henrikas (kryžiuočių magistras)]]: Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.
+- susijęs iš [[objektai/asmenys/Jevstafijus (kunigaikštis, XIV a.).md#claim-t-201409|Jevstafijus (kunigaikštis, XIV a.)]]: Naugardžionių rėdytojas Jevstafijus, Daukanto pasakojimu, viešai pavadino didįjį Lietuvos kunigaikštį Algirdą šuniu.
 - susijęs iš [[objektai/asmenys/Kantautas.md#claim-t-186123|Kantautas]]: Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
+- susijęs iš [[objektai/asmenys/Neronas.md#claim-t-194918|Neronas]]: Neronas sugrįžo į Romą.
+- susijęs iš [[objektai/asmenys/Neronas.md#claim-t-197779|Neronas]]: 2 Vidit enim eques Romanus missus ad id compar atidų m a Ju liana curante gladiatorium mumis Neronis principis, qui haec commercis (prekybos kelio pozicijos) ei littora peragravit, tanta copia investa, ut retta arcendis feris podium protegentia succinis.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176611|Sofija (Vytauto duktė)]]: Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176613|Sofija (Vytauto duktė)]]: Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-190213|Sviatopelkas]]: Narbutas rašo, kad 1247 metais Pamario kunigaikštis Sviatopelkas rėmė kitų Prūsijos provincijų gyventojų kovas su kryžiuočiais.
+- susijęs iš [[objektai/asmenys/Sviatopelkas.md#claim-t-201030|Sviatopelkas]]: Daukanto teigimu, lietuviai, siekdami įveikti vokiečių kryžiuočius, pasirinko Sviatopelką savo karvedžiu.
+- susijęs iš [[objektai/asmenys/Vilhelmas v. Sabinų.md#claim-t-201425|Vilhelmas v. Sabinų]]: Daukantas pasakoja, kad popiežiaus siuntinys Vilhelmas Sabinietis įsakė kryžėjams versti perkrikštus žygiuoti į karus ir dirbti pilių statyboje.
+- susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-201046|Vilhelmas]]: Daukantas pasakoja, kad popiežiaus siuntinys Vilhelmas Sabinietis įsakė kryžėjams versti perkrikštus žygiuoti į karus ir dirbti pilių statyboje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05210|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žemaičiai į Lietuvos valstybę labiau buvo įjungti Vytauto laikais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176664|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187942|Adomas Stanislovas Naruševičius]]: Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz.
@@ -671,25 +738,40 @@ media_all_json: |-
 - susijęs iš [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena.md#claim-t-87031|Memelio kryžiuočių pilis, apjuosta siena]]: Per žemaičių antpuolį Memelyje kryžiuočių pilis išliko sveika, nors miestas buvo sudegintas.
 - susijęs iš [[objektai/daiktai/Namas.md#claim-t-08308|Namas]]: Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
 - susijęs iš [[objektai/daiktai/Nuometai.md#claim-t-08311|Nuometai]]: Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.
+- susijęs iš [[objektai/daiktai/Ragotinė.md#claim-t-64983|Ragotinė]]: Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą.
 - susijęs iš [[objektai/daiktai/Rogas.md#claim-t-08323|Rogas]]: Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.
+- susijęs iš [[objektai/daiktai/Vylyčia (daiktas).md#claim-t-201358|Vylyčia (daiktas)]]: Daukanto pasakojime vylyčia pervėrė Gedimino petį, kai jis skynėsi kelią per priešininkų rikiuotes.
 - susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-08361|Ūkės lazda]]: Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172072|Anglai]]: Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
+- susijęs iš [[objektai/grupes/Getai.md#claim-t-200920|Getai]]: Daukantas getais vadina skitus, gyvenusius šiapus Dunojaus, o toliau į šiaurę skiria tyragetus ir masagetus.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 - susijęs iš [[objektai/grupes/Kalnėnai.md#claim-t-65268|Kalnėnai]]: Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178813|Kryžiuočių ordinas]]: Vytautas, siekdamas suardyti Lenkijos ir Ordino sąjungą, apskundė Ordiną Europai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179105|Kryžiuočių ordinas]]: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184544|Lietuviai]]: Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.
+- susijęs iš [[objektai/grupes/Naugardžionys (grupė).md#claim-t-201239|Naugardžionys (grupė)]]: Daukantas rašo, kad naugardžionių valdytojas Jevstafijus Algirdą akivaizdoje išvadino šuniu, o Algirdas po to traukė į Naugardo valdybą.
 - susijęs iš [[objektai/grupes/Normanai.md#claim-t-86723|Normanai]]: Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188351|Slavai]]: Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.
+- susijęs iš [[objektai/grupes/Tyragetai (grupė).md#claim-t-201255|Tyragetai (grupė)]]: Daukanto pasakojime tyragetai aiškinami kaip tyrų gyventojai į šiaurę nuo getų, o jų kraštas siejamas su pietine Padalija ir Ukraina iki Juodosios jūros.
 - susijęs iš [[objektai/ivykiai/1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją.md#claim-t-189605|1910 m. A. Briuknerio enciklopedinis straipsnis apie lietuvių mitologiją]]: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas vadintas „įžymiuoju falsifikatoriumi“.
 - susijęs iš [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.).md#claim-t-184337|Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]: Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
 - susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185559|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.
 - susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185589|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavėje sukviestame susirinkime susirinko daug diduomenės, o lietuviai rėmė Vaišvilko išrinkimą valdovu.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185721|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir mozūrų karas.md#claim-t-201291|Lietuvių ir mozūrų karas]]: Daukanto pasakojime nuversto kunigaikščio brolis su karių būriu įsiveržė į Parusnį, sudegino valdovą ir kunigus, nusiaubė kraštą bei grįžo su dideliu grobiu.
+- susijęs iš [[objektai/ivykiai/Mantvilos žygis į Baltuosius Gudus.md#claim-t-201331|Mantvilos žygis į Baltuosius Gudus]]: Daukanto vadinamas Žemaičių kunigaikščiu Mantvila su žemaičių ir lietuvių kariais, persikėlusiais per patvinusią Daugavą, netikėtai puolė gudus, sugriovė Lotavės pilį ir grįžo su grobiu.
+- susijęs iš [[objektai/ivykiai/Marienverderio pilies apgultis.md#claim-t-201332|Marienverderio pilies apgultis]]: Daukanto pasakojime Belichovo karvedys, nusiaubęs Kulmiją ir išblaškęs prieš jį žygiavusią Elbingo įgulę, vėl apgulė kryžėjų atkurtą Marienverderio pilį.
+- susijęs iš [[objektai/ivykiai/Mėnesienos mūšis ir Šindekopo žūtis.md#claim-t-201335|Mėnesienos mūšis ir Šindekopo žūtis (mūšis)]]: Daukanto pasakojime Kęstutis mėnesienoje atsigręžė prieš kryžėjus, o Vaišvilius sužeidė maršalką Šindekopą taip, kad šis nukrito nuo žirgo.
+- susijęs iš [[objektai/ivykiai/Mūšis ant Daugavos skardžių.md#claim-t-201296|Mūšis ant Daugavos skardžių (mūšis, XII a.)]]: Daukanto pasakojime po karvedžio netekties gudai traukėsi, o lietuvių vyresnieji jų bėglius sugrūdo į Daugavos verpetus.
+- susijęs iš [[objektai/ivykiai/Mūšis ant Daugavos su Iziaslavu.md#claim-t-201336|Mūšis ant Daugavos su Iziaslavu (mūšis)]]: Daukantas pasakoja, kad lietuviai ir žemaičiai susigrūmė su Iziaslavo vedamais gudais ant Daugavos skardžių.
+- susijęs iš [[objektai/ivykiai/Mūšis ties Usviete.md#claim-t-201488|Mūšis ties Usviete (mūšis, XIII a.)]]: Daukantas pasakoja, kad 1225 m. Jaroslavas, pasitelkęs kunigaikščius Dovydą ir Vladimirą, ties Usviete susirėmė su grįžtančiais lietuviais; mūšyje, kaip teigiama, žuvo Dovydas ir 2 000 lietuvių raitelių.
+- susijęs iš [[objektai/ivykiai/Mūšis ties upe Usviete.md#claim-t-201487|Mūšis ties upe Usviete (mūšis, XIII a.)]]: Daukanto pasakojime kunigaikštis Jaroslavas, pasitelkęs Toropeco kunigaikštį Dovydą ir Pskovo kunigaikštį Vladimirą, ties Usvietės upe per pirmąją gavėnios savaitę susirėmė su grįžtančiais lietuviais.
+- susijęs iš [[objektai/ivykiai/Vienerių metų paliaubos su kryžėjais.md#claim-t-201349|Vienerių metų paliaubos su kryžėjais]]: Daukantas spėja, kad apie 1312 m. lietuviai ir žemaičiai po kryžėjų žygio į Salsenikę sudarė vienų metų paliaubas su kryžėjais.
+- susijęs iš [[objektai/ivykiai/Žemaičių Klaipėdos pilies užėmimas ir sudeginimas.md#claim-t-201353|Žemaičių Klaipėdos pilies užėmimas ir sudeginimas]]: Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186611|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami likti vokiečių valdžioje.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186612|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad vokiečiai priminė Vytautui turint grąžinti tris šimtus auksinų už užstatytą Žemaitiją.
 - susijęs iš [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa.md#claim-t-186615|Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]: Lietuvos metraštis pasakoja, kad Vytautas surinko ir nusiuntė vokiečiams visą auksinų sumą, o šie po to Žemaitijos nebepuolė.
@@ -699,7 +781,10 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija.md#claim-t-01901|Žemaičių kunigaikštystės privilegija (privilegija)]]: Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.
 - susijęs iš [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.).md#claim-t-34569|Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]: 1402 m. žemaičiai išsiuntinėjo savo skundą imperijos kunigaikščiams ir popiežiui.
 - susijęs iš [[objektai/paprociai/Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms.md#claim-t-07799|Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms]]: Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo.
+- susijęs iš [[objektai/paprociai/Senovės lietuvių dievų šventės pagal metų laikus.md#claim-t-201468|Senovės lietuvių dievų šventės pagal metų laikus]]: Daukantas vaizduoja, kad lietuviai, kalnėnai ir žemaičiai nuo neatmenamų laikų garbino savo dievus, o jų šventės buvo susietos su metų laikais ir linksmybėmis.
 - susijęs iš [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas.md#claim-t-07824|Šventųjų šaltinių ir lieknų neprileidimas]]: Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.
+- susijęs iš [[objektai/paprociai/Žemaičių karo sutelkimas ir vaidelų drąsinimas.md#claim-t-201471|Žemaičių karo sutelkimas ir vaidelų drąsinimas]]: Daukantas aprašo, kad kilus pavojui Žemaičiuose pulkai greitai ginkluodavosi, o vaideliai, dainuodami protėvių karo žygius, drąsindavo karius.
+- susijęs iš [[objektai/paprociai/Žemaičių lavonų deginimas.md#claim-t-201391|Žemaičių lavonų deginimas]]: Daukantas perpasakoja, kad Žemaičiuose buvęs paprotys deginti visus lavonus, o už nedeginto numirėlio palikimą bausti atsakinguosius už deginimą.
 - susijęs iš [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis.md#claim-t-67250|Žemaičių savivalda ir seniūno rinkimasis]]: Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.
 - susijęs iš [[objektai/paprociai/Žemaičių sėtinių kepimas namuose.md#claim-t-67251|Žemaičių sėtinių kepimas namuose]]: Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu.
 - susijęs iš [[objektai/posakiai/Vakkis Ahridlis.md#claim-t-184364|Vakkis Ahridlis]]: Anot Dlugošo, žemaičiai sakė „Vakkis Ahridlis“, maldaudami Vytautą neatiduoti jų kryžiuočiams ir neatplėšti nuo lietuvių.
@@ -712,14 +797,18 @@ media_all_json: |-
 - susijęs iš [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto.md#claim-t-31553|Vytautas bijojo, kad bus numestas nuo sosto]]: Kronikininkas teigė, kad Vytautas bijojo būti nuverstas nuo sosto, jei Jogaila paimtų visą Prūsiją.
 - susijęs iš [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime.md#claim-t-100010|jeigu jis taps krikščionimi, jam nepasiduosime]]: Wigando kronikos duomenimis, 1382 m. vidaus karo metu žemaičiai įspėjo Jogailą, kad jam tapus krikščionimi nepasiduos.
 - susijęs iš [[objektai/posakiai/pinklėmis antremti pinkles.md#claim-t-67305|pinklėmis antremti pinkles]]: Žemaičiai buvo palaikomi siekiant užbėgti už akių didesnėms nelaimėms ir pinklėmis atremti pinkles.
+- susijęs iš [[objektai/posakiai/tikyba senovės lietuvių buvo džiaugsmu, o džiaugsmas tikyba.md#claim-t-201506|tikyba senovės lietuvių buvo džiaugsmu, o džiaugsmas tikyba]]: Daukantas, aptardamas senovės lietuvių šventes, teigė, kad jų tikyba buvo susijusi su džiaugsmu, o džiaugsmas – su tikyba.
 - susijęs iš [[objektai/posakiai/Žemaičių skundas.md#claim-t-184365|Žemaičių skundas]]: Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris Konstancoje buvo ištisai paskelbtas, skundėsi kieta ordino priespauda ir jo žiaurumais.
+- susijęs iš [[objektai/posakiai/Žeme šventa.md#claim-t-201485|Žeme šventa]]: Per Žemės šventę šeimininkai turėjo vaišinti savo šeimyną, o susipykę žmonės – susitaikinti.
 - susijęs iš A. Brückner, Mitologia: 1910 m. lenkų enciklopedijos straipsnyje apie lietuvių mitologiją T. Narbutas buvo pavadintas „įžymiuoju falsifikatoriumi“.
+- susijęs iš Karamzin, Istor. gosud. Ros: Daukanto pasakojime, sudarę taiką su gudais, lietuviai žemaičiai rengėsi pulti Padauguvį ir išvyti vokiečių misionierius, tačiau netikėtai atsirado kitų priešų.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
 - susijęs iš Drezdenka: Naujame dokumente Drezdenka buvo priskirta prie lenkų pasienio punktų, turėjusių priklausyti kryžiuočiams.
 - susijęs iš Gardinas: Vilniaus ir Gardino apylinkėse buvo laikoma daugiau jaučių.
 - susijęs iš Gardinas: Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse.
 - susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
 - susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
+- susijęs iš Heiligenburgas (vieta): Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, įkūrė Heiligenburgo pilį, joje apgyvendino 300 vyrų ir pasirūpino maistu bei ginklais.
 - susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
 - susijęs iš Karaliaučius: Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.
 - susijęs iš Karaliaučius: Kailiai buvo parduodami Karaliaučiaus, Dancigo ir Breslavo pirkliams.
@@ -730,6 +819,7 @@ media_all_json: |-
 - susijęs iš Klaipėda: 1402 m. gegužę žemaičiai sudegino Klaipėdą, o Vytautas Nevėžio žiotyse sugriovė Gotteswerderį.
 - susijęs iš Kuldinga: Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.
 - susijęs iš Kuldinga: Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.
+- susijęs iš Kulmija: Daukanto pasakojime lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas jiems talkino.
 - susijęs iš Kuršas: 1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.
 - susijęs iš Kuršas: Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.
 - susijęs iš Kuršas: Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.
@@ -737,15 +827,27 @@ media_all_json: |-
 - susijęs iš Livonija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
 - susijęs iš Livonija: Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.
 - susijęs iš Memelis: Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino.
+- susijęs iš Meruniškė (vieta): Daukanto pasakojime kryžėjų magistras su raitija įsiveržė į Meruniškę, sugriovė 18 pilių, prisigrobė turto ir išsivedė daug belaisvių.
 - susijęs iš Moldavija: Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.
+- susijęs iš Mozūrija: 1244 m. iš Lietuvos gilumos atėję pulkai nuniokojo Mozūriją, ypač Plocko apygardas.
+- susijęs iš Nadraujus (vieta): Iš Žemaičių į Samiją vedė du keliai: vienas per Nemuną, Šalaujus ir Nadraujus, kitas – Klaipėdos kopomis tarp jūros ir marių.
+- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
+- susijęs iš Nemunas: Vienas iš dviejų Daukanto minimų kelių iš Žemaičių į Samiją ėjo per Nemuną, Šalaujus ir Nadraujus.
 - susijęs iš Nevėžis: Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru.
+- susijęs iš Pagraudenis (vieta): Daukanto pasakojime Karaliaučiaus komtūras su 2000 raitelių įsiveržė į Pagraudenį ir, nesulaukęs pasipriešinimo, nukovė 1000 gyventojų.
+- susijęs iš Pamezonija (vieta): Daukanto pasakojimu, lietuviai ir žemaičiai su didele kariauna įsiveržė į Pamezoniją ir Kulmiją, o Sviatopelkas su savo kariauna padėjo jiems niokoti kraštą.
 - susijęs iš Prūsija: Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Prūsija: Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Putvė: Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus.
 - susijęs iš Racionžas: 1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.
 - susijęs iš Revelio žemė: Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo.
+- susijęs iš Rusnė: Daukantas manė, kad pasaka apie pirmąją Rusnės žinyčią galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
+- susijęs iš Samija (vieta): Iš Žemaičių į Samiją vedė du keliai: per Nemuną, Šalaujus ir Nadraujus arba nuo Klaipėdos kopomis tarp jūros ir marių.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 - susijęs iš Vysla: Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.
+- susijęs iš Vėluva: Žemaičiai atnaujino Vėluvos pilį, tačiau Karaliaučiaus kamendotas vėliau papirko jos pilies vyrus ir ją užėmė.
+- susijęs iš Zemgalija (vieta): Po pergalės žemaičiai tuo pačiu žygiu nusiaubė Zemgaliją, pasiėmė grobio ir grįžo namo.
+- susijęs iš Šalaujus (vieta): Vienas kelias iš Žemaičių į Samiją, pasak Daukanto, ėjo per Nemuną, Šalaujus ir Nadraujus.
 - susijęs iš Žemaitija: Žemaitija aiškinta kaip žemesnė žemė, o Aukštaitija - kaip aukštesnė žemė palyginti su Žemaitija.
 - susijęs iš Žemaitija: Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme.
 - susijęs iš Žemaitija: Vytauto laikais arklių ūkis buvo labiau paplitęs Žemaitijoje ir apie Trakus.
@@ -3067,16 +3169,177 @@ media_all_json: |-
     įsiveržė į ordino žemes už Nemuno.
   citata_rodoma: "Todėl jis\nnepaisė ordino reikalavimo. Pagaliau santykiai tarp ordino ir\nVytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus\nkryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir\nįsiveržė į ordino žemes už Nemuno."
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184283
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 330"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 330."
+  citata_originali: |
+    34.)
+    Kad taip vieni lietuviai žemaičiai gyniojo kant­
+    riai liuosybę ant irų savo namų tarp Yslos ir Pa-
+    rusnio, tuo pačiu laiku kiti šlekino kraują latakais
+    Žemaičiuose ir Kalne, grumdamies su gudais, kaip
+    sakiau, ir meldžionimis vokyčiais baisiose karėse
+    ir nenorėdami vergauti, kurie, lyčyna tikybos ant-
+    simovę, dyko jiems antdėti gelžinius amžinos ver-
+    gybos, kaip viršiaus minavojau.
+    Noris siuntinys Mintauto, atėjęs į Rygą, kaip
+    sakiau, pas mistrą kalavijonų Griuningeną, papra-
+    kuodamas jį dėl savo kunigaikščio daugybe žirgų
+    ir suičiais sidabro graižiniais, sako jam: „Jei nu­
+    kausi ar nuo savęs pavarysi Tautvilą, dar dauges-
+    niai gausi nuo mano viešpaties ir jo bendru tapsi".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200933
+
+- id: c-184284
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 361"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
+  citata_originali: |
+    Nuo tenai Otokaras leidos Pragaru
+    pagal žemyn lig girios, Tvangste vadinamos, kur­
+    sai, radęs tenai kalną paupy, užsikėto miestą ir pilį
+    pamatuoti, kuriam pamatus padėjęs, ateinantį metą
+    grįžo namo.
+    Taip Otokarui su kryžėjais kariaujant samionis
+    ir kitus žemaičius tarp upių Pragaro ir Nemuno,
+    kalavijonys nuo antros pusės, tai yra nuo Padauga-
+    vio, tuointimpos veržės per Žemgalius į Žemaičius,
+    dykdami visuomet su kryžėjais susinerti. Noris
+    Stuklandas, mistras kalavijonų, bendravos ir bičiu-
+    liavos su pačiu Mintautu, karalium Lietuvos, kur­
+    sai jį visuomet žmoniškai išvaišinęs ne vien apdo­
+    venojo, bet dar toli jį palydėjo, bet jam padėka vo-
+    jus už vyresnybę, atėjęs antras mistras kalavijonų
+    pilį šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200934
+
+- id: c-184285
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 381"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 381."
+  citata_originali: |
+    Jurgio užėmė1 2.
+    Po tos mūšos kuržemiai atėjo į abažą žemaičių,
+    stovintį ties Sintele, arba Santekle, pilė, pagalbos
+    nuo žemaičių lūgodami ir iš vieno žadėdami su jais
+    vokyčius kariauti.
+    Išgirdę taip pat ezelionys žemaičius taip laimin­
+    gai kariaujant išsižadėjo krikščionų tikybos ir ėmė
+    uiti vokyčius iš savo salos ir siuntinius atleido pas
+    žemaičius pagalbos lūgodami ir ketėdami iš vieno
+    kariauti vokyčius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200935
+
+- id: c-184286
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 461"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 461."
+  citata_originali: |
+    Ant galo, nestengdami galia tos pi­
+    lės įgyti, norėjo pasalu įgauti; to dėjęsi, užgulė vi­
+    sų pirma kelius, kuriais ėjo į pilį, ir kas tenai pasi­
+    painiojo, tą kavo ar tvėrė ir taip mažne kas dieną
+    skardės vieni su kitais be atlydos.
+    Žemaičiai, norėdami atmonyti kalavijonims, su­
+    kėlę kariauną, traukė į Rygą. Pajutęs tą, jų mar-
+    čelga, skubiniai surinkęs pilionis, meldžionis ir per­
+    krikštus, sustojo į taborių pas miestą ir laukė že­
+    maičių ateinant.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200936
+
+- id: c-184810
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 191"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 191."
+  citata_originali: |
+    Ir taip tankiai reikėjo lietu­
+    viams ir žemaičiams vienoj valandoj leisti rimtus
+    pulkus ne vien į rytus, pietus ir vakarus, bet ir į
+    šiaurę, kaipogi tose visose pusėse smarkūs neprie­
+    teliai grūdos varu į jų kraštą ir amžinu pragaru jų
+    tautai gorino: *kaipogi nuo rytų ir pietų gulė vir­
+    šun gudai ir lenkai, nuo vakarų vėl gudai ir mozū­
+    rai, o nuo šiaurės žuvėdai ir vokyčiai meldžionys.
+    Dėl to gi nėra nė kokio stebuklo, jog tą patį metą
+    kitaip yra vadinami kunigaikščiai lietuvių ir žemai­
+    čių, kurie su lenkais kariavo, kitaip, kurie su gu­
+    dais, kitaip, kurie su vokyčiais meldžionimis ir su
+    žuvėdais grūmės, nesgi tankiai reikėjo lietuviams
+    ir žemaičiams savo pulkus su vienu karvedžiu siųsti
+    į Parusnį ir Pavyslį ir tenai grumtis su gudais, mo­
+    zūrais, lenkais ir žuvėdais, kitą karvedį kelti per
+    Daugavą ir gelbėti savo gimines, kurias gudai no­
+    rėjo nuvergti. Tuose laikuose jaunuomenė lietuvių
+    ir žemaičių nekūlės po kiemus, netinginėj o, bet rai­
+    ti giriose, kaip sakiau, šernus, meškas, lūšis rago­
+    tinėmis varstydami ir tomis medžioklėmis gudinda­
+    mos, stiprino save, idant kurią dieną galėtų su ne­
+    prieteliais savo tėvainės drąsiai grumtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201460
+
+- id: c-184811
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 210"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
+  citata_originali: |
+    Rygoj pilionys, išgirdę tą nuokrytį, nusiminė,
+    vieni raudojo, kiti meldės, o seni vaikams tvirtino,
+    jog niekados nereikia leisti netikėliams prieš neti­
+    kėlius kariauti, o reikiant su jais kariauti, geriaus
+    į Dievo valią atsiduoti ir su vienais perkrikštais te-
+    bendrautis.
+    Paskui tą pergalę žemaičiai tuo pačiu žygiu
+    Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir
+    naikino, pagrieję gausiai grobio, grįžo namo, žem­
+    galiams girioj bekiūtantiems, kurie tenkinos tūlus
+    žemaičius grįžtančius pasalu nukavę.
+    Vokyčiai meldžionys, nemindami ant to savo
+    nuokryčio, nuleido siuntinius pas igumius, reikalau­
+    dami viršiaus minavotų prekių, kurias buvo, kaip
+    sakiau, igumiai vokyčiams pagrobę, bet, susirinkus
+    siuntiniams, igumiai nenorėjo nei prekių grąžinti,
+    nei sandarų su letgaliais daryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201461
 
 ## Ryšiai
 - Rėmė Žemaičiai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Žemaičiai puolė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėda Memelis]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Memelis]], [[objektai/vietos/Semba]], [[objektai/vietos/Skirsnemunė]]
+- Žemaičiai puolė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėda Memelis]], [[objektai/grupes/Kryžėjai (grupė)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Memelis]], [[objektai/vietos/Skirsnemunė]], [[objektai/vietos/Zemgalija (vieta)]]
 - Žemaičiai užėmė [[objektai/vietos/Klaipėda Memelis]]
 - Žemaičiai gynė [[objektai/vietos/Medvėgalis]], [[objektai/grupes/Pagudėnai]]
-- Žemaičiai dalyvavo mūšyje [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
 - Žemaičiai sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Žemaičiai priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]]
-- Žemaičiai rėmė [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

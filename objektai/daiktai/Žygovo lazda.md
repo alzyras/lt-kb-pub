@@ -1,0 +1,74 @@
+---
+tipas: daiktas
+pavadinimas: 'Žygovo lazda'
+saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Žygovo lazda
+
+## Santrauka
+
+Daukantas aprašo, kad žygovu vadinamas kunigas, nešinas valdovo lazda ar vytimi, vietoje paskelbdavo įsakymą, kuris būdavo tuojau įvykdomas.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-201363"></a>
+- t-001
+  global_id: t-201363
+  teiginys: "Daukantas aprašo, kad žygovu vadinamas kunigas, nešinas valdovo lazda ar vytimi, vietoje paskelbdavo įsakymą, kuris būdavo tuojau įvykdomas."
+  pagrindžia:
+    - c-184713
+
+## Citatos
+
+- id: c-184713
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 92"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 92."
+  citata_originali: |
+    Klausė jo valdžios ne vien lietu­
+    viai ir žemaičiai, bet ir kitos dalys Lietuvos tautos,
+    šiandien prūsais, letvėžais, kuržemiais, palečiais, ar­
+    ba jazigiais, mozūrais ir krieviais vadinami, kaip
+    viršiaus minavojau, ir jį už savo valdymierą bei
+    viešpatį turėjo. Kaipogi kur jo tarnas kunigas, žy­
+    govu vadinamas, nuėjęs į kokią vietą apskelbė, tu­
+    rėdamos jo lazdą ar vytį, svietui jo įsakymą, tuo­
+    jau tenai kuo veikesniai išpildė. Žemaičiuose iki šiol
+    dar daugioj vietoj įsakymą vyresnybės lazda teb-
+    vadina, sakydami: „Pranešė lazdą, nubogino lazdą"1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201363

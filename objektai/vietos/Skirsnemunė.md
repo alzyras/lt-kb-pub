@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Skirsnemunė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -69,6 +70,13 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   teiginys: "1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių."
   pagrindžia:
     - c-77004
+
+<a id="claim-t-201106"></a>
+- t-005
+  global_id: t-201106
+  teiginys: "Daukanto pasakojime Vytenis, atvykęs su savo kariauna, 17 dienų taranais ir kitais karo įrankiais puolė Skirsnemunės pilį, ketindamas ją sugriauti."
+  pagrindžia:
+    - c-184456
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1409 m.md#claim-t-67016|Žemaičių sukilimas 1409 m]]: 1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
@@ -189,9 +197,32 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė
     nesijudinti.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184456
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 513"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 513."
+  citata_originali: |
+    Žemaičiai, nuterioję baisiai bai-
+    sesniai apygardas Ragainės ir Šalaujų, sugrįžo na­
+    mon ne su mažu grobiu laimingai. Tatai dar pradžia
+    tebuvo baisesnės karės, kuri atentį mėnesį ties pilė
+    Skirsnemunės prasidėjo. Vytenis, atėjęs tenai su ka­
+    riauna savo ūkės, ketėjo pilį suardyti, kurią per 17
+    dienų vėtravo j o su taranais ir kitais karės įran­
+    kiais, kurios įgulė, noris kantriai tūrėjos, bet spau­
+    džiama kas kartą didyn vien, nemintanti papilius,
+    arba priemiesčius, pati nudegino ir pačioj pilėj už­
+    sirakino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201106
 
 ## Ryšiai
 - Puolė Skirsnemunę: [[objektai/grupes/Žemaičiai]]

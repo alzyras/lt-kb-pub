@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -413,6 +414,20 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginys: "Kęstutis visiškai atitiko Pergrubę."
   pagrindžia:
     - c-179176
+
+<a id="claim-t-201008"></a>
+- t-052
+  global_id: t-201008
+  teiginys: "Daukantas rašo, kad kryžėjai siūlė Kęstučiui krikštytis ir jų padedamam įveikti brolį, kad vienas taptų valdovu."
+  pagrindžia:
+    - c-184358
+
+<a id="claim-t-201477"></a>
+- t-053
+  global_id: t-201477
+  teiginys: "Mūšyje Algirdas vadovavo lietuvių dešiniajam, o Kęstutis – kairiajam sparnui."
+  pagrindžia:
+    - c-184827
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
@@ -448,9 +463,11 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05287|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunasis Vytautas, lietuvių kunigaikščiai ir Smolensko pajėgos.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.).md#claim-t-35833|Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]: 1382 m. liepos 6 d. Jogaila su Vokiečių ordino magistru sudarė puolimo sutartį prieš Kęstutį ir jo sūnus.
 - susijęs iš [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.).md#claim-t-86911|Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]: 1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.
+- susijęs iš [[objektai/ivykiai/Kauno pilies apgultis ir sudeginimas.md#claim-t-201463|Kauno pilies apgultis ir sudeginimas]]: Kauno pilies 5000 karių įgulai, pasak Daukanto, vadovavo narsiu laikytas Kęstučio sūnus Vaidotas; Kęstutis su Algirdu atėjo pilies gelbėti, bet po trijų dienų kovos kryžėjai įveikė lietuvius.
 - susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186673|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad Jogaila nesilaikė pažado Kęstučiui ir vėl užėmė Vilnių, kai Kęstutis buvo karo žygyje.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185611|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.
+- susijęs iš [[objektai/ivykiai/Paliaubos su kryžėjais ir kalinių keitimas Karaliaučiuje.md#claim-t-201486|Paliaubos su kryžėjais ir kalinių keitimas Karaliaučiuje]]: Daukanto pasakojime Karaliaučiuje Kęstutį kryžiuočiai iškilmingai vaišino ir pagerbė, o jis iš Lietuvos ir Žemaitijos kalėjimų paleido 14 komtūrų, 96 brostvius ir daugybę krikščionių.
 - susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66861|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Rūdavos mūšyje Algirdas, matyt, buvo pasiėmęs Jogailą, o Kęstutis pratino jauną Vytautą prie karo.
 - susijęs iš [[objektai/ivykiai/Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį.md#claim-t-185772|Slaptas Jogailos ir kryžiuočių susitarimas prieš Kęstutį]]: Kojelavičius slaptą susitarimą vaizduoja kaip planą nužudyti Kęstutį bei jo palikuonis ir Vaidilai atlyginti nugalėtų priešų valdomis.
 - susijęs iš [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose.md#claim-t-07776|Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]: Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.
@@ -498,7 +515,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-188512|Algirdas (Lietuvos valdovas)]]: Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54945|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
@@ -512,7 +528,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176321|Birutė]]: Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-188516|Birutė]]: Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.
-- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas (kunigaikštis, XIII a.)]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35046|Danuta]]: Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu.
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-188520|Danutė]]: Narbutas Danutę mini kaip Kęstučio ir jo žmonos dukterį, gimusią kartu su sūnumis Patriku, Vytautu, Tautvilu ir Sigailu, arba Žygimantu.
@@ -526,6 +542,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-184717|Jaunutis (valdovas, XIV a.)]]: Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.
+- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-200999|Jaunutis (valdovas, XIV a.)]]: Kęstutis 22 lapkričio dieną, auštant, užėmė Vilniaus pilis, o Jaunutis per sąmyšį pabėgo, tačiau Kęstučio kariai jį sugavo liekne ir parvedė į Vilnių.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182804|Jogaila (kunigaikštis, XIV–XV a.)]]: Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182815|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184278|Jogaila (kunigaikštis, XIV–XV a.)]]: Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.
@@ -668,6 +685,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.).md#claim-t-05289|Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]: 1370 m. rudenį Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187459|Algirdo žygis į Maskvą]]: Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.
 - susijęs iš [[objektai/ivykiai/Bajorų pilaitės užėmimas ir belaisvių sudeginimas.md#claim-t-185797|Bajorų pilaitės užėmimas ir belaisvių sudeginimas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
+- susijęs iš [[objektai/ivykiai/Dahenfeldo žygis į Žemaičius.md#claim-t-201499|Dahenfeldo žygis į Žemaičius]]: Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių.
 - susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-184231|Dovydiškių slapta sutartis (1380 m.)]]: Dovydiškių slaptos sutarties sudarymo Vytautas nepastebėjo, nors dalyvavo medžioklėje.
 - susijęs iš [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.).md#claim-t-35827|Dovydiškių slapta sutartis (1380 m.)]]: Vytautas dalyvavo Dovydiškių medžioklėje, bet nepastebėjo, kad buvo sudaryta slapta sutartis.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
@@ -711,6 +729,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/ivykiai/Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.).md#claim-t-185811|Lietuvių įsiveržimas į Mazoviją ir Pultusko sudeginimas (1367 m.)]]: Kęstučio vedami lietuviai įsiveržė į Mazoviją, užėmė Pultuską ir vėliau smarkiai nusiaubė visą kraštą.
 - susijęs iš [[objektai/ivykiai/Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.).md#claim-t-75253|Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)]]: Per 1990 m. sausio 11–13 d. Michailo Gorbačiovo vizitą Vilniuje Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
 - susijęs iš [[objektai/ivykiai/Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.).md#claim-t-75254|Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)]]: Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją.
+- susijęs iš [[objektai/ivykiai/Mėnesienos mūšis ir Šindekopo žūtis.md#claim-t-201335|Mėnesienos mūšis ir Šindekopo žūtis (mūšis)]]: Daukanto pasakojime Kęstutis mėnesienoje atsigręžė prieš kryžėjus, o Vaišvilius sužeidė maršalką Šindekopą taip, kad šis nukrito nuo žirgo.
 - susijęs iš [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis.md#claim-t-66819|Paskutinės Kęstučio kovos ir mirtis]]: Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.
 - susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66863|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Rūdavos mūšyje dalyvavęs jaunas Vytautas dar neturėjo vadovaujamos reikšmės ir buvo Kęstučio pratinamas prie karo.
 - susijęs iš [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.).md#claim-t-66864|Rūdavos mūšis (1370 m. vasario 17 d.)]]: Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.
@@ -832,7 +851,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš Mazovija: Kojelavičiaus pasakojime 1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją dėl grobio ir užėmė Pultuską.
 - susijęs iš Minaičių kaimas: 1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
-- susijęs iš Naujapilis: Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.
 - susijęs iš Naujasis Kaunas: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
 - susijęs iš Naujieji Trakai: Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
@@ -844,6 +862,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš Palenkė: Kęstutis paveldėjo Trakus ir Gardiną su Palenke.
 - susijęs iš Palenkė: Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį.
 - susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
+- susijęs iš Paletija (vieta): Daukantas Paletiją įtraukė tarp kraštų, kuriuos valdė Algirdas ir kurie, jo teigimu, tebesirėdė Lietuvos įstatymais.
 - susijęs iš Pietų Lietuva: Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš Pinskas: Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.
 - susijęs iš Polockas: Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.
@@ -858,6 +877,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš Prūsija: Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį.
 - susijęs iš Prūsų kraštas (kraštas): Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš Severija (vieta): Daukantas Severiją priskiria Algirdo valdytiems kraštams ir teigia, kad Daukanto laikais joje tebebuvo remiamasi Lietuvos įstatymais.
 - susijęs iš Skirsnemunė: Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.
 - susijęs iš Smolenskas: 1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.
 - susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
@@ -897,6 +917,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš Vitebskas: Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.
 - susijęs iš Vitebskas: Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę.
 - susijęs iš Volinija: 1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje.
+- susijęs iš Volynija: Daukantas Volyniją mini tarp Algirdo valdytų kraštų, kurie, jo teigimu, iki jo laikų tebebuvo tvarkomi pagal Lietuvos įstatymus.
 - susijęs iš Volynė: Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš Vorskla: Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.
@@ -929,6 +950,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36796|kontrevoliucija]]: Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi.
 - susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36797|kontrevoliucija]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
 - susijęs iš [[objektai/zodynas/kūmas.md#claim-t-187556|kūmas]]: Osterodės komtūras Libestinas buvo didžiojo kunigaikščio Kęstučio kūmas ir Kęstučio dukters Jonušienės krikštatėvis.
+- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201190|perkrikštas (sąvoka)]]: Daukanto pasakojime Kęstutis skatino perkrikštus mesti vokyčių jungą ir grįžti prie senojo tikėjimo, o 800 giminių persikėlė gyventi į Lietuvą ir Žemaičius.
 - susijęs iš [[objektai/zodynas/rublis.md#claim-t-34274|rublis]]: Jogailos ir Vytauto rūmuose kartais mokėta rubliais, kurie dar buvo ne monetos, o sukapoti sidabro gabalai.
 - susijęs iš [[objektai/zodynas/rublis.md#claim-t-34275|rublis]]: Lietuvoje nuo Algirdo ir Kęstučio laikų kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.
 - susijęs iš [[objektai/zodynas/rūmininkas vyno pilstytojas.md#claim-t-36826|rūmininkas vyno pilstytojas]]: Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju.
@@ -2110,20 +2132,59 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindzia:
     - t-197420
 
+- id: c-184358
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 608"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 608."
+  citata_originali: |
+    Kryžėjai, norėdami ta dimgsčia
+    naudoti, nuleido siuntinius pas Kęstutį, tardami,
+    jei jis persikrikštys, galės su kryžėjų talka brolį
+    nuveikti ir vienas valdžioniu tapti. Ant to Kęstu­
+    tis taip didžiai supykęs, jog, nupjaustydinęs nosis
+    ir ausis kryžėjų siuntiniams, sugrąžino juos, tą sa­
+    kydamas, jog kitus pranašus su tokiu begėdingu
+    tarimu jis lieps į kryžių įspyloti, kaipogi išmintin­
+    gas Kęstutis nenorėjo regėti sau apmaudo atlyžu-
+    sio pragaru savo tėvainės. Kaip tenai vyko kryžė-
+    jams beparkumpti, nėra raštuose minavojama; jei
+    būt laimėję, rodos nebūt užmiršę girtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201008
+
+- id: c-184827
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 640"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 640."
+  citata_originali: |
+    Timpso-
+    jo jau abi pusi rindose, o karėjai jau ilgėjos lauk­
+    dami ženklo mūšos. Lietuvių dešinuoju sparnu
+    rykavo Algirdas, o kairiuoju Kęstutis. Kryžėjų ka­
+    riaunos dešinuoju marčelga, o kairiuoju pats mist­
+    ras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201477
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]
-- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Dukterys: [[objektai/asmenys/Danutė]]
 - Broliai: [[objektai/asmenys/Narimantas Gediminaitis]]
-- Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Verneris fon Vindekenas]]
 - Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Krėva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė [[objektai/vietos/Krėva]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Naujasis Kaunas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilys]], [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilnius]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė [[objektai/vietos/Jurbarkas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė [[objektai/vietos/Vilnius]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Nadruva]]

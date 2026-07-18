@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Ignacas Onacevičius'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos: []
@@ -105,6 +106,13 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   teiginys: "Pats miestas tiesiog visai sunai kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus Vytauto."
   pagrindžia:
     - c-176801
+
+<a id="claim-t-200946"></a>
+- t-011
+  global_id: t-200946
+  teiginys: "Universitete Daukanto orientacijai istorijos moksle įtaką darė profesorius Ignacas Onacevičius, daug dėmesio skyręs šaltinių ir literatūros pažinimui."
+  pagrindžia:
+    - c-184296
 - susijęs iš [[objektai/autoriai/Antanas Hlebovičius.md#claim-t-192519|Antanas Hlebovičius]]: Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą.
 - susijęs iš [[objektai/ivykiai/1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje.md#claim-t-189636|1386 m. Jogailos vedybos su Jadvyga ir krikščionybės įvedimas Lietuvoje Onacevičiaus periodizacijoje]]: Onacevičiaus periodizacijoje aiškesnės Lietuvos istorijos epocha baigiasi 1386 m., kai Jogaila vedė Jadvygą ir Lietuvoje buvo įvesta krikščionybė.
 - susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
@@ -316,3 +324,26 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194198
+
+- id: c-184296
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 4"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 4."
+  citata_originali: |
+    Kaip paste­
+    bėjo Zenonas Ivinskis, Daukanto laiškai, šiek tiek
+    vėliau rašyti Teodorui Narbutui, „parodo jo neblo­
+    gą orientaciją ano laiko Lietuvos istorijos moksle"1.
+    Suprantama, ši orientacija ne staiga atsirado, ji iš­
+    augo iš studijų universitete, ypač sekant profeso­
+    rium Ignotu Onacevičium, kuris daug dėmesio skyrė
+    šaltinių ir literatūros pažinimui.
+    Lyginant su kitais Daukanto istorijos veikalais,
+    „Istorijoje Žemaitiškoje" išvardijama daugiausia pa­
+    naudotų leidinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200946

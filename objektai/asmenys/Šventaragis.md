@@ -3,14 +3,15 @@ tipas: asmuo
 pavadinimas: 'Šventaragis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1263 m.'
-  - '1282 m.'
+  - '1285 m.'
 date_start: '1263'
-date_end: '1282'
+date_end: '1285'
 periodo_grupes:
   - 'LDK'
 amziai:
@@ -75,6 +76,20 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginys: "Šventaragis buvo gavęs valdyti Žemaitiją."
   pagrindžia:
     - c-178823
+
+<a id="claim-t-201051"></a>
+- t-006
+  global_id: t-201051
+  teiginys: "Daukanto pasakojime Šventaragis prie Vilios ir Neries santakos padėjo Vilniaus žinyčios pamatus, o Gereimantas 1285 m. ją baigė statyti."
+  pagrindžia:
+    - c-184401
+
+<a id="claim-t-201052"></a>
+- t-007
+  global_id: t-201052
+  teiginys: "Daukanto perteikiamoje pasakoje esą 1283 m. Šventaragis siuntė teirautis Nemunaičių žinyčios apie būsimos Vilniaus žinyčios laimę."
+  pagrindžia:
+    - c-184402
 - susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-187907|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities.
 - susijęs iš [[objektai/asmenys/Gerimantas.md#claim-t-188535|Gerimantas]]: Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
@@ -120,7 +135,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86449|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176329|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184703|Germantas]]: Kojelavičiaus pasakojime Šventaragis, norėdamas ramybės tėvynėje, paskyrė beveik šešiasdešimtmetį sūnų Germantą įpėdiniu.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87374|Manvydas]]: Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.
@@ -334,6 +348,49 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-196659
+
+- id: c-184401
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 103"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 103."
+  citata_originali: |
+    Vilniaus žinyčia yra dar aiškesniai aprašyta.
+    Šventaragis, didysis Lietuvos kunigaikštis, gražiame
+    ąžuolyne ant santeklio Vyliaus ir Neries upių (šian­
+    dien Vilijos ir Vilenkos), kurioje vietoj dabar ka­
+    tedra Vilniaus riogso, padėjo pamatus garbingai
+    žinyčiai, o sūnus jo Gereimantas metuose 1285 ją
+    nubengė strūnyti. Buvo akmens trobesys, 150 mastų
+    ilgas, 100 platus o 15 aukštas, be stogo, vienas te-
+    turįs pereinamas duris per koplyčią, kurioje šventi
+    ir stebuklingi daiktai buvo laikomi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201051
+
+- id: c-184402
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 104"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 104."
+  citata_originali: |
+    Kas metą Naujų metų dieną į sieną tos
+    bonės įmūravojo plytą, kuri skaitlių metų rodė. Pa­
+    saka yra užrašyta, jog didysis Lietuvos kunigaikštis
+    Šventaragis, norėdamas tą žinyčią dirbinti, išsiun­
+    tęs būk dvejais metais pirmiaus 1283 į žinyčią Ne­
+    munaičių, regis, Rusnės, teirautis apie ateinančią
+    laimą naujosios žinyčios. Nemunaičių žinyčią būk
+    apreiškusi, jog bus pabanga žinyčiai Vilniaus ir
+    pagonybei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201052
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]

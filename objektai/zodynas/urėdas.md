@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'urėdas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1386 m.'
@@ -57,7 +58,37 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   pagrindžia:
     - c-69409
     - c-166383
+
+<a id="claim-t-200956"></a>
+- t-004
+  global_id: t-200956
+  teiginys: "Daukanto pasakojime kryžėjų didysis mistras liepė urėdui Pamezonijos ir Kulmijos pasienyje ant skardžio įkurti stiprią pilį ir joje pastatyti gausią įgulą."
+  pagrindžia:
+    - c-184306
+
+<a id="claim-t-200957"></a>
+- t-005
+  global_id: t-200957
+  teiginys: "Daukanto pasakojime Gediminas Kijeve urėdu paskyrė Alšėnų kunigaikštį Mintautą, neseniai persikrikštijusį."
+  pagrindžia:
+    - c-184307
+
+<a id="claim-t-200958"></a>
+- t-006
+  global_id: t-200958
+  teiginys: "Daukanto pasakojime urėdai, arba vojevodos, Aldonos vestuvių palydoje jojo tarp lenkų jomylistų ir pilių vyrų, kurie buvo iškilmingos eisenos vedliai."
+  pagrindžia:
+    - c-184308
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-201010|Liubartas]]: Treniota, rengdamasis grumtis su totoriais, sušaukė savo brolius Pryšmantą ir Liubartą, Daukanto vadinamus juodųjų gudų urėdais.
+- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-201039|Treniota]]: Treniota, kurį Daukantas vadina Naujapilio urėdu, sutelkė brolius ir kitus kunigaikščius prieš totorius bei prie Okniaukos puolė Kurdos stovyklą.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas (vyskupas, XII–XIII a.)]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200961|Albertas (vyskupas, XII–XIII a.)]]: 1208 m. Albertas grįžo iš Teutonijos su didele maldininkų, diduomenės ir kunigų palyda, sušaukė perkrikštus ir vokiečius.
+- susijęs iš [[objektai/asmenys/Ginvila.md#claim-t-200990|Ginvila]]: Daukanto pasakojime Polocko urėdas Ginvila ir jo sūnus Baras nespaudė krikščionių gudų ir statė jiems bažnyčias.
+- susijęs iš [[objektai/asmenys/Konradas Turingenas.md#claim-t-201421|Konradas Turingenas]]: Daukanto pasakojime didysis magistras Konradas Turingenas vyko į Romą tvarkyti ordino reikalų, bet ten sunkiai susirgo ir mirė liepos 24 d.
 - susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
+- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
+- susijęs iš Klaipėda: Šalaujai išsiuntė Sareikį pas Klaipėdos komtūrą prašyti, kad šis atskubėtų ir palydėtų jį per priešišką kraštą.
+- susijęs iš Klaipėda: Klaipėda atlaikė žemaičių puolimus.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113660|pavietas]]: Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113661|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113663|pavietas]]: Veliuona kurį laiką buvo Žemaitijos pavieto centras.
@@ -132,6 +163,75 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
     rašytojas ir pamokslininkas Petras Skarga.
   statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-184306
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 423"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 423."
+  citata_originali: |
+    Juo didesniai lietuviai laimėjo, juo didesniai vy­
+    lės savo ketėjimą pasiekti, tai yra vokyčius būtinai
+    vakarinėj Lietuvoj išnaikinti. Lygia dalia kryžėjai
+    numanė orumą to krašto, kurie kaip įmaną steigė
+    lietuviams kelią per upį Osą užtverti, kaipogi didy­
+    sis mistras liepė urėdui kryžėjų parulbežy Pamezo-
+    nijos ir Kulmijos ant skardžio stiprią pilį įkurti ir
+    įgulę gausią tenai įdėti. Tuojau urėdas suvarė svie­
+    to daugybes pilės dirbti, kuriai vos pamatus buvo
+    pradedą dėti, kaip staiga pulkas lietuvių antpuolė
+    ir dirbėjus išblaškė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200956
+
+- id: c-184307
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 533"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 533."
+  citata_originali: |
+    Tą regėdami, kijevionys, išėję su savo vyresnybe
+    dvasiška ir ūkiška pro didžiąją angą pilės, Gedimi­
+    ną, Lietuvos didįjį kunigaikštį, pergalėtoju pasvei­
+    kino ir savo viešpačiu, arba monarchu, pakėlė, pa­
+    siėmę jo klausyti ir reikale jį šelpti. Gediminas nuo
+    savo pusės prižadėjo jų tikybą, arba vierą, kalbą,
+    dobę ir apsiėjimus jų bočių probočių užlaikyti ir
+    niekam pikto nedaryti; idant jis kuo didesniai ūki-
+    nykams Kijevo pasigerintų, padėjo tenai urėdu Min-
+    tautą, kunigaikštį Alšėnų, kursai neseniai buvo per­
+    sikrikštijęs. Gudriam ir išmintingam Gediminui ro­
+    dės, jog gudai, būdami krikščionimis, netikėlio urė­
+    do neapvežės, o turėdami krikščionį, tarsis patys
+    save berėdą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200957
+
+- id: c-184308
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 553"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
+  citata_originali: |
+    Atėjus svodbai, kas gal tą iškilmę aprašyti, su
+    kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­
+    klėsta diduomene vyrų ir žmonų lenkių ir lietuvių,
+    keliavo iš Vilniaus į Krokuvą pas savo jaunikį. Vi­
+    sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių
+    vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro
+    žibantys. Paskui Aldona apmartuota tarp kilties
+    žmonų ir mergaičių lenkių ir lietuvių keliavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200958

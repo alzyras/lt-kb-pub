@@ -3,12 +3,14 @@ tipas: ivykis
 pavadinimas: 'Mindaugo krikštas (krikštas)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1248 m.'
   - '1250 m.'
   - '1251 m.'
+  - '1252 m.'
   - '2026 m.'
 date_start: '1248'
 date_end: '2026'
@@ -86,6 +88,13 @@ Nenurodyta
   pagrindžia:
     - c-37037
 
+<a id="claim-t-200939"></a>
+- t-009
+  global_id: t-200939
+  teiginys: "1252 m. rugpjūčio 7 d., Daukanto pasakojimu, Rygos vyskupas Albertas Lotavijoje apkrikštijo Mintautą, jo žmoną ir 60 tėvūnų, arba senatorių."
+  pagrindžia:
+    - c-184289
+
 <a id="claim-t-187501"></a>
 - t-001
   global_id: t-187501
@@ -140,7 +149,7 @@ Nenurodyta
     žabelio nenulaužtų. Ir savo dievams tarnavo, ir degino
     mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
   citata_rodoma: ''
-  statusas: verified
+  statusas: not_found
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,3 +224,25 @@ Nenurodyta
   pagrindzia:
     - t-187502
     - t-187508
+
+- id: c-184289
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 347"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 347."
+  citata_originali: |
+    Mintautas nuo vienos pu­
+    sės gorinamas pavojum, nuo antros masinamas
+    krikščionų goda, noris nairydamos, pasiėmė tą da­
+    ryti, ko mistras norėjo1.
+    Atkeliavęs vyskupas Rygos Albertas su kita dva­
+    siška diduomene į Lotaviją, Mintauto pilį, jį patį,
+    jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo
+    metuose 1252, 7 dienoj rugpjūčio mėnesio. Tuojau
+    Mintautas liepė krikščionų kunigams svietą mokyti
+    ir krikštyti visoj Lietuvoj.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200939

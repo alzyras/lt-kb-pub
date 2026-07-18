@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Durbė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1236 m.'
@@ -68,6 +69,13 @@ media_all_json: |-
   teiginys: "Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“."
   pagrindžia:
     - c-43426
+
+<a id="claim-t-201057"></a>
+- t-005
+  global_id: t-201057
+  teiginys: "Meldžionų kariauna, pasak Daukanto, vijosi žemaičius ir aptiko jų būrį prie Durbės upės."
+  pagrindžia:
+    - c-184407
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš Kuršas: 1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
@@ -230,6 +238,36 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67869
+
+- id: c-184407
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 379"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 379."
+  citata_originali: |
+    Tuo tarpu atėjo žinia į abažą mel-
+    džionims dar tebtimpsant, jog 4000 rinktinių že­
+    maičių siaubia į pajūrį Žemgalių linkan, ką vien
+    sutinka, tą kauna, drevėj a ar terioja, o ko neveikia,
+    tą degina ir kerta, kas vien krikščioniu vadinas; kur-
+    žemis ar vokytis — visi gursta nuo smurtos kardos
+    įbingusių žemaičių, kurie suėmę daugybes krikš-
+    čionų ir sugrieję neapseikimą grobį gabena jau na­
+    mo. Tą išgirdusi, meldžionų kariauna ėmė vyti ne­
+    tikėlius, kuriuos atrado abaže betimpsančius ties
+    upe Durbe, arba Durbifce. Vokyčiai paties povy-
+    ziaus žemaičių nusigando, kaipogi vienos rindos meš­
+    kenose, kitos briedenose ir taurenose traukšojo, o
+    ant galvų arklių uodegas, tarp ragų kyšančias, vė­
+    jai plaikstė, į kurias veizėdamas, aiškiai sakė, jog
+    tenai velnių, ne žmonių, rindos niūkso, patys kyrie-
+    juotieji šalyse pulkuose susiskliautę kiūksojo, ty­
+    kodami netarsi likusiuosius vokyčius praryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201057
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]

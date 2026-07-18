@@ -1,0 +1,69 @@
+---
+tipas: ivykis
+pavadinimas: 'Žemaičių Klaipėdos pilies užėmimas ir sudeginimas'
+saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Žemaičių Klaipėdos pilies užėmimas ir sudeginimas
+
+## Santrauka
+
+Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-201353"></a>
+- t-001
+  global_id: t-201353
+  teiginys: "Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje."
+  pagrindžia:
+    - c-184703
+
+## Citatos
+
+- id: c-184703
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 540"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 540."
+  citata_originali: |
+    137.)
+    Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj
+    įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir­
+    to, bet ir miestą patį su laivais sudegino, vos ne
+    vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo.
+    Tuo pavykimu įdrįsę, traukė tuojau su viena dalia
+    į Nadraujus, su antra į Samiją, kurioje didžiai bai­
+    siai užvis apygardas Vėluvos nuterioję, su nemažu
+    grobiu namon jau grįžo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201353

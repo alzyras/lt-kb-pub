@@ -3,7 +3,7 @@ tipas: vieta
 pavadinimas: 'Černigovas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -40,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Švitrigaila paėmė į savo valdžią Černigovo sritį. Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje. Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
+Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
 
 ## Teiginiai
 
@@ -179,6 +179,13 @@ media_all_json: |-
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   pagrindžia:
     - c-183674
+
+<a id="claim-t-201121"></a>
+- t-019
+  global_id: t-201121
+  teiginys: "Daukanto pasakojime Olegas, nukariavęs severionis ir rodomičionis, esą užėmė Černigovo ir Vitebsko pilis iš chazarų."
+  pagrindžia:
+    - c-184471
 - susijęs iš Smolenskas: Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.
 - susijęs iš Novosilė: Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė.
 - susijęs iš Brianskas: Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.
@@ -198,7 +205,6 @@ media_all_json: |-
 - susijęs iš Dniepras: 1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.
 - susijęs iš Kijevas: 1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.
 - susijęs iš Kijevas: Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.
-- susijęs iš Kijevas: Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.
 - susijęs iš Kijevas: Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.
 - susijęs iš Kopilius: Valdymo pabaigoje Kopiliuje liko viena iš atskirų kunigaikštysčių.
 - susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.
@@ -206,7 +212,6 @@ media_all_json: |-
 - susijęs iš Novosilė: Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje.
 - susijęs iš Pinskas: Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.
 - susijęs iš Pinskas: Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.
-- susijęs iš Pinskas: Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.
 - susijęs iš Podolė: 1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.
 - susijęs iš Polockas: 1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.
 - susijęs iš Polockas: Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.
@@ -603,6 +608,32 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-200390
+
+- id: c-184471
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 53"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 53."
+  citata_originali: |
+    Pailsinęs pas­
+    kui savo kareivius, traukęs į paupius Pripetės užim­
+    ti juodgirėnų (Drewier) giminę lietuvių tautos, kurie
+    vienok, gailėdamies savo liuosybės, rengęsi gintis,
+    bet Olegas juos pergalėjęs ir liepęs duoklę jam*
+    šilti, tai yra juodos kiaunės kailį nuo dūmo duoti.
+    Ateinančius metus tas patsai karvedys, nukariavęs
+    severionis, rodomičionis, gudų tautos dalis, būk taip
+    pat užėmęs pilis Černigovo ir Vitebsko nuo chazarų,
+    kuriuos iš visos Baltosios žemės, arba Baltųjų Gudų,
+    išujęs. Paskui sukęsis į pietus kariauti ir tenai Pa­
+    dalijąs ir Volyniją, Galiciją, arba Rausvuosius Gu­
+    dus, ir Juoduosius pajūrius, beje, senovės tyragetų,
+    užkariavęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201121
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

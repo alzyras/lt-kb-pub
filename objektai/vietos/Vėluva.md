@@ -4,6 +4,7 @@ pavadinimas: 'Vėluva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -49,7 +50,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais. 1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą. Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.
+Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
 
 ## Teiginiai
 
@@ -157,6 +158,13 @@ Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nu�
   teiginys: "Prūsijos magistras po pagalbos iš svetur nusiaubė Lietuvos plotus, sudegino miestą ir sulygino su žeme Vėluvos bei Tapiavos kraštą."
   pagrindžia:
     - c-168574
+
+<a id="claim-t-201120"></a>
+- t-016
+  global_id: t-201120
+  teiginys: "Žemaičiai atnaujino Vėluvos pilį, tačiau Karaliaučiaus kamendotas vėliau papirko jos pilies vyrus ir ją užėmė."
+  pagrindžia:
+    - c-184470
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175115|Sūduviai-jotvingiai]]: Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.
@@ -207,6 +215,7 @@ Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nu�
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78535|Varmiai]]: 1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas.md#claim-t-62882|Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]: 1274 m. magistras ir broliai, siekdami praplėsti krikščionių žemių ribas, nukreipė ginklus prieš nadruvius.
+- susijęs iš [[objektai/ivykiai/Žemaičių Klaipėdos pilies užėmimas ir sudeginimas.md#claim-t-201353|Žemaičių Klaipėdos pilies užėmimas ir sudeginimas]]: Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
 - susijęs iš [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas.md#claim-t-87297|Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]: Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.
 - susijęs iš [[objektai/posakiai/krikšto prikelti naujam gyvenimui.md#claim-t-184035|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]: 1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.
@@ -505,6 +514,35 @@ Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nu�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188873
+
+- id: c-184470
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 362"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 362."
+  citata_originali: |
+    Vienok žemaičiai, gavę pragumą, norėjo dar
+    samioms gelbėti; to dėjęsi, susitarė su šalaujais, na-
+    draujais ir sūdaujais traukti į Sami ją kryžėjų ir ki­
+    tų meldžionų tremti, kurią baisiai baisesniai terio-
+    dami, kirto visa laukan, kas krikščioniu vokyčiu
+    vadinos. Patys kryžėjai nusigandę vos besuskubėjo
+    užsirakinti Karaliaučiaus pilė j, į kurią negalėdami
+    žemaičiai įsilaužti, pagrieję grobio, grįžo namo,
+    kurie dar, danguodamies nuo pavojaus, savo krašto
+    pilį Vėluvos atnaujino ir Tirskų, arba Tiškų, kuni­
+    gaikštį nadraujų, su jo sūnum Vaidiliu kamendo-
+    tais jos, arba pilės vyrais, pakėlė.
+    Vos kariauna lietuvių ir žemaičių buvo pasky-
+    dusi, kaip kamendotas Karaliaučiaus, paprakavęs
+    tuodu pilės vyru, įgavo pilį Vėluvą į ranką ir taip
+    ta pilis, kuri galėjo gelbėti nuo antpuolių kryžėjų
+    visą kraštą, dabar rados pastoge vokyčių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201120
 
 ## Ryšiai
 - Apgulė Vėluvą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Torunė'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -159,6 +160,13 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginys: "Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė."
   pagrindžia:
     - c-159560
+
+<a id="claim-t-201108"></a>
+- t-017
+  global_id: t-201108
+  teiginys: "Vilhelmas Torunėje sušaukė bažnyčios susirinkimą, kuriame dalyvavo Gniezno arkivyskupas, keli vyskupai, opatai ir kryžėjų vyresnybė."
+  pagrindžia:
+    - c-184458
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188213|Kryžiuočių ordinas]]: Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.
 - susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59998|Pipinas]]: Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.
@@ -661,6 +669,39 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175443
+
+- id: c-184458
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 318"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 318."
+  citata_originali: |
+    Visose tose vyskupijose įsakė popiežius per­
+    krikštams mokėti kas metą dešimtines vyskupams
+    ir kunigams, tai yra dešimtąjį pėdą ir gyvolį baž­
+    nyčiai duoti ir kas metą mokėti nuo alvieno žam­
+    bio pūrą rugių, pūrų, miežių, avižų, kuriuos mokes­
+    nius ne vien kryžėjai, bet pats popiežius buvo
+    patvirtinęs vyskupams, kurie buvo dar ketėję su kry-
+    žėjais užimsiančiaisiais kraštais nuo lietuvių ir že­
+    maičių taip tarp savęs dalytis: kryžėjai vieną dalį
+    duos vyskupams, o dvi sau paliks, vienok vyskupai
+    negalėjo savo dalies nei parduoti, nei dovenoti be
+    žinios popiežiaus, lygia dalia ir kryžėjai; skirti tas
+    sau dalis turėjo lėmimu.
+    Norėdamas v. Vilhelmas veikiai parėdyti tas
+    vyskupijas suvadino surinkimą bažnyčios į Torunę,
+    kur arkivyskupas Gnezno, vyskupai Braslavo, Les-
+    lavos ir Plocko, daugybė opatų ir kitos bažnyčios
+    diduomenės su vyresnybe kryžėjų susirinko ir te­
+    nai į naujas vyskupijas, tai yra Henriką dominikonį
+    vyskupu Kulmijos, Ernstą — Pamezonijos, Heiden-
+    reichą — Varmijos, arba Ermijos, palaimino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201108
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Pipinas]]

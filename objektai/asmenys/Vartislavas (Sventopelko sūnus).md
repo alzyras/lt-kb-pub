@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Vartislavas (Sventopelko sūnus)'
 saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1283 m.'
@@ -51,6 +52,20 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   teiginys: "Vartislavas (Sventopelko sūnus) po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei."
   pagrindžia:
     - c-61092
+
+<a id="claim-t-201042"></a>
+- t-003
+  global_id: t-201042
+  teiginys: "Vartislavas buvo vienas iš kunigaikščio Mestvino sūnų, kurie, Daukanto pasakojimu, buvo pasidaliję kraštą."
+  pagrindžia:
+    - c-184392
+
+<a id="claim-t-201043"></a>
+- t-004
+  global_id: t-201043
+  teiginys: "Magistras, Daukanto pasakojimu, sužinojęs apie Vartislavo nesantaiką su Lenkijos karaliumi Vladislovu, sudarė su Vartislavu sandorą."
+  pagrindžia:
+    - c-184393
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90039|Sventopelkas]]: Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.
@@ -79,6 +94,49 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
   pagrindzia:
     - t-60460
     - t-197162
+
+- id: c-184392
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 252"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 252."
+  citata_originali: |
+    Valdymie-
+    rais jos buvo sūnūs kunig. Mestvino: Sviatopelkas,
+    Samboras, Ratiboras ir Vartislavas, tie broliai buvo
+    kraštu pasidaliję. Sviatopelkas, vyriausiasis šūnus,
+    valdė saulėtekinę dalį ir Danske savo buveinę
+    turėjo, nuo ko Dansko kunigaikščiu vadinos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201042
+
+- id: c-184393
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 555"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 555."
+  citata_originali: |
+    Negana dar nė to buvo. Mistras, jutęs
+    Vartislavą, kunigaikštį Pamario, sukerštus su Vla­
+    dislovu, karalium Lenkų, tuojau ir su juorni sanda­
+    ras padarė, viens antram žadėdamu taikinėti ir ypa­
+    čiai su neprieteliais nekariauti neigi sandarauti. Tuo
+    tarpu karė su lenkais skaistyn vien reiškės, o Lie­
+    tuvoj skelbė didžiai stipriai ginkluojantis, kaipogi
+    Vladislovas, tardamos eisiąs Pamario užimti, sutrau­
+    kęs stiprią kariauną į Kujaviją, puolė staiga į Mo­
+    zūrų ą ir visą kraštą, kurio kunigaikštis bendra vos
+    su kryžėjais, nuteriojo ir, į Plocko pilį įsigrūdęs,
+    sudegino ir didį grobį sugriejo lig kryžėjams ant
+    pagalbos ateinant.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201043
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Sventopelkas]]

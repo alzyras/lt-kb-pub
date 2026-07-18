@@ -1,0 +1,84 @@
+---
+tipas: ivykis
+pavadinimas: 'Kalėdų žygis į Turaidą ir Ašradės mūšis (mūšis)'
+saltiniai:
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+variantai:
+  - 'Kalėdų žygis į Turaidą ir Ašradės mūšis'
+aliases:
+  - 'Kalėdų žygis į Turaidą ir Ašradės mūšis'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kalėdų žygis į Turaidą ir Ašradės mūšis (mūšis)
+
+## Santrauka
+
+Prieš Kalėdas Turaidos apygardos ūkininkai, kaip aprašo Daukantas, pasitelkę latvius ir žemaičius, perėjo Dauguvą, atėjo į Turaidą ir puolė kaimus.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-201285"></a>
+- t-001
+  global_id: t-201285
+  teiginys: "Prieš Kalėdas Turaidos apygardos ūkininkai, kaip aprašo Daukantas, pasitelkę latvius ir žemaičius, perėjo Dauguvą, atėjo į Turaidą ir puolė kaimus."
+  pagrindžia:
+    - c-184635
+
+## Citatos
+
+- id: c-184635
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 203"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 203."
+  citata_originali: |
+    Nebtverdamies Padaugavio perkrikštai tokiomis
+    novėmis visų pirma patrako ūkinykai Turaidos apy­
+    gardoj, kurie, možėdamos savo galia, patelkė į karę
+    dar tolesnius latvius ir žemaičius, kurie, persikėlę
+    per Daugavą, atėjo nakčia pagal Kūčių dieną į Tu-
+    raidą, auštant persikėlę per Gaują, paskydo po kai­
+    mas, kuriose tenai antpuolę vokyčius ir perkrikš­
+    tus, jiems algaujančius, vienus iškirto, kitus varė į
+    vergus, plėšė ir drevėj o, ką užeidami.
+    Kalėdų dieną Kaupapilės bažnyčioj, dviem kuni­
+    gam mišias belaikant, žmonys, išgirdę lietuvius ir
+    žemaičius atėjusius, kūlvertiniais grūdos iš bažny­
+    čios laukan; vieni muko stačiai į krūmus, kiti namo
+    spruko, tuo tarpu lietuviai ir žemaičiai ant savo
+    greitų žirgų pačiame pabažnyčy skraidė, kiti, su­
+    mūkę į kleboniją, drevėj o javus, gyvolius, turtus ir,
+    ką rasdami, krovė į savo vežimus. Taip bedrevėjant
+    kleboniją, mišios bažnyčioj pasibengė; kunigu, ne-
+    mintančiu, ką bedaryti, surinkusiu bažnyčios daik­
+    tus, zokrastijos kerčioj aptūpusiu saugojo*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201285

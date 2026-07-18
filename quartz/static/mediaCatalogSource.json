@@ -2784,6 +2784,162 @@
       "width": 5193
     },
     {
+      "attribution": "Барэйша, Ю. (2024) З гісторыі беларускай сфрагістыкі XII-XIV стст.: пломбы з легендай “NОЪГРОДЪ”, свінцовыя булы “Міндоўга”, невядомая пячатка Андрэя Альгердавіча Полацкага , Minsk : Энэргапрэс, p. 191 ISBN : 978-985-7298-30-3 .",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ADrawing_of_seals_from_the_treaty_of_1366.jpg",
+      "caption": "1366 m. sutarties antspaudų XVIII a. piešinys; didysis antspaudas priklausė Algirdui.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Невядомы мастак XVIII стагоддзя",
+      "dateDisplay": "between 1781 and 1785 date QS:P571,+1781-00-00T00:00:00Z/8,P1319,+1781-00-00T00:00:00Z/9,P1326,+1785-00-00T00:00:00Z/9",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T02:41:21.525037+03:00",
+      "height": 660,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Ryšys su Algirdu pagrįstas konkrečiu istoriniu antspaudu, ne vien vardu ar bendra kategorija.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-8c13f764008c72b308ce8d4e",
+      "metadataEvidence": "Aprašyme nurodyta, kad tai 1366 m. taikos sutartį patvirtinusių antspaudų XVIII a. piešinys, o didesnis ovalus antspaudas priklausė Lietuvos didžiajam kunigaikščiui Olgierdui.",
+      "originalTitle": "Drawing of seals from the treaty of 1366.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "seal_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "seal_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:41:57.104222+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "1366 seals",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "18th-century drawings",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks with known accession number",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Artworks without Wikidata item",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Manuscripts in the Czartoryski Library",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Seals of Algirdas",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg",
+      "tags": [
+        {
+          "code": "antspaudas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "antspaudas"
+        },
+        {
+          "code": "dokumentas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "dokumentas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "sutartis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "sutartis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "antspaudas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "antspaudas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Drawing_of_seals_from_the_treaty_of_1366.jpg",
+      "title": "Drawing of seals from the treaty of 1366.jpg",
+      "visualEvidence": "Matomas senovinis rankraštinis dviejų kabančių antspaudų piešinys; kairysis didesnis ovalus antspaudas turi figūrą ir įrašus.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 701
+    },
+    {
       "attribution": "www.zamek-krolewski.pl",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG",
       "caption": "Žygimanto Senojo portretas, Marcello Bacciarelli",
@@ -6796,9 +6952,9 @@
       "width": 4000
     },
     {
-      "attribution": "",
+      "attribution": "Own work",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ABistrampolis_Manor_17.jpg",
-      "caption": "Bistrampolio dvare eksponuojami Mindaugo, Vytauto ir Gedimino portretai.",
+      "caption": "Bistrampolio dvare eksponuojamas Mindaugo portretas kartu su kitų Lietuvos valdovų atvaizdais.",
       "collection": "",
       "confidence": 0.95,
       "confidenceLevel": "high",
@@ -6807,24 +6963,35 @@
       "dateDisplay": "Taken on 5 June 2019, 19:31:54",
       "dateEnd": null,
       "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T20:55:46.842920+03:00",
       "height": 2339,
       "institution": "",
-      "isPrimary": 0,
+      "isPrimary": 1,
       "judgeModel": "gpt-5.5",
-      "judgeReason": "Vaizdas tiesiogiai ir aiškiai dokumentuoja Lietuvos valdovų portretų ekspoziciją. Visi trys atvaizdai turi vizualiai įskaitomus identifikacinius užrašus, bet objektų nuorodos parenkamos tik iš kandidatų.",
+      "judgeReason": "Vaizde aiškiai identifikuotas Mindaugo istorinis portretas, todėl ryšys su target yra tiesioginis.",
       "language": "",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "mediaId": "m-86fdec3bafe71ebc22164409",
-      "metadataEvidence": "Failas yra Bistrampolio dvaro fotografija Lietuvoje; aprašas nurodo dvarą Panevėžio rajone ir Lietuvos istorijos kontekstą.",
+      "metadataEvidence": "Kandidato aprašas sieja vaizdą su Bistrampolio dvaru, o automatinė peržiūra nurodo, kad fotografijoje eksponuojami Mindaugo, Vytauto ir Gedimino portretai.",
       "originalTitle": "Bistrampolis Manor 17.jpg",
       "provider": "commons",
       "providerLabel": "Wikimedia Commons",
-      "relatedObjects": [],
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Mindaugas.md",
+          "relationType": "portrait_of",
+          "title": "Mindaugas (valdovas, XIII a.)"
+        }
+      ],
+      "relationType": "portrait_of",
       "reviewStatus": "accepted",
-      "reviewedAt": "2026-07-11T20:49:11+03:00",
+      "reviewedAt": "2026-07-11T20:56:26.902716+03:00",
       "rightsNote": "Creative Commons Attribution-Share Alike 4.0",
-      "sourceMethod": "theme_media_crawl_v1",
+      "sourceMethod": "media_collector",
       "sourceTags": [
         {
           "canonicalCode": "",
@@ -6907,8 +7074,8 @@
         },
         {
           "code": "portretas",
-          "confidence": 1.0,
-          "facetKind": "vaizdo_tipas",
+          "confidence": 0.95,
+          "facetKind": "tema",
           "label": "portretas"
         },
         {
@@ -6918,10 +7085,10 @@
           "label": "Bistrampolio dvaras"
         },
         {
-          "code": "fotografija",
+          "code": "vytauto-ikonografija",
           "confidence": 0.95,
           "facetKind": "tema",
-          "label": "fotografija"
+          "label": "Vytauto ikonografija"
         },
         {
           "code": "fotografija",
@@ -6954,12 +7121,6 @@
           "label": "lietuva"
         },
         {
-          "code": "portretas",
-          "confidence": 0.95,
-          "facetKind": "tema",
-          "label": "portretas"
-        },
-        {
           "code": "tapyba",
           "confidence": 0.95,
           "facetKind": "tema",
@@ -6970,18 +7131,12 @@
           "confidence": 0.95,
           "facetKind": "tema",
           "label": "valdovas"
-        },
-        {
-          "code": "vytauto-ikonografija",
-          "confidence": 0.95,
-          "facetKind": "tema",
-          "label": "Vytauto ikonografija"
         }
       ],
       "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bistrampolis_Manor_17.jpg/1920px-Bistrampolis_Manor_17.jpg",
       "title": "Bistrampolis Manor 17.jpg",
-      "visualEvidence": "Trys rėminti portretai su įskaitomais užrašais: kairėje „Rex Lithuaniae Mindaugus“ ir 1253–1263, centre „Magnus Dux Lithuaniae Witold“ ir 1392–1430, dešinėje „Magnus Dux Lithuaniae Gediminus“ ir 1316–1341.",
-      "visualReviewVersion": "media-import-visual-v1",
+      "visualEvidence": "Kairiajame paveiksle matomas karūnuotas barzdotas valdovas su užrašu „Rex Lithuaniae Mindaugus“ ir datomis 1253–1263.",
+      "visualReviewVersion": "media-visual-validator-v1",
       "width": 5846
     },
     {
@@ -9521,6 +9676,294 @@
       "width": 2232
     },
     {
+      "attribution": "",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3A01780_A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly_%2C_cropped.png",
+      "caption": "1773 m. Europos žemėlapio fragmentas su Estų kraštu ir Ilfingu (Truso), siejamu su vikingų laikotarpio Prūsijos prekybos centru.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Drawn up by Johann Reinhold Forster and his son Georg Forster",
+      "dateDisplay": "2024-09-25 16:58:39",
+      "dateEnd": null,
+      "dateStart": null,
+      "height": 773,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas ir bibliografinis aprašas savarankiškai pagrindžia tiesioginę sąsają su ankstyvąja Prūsijos istorija ir istoriniu šaltinių vaizdavimu.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-122561c92854e6ad4b92409d",
+      "metadataEvidence": "Įraše nurodyta, kad tai 1773 m. išleisto Alfredo Orosijaus vertimo iliustracinis J. Bayly graviruotas žemėlapis, vaizduojantis Ohterės ir Vulfstano keliones iki Truso.",
+      "originalTitle": "01780 A Map of Europe for the Illustration of King Alfred's Anglo-Saxon translation of Orosius. Engraved by J. Bayly , cropped.png",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [],
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T13:23:01+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "object_crawl_gallery_v1",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "1770s maps showing history",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "9th-century works in Lesser Poland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "9th-century works in Silesia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Burgundians",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-Zero",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Details of old maps of Europe",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "English-language maps of Poland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Ilfing",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Images with annotations",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maegthaland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Central Europe in the 8th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Central Europe in the 9th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Eastern Europe in the 8th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Eastern Europe in the 9th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the Croats",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Masovia in the 9th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Old Prussians",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Old maps of Eastern Europe",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old-100-expired",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Pomerania Suevica",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Prussia in the 9th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Self-published work",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Tribal period (8th–9th century) in Lesser Poland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Tribal period (8th–9th century) in Poland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Tribal period (8th–9th century) in Silesia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Truso",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Wendland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Weonodland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Wisleland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Witland",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/01780_A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly_%2C_cropped.png",
+      "tags": [
+        {
+          "code": "archyvinis-šaltinis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "archyvinis-šaltinis"
+        },
+        {
+          "code": "istorinis-planas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis-planas"
+        },
+        {
+          "code": "prūsija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "prūsija"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "žemėlapis"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "vaizdo_tipas",
+          "label": "žemėlapis"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/01780_A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly_%2C_cropped.png",
+      "title": "01780 A Map of Europe for the Illustration of King Alfred's Anglo-Saxon translation of Orosius. Engraved by J. Bayly , cropped.png",
+      "visualEvidence": "Matomi užrašai „Estum“, „Witland“, „Ilfing (Truso)“ ir pažymėtas jūrinis maršrutas Baltijos regione.",
+      "visualReviewVersion": "media-import-visual-v1",
+      "width": 773
+    },
+    {
       "attribution": "Own work",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg",
       "caption": "Krokuvos geležinkelių vietos žemėlapis.",
@@ -10101,6 +10544,148 @@
       "visualEvidence": "Žemėlapyje matomas Memelland, miestas „Memel“ prie Kuršių marių, taip pat Tilsit, Rytų Prūsija ir Lietuvos pasienis.",
       "visualReviewVersion": "media-visual-validator-v1",
       "width": 743
+    },
+    {
+      "attribution": "Own work",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3APOL_Seal_of_Olgierd_%281371%29.svg",
+      "caption": "Algirdo antspaudo rekonstrukcija, siejama su 1371 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Guccee This W3C-unspecified vector image was created with Inkscape .",
+      "dateDisplay": "2022-05-18",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T02:41:21.524680+03:00",
+      "height": 512,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys aiškiai identifikuoja vaizdą kaip Algirdo / Olgierdo antspaudą; tai tiesioginis su target susijęs istorinis atvaizdas, nors moderniai perpieštas.",
+      "language": "",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "mediaId": "m-480a09950fc1fa93830f625f",
+      "metadataEvidence": "Pavadinimas nurodo „Seal of Olgierd (1371)“, aprašyme teigiama, kad grafika sukurta pagal didžiojo kunigaikščio Olgierdo paties įspaustą antspaudą.",
+      "originalTitle": "POL Seal of Olgierd (1371).svg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "seal_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "seal_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:41:57.102162+03:00",
+      "rightsNote": "Creative Commons Attribution-Share Alike 4.0",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas, Grand Duke of Lithuania",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-BY-SA-4.0",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Self-published work",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Unspec New SVG created with Inkscape",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Unspec SVG created with Inkscape",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "User:Guccee/Graphics",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg",
+      "tags": [
+        {
+          "code": "antspaudas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "antspaudas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "rekonstrukcija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "rekonstrukcija"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "antspaudas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "antspaudas"
+        },
+        {
+          "code": "valdovo-antspaudas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "valdovo-antspaudas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/POL_Seal_of_Olgierd_%281371%29.svg",
+      "title": "POL Seal of Olgierd (1371).svg",
+      "visualEvidence": "Matomas stilizuotas pilkas skydo formos ženklas su centriniu geometriniu simboliu, pateiktas kaip antspaudo grafika.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 512
     },
     {
       "attribution": "https://www.vle.lt/straipsnis/motiejus-strijkovskis/",
@@ -11955,6 +12540,140 @@
       "width": 6136
     },
     {
+      "attribution": "",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AA_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly.jpg",
+      "caption": "XVIII a. Europos žemėlapis pagal Alfredo Orosijaus anglosaksų vertimą, su Baltijos regionu ir Vulfstano kelio iki Truso žymėjimu.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Drawn up by Johann Reinhold Forster and his son Georg Forster",
+      "dateDisplay": "2016-08-29 11:11:06",
+      "dateEnd": null,
+      "dateStart": null,
+      "height": 3220,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tai tiesiogiai su ankstyvąja Prūsija ir Baltijos regiono istorine geografija susijęs kartografinis šaltinis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-208656ffb0f17c1e1b6c435e",
+      "metadataEvidence": "Aprašas identifikuoja 1773 m. leidinio žemėlapį, parengtą J. R. ir G. Forsterių bei išgraviruotą J. Bayly; nurodytas Vulfstano maršrutas į Truso.",
+      "originalTitle": "A Map of Europe for the Illustration of King Alfred's Anglo-Saxon translation of Orosius. Engraved by J. Bayly.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [],
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T13:23:01+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "object_crawl_gallery_v1",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "1770s maps of Europe",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Aesti",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Images with annotations",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Lithuania in the 9th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Old Prussians",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old-100-expired",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Witland",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly.jpg",
+      "tags": [
+        {
+          "code": "archyvinis-šaltinis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "archyvinis-šaltinis"
+        },
+        {
+          "code": "istorinis-planas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis-planas"
+        },
+        {
+          "code": "prūsija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "prūsija"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "žemėlapis"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "vaizdo_tipas",
+          "label": "žemėlapis"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly.jpg/1920px-A_Map_of_Europe_for_the_Illustration_of_King_Alfred%27s_Anglo-Saxon_translation_of_Orosius._Engraved_by_J._Bayly.jpg",
+      "title": "A Map of Europe for the Illustration of King Alfred's Anglo-Saxon translation of Orosius. Engraved by J. Bayly.jpg",
+      "visualEvidence": "Baltijos regione matomi užrašai „Estum“, „Wislaland“, Truso apylinkės ir pažymėti jūriniai keliai.",
+      "visualReviewVersion": "media-import-visual-v1",
+      "width": 3254
+    },
+    {
       "attribution": "Own work",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AWisztyniec_2016_A_656.jpg",
       "caption": "Paminklas Vytautui Vištytyje, 2016 m.",
@@ -13630,6 +14349,142 @@
       "width": 339
     },
     {
+      "attribution": "Own work",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ALob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg",
+      "caption": "Lietuvos didžiojo kunigaikščio Algirdo antspaudo grafinis atvaizdas, 1366 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Лобачев Владимир",
+      "dateDisplay": "2012-01-30",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T02:41:21.525405+03:00",
+      "height": 1049,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys konkrečiai identifikuoja antspaudą kaip Algirdo, todėl vaizdas turi aiškų tiesioginį ryšį su target.",
+      "language": "",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "mediaId": "m-7852b2c936b85a0578f250d3",
+      "metadataEvidence": "Pavadinime nurodyta „Печать Ольгерда“, o aprašyme tiesiai sakoma, kad tai Lietuvos didžiojo kunigaikščio Algirdo antspaudas su kirilicos legenda ir 1366 m. data.",
+      "originalTitle": "Lob Печать Ольгерда.svg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "seal_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "seal_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:41:57.105965+03:00",
+      "rightsNote": "Creative Commons Zero, Public Domain Dedication",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-Zero",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Church Slavonic inscriptions in Lithuania",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Seals of Algirdas",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Self-published work",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Slavonic seals",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "АВЕ letter combinations",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg",
+      "tags": [
+        {
+          "code": "antspaudas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "antspaudas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "simbolis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "simbolis"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        },
+        {
+          "code": "antspaudas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "antspaudas"
+        },
+        {
+          "code": "valdovo-antspaudas",
+          "confidence": 0.82,
+          "facetKind": "tema",
+          "label": "valdovo-antspaudas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lob_%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D1%8C_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.svg",
+      "title": "Lob Печать Ольгерда.svg",
+      "visualEvidence": "Matomas apvalus antspaudo atvaizdas su rudu apskritu užrašu ir centriniu ženklu baltame lauke.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 1049
+    },
+    {
       "attribution": "",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3ASeal_of_Lengvenis_1395.svg",
       "caption": "Lengvenio 1395 m. antspaudo grafinė rekonstrukcija.",
@@ -14903,6 +15758,172 @@
     },
     {
       "attribution": "",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AUpper_Oka_Principalities_1462_ru.png",
+      "caption": "Aukštutinės Okos kunigaikštystės ir aplinkiniai kraštai apie 1462 m., Lietuvos Didžiosios Kunigaikštystės plėtros laikotarpiu.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Koryakov Yuri",
+      "dateDisplay": "2007-01",
+      "dateEnd": null,
+      "dateStart": null,
+      "height": 902,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas aiškiai ir tiesiogiai susijęs su Lietuvos Didžiosios Kunigaikštystės politine bei teritorine istorija.",
+      "language": "",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "mediaId": "m-439de99642d154fd67b3e1f5",
+      "metadataEvidence": "Pavadinimas ir aprašas tiesiogiai nurodo Lietuvos Didžiosios Kunigaikštystės ekspansiją apie 1462 m.; pateiktas autorius, data, Wikimedia Commons šaltinis ir licencija.",
+      "originalTitle": "Upper Oka Principalities 1462 ru.png",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [],
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T13:11:29+03:00",
+      "rightsNote": "Creative Commons Attribution-Share Alike 2.5",
+      "sourceMethod": "object_crawl_gallery_v1",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-BY-SA-2.5",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Extracted images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Historical map images that should use vector graphics",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Europe in the 15th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the Grand Duchy of Lithuania",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the Grand Principality of Moscow",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the history of Russia in Russian",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps showing 1462",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PNG that should use vector graphics",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Self-published work",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Upper Oka Principalities",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png",
+      "tags": [
+        {
+          "code": "istorinis-planas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis-planas"
+        },
+        {
+          "code": "lietuva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuva"
+        },
+        {
+          "code": "lietuvos_didžioji_kunigaikštystė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "lietuvos-didžioji-kunigaikštystė"
+        },
+        {
+          "code": "maskva",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "maskva"
+        },
+        {
+          "code": "regionas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "regionas"
+        },
+        {
+          "code": "valstybė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valstybė"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "žemėlapis"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "vaizdo_tipas",
+          "label": "žemėlapis"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Upper_Oka_Principalities_1462_ru.png",
+      "title": "Upper Oka Principalities 1462 ru.png",
+      "visualEvidence": "Matomas spalvotas istorinis politinis žemėlapis su pažymėtomis Lietuvos Didžiosios Kunigaikštystės, Maskvos kunigaikštystės ir kitų regiono politinių darinių teritorijomis apie 1462 m.",
+      "visualReviewVersion": "media-import-visual-v1",
+      "width": 1107
+    },
+    {
+      "attribution": "",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKoenigsberg%2C_Map_by_Bering_1613.jpg",
       "caption": "Karaliaučiaus miesto žemėlapis pagal Beringą, 1613 m.",
       "collection": "",
@@ -15679,6 +16700,156 @@
       "visualEvidence": "Matomas scheminis miesto planas su užrašu „Scheminis Kauno planas“, Nemunu, Nerimi ir pažymėtomis Kauno miesto dalimis.",
       "visualReviewVersion": "media-visual-validator-v1",
       "width": 2154
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_889192132",
+      "caption": "Lucko (Liubarto) pilies gynybinių įtvirtinimų panorama, 1967 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Karolis Mekas",
+      "dateDisplay": "1967",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T11:18:30.202311+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 1,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys konkrečiai identifikuoja Lucko, t. y. Liubarto, pilį, o vaizdas atitinka pilies įtvirtinimų panoramą; ryšys su target „Luckas“ yra tiesioginis.",
+      "language": "",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseUrl": "",
+      "mediaId": "m-2a2072d0c63a0206e414b199",
+      "metadataEvidence": "Pavadinime ir apraše nurodyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, aprašyti Valdovų, Švitrigailos ir Liubarto bokštai, nugarėlėje užrašyta „Lucko pilis“.",
+      "originalTitle": "Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.",
+      "provider": "europeana",
+      "providerLabel": "Trakai History Museum",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "vieta",
+          "notePath": "objektai/vietos/Luckas.md",
+          "relationType": "depicts",
+          "title": "Luckas"
+        }
+      ],
+      "relationType": "depicts",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T11:18:57.620150+03:00",
+      "rightsNote": "http://creativecommons.org/licenses/by/4.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-889192132/thumbnail-original/get.jpg",
+      "tags": [
+        {
+          "code": "miestas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "miestas"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "pilis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "pilis"
+        },
+        {
+          "code": "vieta",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "vieta"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-889192132%2Fthumbnail-original%2Fget.jpg&type=IMAGE",
+      "title": "Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.",
+      "visualEvidence": "Matoma ilga mūrinė pilies siena su keliais bokštais ir lauku pirmame plane; tai aiškus tvirtovės įtvirtinimų bendras vaizdas.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_888973168",
+      "caption": "Lucko (Liubarto) pilies gynybinių įtvirtinimų fragmentas, 1967 m.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Karolis Mekas",
+      "dateDisplay": "1967",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T11:18:30.203389+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Vaizdas ir metaduomenys sutampa su konkrečiu Lucko istoriniu objektu, kuris target apraše minimas kaip Lucko pilis; todėl tai tiesioginis atitikimas.",
+      "language": "",
+      "license": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseUrl": "",
+      "mediaId": "m-d4c03962111d24d0540bee8e",
+      "metadataEvidence": "Pavadinime ir apraše aiškiai įvardyta „XIV a. Lucko (Liubarto) pilis (Ukraina)“, nurodyti Švitrigailos, Valdovų ir Liubarto bokštai, taip pat užrašas „Lucko pilis“.",
+      "originalTitle": "Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.",
+      "provider": "europeana",
+      "providerLabel": "Trakai History Museum",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "vieta",
+          "notePath": "objektai/vietos/Luckas.md",
+          "relationType": "depicts",
+          "title": "Luckas"
+        }
+      ],
+      "relationType": "depicts",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T11:18:57.630204+03:00",
+      "rightsNote": "http://creativecommons.org/licenses/by/4.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [],
+      "sourceUrl": "https://www.epaveldas.lt/static/tim-bucket/LIMIS-888973168/thumbnail-original/get.jpg",
+      "tags": [
+        {
+          "code": "miestas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "miestas"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "pilis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "pilis"
+        },
+        {
+          "code": "vieta",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "vieta"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-888973168%2Fthumbnail-original%2Fget.jpg&type=IMAGE",
+      "title": "Fotonuotrauka. Panoraminė. XIV a. Lucko (Liubarto) pilis (Ukraina). Tvirtovės gynybinių įtvirtinimų fragmento bendras vaizdas. 1967 m.",
+      "visualEvidence": "Matoma ant kalvos stovinti mūrinė pilis su gynybine siena, keliais bokštais, pastatais papėdėje ir lauku pirmame plane.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": null
     },
     {
       "attribution": "",
@@ -17742,6 +18913,175 @@
       "width": 800
     },
     {
+      "attribution": "",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3A1202_Map_of_the_Prussian_and_Baltic_lands_before_the_arrival_of_the_knightly_orders_by_Putzgers_FW_Historischer_Atlas_Bielefeld.jpg",
+      "caption": "F. W. Putzgerio atlaso žemėlapis, vaizduojantis 1202 m. Prūsijos ir Baltijos žemes prieš riterių ordinų atvykimą.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Friedrich Wilhelm Putzger (1849-1913)",
+      "dateDisplay": "1929",
+      "dateEnd": null,
+      "dateStart": null,
+      "height": 945,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Tai tiesiogiai su prūsų istorija susijęs istorinis atlaso žemėlapis, tinkamas Lietuvos istorijos galerijai kaip regioninio istorinio konteksto šaltinis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-7d39fd4f9fcf478cf217985f",
+      "metadataEvidence": "Pavadinimas tiesiogiai nurodo Prūsijos ir Baltijos žemes prieš riterių ordinų atvykimą; kūrėjas – istorinio atlaso autorius Friedrichas Wilhelmas Putzgeris.",
+      "originalTitle": "1202 Map of the Prussian and Baltic lands before the arrival of the knightly orders by Putzgers FW Historischer Atlas Bielefeld.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [],
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T13:23:01+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "object_crawl_gallery_v1",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Estonia in the 13th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Galindia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "German-language maps showing history of Europe",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Historical map images that should use vector graphics",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "JPG images that should use vector graphics",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Old Courland",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of Yotvingia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the Baltic Tribes in 1200",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the Baltics in the 13th century",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the history of Estonia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Maps of the history of Latvia",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Putzgers Historischer Schul-Atlas",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1202_Map_of_the_Prussian_and_Baltic_lands_before_the_arrival_of_the_knightly_orders_by_Putzgers_FW_Historischer_Atlas_Bielefeld.jpg",
+      "tags": [
+        {
+          "code": "etninė-grupė",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "etninė-grupė"
+        },
+        {
+          "code": "istorinis-planas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis-planas"
+        },
+        {
+          "code": "prūsija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "prūsija"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "žemėlapis"
+        },
+        {
+          "code": "žemėlapis",
+          "confidence": 0.95,
+          "facetKind": "vaizdo_tipas",
+          "label": "žemėlapis"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1202_Map_of_the_Prussian_and_Baltic_lands_before_the_arrival_of_the_knightly_orders_by_Putzgers_FW_Historischer_Atlas_Bielefeld.jpg",
+      "title": "1202 Map of the Prussian and Baltic lands before the arrival of the knightly orders by Putzgers FW Historischer Atlas Bielefeld.jpg",
+      "visualEvidence": "Aiškiai pažymėtos Prūsijos žemės, prūsų gentinės teritorijos, Semigalija, Žemaitija, Lietuva ir kaimyniniai regionai.",
+      "visualReviewVersion": "media-import-visual-v1",
+      "width": 995
+    },
+    {
       "attribution": "https://azuolynobiblioteka.lt/wp-content/uploads/2024/01/Priedas_1922-m.-Kauno-planas.pdf https://azuolynobiblioteka.lt/paslaugos/kauno-entuziastams/kauno-entuziastu-virtualios-parodos/ Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka)",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg",
       "caption": "1922 m. Kauno miesto planas.",
@@ -19233,6 +20573,142 @@
       "width": 291
     },
     {
+      "attribution": "Батюшков П. И. Белоруссия и Литва. — СПб., 1890. С. 55.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg",
+      "caption": "1890 m. Algirdo portretinis atvaizdas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "1890",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T10:53:23.933878+03:00",
+      "height": 1462,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Aiškus tiesioginis portretinis Algirdo atvaizdas pagal metaduomenis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-03761d6e40e9dd4d007297d3",
+      "metadataEvidence": "Pavadinimas „Algierd. Альгерд (1890)“, aprašymas nurodo Lietuvos didįjį kunigaikštį Algirdą.",
+      "originalTitle": "Algierd. Альгерд (1890).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "portrait_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T10:55:07.617755+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas in engravings",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Belarus and Lithuania by Batyushkov (1890)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "graviūra",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "graviūra"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281890%29.jpg",
+      "title": "Algierd. Альгерд (1890).jpg",
+      "visualEvidence": "Pavaizduotas šarvuotas barzdotas valdovas su plunksnuotu šalmu, viena ranka ant juosmens, kita laiko valdžios ženklą.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 1385
+    },
+    {
       "attribution": "'Königsberg'. Artist/engraver/cartographer: Wagner &amp; Debes. Provenance: \"Northern Germany\"; by K. Baedeker, Published by Karl Baedeker, London: 9th Edition. Type: Antique colour map; Scale 1:16.000",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AKonigsberg_1886.jpg",
       "caption": "1886–1887 m. Karaliaučiaus miesto žemėlapis.",
@@ -20400,6 +21876,272 @@
       "visualEvidence": "Matomas valdovo portretas su karūna, šarvais, apsiaustu ir kalaviju; apačioje įrašyta „WITOLD W.X.L.“ ir nurodyta, kad vaizduota pagal senąjį originalą Nesvyžiuje.",
       "visualReviewVersion": "media-visual-validator-v1",
       "width": 2142
+    },
+    {
+      "attribution": "Белорусская национальная библиотека",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3A%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg",
+      "caption": "Józefo Oziębłowskio sukurtas Lietuvos didžiojo kunigaikščio Algirdo portretas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Józef Oziębłowski",
+      "dateDisplay": "1840s date QS:P,+1840-00-00T00:00:00Z/8",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T10:53:14.497274+03:00",
+      "height": 527,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Pavadinimas ir aprašymas aiškiai sieja portretą su Algirdu.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-51dc4aece1a0de4a0916e633",
+      "metadataEvidence": "Pavadinimas nurodo „Портрет вел. князя Ольгерда“, aprašymas sako, kad pavaizduotas Lietuvos didysis kunigaikštis Algirdas.",
+      "originalTitle": "Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "portrait_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T10:55:07.602306+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas in engravings",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Józef Oziębłowski",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-Art (PD-old-100)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-Art missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Retrospective portraits",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%D0%AE._%D0%90%D0%B7%D1%8F%D0%BC%D0%B1%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%B2%D0%B5%D0%BB._%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4%D0%B0.jpg",
+      "title": "Ю. Азямбловский. Портрет вел. князя Ольгерда.jpg",
+      "visualEvidence": "Juodai baltame portrete pavaizduotas šarvuotas vyras su šalmu ir valdžios ženklu rankoje.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 472
+    },
+    {
+      "attribution": "Bernardo Zaydler. Storia della Polonia. Florencija, 1831.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg",
+      "caption": "1831 m. Algirdo portretinis atvaizdas su įrašu „Olgierd“.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "1831",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T10:53:23.933111+03:00",
+      "height": 3870,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Tiek vaizdo įrašas, tiek metaduomenys tiesiogiai identifikuoja Algirdą.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-9ec4bf329b580c62bcf8da62",
+      "metadataEvidence": "Pavadinimas „Algierd. Альгерд (1831)“, aprašymas nurodo, kad pavaizduotas Lietuvos didysis kunigaikštis Algirdas.",
+      "originalTitle": "Algierd. Альгерд (1831).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "portrait_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T10:55:07.612693+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas in engravings",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "litografija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "litografija"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg/1920px-Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281831%29.jpg",
+      "title": "Algierd. Альгерд (1831).jpg",
+      "visualEvidence": "Matomas šarvuotas barzdotas vyras su plunksnuotu šalmu; apačioje įrašyta „Olgierd“ ir „Gran-Duca di Lituania“.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 2460
     },
     {
       "attribution": "LIMIS (primary account number of exhibit: LNDM PM 43543)",
@@ -25787,6 +27529,163 @@
       "width": 750
     },
     {
+      "attribution": "http://sterligoff.ru/",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AFacial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg",
+      "caption": "Algirdo mirtis XVI a. Rusios iliustruotajame metraštyje.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Anonymous Russian manuscript illuminators, 1560-1570s Facial Chronicle (Illustrated Chronicle of Ivan the Terrible) (in 10 volumes: pdf , pdf with translation ) Public domain image",
+      "dateDisplay": "16 th century date QS:P,+1550-00-00T00:00:00Z/7",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T10:53:10.121657+03:00",
+      "height": 3172,
+      "institution": "",
+      "isPrimary": 1,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys tiesiogiai identifikuoja sceną kaip Algirdo mirtį, o vaizdas atitinka istorinę rankraščio sceną.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-71a6f43b44745c1bf0732fd9",
+      "metadataEvidence": "Pavadinimas nurodo „Death of Algirdas“, aprašyme minima: mirė Lietuvos didysis kunigaikštis Ольгерд Гедиминович.",
+      "originalTitle": "Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "manuscript_depiction_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "manuscript_depiction_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T10:55:07.594613+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "1377 in Europe",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas in miniature",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Death in Facial Chronicle",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Facial Chronicle (v.6) - Ostermanovskiy 1-y tom (1254-1378)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Facial Chronicle miniatures (all)",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Files, uploaded by Shakko from various sources",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD Old",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg",
+      "tags": [
+        {
+          "code": "rankraštis",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "rankraštis"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "kronika",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kronika"
+        },
+        {
+          "code": "rankraštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "rankraštis"
+        },
+        {
+          "code": "scena",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "scena"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Facial_Chronicle_-_b.09%2C_p.119_-_Death_of_Algirdas.jpg",
+      "title": "Facial Chronicle - b.09, p.119 - Death of Algirdas.jpg",
+      "visualEvidence": "Matoma spalvota metraščio miniatiūra su gulinčiu valdovu, jį supančiais asmenimis ir miesto/pilies aplinka.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 1699
+    },
+    {
       "attribution": "National Library of Poland",
       "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg",
       "caption": "Brauno ir Hogenbergo Vilniaus žemėlapio vidutinio dydžio versija.",
@@ -26649,6 +28548,271 @@
       "visualEvidence": "Graviūroje matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi, įrėmintas ornamentais.",
       "visualReviewVersion": "media-visual-validator-v1",
       "width": 2568
+    },
+    {
+      "attribution": "Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg",
+      "caption": "Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "en:Alexander Guagnini (1538-1614)",
+      "dateDisplay": "1578",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T02:43:50.447072+03:00",
+      "height": 538,
+      "institution": "",
+      "isPrimary": 1,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-bbe59a74d3ba1b0a210f879b",
+      "metadataEvidence": "Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.",
+      "originalTitle": "Mindaugas.jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Mindaugas.md",
+          "relationType": "manuscript_depiction_of",
+          "title": "Mindaugas (valdovas, XIII a.)"
+        }
+      ],
+      "relationType": "manuscript_depiction_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T02:44:28.970763+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Mindaugas in art",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg",
+      "tags": [
+        {
+          "code": "rankraštis",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "rankraštis"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "karalius",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "karalius"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg",
+      "title": "Mindaugas.jpg",
+      "visualEvidence": "Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 358
+    },
+    {
+      "attribution": "Paprocki B. Gniazdo cnoty. — Krakow, 1578. S. 1145.",
+      "canonicalUrl": "https://commons.wikimedia.org/wiki/File%3AAlgierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg",
+      "caption": "1578 m. Algirdo portretinis atvaizdas.",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "Unknown author Unknown author",
+      "dateDisplay": "1578",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-11T10:53:23.931526+03:00",
+      "height": 1293,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.5",
+      "judgeReason": "Metaduomenys tiesiogiai identifikuoja asmenį kaip Algirdą, vaizdas yra portretinis.",
+      "language": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "mediaId": "m-829d238fa7302d4fbf51ec19",
+      "metadataEvidence": "Pavadinimas „Algierd. Альгерд (1578)“, aprašymas nurodo Lietuvos didįjį kunigaikštį Algirdą.",
+      "originalTitle": "Algierd. Альгерд (1578).jpg",
+      "provider": "commons",
+      "providerLabel": "Wikimedia Commons",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Algirdas.md",
+          "relationType": "portrait_of",
+          "title": "Algirdas (Lietuvos valdovas)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-11T10:55:07.608171+03:00",
+      "rightsNote": "Public domain",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Algirdas in engravings",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Author died more than 100 years ago public domain images",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "CC-PD-Mark",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Gediminas' Cap",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Images with annotations",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "PD-old missing SDC copyright status",
+          "language": "",
+          "provider": "commons"
+        },
+        {
+          "canonicalCode": "",
+          "field": "categories",
+          "label": "Template Unknown (author)",
+          "language": "",
+          "provider": "commons"
+        }
+      ],
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "asmuo",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "asmuo"
+        },
+        {
+          "code": "graviūra",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "graviūra"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "kunigaikštis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "kunigaikštis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Algierd._%D0%90%D0%BB%D1%8C%D0%B3%D0%B5%D1%80%D0%B4_%281578%29.jpg",
+      "title": "Algierd. Альгерд (1578).jpg",
+      "visualEvidence": "Pavaizduotas šarvuotas barzdotas valdovas su kalaviju ir karūnos tipo galvos apdangalu.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": 845
     },
     {
       "attribution": "muzea.malopolska.pl",
@@ -34762,6 +36926,497 @@
       "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F150000015899936%2F150000015899961%2Flow%2Fget&type=IMAGE",
       "title": "Varnių vyskupijos centras",
       "visualEvidence": "Matomas istorinis mūrinis pastatas, tačiau žmogaus portreto ar tiesioginio atvaizdo nėra.",
+      "visualReviewVersion": "media-visual-validator-v1",
+      "width": null
+    },
+    {
+      "attribution": "",
+      "canonicalUrl": "https://www.europeana.eu/item/2021802/LIMIS_440697506",
+      "caption": "Mindaugo portretas su užrašu „Mindaugas – Lietuvos karalius“",
+      "collection": "",
+      "confidence": 0.95,
+      "confidenceLevel": "high",
+      "country": "",
+      "creator": "",
+      "dateDisplay": "",
+      "dateEnd": null,
+      "dateStart": null,
+      "directness": "direct",
+      "firstDiscoveredAt": "2026-07-18T13:20:28.022898+03:00",
+      "height": null,
+      "institution": "",
+      "isPrimary": 0,
+      "judgeModel": "gpt-5.6-luna",
+      "judgeReason": "Vaizdas tiesiogiai vaizduoja konkretų target – Lietuvos karalių Mindaugą – o tapatybę papildomai patvirtina aiškus užrašas ir metaduomenys.",
+      "language": "",
+      "license": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "licenseUrl": "",
+      "mediaId": "m-1229ab18e5ed1b09e1c8e5e6",
+      "metadataEvidence": "Kandidato pavadinimas ir aprašas tiesiogiai nurodo piešinį-portretą „Mindaugas - Lietuvos karalius“; objektą pateikia Tauragės regioninis muziejus.",
+      "originalTitle": "Piešinys ,,Mindaugas - Lietuvos karalius\"",
+      "provider": "europeana",
+      "providerLabel": "Tauragė Regional Museum",
+      "relatedObjects": [
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Mindaugas.md",
+          "relationType": "portrait_of",
+          "title": "Mindaugas (valdovas, XIII a.)"
+        }
+      ],
+      "relationType": "portrait_of",
+      "reviewStatus": "accepted",
+      "reviewedAt": "2026-07-18T13:20:47.428788+03:00",
+      "rightsNote": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceMethod": "media_collector",
+      "sourceTags": [
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Ajalugu",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Carta",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Crtež",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Dejiny",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Desen",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Desenho",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Dessin",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Dibuix",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Dibujo",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Disegno",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Drawing",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Dějiny",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Geschichte",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Geschiedenis",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Histoire",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Historia",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Historie",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "History",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "História",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Hârtie",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Istorie",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Istorija",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Joonistus",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Karta",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Kresba",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Líníocht",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Marrazki",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Paber",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papel",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Paper",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Paperi",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papier",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papir",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papper",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papír",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Papīrs",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Piešimas",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Piirustus",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Popierius",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Povijest",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Páipéar",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rajz",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Risba",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Rysunek",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Stair",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Storia",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Storja",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Teckning",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Tegning",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Tekening",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Történelem",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Vēsture",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Zeichnung",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Zgodovina",
+          "language": "def",
+          "provider": "europeana"
+        },
+        {
+          "canonicalCode": "",
+          "field": "edm_concepts",
+          "label": "Zīmējums",
+          "language": "def",
+          "provider": "europeana"
+        }
+      ],
+      "sourceUrl": "https://www.epaveldas.lt/static/tkm-bucket/LIMIS-440697506/thumbnail-original/440713121.jpg",
+      "tags": [
+        {
+          "code": "portretas",
+          "confidence": 1.0,
+          "facetKind": "vaizdo_tipas",
+          "label": "portretas"
+        },
+        {
+          "code": "atvaizdas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "atvaizdas"
+        },
+        {
+          "code": "iliustracija",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "iliustracija"
+        },
+        {
+          "code": "istorinis-portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "istorinis portretas"
+        },
+        {
+          "code": "karalius",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "karalius"
+        },
+        {
+          "code": "muziejaus-eksponatas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "muziejaus-eksponatas"
+        },
+        {
+          "code": "paveikslėlis",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "paveikslėlis"
+        },
+        {
+          "code": "portretas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "portretas"
+        },
+        {
+          "code": "valdovas",
+          "confidence": 0.95,
+          "facetKind": "tema",
+          "label": "valdovas"
+        }
+      ],
+      "thumbUrl": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftkm-bucket%2FLIMIS-440697506%2Fthumbnail-original%2F440713121.jpg&type=IMAGE",
+      "title": "Piešinys ,,Mindaugas - Lietuvos karalius\"",
+      "visualEvidence": "Matomas istorinio tipo vyro su karūna, skydu ir kardu portretas; apačioje aiškiai įskaitomas užrašas „MINDAUGAS-LIETUVOS-KARALIUS“ ir datos „1251–1263“.",
       "visualReviewVersion": "media-visual-validator-v1",
       "width": null
     },

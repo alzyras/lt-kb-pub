@@ -2,7 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kuoknesė'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1581 m.'
@@ -38,7 +38,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo. Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
+Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.
 
 ## Teiginiai
 
@@ -76,6 +76,13 @@ media_all_json: |-
   teiginys: "Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus."
   pagrindžia:
     - c-167176
+
+<a id="claim-t-201077"></a>
+- t-006
+  global_id: t-201077
+  teiginys: "Daukanto pasakojime Veisekė iš Kuoknesės atvyko į Rygą aplankyti vyskupo Alberto, kuris jį priėmė ir vaišino."
+  pagrindžia:
+    - c-184427
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41213|Švedijos kariuomenė]]: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
@@ -85,7 +92,9 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41213|Švedijos kariuomenė]]: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
+- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-200977|Danielius (kunigas, XIII a.)]]: Daukanto pasakojime Danielius buvo Lenevaldės pilies kamendotas, o jo įgula naktį užpuolė miegančią Kuoknesės įgulą ir paėmė į nelaisvę kunigaikštį Veisekę su tarnais.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
+- susijęs iš [[objektai/asmenys/Teodorikas.md#claim-t-201038|Teodorikas]]: Teodorikas, Kuoknesės kamendotas, su kitais kariais sekė lietuvius ir kelyje su jais susigrūmė.
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41213|Švedijos kariuomenė]]: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Fiurstenbergo puolimas prieš Rygos arkivyskupą Vilhelmą ir jo įkalinimas.md#claim-t-185567|Fiurstenbergo puolimas prieš Rygos arkivyskupą Vilhelmą ir jo įkalinimas]]: Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49163|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.
@@ -93,10 +102,13 @@ media_all_json: |-
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49165|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49166|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
+- susijęs iš [[objektai/ivykiai/Kuoknesės įgulos naktinis užpuolimas.md#claim-t-201327|Kuoknesės įgulos naktinis užpuolimas]]: Lenevaldės pilies įgula naktį pasaloje užpuolė miegančią Kuoknesės įgulą, išblaškė jos karius ir suėmė Veisekę.
 - susijęs iš Kuoknesės pilis (pilis): 1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė.
 - susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas (vyskupas, XII–XIII a.)]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
+- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200961|Albertas (vyskupas, XII–XIII a.)]]: 1208 m. Albertas grįžo iš Teutonijos su didele maldininkų, diduomenės ir kunigų palyda, sušaukė perkrikštus ir vokiečius.
 - susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/asmenys/Karina Nilsdotter.md#claim-t-40260|Karina Nilsdotter]]: Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.
 - susijęs iš [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas.md#claim-t-79073|Karolis Carlsonas Gyllenhielmas]]: Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.
@@ -108,6 +120,8 @@ media_all_json: |-
 - susijęs iš [[objektai/grupes/Švedijos karalystė.md#claim-t-39023|Švedijos karalystė]]: Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.
+- susijęs iš Gercikė (vieta): Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš Visvaldį, žinodami, kad joje dar yra daug gėrybių.
+- susijęs iš Padauguvis: Daukanto pasakojime Padauguvyje naujasis kalavijuočių magistras įkūrė Trikotės, Burtinikės, Rožytės ir Heiligenburgo pilis.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
@@ -214,6 +228,25 @@ media_all_json: |-
   pagrindzia:
     - t-183788
 
+- id: c-184427
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
+  puslapiai: "PDF 201"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 201."
+  citata_originali: |
+    Tuo atėjus pirmasis darbas tų mel­
+    džionų buvo, iki nepradėjus kariauti, mūrus Rygos
+    paaukštinti taip, jog ilgainiui nebebūt nė kokio pa­
+    vojaus nuo netikėlių.
+    Tuo pačiu laiku Veisekė, kunigaikštis Kuokne-
+    sės, matydamas ūkinykus krikštijantis, atėjo, gerin­
+    damos vokyčiams, v. Albertą į Rygą lankyti, kur­
+    sai jį su didžia žmonysta priėmė ir vaišino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201077
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
 - Užėmė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]
