@@ -11,6 +11,14 @@ test("normalizes long metadata into search-sized title and description", () => {
 test("marks placeholders and broken OCR text as noindex", () => {
   assert.equal(isPoorSeoPage({ title: "Objektas", description: "Santrauka Nenurodyta" }), true)
   assert.equal(isPoorSeoPage({ title: "Objektas", text: "a b c d e f g h i j k l m n o p q r s t u v w x y z a b c d" }), true)
+  assert.equal(
+    isPoorSeoPage({
+      title: "Steponas Girdžiūnas-Gegužis",
+      description:
+        "Santrauka GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios girios Panevėžio apylinkių partizanai 5 a 4 jokias j oe — > ž + 4 © my",
+    }),
+    true,
+  )
   assert.equal(isPoorSeoPage({ title: "Vytautas Didysis", description: "Lietuvos didysis kunigaikštis." }), false)
 })
 

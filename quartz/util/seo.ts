@@ -79,7 +79,20 @@ export function isPoorSeoPage(input: SeoInput): boolean {
   }
   if (/\uFFFD/.test(summary) || /(?:\b\p{L}\s+){9,}/u.test(summary)) return true
   const tokens = summary.split(/\s+/).filter(Boolean)
-  return tokens.length >= 30 && tokens.filter((token) => [...token].length === 1).length / tokens.length > 0.45
+  const singleCharacterRatio =
+    tokens.length >= 30
+      ? tokens.filter((token) => [...token].length === 1).length / tokens.length
+      : 0
+  if (singleCharacterRatio > 0.45) return true
+
+  // OCR damage is often a mixed run of one-letter fragments, digits and
+  // punctuation rather than a long uninterrupted sequence. Catch that in the
+  // description itself so the page head and sitemap make the same decision.
+  const noisyTokens = tokens.filter((token) => {
+    const letters = [...token].filter((character) => /\p{L}/u.test(character)).length
+    return letters <= 1
+  })
+  return tokens.length >= 16 && noisyTokens.length / tokens.length > 0.22
 }
 
 function absoluteUrl(baseUrl: string, slug: string): string {
