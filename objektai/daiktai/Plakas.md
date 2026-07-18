@@ -55,6 +55,10 @@ Nenurodyta
 - t-001
   global_id: t-195310
   teiginys: "Plakas aprašytas per šieno nešimo ir krovimo praktiką."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177686
     - c-177687
@@ -77,6 +81,7 @@ Nenurodyta
     žemės.
   citata_rodoma: "Kad paduoti šieną ant bal­\nkio, motina atremia į balkį dvi sklidžias karteles, pavyzdžiui, naščius, ir jais užvaro plaką ant galo, grėbliu stumdama."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,6 +106,7 @@ Nenurodyta
     plakai, tai viena eilė.
   citata_rodoma: "Kraudami vežimą taip pat paduodavo šieną plakais: po vieną plaką ant keturių ragų (kerčių), po vieną ant dviejų šonų, iš viso šeši plakai, tai viena eilė."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

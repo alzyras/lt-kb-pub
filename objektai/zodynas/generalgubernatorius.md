@@ -42,14 +42,29 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-001
   global_id: t-45820
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "generalgubernatorius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"generalgubernatorius\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1861 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-48499
-    - c-166819
 
 <a id="claim-t-45822"></a>
 - t-002
   global_id: t-45822
   teiginys: "Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48497
 
@@ -57,6 +72,19 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-003
   global_id: t-182947
   teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "generalgubernatorius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"generalgubernatorius\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46900
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
@@ -84,6 +112,7 @@ Jį valdė Vilniaus generalgubernatorius.
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,6 +130,7 @@ Jį valdė Vilniaus generalgubernatorius.
     ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
     buvo ir šiose gubernijose dislokuota kariuomenė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,6 +153,7 @@ Jį valdė Vilniaus generalgubernatorius.
     įstatymų aktuose.
   citata_rodoma: "Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-\nnančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė \nryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-\nvas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-\nmus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai \nišmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių \nreforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta \nvykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,6 +173,7 @@ Jį valdė Vilniaus generalgubernatorius.
     vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
     mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

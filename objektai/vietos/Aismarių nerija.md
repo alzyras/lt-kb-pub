@@ -29,12 +29,21 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
 
 ## Teiginiai
 
-<a id="claim-t-90276"></a>
+<a id="claim-t-90277"></a>
 - t-001
-  global_id: t-90276
+  global_id: t-90277
   teiginys: "Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aistmarios: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aismarių nerija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aistmarios: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aismarių nerija\" parinktas kaip owner_note_path. Targetas \"Aistmarios\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-86142
     - c-86143
 - susijęs iš Kuršių nerija: Ordino lotyniškuose dokumentuose vardu Neria iš pradžių vadinta tik Aismarių nerija.
 ## Citatos
@@ -53,6 +62,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
     Akmena (Jūros intakas), u.
   citata_rodoma: "Aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr. Gėlo vandens\nmarios)\n  Aismarių nerija (Neria)\n   Aista, Aistija (plg."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,6 +88,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
       Aizkrauklė (buv.
   citata_rodoma: "Gėlo vandens\nmarios)\n  Aismarių nerija (Neria)\n   Aista, Aistija (plg."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

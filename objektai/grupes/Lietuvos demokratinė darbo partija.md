@@ -41,6 +41,16 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 - t-001
   global_id: t-169677
   teiginys: "Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos demokratinė darbo partija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos demokratinė darbo partija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-154381
 
@@ -48,6 +58,20 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 - t-002
   global_id: t-169680
   teiginys: "Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos demokratinė darbo partija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos demokratinė darbo partija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1993 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys daugiausia apie valstybės valdymo sistemą, o citata leidžia suformuluoti teiginį apie LDDP."
+  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
   pagrindžia:
     - c-154380
 
@@ -76,6 +100,7 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     Sąjunga–Lietuvos konservatoriai (TS–LK).
   citata_rodoma: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad \nLietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos \nkompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-\nzidentinei valdymo formai nepritarta. Visuomenė darėsi pliuralistinė, įre-\ngistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo \ndu pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi\n\nL I E T U V O S  I S T O R I J A\n250\nsocialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-\ntais ir taps LSDP) ir iš Sąjūdžio daugumos 1993 m. susidariusi Tėvynės \nSąjunga–Lietuvos konservatoriai (TS–LK)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,6 +120,7 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     cialdemokratinę orientaciją.
   citata_rodoma: "Taip atsirado nacionalinė eurokomunistinio tipo partija, \nturinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau \npasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-\ncialdemokratinę orientaciją."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

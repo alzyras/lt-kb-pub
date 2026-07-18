@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-67211
   teiginys: "1919 m. lapkričio 20 d. paskelbtas Steigiamojo seimo rinkimų įstatymas numatė rinkti po vieną atstovą nuo 15 000 gyventojų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67221
 
@@ -73,6 +76,7 @@ Nenurodyta
     porcingumo sistemos". Kandidatų sąrašus teikė partijos arba
     kuopos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

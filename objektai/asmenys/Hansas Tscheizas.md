@@ -32,6 +32,17 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
 - t-001
   global_id: t-87683
   teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykstantiems į Sileziją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Silezija: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hansas Tscheizas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Silezija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Hansas Tscheizas įtrauktas į asmenis, vykstančius į Sileziją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Hansas Tscheizas keliavo į Silezija (0.87)"
   pagrindžia:
     - c-83662
 
@@ -55,6 +66,7 @@ Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui i
     b u e Sivitrigail, p. 58-59 ir 61.
   citata_rodoma: "Švit­\nrigailos dvaro maršalka buvo Mzu- \nsas, kuriam išduotas didžiojo kuni­\ngaikščio garantinis raštas iki šiol \nsaugojamas Slaptajame archyve. Ki­\ntame savo laiške Švitrigaila prašo \ngarantijų Hansui (Janui) Tscheizui ir \njo svainiui Mikalojui Sachsei, taip \npat savo dvariškiams, su reikalais \nvykstantiems į Sileziją. Žr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,16 +59,24 @@ Nenurodyta
 - t-001
   global_id: t-195307
   teiginys: "Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177679
-    - c-177680
     - c-177681
     - c-177683
+    - c-177680
 
 <a id="claim-t-195308"></a>
 - t-002
   global_id: t-195308
   teiginys: "Vestuvių pasakojime ąsotis naudojamas alui nešti ir statyti ant stalo."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177678
     - c-177682
@@ -93,6 +101,7 @@ Nenurodyta
     nieko nesakęs.
   citata_rodoma: "Vyras pakylėjo ąsotį — ąsotis lengvas, ir vėl pastatė ant stalo nieko nesakęs."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +124,7 @@ Nenurodyta
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
   citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +145,7 @@ Nenurodyta
     siai apsilaistę.
   citata_rodoma: "Nežiūrint visokeriopos atsargos, ąsočiai atvažiuoja į pievas bai­\nsiai apsilaistę."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,6 +168,7 @@ Nenurodyta
     kalui perkami kuodidžiausi, pas mus lauknešių nevartoja.
   citata_rodoma: "Ąsočiai tam rei­\nkalui perkami kuodidžiausi, pas mus lauknešių nevartoja."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +191,7 @@ Nenurodyta
     išeina.
   citata_rodoma: "Po, valandėlės vyrui po ranka trinktelėjo į stalą sunkus ąsotis, pilnas putoto alaus."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,6 +213,7 @@ Nenurodyta
     piais.
   citata_rodoma: "Kamščiai ąsočiams padaryti iš suraitytų karnų, apvyniotų skarmaliukais ir ant viršaus kopūstla­\npiais."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

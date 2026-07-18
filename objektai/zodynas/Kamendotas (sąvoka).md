@@ -27,37 +27,54 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduoti marčelgą ir tris brostvius, nes laikė geriau stoti į mūšį. Daukanto pasakojime, įgulos kamendotui žuvus, lietuviai įsiveržė į pilį, išžudė visus joje buvusius žmones ir pilį sudegino. Daukanto aprašytame konvente kamendotas galėjo sėdėti teismo suole ir spręsti kartu su kitais pilies teisdariais.
+Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti. Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino. Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės.
 
 ## Teiginiai
 
 <a id="claim-t-201183"></a>
 - t-001
   global_id: t-201183
-  teiginys: "Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduoti marčelgą ir tris brostvius, nes laikė geriau stoti į mūšį."
+  teiginys: "Lietu viai ant to sutiko, bet reikalavo už vadą paties marčelgos ir trijų brostvių, kamendotas Baigos, arba Onedos, nenorėjo to daryti, tardamas geresniai į mūšą stoti su neprieteliais ir dūksaujant pas Dievą sau kelią skinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184533
 
 <a id="claim-t-201184"></a>
 - t-002
   global_id: t-201184
-  teiginys: "Daukanto pasakojime, įgulos kamendotui žuvus, lietuviai įsiveržė į pilį, išžudė visus joje buvusius žmones ir pilį sudegino."
+  teiginys: "Nes, besigrumiant su lietuviais, krito kamendotas įgulės, kuri, nustojusi karvedžio, pradėjo gurti, o lietuviai kuo narsesniai laužtis, ant galo įsigrūdo į pilį ir visa, kas tenai gyvu buvo, nugalavo, o pilį sudegino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184534
 
 <a id="claim-t-201185"></a>
 - t-003
   global_id: t-201185
-  teiginys: "Daukanto aprašytame konvente kamendotas galėjo sėdėti teismo suole ir spręsti kartu su kitais pilies teisdariais."
+  teiginys: "Tarp vyresniųjų pilės pusė turės būti brostvių, antra pusė ūkinykų, o kamendotas konvento tiesos suole sėdėti ir spręsti ly giai su kitais pilės teisdariais galės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184535
 
 ## Citatos
 
 - id: c-184533
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 339"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 339."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matydamas,
     Botelis, marčelga kryžėjų, norėjo savo kariauną
@@ -69,6 +86,7 @@ Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduot
     sau kelią skinti. Bet kiti brostviai jo neklausė ir
     vadus lietuviams norimus išdavė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,9 +94,8 @@ Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduot
     - t-201183
 
 - id: c-184534
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 424"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 424."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai, apmaudingi ant tos naujos savo
     liuosybės kalinyčios ir numanydami jos sykį, arba
@@ -93,6 +110,7 @@ Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduot
     skardžio tuo pačiu vardu įkūrė Kulnai jo j pilį, kuri
     ilgą laiką užsitvėrė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,9 +118,8 @@ Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduot
     - t-201184
 
 - id: c-184535
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 565"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 565."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jurgio konventą padės nau­
     ją įkurti ir 30 sieksnių mūrų savo pilės išgriaus bei
@@ -114,6 +131,7 @@ Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduot
     turėjo pasiimti į visus žygius prieš neprietelius ly­
     giai traukti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

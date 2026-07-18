@@ -63,6 +63,21 @@ Nenurodyta
 - t-001
   global_id: t-200607
   teiginys: "Po 1760 m. gaisro iš Andriaus Oginskio naujų rūmų liko tik sienos su židiniais."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1760 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas rūmų savininkas ir įvykio data. Nepridėta alternatyva apie kaminus, nes citatoje nurodyti židiniai."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183999
 
@@ -70,6 +85,20 @@ Nenurodyta
 - t-002
   global_id: t-200608
   teiginys: "1760 m. gaisras Vilniuje sunaikino naujus Andriaus Oginskio rūmus."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naujojo rūmų pastato gaisras Vilniuje (1760 m. birželio 3 d.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1760 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie 1760 m. gaisrą ir Oginskio rūmus. Jis tiesiogiai paremtas citata."
   pagrindžia:
     - c-183999
 
@@ -95,6 +124,7 @@ Nenurodyta
     ugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60].
   citata_rodoma: "J. D. Lopacinskio laiškuose taip pat \nbuvo paminėtas ir 1760 m. gaisras Vilniuje bei jo nuostoliai. Kanauninkas pasakojo, kad \nVyriausiojo Tribunolo maršalas Ašmenos seniūnas Andrius Oginskis labai nuliūdęs, nes \nugnis sunaikino jo naujus rūmus ir liko tik sienos su židiniais [60]."
   statusas: verified
+  atnaujinta: "2026-07-14 07:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,9 @@ media_all_json: |-
 - t-001
   global_id: t-194048
   teiginys: '1 4 Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-176661
 
@@ -47,6 +50,7 @@ media_all_json: |-
     apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
     Virš skydo, šalme — kryžius tarp dviejų jaučio ragų.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

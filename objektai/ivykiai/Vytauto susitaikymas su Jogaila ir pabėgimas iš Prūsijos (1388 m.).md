@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185663
   teiginys: "Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Palenkė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Palenkė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto judėjimą į Palenkę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169024
 
@@ -59,6 +72,13 @@ Nenurodyta
 - t-002
   global_id: t-196274
   teiginys: "Kojelavičiaus pasakojime Jogaila, baimindamasis, kad Lietuva ir Rusia pripažins Vytauto valdžią, skubėjo stabdyti karo veiksmus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178608
 
@@ -66,6 +86,13 @@ Nenurodyta
 - t-003
   global_id: t-196275
   teiginys: "Kojelavičius vaizduoja Ordino magistrą sutikusį su Vytauto siūlymu, kad naujos Lietuvos skriaudos apsunkintų Vytauto suartėjimą su Jogaila."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169024
 
@@ -102,6 +129,7 @@ Nenurodyta
     ir sudegino pilis, išsivedė įgulų viršininkus.
   citata_rodoma: "Magistras lengvai sutiko su tuo siūlymu, jis ir \npats trokšte troško naujomis Lietuvos skriaudomis ai­\ntrinti senąsias žaizdas, tada Vytautui būtų sunkiau su­\nartėti su karaliumi Jogaila, jis būtų priverstas stipriau \nlaikytis draugystės su kryžiuočiais. Vytautas įsakė sa­\nvo kariams parengti ginklus, pasiimti maisto daugeliui \ndienų ir gerai pasiruošti skubiam žygiui: pats taip vis­\nką tvarkė, kad jo žmonės neapsikrautų per daug nešu­\nliais ir kad kryžiuočiams nekiltų įtarimas, jog jie bėga. \nIšjojęs iš Marienburgo visai kitu keliu, ne tuo, kuris \nvedė į dvarą, netrukus pasuko ir iš dvaro pasiėmė žmo­\nną, kuri, kaip ir buvo sutarta, susiruošusi jo laukė su \nturtais, ir skubiai paspruko link Žemaitijos, o iš ten, \npasukęs Prūsijos pasieniu į Palenkę, kurią gynė jo įgu­\nlos, Jurbarke, Noigardene, Marienburge, sutinkamas \ntarsi draugas, išžudė vokiečių eilinius karius, apiplėšė \nir sudegino pilis, išsivedė įgulų viršininkus."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +159,7 @@ Nenurodyta
     greitai patiki pažadais, ypač kai pažadai atitinka jo troš­
     kimus.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

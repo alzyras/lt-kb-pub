@@ -41,6 +41,24 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
 - t-002
   global_id: t-191307
   teiginys: "Petras Malachovskis, Černigovo dvarininkas, 1780 m. Lucke išleido veikalą apie bajorų pavardes ir jų herbus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Černigovas: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Malachovskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Černigovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata apibūdina Petrą Malachovskį kaip Černigovo dvarininką, todėl sieja jį su Černigovu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Petras Malachovskis gyveno Černigovas (0.70)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1780 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Petras Malachovskis gyveno Černigovas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš citatos išskleisti asmens statusas, data, leidimo vieta ir veikalo tema. Neperrašytas visas bibliografinis pavadinimas ir nepridėta informacijos už citatos ribų."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174189
 
@@ -48,6 +66,11 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
 - t-001
   global_id: t-191306
   teiginys: 'Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pateikė žinių apie Gedimino herbo suteikimą Krunevičiui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys paliktas kaip Narbuto nuoroda į kito autoriaus rinkinį, nes citata pati pabrėžia neaiškų šaltinį. Nepridėta, kad suteikimas tikrai įvyko.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-174188
 
@@ -67,8 +90,8 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
     suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,6 +112,7 @@ Narbutas nurodė, kad Petras Malachovskis bajoriškų pavardžių rinkinyje pate
     nazwisk szlachty z opisem herbow wiasnych, familjom zostającym
     w Krolestvvie Polskiem i w. ks. Lit,ewskiem. Luck, 1780.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,6 +30,20 @@ Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir švi
 - t-001
   global_id: t-200864
   teiginys: "Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir šviesų poveikyje formavosi Antakalnio bažnyčios skulptorių optika."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Italai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Claude Lorrainas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Italai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Claude Lorrainas\" parinktas kaip owner_note_path. Targetas \"Italai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184209
 
@@ -49,6 +63,7 @@ Mikalojus Vorobjovas Claude Lorrainą mini tarp meistrų, kurių spalvų ir švi
     susiformavo jau tokių meistrų, kaip Tintoretto ir Greco, Rubensas ir Rem-
     brandtas, Claude Lorrainas, spalvų ir šviesų magijos poveikyje. Galop šv.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

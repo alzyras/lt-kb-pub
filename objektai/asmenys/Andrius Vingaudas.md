@@ -34,6 +34,20 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-001
   global_id: t-185996
   teiginys: "Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Trubčevskas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Trubčevskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Andrius tiesiogiai įvardytas Trubčevsko kunigaikščiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Andrius Vingaudas buvo valdovas Trubčevskas (0.82)"
   pagrindžia:
     - c-169357
 
@@ -41,6 +55,21 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-002
   global_id: t-185997
   teiginys: "Kojelavičiaus pasakojime Vytautas susitikime susirūpino Andriaus Vingaudo paleidimu, norėdamas pelnyti Jogailos brolių palankumą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Andrius Vingaudas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andrius siekė valdžios su kryžiuočių pagalba."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Andrius Vingaudas (0.80)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-169358
 
@@ -48,6 +77,21 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-003
   global_id: t-185998
   teiginys: "Kojelavičiaus pasakojime Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, linkusį į maištus ir siekusį valdžios su kryžiuočiais."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Andrius Vingaudas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja Andriaus valdžios siekį su kryžiuočių pagalba."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Andrius Vingaudas (0.86)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-169359
 
@@ -84,6 +128,7 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     niokoti lietuvių valdas.
   citata_rodoma: "Konradas Celneris, ne-\nJ o g a ilo s broliu A n d -\nseniai draugiškai abiejų ka-\nriu m i V in g a u d u\nralių pakviestas į vestuves,\npadalijęs kariuomenę dviem\nvoromis, įsiveržė vienu metu į Lietuvą ir Žemaitiją,\nsukeldamas didelį išgąstį ir padarydamas sunkių nuos­\ntolių; kadangi kunigaikščiai buvo išvykę, abi negan­\ndos rodėsi dar didesnės. Kitoje pusėje Andrius Vin-\ngaudas, Trubčevsko kunigaikštis, Jogailos brolis, per­\nsikėlęs per Dauguvą, nelyginant piktas priešas ėmė\nniokoti lietuvių valdas. Dar vaikas priėmęs krikščio­\nnybę pagal graikų apeigas, buvo rusų labiau mėgsta­\nmas nei kiti broliai; be to, gerokai anksčiau buvo su­\nkėlęs dėl visokių savo savybių beveik visos Rusios\npalankumą."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,6 +174,7 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     nigaikščiu.
   citata_rodoma: "Kad ateityje nesirastų dėl kokio men­\nko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo\nšiol visus jų ginčus spręsiąs tiktai karalius. Per tą patį\nsusitikimą Vytautas, norėda-\nA n d iių  V in g a u d ą  pa-\nmas pelnyti šiokį tokį kara-\nleid žia  į la isv ę\nliaus brolių palankumą sau,\npamėgino laimėti jų draugys­\ntę, susirūpindamas Andriumi Vingaudu, Trubčevsko ku­\nnigaikščiu. Linkusį į maištus ir su kryžiuočių pagalba\nsiekusį valdžios Andrių Jogaila pirmaisiais savo vieš­\npatavimo metais buvo uždaręs į kalėjimą, kur ligi šiol\ntebelaikė, šiam nė nežinant, ar liks gyvas, ar ne."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,6 +203,7 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
   citata_rodoma: "Linkusį į maištus ir su kryžiuočių pagalba\nsiekusį valdžios Andrių Jogaila pirmaisiais savo vieš­\npatavimo metais buvo uždaręs į kalėjimą, kur ligi šiol\ntebelaikė, šiam nė nežinant, ar liks gyvas, ar ne. Vytau­\ntas jį užstojo, maldaute maldaudamas karalių dar kartą\nnudžiuginti visų širdis: tą dieną ne tik Vytautas baigė\nginčą su Skirgaila, karaliui tarpininkaujant, bet, Vytau­\ntui prašant, susilaukė malonės ir Andrius. Vis dėlto\nsunkiai išprašė Andriui gyvybę, laisvę bei valdų."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

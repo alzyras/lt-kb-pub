@@ -34,6 +34,9 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - t-001
   global_id: t-70270
   teiginys: "Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69324
 
@@ -41,6 +44,9 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - t-002
   global_id: t-70271
   teiginys: "Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69325
 
@@ -63,6 +69,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: "Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,6 +95,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     jų kariuomenės likučiai.
   citata_rodoma: "Kryžiuočiai ėmė trauktis; Vy-\ntautas tuo tarpu buvo sunaiki-\nnęs jų atgaliniam kely paruoštą\nmaisto atsargą, ir jų kariuome-\nnėje kilo badas. Kęstučio ir\nVytauto būriai puolė kryžiuo-\nčius kur galėdami, ir iš didelio\nžygio savo kraštą pasiekė vos\nmaži išbadėjusios ir sušalusios\njų kariuomenės likučiai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

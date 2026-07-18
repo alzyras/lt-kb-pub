@@ -33,24 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžėjai, persikėlę per Nemuną į Salsenikę, nusiaubė kraštą, sugriovė tris pilis, nukovė daug gyventojų ir su grobiu bei 700 belaisvių grįžo į Parusnį.
+Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sargą, nuo kurio išsiteiravo lietuvius nežinant apie jų artinimos, daran persikėlę per Nemuną į apygar dą Salsenikę, kurioje dar krikščionies pėda niekuo met nebuvo buvusi, visą kraštą.
 
 ## Teiginiai
 
 <a id="claim-t-201152"></a>
 - t-001
   global_id: t-201152
-  teiginys: "Kryžėjai, persikėlę per Nemuną į Salsenikę, nusiaubė kraštą, sugriovė tris pilis, nukovė daug gyventojų ir su grobiu bei 700 belaisvių grįžo į Parusnį."
+  teiginys: "Kryžėjai, eidami tenai su stipresne kariauna, sugavo lietuvių rubežiaus sargą, nuo kurio išsiteiravo lietuvius nežinant apie jų artinimos, daran persikėlę per Nemuną į apygar dą Salsenikę, kurioje dar krikščionies pėda niekuo met nebuvo buvusi, visą kraštą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184502
-- susijęs iš Nemunas: Daukanto pasakojime kryžėjai, sugavę lietuvių pasienio sargą, persikėlė per Nemuną į Salsenikę ir nuniokojo kraštą.
-- susijęs iš [[objektai/ivykiai/Vienerių metų paliaubos su kryžėjais.md#claim-t-201349|Vienerių metų paliaubos su kryžėjais]]: Daukantas spėja, kad apie 1312 m. lietuviai ir žemaičiai po kryžėjų žygio į Salsenikę sudarė vienų metų paliaubas su kryžėjais.
+
 ## Citatos
 
 - id: c-184502
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 509"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 509."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą patį metą liepos mėnesy laimingesnis bu­
     vo antras jų žygis į Gardiną. Kryžėjai, eidami tenai
@@ -64,6 +68,7 @@ Kryžėjai, persikėlę per Nemuną į Salsenikę, nusiaubė kraštą, sugriovė
     pargrįžo. Regis, tuo pačiu laiku lietuviai ir žemai­
     čiai ant vienų metų paliaubas padarė su kryžėjais1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

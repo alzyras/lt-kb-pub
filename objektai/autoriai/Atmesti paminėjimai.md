@@ -43,6 +43,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-001
   global_id: t-193513
   teiginys: "Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176193
 
@@ -50,6 +56,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-002
   global_id: t-193514
   teiginys: "Atmesti paminėjimai pats neturėjo nė vieno didesnio laivo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176194
 
@@ -57,6 +69,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-003
   global_id: t-193516
   teiginys: "Atmesti paminėjimai laikė šias pilis apsuptas ištisas dvidešimt dienų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176196
 
@@ -64,6 +82,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-004
   global_id: t-193518
   teiginys: "Atmesti paminėjimai atėmė iš lietuvių bei žemaičių keletą pilių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176198
 
@@ -71,6 +95,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-005
   global_id: t-193521
   teiginys: "Atmesti paminėjimai vėliau niekada jau nebegalėjo pasiekti ankstesnio didingumo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176201
 
@@ -78,6 +108,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-006
   global_id: t-193523
   teiginys: "Atmesti paminėjimai taip pat nuoširdžiai trokštąs taikos, ir išsiuntė raštą, kurio Žygimantas buvo prašęs."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176203
 
@@ -85,6 +121,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-007
   global_id: t-193524
   teiginys: "Atmesti paminėjimai priprašė Vladislovą parašyti Žygimantui laišką ir priminti, kad nuolatinis bylos sprendimo atidėliojimas galįs pakenkti Glinskio vardui ir padėčiai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176204
 
@@ -92,6 +134,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-008
   global_id: t-193528
   teiginys: "Atmesti paminėjimai skirstė į lietuvius ir rusus, atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176208
 
@@ -99,6 +147,12 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-009
   global_id: t-196336
   teiginys: "Atmesti paminėjimai ir pats h u žgniaužia N augarjame dalyvavo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-178634
 
@@ -134,6 +188,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     kurstyti Pelužio.
   citata_rodoma: "Tame mūšyje žuvo keli tūkstančiai lie­\ntuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­\nėmė, daugybę po miškus klaidžiojančių vėliau išžudė\nkaimiečiai. Tačiau nei viena, nei kita pergalė negalė­\njusi, pasak metraštininkų, atsverti nuostolių, kuriuos\nLenkija tais metais patyrė iš lietuvių: Lukovo apylin­\nkės, Sandomiro bei Liublino žemės tapo visiškai nu­\nniokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­\nmingai puolė priešą, kryžiuočių riteriai, pavergę vi­\nsas prūsų gentis, pradėjo rengti žygius į Lietuvą gal\nsuvokę, jog laikas patogus išpuoliams, o gal, jeigu\ndėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­\ndaug tuo metu gyveno tremtyje tarp kryžiuočių; kai\nvaldžia atsidūrė kitos šeimos rankose, jis susimanė,\nsvetur gyvendamas, įsigyti didžiojo kunigaikščio ti­\ntulą."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,6 +230,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     jie galės ne tik susikauti, bet ir nugalėti.
   citata_rodoma: "Vėliau,\nsužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-\nnas tinkamai išnaudojo gautą atokvėpį: išvedė iš pilies\nįgulą ir išgabeno vertingiausius daiktus; priešas, už­\nėmęs tuščią pilį ir sugriovęs gynybinius įrenginius, ne­\ndrįso toliau veržtis. Šiek tiek vėliau Ernekė, Ragainės\nkomtūras, ieškodamas progos karui ar pataikaudamas,\nkaip priduria senieji rašytojai, kažkokiam iš Vienos\nkilusiam kryžiuočiui, troškusiam pamatyti priešų kraš­\ntą, su rinktiniais kryžiuočių ordino vyrais plaukė Ne­\nmunu prieš srovę į Lietuvą, ir jau buvo bepraplaukią\nKolainių pilį, Surmino iš naujo atstatytą. Surminas,\ndegdamas visuotine neapykanta ir kęsdamas skausmą\ndėl neseniai patirtų nuostolių, baisiai širdo, kad prie­\nšas kuo ramiausiai jo akyse plaukioja, tačiau atvirai\nnieko negalėjo padaryti, nes\nK a rin iu  v y liu m i pa-\nšie, atokiau nuo kranto plau-\nim a m a s\nk ry žiu o č ių\nkdami,\nbuvo\nnepasiekiami\nla iv a s\nnei ietimis, nei strėlėmis, o\njis pats neturėjo nė vieno di­\ndesnio laivo."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,6 +259,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     karių krūvas?
   citata_rodoma: "Tuo tarpu Gedimi­\nnas, norėdamas padėti apsuptai Veliuonai, su didelėmis\njėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias\npilis apsuptas ištisas dvidešimt dienų. Artėdami prie\ngynybinio pylimo, lietuviai čia patyrė smarkų pralai­\nmėjimą, nes buvo pavartoti ligi tol neregėti negirdėti\nginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­\ntoti geležinius vamzdžius, kurie, užtaisyti paraku ir\nsviediniais, purkšdami liepsnojantį paraką, be galo\nsmarkiai ir su baisiu trenksmu išmeta sviedinį į prie­\nšą."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,6 +288,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     lietuvių bei žemaičių keletą pilių.
   citata_rodoma: "Nusiaubęs dideliuose\nplotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš\nlietuvių bei žemaičių keletą pilių. Sutraukęs kraštą nio­\nkojusius pulkus prie Marienverderio salos, pasak kry­\nžiuočių metraštininkų, prieš vesdamasis karius į krašto\ngilumą, iškėlė toje saloje prabangią puotą. Prie stalo\nvisi karvedžiai bei riteriai susėdo tokion vieton, kokia\nkiekvienam priklausė pagal\nPrieš\nm ū šį\niškelia\njo žygių šlovę."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -260,6 +318,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     taip nuniokojo, kad jis vėliau niekada jau nebegalėjo
     pasiekti ankstesnio didingumo.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -293,6 +352,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     siektų, kad Vasilijus būtų paskelbtas Lietuvos didžiuoju
     kunigaikščiu.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,6 +378,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     kilo į viešumą.
   citata_rodoma: "Tvarkydamas savo pairusius reikalus,\npirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­\ndislovą, bet šį kartą ir ten ne viskas išėjo taip, kaip\nnorėjo. Jis priprašė Vladislovą parašyti Žygimantui laiš­\nką ir priminti, kad nuolatinis bylos sprendimo atidėlio­\njimas galįs pakenkti Glinskio vardui ir padėčiai. Po\nVladislovo pasiuntinio atvyko pats Glinskis, maldau­\ndamas karalių viešai bylą išnagrinėti ir kuo greičiausiai\npaskelbti karališkąjį sprendimą vieno ar kito naudai."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -344,6 +405,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     katalikus.
   citata_rodoma: "Lietuvos\nDidžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,\natsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę.\n15 Rusų metraščiais autorius\nvadina Lietuvos\nmetraščius, nes\njie parašyti Lietuvos Didžiojoje Kunigaikštystėje vartota rusų (bal­\ntarusių ir ukrainiečių)\nkalba. Ta pačia kalba parašyti ir Lietuvos\nstatutai."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -375,6 +437,7 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už
     šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -35,52 +35,41 @@ media_all_json: |-
 
 ## Santrauka
 
-1273 m. Auktuma, Pagezonijos karvedys, Daukanto pasakojimu dar gynė pagezonių laisvę nuo kryžiuočių. Daukantas Auktumą mini tarp penkių sričių karvedžių, siekusių išlaisvinti savo tėvynes ir gyventi laisvai, o su juo sieja Pagezoniją.
+Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj. Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti.
 
 ## Teiginiai
 
-<a id="claim-t-201398"></a>
+<a id="claim-t-201397"></a>
 - t-001
+  global_id: t-201397
+  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184747
+
+<a id="claim-t-201398"></a>
+- t-002
   global_id: t-201398
-  teiginys: "1273 m. Auktuma, Pagezonijos karvedys, Daukanto pasakojimu dar gynė pagezonių laisvę nuo kryžiuočių."
+  teiginys: "Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184748
 
-<a id="claim-t-201474"></a>
-- t-002
-  global_id: t-201474
-  teiginys: "Daukantas Auktumą mini tarp penkių sričių karvedžių, siekusių išlaisvinti savo tėvynes ir gyventi laisvai, o su juo sieja Pagezoniją."
-  pagrindžia:
-    - c-184824
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200925|Lietuviai]]: Auktuma, pagezonų karvedys, buvo paėmęs Christburgo ir Elbingo pilių komendantus, vėliau gyveno Lietuvoje ir žuvo gindamas pilį.
 ## Citatos
 
-- id: c-184748
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 436"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
-  citata_originali: |
-    1273
-    Taip galan tų metų visas tas dalykas Parusnio,
-    kurį pirmiaus buvo užkariavę vokyčiai, vėl jau
-    klausė kryžėjų. Pagezonys vieni bedžiaugės liuosy-
-    be, kurią Auktuma, jų karvedys, mokėjo dar gy­
-    nioti ir antturėti, ketėdamos lig paskuojo dvėkte-
-    rėjimo jos nepaleisti. Vieną sykį, nutraukęs pas
-    Elbingo pilį nakčia pagal, vieną dalį savo kariaunos
-    užslėpė girioj, o su mažesniąja pas mūrus pilės at­
-    siartino.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-201398
-
-- id: c-184824
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 386"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 386."
+- id: c-184747
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant didesnės laimos perkrikštų, pasitiko tarp jų
     sumanančių karvedžių ir gudrių vyrų, kurie mo­
@@ -97,8 +86,31 @@ media_all_json: |-
     todėl, mindami linksmas dienas senovės liuosybės,
     neapvežėjo vergybos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201474
+    - t-201397
+
+- id: c-184748
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    1273
+    Taip galan tų metų visas tas dalykas Parusnio,
+    kurį pirmiaus buvo užkariavę vokyčiai, vėl jau
+    klausė kryžėjų. Pagezonys vieni bedžiaugės liuosy-
+    be, kurią Auktuma, jų karvedys, mokėjo dar gy­
+    nioti ir antturėti, ketėdamos lig paskuojo dvėkte-
+    rėjimo jos nepaleisti. Vieną sykį, nutraukęs pas
+    Elbingo pilį nakčia pagal, vieną dalį savo kariaunos
+    užslėpė girioj, o su mažesniąja pas mūrus pilės at­
+    siartino.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201398

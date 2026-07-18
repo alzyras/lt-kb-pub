@@ -38,6 +38,11 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-001
   global_id: t-195040
   teiginys: "Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177408
 
@@ -45,6 +50,12 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-002
   global_id: t-195041
   teiginys: "Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177408
 
@@ -52,6 +63,11 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-003
   global_id: t-195042
   teiginys: "Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177408
 
@@ -70,6 +86,7 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
     tos rūšies suskilimą jauna valstybė atlaikė.
   citata_rodoma: "Kovodamas Livonijos ordino\npusėje prieš savo tautiečius (pagonis), neofitas Suksė viename žygyje\nAukštaičių žemėje žuvo. Eiliuotinės kronikos autorius jam paskyrė\nkelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo\nmirties» 220c. Buvo ir daugiau tokių pabėgėlių iš Lietuvos, tačiau\ntos rūšies suskilimą jauna valstybė atlaikė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

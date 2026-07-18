@@ -61,6 +61,20 @@ Nenurodyta
 - t-001
   global_id: t-45535
   teiginys: "1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aukščiausiosios Tarybos rūmai yra Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Aukščiausiosios Tarybos rūmai (institucija) priklausė Vilnius (0.88); Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.) priklausė Aukščiausiosios Tarybos rūmai (institucija) (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1990 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina plakato turinį, vietą ir datą pagal citatą."
   pagrindžia:
     - c-48311
 
@@ -68,6 +82,19 @@ Nenurodyta
 - t-002
   global_id: t-45536
   teiginys: "1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos."
+  atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aukščiausiosios Tarybos rūmai yra Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Aukščiausiosios Tarybos rūmai (institucija) priklausė Vilnius (0.88); Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.) priklausė Aukščiausiosios Tarybos rūmai (institucija) (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1990 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22286
 
@@ -85,6 +112,7 @@ Nenurodyta
     Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   citata_rodoma: "Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka\nPrie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.\nMergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,6 +135,7 @@ Nenurodyta
     nesilaikys SSRS konstitucijos.
   citata_rodoma: "Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka\nPrie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.  \nMergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos. \nAlgirdo Sabaliausko nuotrauka\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n241\nnesilaikys SSRS konstitucijos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

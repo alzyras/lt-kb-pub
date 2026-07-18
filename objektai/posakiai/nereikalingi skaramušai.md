@@ -55,6 +55,20 @@ Posakiu kandžiai nusakoma, kad į miestą suplūsta daug nereikalingų karnaval
 - t-001
   global_id: t-200628
   teiginys: "1751 m. Jonas Dominykas Lopacinskis artėjančias Užgavėnes Vilniuje apibūdino formule apie „nereikalingus skaramušus“."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::sayings"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jonas Dominykas Lopacinskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "nereikalingi skaramušai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Dominykas Lopacinskis: mention_match, author, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nereikalingi skaramušai\" parinktas kaip owner_note_path. Targetas \"Jonas Dominykas Lopacinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1751 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra aiškus, gramatiškas ir susieja posakį su 1751 m. Užgavėnių kontekstu Vilniuje. Papildomų faktų iš citatos pridėti nereikia."
   pagrindžia:
     - c-183968
 
@@ -73,6 +87,7 @@ Posakiu kandžiai nusakoma, kad į miestą suplūsta daug nereikalingų karnaval
     yra kanauninko mūriniame name [17].
   citata_rodoma: "1751 m. jis rašė Mykolui Ksaverui Sapiegai, esą artėja Užgavėnės, „iš visų pusių\npribėga čia nereikalingų visokių skaramušų (juokdarių)“, vilniečiai nori pažiūrėti, kas\nyra kanauninko mūriniame name [17]."
   statusas: verified
+  atnaujinta: "2026-07-14 08:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

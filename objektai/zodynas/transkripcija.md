@@ -63,6 +63,13 @@ Nenurodyta
 - t-001
   global_id: t-200401
   teiginys: "Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis."
+  atnaujinta: "2026-07-12 23:05"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys pilnai nusako Bychovco kronikos rankraščio pobūdį kaip transkripciją, o ne vertimą. Citatos lenkiškas užrašas neperkeliamas, nes teiginiui pakanka paaiškinamosios dalies."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-183739
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186810|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.
@@ -87,6 +94,7 @@ Nenurodyta
     paties transkribuotojo prirašytos — neišaiškinta.
   citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba, bet ar jų jau būta toje kopi­\njoje, iš kurios transkribuotas rastasis lankraštis, ar jos \npaties transkribuotojo prirašytos — neišaiškinta."
   statusas: verified
+  atnaujinta: "2026-07-12 23:05"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

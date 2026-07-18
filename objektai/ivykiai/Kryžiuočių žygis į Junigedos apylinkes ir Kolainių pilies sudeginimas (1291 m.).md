@@ -52,6 +52,23 @@ Nenurodyta
 - t-001
   global_id: t-185809
   teiginys: "Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Junigeda: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Bertoldas Briuhavenas tiesiogiai atvedė kariuomenę į Junigedos apylinkes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Bertoldas Briuhavenas surengė žygį į Junigeda (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1291 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
   pagrindžia:
     - c-169170
 
@@ -59,6 +76,13 @@ Nenurodyta
 - t-002
   global_id: t-196190
   teiginys: "Kojelavičiaus pasakojime, gynėjams išsibėgiojus iš baimės, kryžiuočiai užėmė ir sudegino Kolainių pilį, nuniokojo kaimus ir išsivarė 700 žmonių."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169170
 
@@ -91,6 +115,7 @@ Nenurodyta
     buvo atremtas.
   citata_rodoma: "Po to abi pusės liovėsi vie­\nna kitą puldinėjusios, tačiau ne dėl to, kad buvo pa­\ndarytos paliaubos, bet dėl to, kad trukdė rudens orai;\ntodėl\ntik ruduo\nbuvo\nramus.\nVasario\npradžioje\n165\n\n## Puslapis 164\n\nBertoldas Briuhavenas, Ka-\n1291 m e ta i\nraliaučiaus komtūras, atvedė\nL ie tu v ą  sia u b ia  k iy -\ndaugiau kaip tūkstantį penkis\nžiu o č ia i\nšimtus raitelių į Junigedos\napylinkes. Iš baimės išsibė­\ngiojus gynėjams, buvo užimta ir sudeginta Kolainių\npilis, vėliau, nuniokojus kaimus, be kito grobio, išsi­\nvaryta į vergiją septyni šimtai žmonių."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

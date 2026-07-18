@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Ulrichas Magdeburgas, Daukanto vadinamas kryžėjų Milžinu, su kitais broliais saugojo Karaliaučiaus įgulai skirtus laivus su maistu.
+Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo.
 
 ## Teiginiai
 
 <a id="claim-t-201404"></a>
 - t-001
   global_id: t-201404
-  teiginys: "Ulrichas Magdeburgas, Daukanto vadinamas kryžėjų Milžinu, su kitais broliais saugojo Karaliaučiaus įgulai skirtus laivus su maistu."
+  teiginys: "Visų pirma vieš pačiu Braunšveigo ir Tiuringijos, stiprindamu įgulę Karaliaučiaus, atleido laivus su mitalu, kuriuos Ulrichas Magdeburgas, vadinamas Milžinu kryžėjų, su kitais brostviais saugojo."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184754
 
 ## Citatos
 
 - id: c-184754
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 412"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 412."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu ant balso popiežiaus viešpačiai Tiu-
     ringijos, Brandenburgijos, Misnijos, Braunšveigo ir
@@ -51,6 +56,7 @@ Ulrichas Magdeburgas, Daukanto vadinamas kryžėjų Milžinu, su kitais broliais
     rusnėnų staiga antpuolė juos norėdami ar nuskandy-
     ti, ar atimti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

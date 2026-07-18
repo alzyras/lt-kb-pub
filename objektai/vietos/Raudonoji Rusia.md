@@ -33,6 +33,17 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
 - t-001
   global_id: t-32502
   teiginys: "Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Raudonoji Rusia: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Raudonoji Rusia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią; tai artimiausia užėmimo / atgavimo semantikai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Raudonoji Rusia (0.72)"
   pagrindžia:
     - c-34021
 
@@ -53,6 +64,7 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
     visa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams.
   citata_rodoma: "Kaip lenkų\ndaliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip\nLietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš\nLietuvos vėliau nuvyko ir pats Jogaila.\nApie pačią Lietuvos krikštijimo eigą ordino kronikos tyli, nes\nvisa tai, kas dėjosi Vilniuje, buvo skersai kelio kryžiuočių planams."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

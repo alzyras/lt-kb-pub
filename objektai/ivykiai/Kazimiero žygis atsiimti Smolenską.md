@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-199214
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Palikta chronikos pasakojimo atribucija ir sakinys sukonkretintas."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181703
 
@@ -55,6 +62,13 @@ Nenurodyta
 - t-002
   global_id: t-199215
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Sakinys patrumpintas, išlaikant citatos palaikomus veiksmus."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181703
 
@@ -62,6 +76,13 @@ Nenurodyta
 - t-003
   global_id: t-199216
   teiginys: "Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Pasyvi konstrukcija pakeista aiškiu veikėju ir pridėtas citatos rezultatas."
+  susije_objektai: "mentioned_place: Smolenskas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
 
@@ -69,6 +90,13 @@ Nenurodyta
 - t-004
   global_id: t-199217
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas ir pašalinta motyvo interpretacija apie baimę."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; llm_object: Naugardas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
 
@@ -76,6 +104,13 @@ Nenurodyta
 - t-005
   global_id: t-199218
   teiginys: "Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Pridėtas citatoje esantis kontekstas, išlaikant atribuciją."
+  susije_objektai: "mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
 
@@ -83,6 +118,13 @@ Nenurodyta
 - t-006
   global_id: t-199219
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Sakinys išplėstas citatos palaikoma žygio baigtimi."
+  susije_objektai: "mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181702
 
@@ -112,6 +154,7 @@ Nenurodyta
     vo sostinę.
   citata_rodoma: "Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.\nDidysis kunigaikštis Kazimieras, sutelkęs visas savo \nLietuvos pajėgas, tą patį rudenį atėjo prie Smolensko, \npats vadovaudamas, ir atsiėmė Smolenską9 , o kuni­\ngaikštis Jurgis Lengvenaitis, bijodamas Kazimiero rūs­\ntybės, su kunigaikštiene pabėgo į Didįjį Naugardą l0 .\nIr didysis kunigaikštis vėl perduoda Smolensko val­\ndymą Andriui Sakavičiui ir išvyksta atgal į Vilnių, sa­\nvo sostinę."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,6 +184,7 @@ Nenurodyta
     jo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą.
   citata_rodoma: "Ir tuomet pargrįžo bajorai nuo \nkunigaikščio Kazimiero; o jisai vieniems iš jų nukirto \ngalvas, kitus suėmęs sukaustė, visus jų turtus atėmė ir \nišdalijo savo bajorams, ir panūdo būti nepriklausamas \nnuo didžiojo kunigaikščio Kazimiero.\nKunigaikščiui Kazimierui to buvo labai gaila, ir jis \nsiunčia prieš Smolenską savo Tarybos ponus su kariuo­\nmene. Tarybos ponai su kariuomene prastovėjo prie \nSmolensko tris savaites8  ir miesto niekaip neįveikė, \no priemiesčius bei vienuolynus sudegino, daug žmonių \nišsivedė į nelaisvę ir, pralieję nemaža krikščionių krau­\njo, išžygiavo atgal pas didįjį kunigaikštį Kazimierą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

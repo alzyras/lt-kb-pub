@@ -32,6 +32,9 @@ media_all_json: |-
 - t-001
   global_id: t-35469
   teiginys: "P. Šinkūnas parengė „Geografijos vadovėlį“ IV pradžios mokyklos skyriui ir I vidurinės mokyklos klasei."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36685
 
@@ -46,6 +49,7 @@ media_all_json: |-
     21. P. Šinkūno, GEOGRAFIJOS VADOVĖLIS. IV-am pradžios mo­
     kyklos skyriui ir I-ai vidurinės mokyklos klasei. Kaina Lt. 3,50.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

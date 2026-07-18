@@ -42,6 +42,17 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 - t-001
   global_id: t-35251
   teiginys: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Smolenskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Muradas II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Muradas II siuntė dovanas į Smolenską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Muradas II siuntė į Smolenskas (0.90)"
   pagrindžia:
     - c-38105
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
@@ -66,6 +77,7 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
     energija buvo sunaudojama įsigalėjimui Rytuose.
   citata_rodoma: "Turkų sultonas Muradas II\nsiuntė Vytautui į Smolenską dovanų.\nŽvilgterėję dabar bendrai į Vytauto Didžiojo veikimą po\nMelno taikos, matome, kad šituo laiku (1422—1428) veik visa jo\nenergija buvo sunaudojama įsigalėjimui Rytuose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

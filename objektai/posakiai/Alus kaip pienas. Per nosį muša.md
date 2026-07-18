@@ -52,6 +52,10 @@ Alaus pagyrimo formulė.
 - t-001
   global_id: t-195445
   teiginys: "Ragaujant Kūčių alų sakoma „Alus kaip pienas. Per nosį muša“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177866
 
@@ -68,6 +72,7 @@ Alaus pagyrimo formulė.
     nosis muša“ .
   citata_rodoma: "Dabar to alaus visiems valia gerti, ir svetimą žmogų neišleidžia nedavus paragauti. Atsigėręs kiekvienas pagiria: „Alus kaip pienas. Per nosį muša“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

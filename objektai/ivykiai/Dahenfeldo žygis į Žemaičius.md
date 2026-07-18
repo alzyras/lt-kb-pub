@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių.
+Ant galo kerštus tarp arkivyskupo Rygos ir kalavijonų, ku rie iki šio laiko tarp savęs vyriausia valdžia tebsivaržė, sutaikino ir kaip įmanydamas skatino kryžėjus gromatose tuointimpos lietuvius ir žemaičius netikėlius kariauti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -38,19 +38,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201499"></a>
+<a id="claim-t-201282"></a>
 - t-001
-  global_id: t-201499
-  teiginys: "Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių."
+  global_id: t-201282
+  teiginys: "Ant galo kerštus tarp arkivyskupo Rygos ir kalavijonų, ku rie iki šio laiko tarp savęs vyriausia valdžia tebsivaržė, sutaikino ir kaip įmanydamas skatino kryžėjus gromatose tuointimpos lietuvius ir žemaičius netikėlius kariauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184849
+    - c-184632
 
 ## Citatos
 
-- id: c-184849
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 608"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 608."
+- id: c-184632
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo
     kerštus tarp arkivyskupo Rygos ir kalavijonų, ku­
@@ -71,8 +76,9 @@ Nenurodyta
     nelaimios Lietuvos ūkės Kęstutis su Algirdu, savo
     broliu, buvo didžiai sukerštusiu.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201499
+    - t-201282

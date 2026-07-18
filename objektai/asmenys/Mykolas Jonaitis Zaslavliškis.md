@@ -42,6 +42,9 @@ media_all_json: |-
 - t-001
   global_id: t-194141
   teiginys: ''' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-001
 
@@ -59,6 +62,7 @@ media_all_json: |-
     1499 m., vedęs M stislavlio kunigaikštytę Julijoną iš M stislavlio
     kunigaikščių Lengvenaičių giminės.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

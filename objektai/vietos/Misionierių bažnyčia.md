@@ -30,6 +30,20 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
 - t-001
   global_id: t-200795
   teiginys: "Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Kotrynos bažnyčios išorės architektūrinį tipą."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Misionierių bažnyčia: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Misionierių bažnyčia\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184140
 
@@ -46,6 +60,7 @@ Misionierių bažnyčia buvo užbaigta dešimt metų vėliau ir plėtojo Šv. Ko
     antgamtišką subtilumą. Toli yra matoma šita liekna bažnyčia, kurios du
     bokštai, it baltos gulbės, stypso viršum Išganytojo kalno.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

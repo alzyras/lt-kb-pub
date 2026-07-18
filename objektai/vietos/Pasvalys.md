@@ -43,9 +43,19 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 - t-001
   global_id: t-171948
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pasvalys: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Augustas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pasvalys: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys aiškiai nurodo Zigmanto Augusto žygį ir sustojimą Pasvalyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Zigmantas Augustas keliavo į Pasvalys (0.88)"
   pagrindžia:
     - c-156401
-    - c-166461
 - susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
 ## Reikšmingi paminėjimai
 - c-003
@@ -93,6 +103,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
   citata_rodoma: "Zigmantas Augustas, surinkęs didelę lie-\ntuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +122,7 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     Magistras Fürstenbergas buvo pasiryžęs ginti ordino nepriklau-
     somybę, tačiau nebeturėjo jėgų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

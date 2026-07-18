@@ -32,6 +32,16 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 - t-001
   global_id: t-15276
   teiginys: "Tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje bei Gruzijoje dalyvavo per du šimtus Lietuvos karių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gruzija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kosovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gruzija: mention_match, place, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kosovas\" parinktas kaip owner_note_path. Targetas \"Gruzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-18294
 - susijęs iš [[objektai/asmenys/Timūras (Tamerlanas).md#claim-t-40469|Timūras (Tamerlanas)]]: Timūro mongolų kariuomenė XV a. pradžioje pristabdė Osmanų plėtrą.
@@ -53,6 +63,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
   citata_rodoma: "Apskri-\ntai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-\nvinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

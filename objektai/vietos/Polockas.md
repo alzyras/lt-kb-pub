@@ -51,46 +51,111 @@ media_all_json: |-
 - t-001
   global_id: t-180424
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Polockas: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Polocko apylinkės įtrauktos į totorių siaubtas vietas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai puolė Polockas (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į glaustą faktinį sakinį, pašalinant šnekamąją citatos formuluotę."
   pagrindžia:
     - c-164053
-    - c-182635
 
 <a id="claim-t-180425"></a>
 - t-002
   global_id: t-180425
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lukiškės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lukiškės: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lukiškės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164098
-    - c-182612
 
-<a id="claim-t-180426"></a>
+<a id="claim-t-180458"></a>
 - t-003
-  global_id: t-180426
+  global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164049
-    - c-182610
 
 <a id="claim-t-180428"></a>
 - t-004
   global_id: t-180428
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Laiškas rašytas iš Polocko, todėl pagrįsta fiksuoti Švitrigailos buvimą ar kelionę į Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164061
-    - c-182627
 
 <a id="claim-t-180434"></a>
 - t-005
   global_id: t-180434
   teiginys: "Švitrigaila Polocke įkūrė atramos vietą, iš kurios beveik šešerius metus plito pilietinis karas Lietuvos žemėse."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164094
-    - c-182628
 
 <a id="claim-t-180436"></a>
 - t-006
   global_id: t-180436
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Praha: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Praha: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Praha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: po 1563 m.; įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi būti užbaigtas."
   pagrindžia:
     - c-164052
 
@@ -98,6 +163,20 @@ media_all_json: |-
 - t-007
   global_id: t-180438
   teiginys: "Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Polocką kaip prie Lietuvos prijungtą Baltosios Rusios dalį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Polockas priklausė Lietuva (0.90); Polockas priklausė Baltoji Rusia (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į Polocką ir pašalina perteklinį sąrašą."
   pagrindžia:
     - c-164048
 
@@ -105,78 +184,196 @@ media_all_json: |-
 - t-008
   global_id: t-180440
   teiginys: "1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas citata."
   pagrindžia:
     - c-164046
-    - c-182611
 
 <a id="claim-t-180441"></a>
 - t-009
   global_id: t-180441
   teiginys: "Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Totorių žygis siejamas su Polocko apylinkių niokojimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai surengė žygį į Polockas (0.76); Totoriai puolė Polockas (0.67)"
+  temporaliniai_duomenys: "mūšio data: 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164053
-    - c-182635
 
 <a id="claim-t-180442"></a>
 - t-010
   global_id: t-180442
   teiginys: "Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Polockas sugrįžo Lietuvai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Polockas priklausė Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: po 1563 m.; įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164091
-    - c-182620
 
 <a id="claim-t-180443"></a>
 - t-011
   global_id: t-180443
   teiginys: "Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: iki 1504 m.; įvykio data: 1492 m.; įvykio data: 1495 m.; įvykio data: po 1502 m.; įvykio data: 1502 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė priklausomybė nuo ankstesnio sakinio."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-164072
-    - c-182640
 
 <a id="claim-t-180448"></a>
 - t-012
   global_id: t-180448
   teiginys: "Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-164063
-    - c-182647
 
 <a id="claim-t-180450"></a>
 - t-013
   global_id: t-180450
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila nusigavo į Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.86)"
   pagrindžia:
     - c-164069
-    - c-182648
 
 <a id="claim-t-180455"></a>
 - t-014
   global_id: t-180455
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusijos kariuomenės įžengimas prie Polocko tiesiogiai apibūdina karinį žygį į tą kryptį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Rusijos kariuomenė surengė žygį į Polockas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir paremtas citata."
   pagrindžia:
     - c-164071
-    - c-182619
 
 <a id="claim-t-180456"></a>
 - t-015
   global_id: t-180456
   teiginys: "Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Kaunas: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Polockas ir Kaunas kartu įvardyti kaip dideli prekybos centrai Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Polockas prekiavo su Kaunas (0.66)"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-164060
-    - c-182643
 
 <a id="claim-t-180459"></a>
 - t-016
   global_id: t-180459
   teiginys: "1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dokumente Skirgaila tiesiogiai įvardytas Polocko valdovu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila valdė miestą Polockas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164064
-    - c-182633
 
 <a id="claim-t-180460"></a>
 - t-017
   global_id: t-180460
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino psalmyną bei 22 Senojo Testamento knygas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Praha: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Praha: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Praha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: po 1563 m.; įvykio data: 1563 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-164052
 
@@ -184,14 +381,40 @@ media_all_json: |-
 - t-018
   global_id: t-180462
   teiginys: "Vytenio ir Gedimino brolis Vainys valdė Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Vytenis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino ir Vytenio brolystę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Gediminas buvo brolis Vytenis (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis."
   pagrindžia:
     - c-164056
-    - c-182646
 
 <a id="claim-t-180464"></a>
 - t-019
   global_id: t-180464
   teiginys: "1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos informaciją."
   pagrindžia:
     - c-164042
 
@@ -199,102 +422,251 @@ media_all_json: |-
 - t-020
   global_id: t-180467
   teiginys: "Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Polocką tarp anksčiau lietuvių užvaldytų žemių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Polockas priklausė Lietuviai (0.86)"
   pagrindžia:
     - c-164070
-    - c-182616
 
 <a id="claim-t-180470"></a>
 - t-021
   global_id: t-180470
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skirgailą laikius apsupus Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į aiškų faktinį sakinį."
   pagrindžia:
     - c-164044
-    - c-182645
 
 <a id="claim-t-180472"></a>
 - t-022
   global_id: t-180472
   teiginys: "Vainys buvo vienas iš brolių ir valdė Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Vytenis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas buvo Vytenio brolis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Gediminas buvo brolis Vytenis (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164056
-    - c-182646
 
 <a id="claim-t-180474"></a>
 - t-023
   global_id: t-180474
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Polockas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila laikė apsupęs Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.93)"
+  temporaliniai_duomenys: "įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-164044
-    - c-182645
 
 <a id="claim-t-180475"></a>
 - t-024
   global_id: t-180475
   teiginys: "Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skirgailos išvykimą į Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.90)"
   pagrindžia:
     - c-164097
-    - c-182621
 
 <a id="claim-t-180476"></a>
 - t-025
   global_id: t-180476
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Polockas (0.91); Jogaila (kunigaikštis, XIV–XV a.) paskyrė Skirgaila (0.78)"
   pagrindžia:
     - c-164058
-    - c-182630
 
 <a id="claim-t-180479"></a>
 - t-026
   global_id: t-180479
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos siuntimą į Polocko kunigaikštystę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Polockas (0.91); Jogaila (kunigaikštis, XIV–XV a.) paskyrė Skirgaila (0.78)"
   pagrindžia:
     - c-164058
-    - c-182630
 
 <a id="claim-t-180481"></a>
 - t-027
   global_id: t-180481
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Laiško rašymas iš Polocko rodo Švitrigailos buvimą Polocke."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkimas ir suformuluotas pilnas sakinys."
   pagrindžia:
     - c-164061
-    - c-182627
 
 <a id="claim-t-180485"></a>
 - t-028
   global_id: t-180485
   teiginys: "1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dokumente Skirgaila tiesiogiai vadinamas Polocko valdovu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila valdė miestą Polockas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš citatos išverstas ir sutvarkytas aiškus teiginys."
   pagrindžia:
     - c-164064
-    - c-182633
 
 <a id="claim-t-180486"></a>
 - t-029
   global_id: t-180486
   teiginys: "Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švitrigaila išvyko į Kijevą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švitrigaila keliavo į Kijevas (0.88); Švitrigaila keliavo į Polockas (0.87)"
   pagrindžia:
     - c-164082
-    - c-182618
 
 <a id="claim-t-180488"></a>
 - t-030
   global_id: t-180488
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lukiškės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lukiškės: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lukiškės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-164098
-    - c-182612
 
 <a id="claim-t-183076"></a>
 - t-031
   global_id: t-183076
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Polockas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Švitrigailos pasitraukimą į Polocką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.88); Švitrigaila valdė teritoriją Polockas (0.80)"
   pagrindžia:
     - c-166466
-    - c-182623
 
 <a id="claim-t-185096"></a>
 - t-032
   global_id: t-185096
   teiginys: "Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Gediminas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardukiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Naugardukiečiai minimi tarp dalinių, atėjusių Gediminui į pagalbą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Polockiečiai rėmė Gediminas (0.78); Naugardukiečiai rėmė Gediminas (0.78)"
   pagrindžia:
     - c-168457
 
@@ -302,6 +674,20 @@ media_all_json: |-
 - t-033
   global_id: t-188805
   teiginys: "1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Polockas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos ponai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos ponai pasiuntė Liutaurą į Polocką jo užimti."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Lietuvos ponai siuntė į Polockas (0.78)"
   pagrindžia:
     - c-182629
 
@@ -309,6 +695,13 @@ media_all_json: |-
 - t-034
   global_id: t-193226
   teiginys: "Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175965
 
@@ -316,22 +709,40 @@ media_all_json: |-
 - t-035
   global_id: t-193779
   teiginys: "1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos tvirtovę."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-43754
-    - c-182636
 
 <a id="claim-t-194258"></a>
 - t-036
   global_id: t-194258
   teiginys: "Kaip ir tame neseniai vykusiame kare prieš Maskvos kunigaikštį prie Polocko rizikavo savo gyvybe ir sveikata, savo noru ir būdamas taurios riteriškos širdies, nusėdęs nuo žirgo, ne bodamas jokio pavojaus, stojo prie pat priešininko pilies sienų, kad ją užimtų."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176852
-    - c-182614
 
 <a id="claim-t-196730"></a>
 - t-037
   global_id: t-196730
   teiginys: "Kojelavičius nurodo, kad 1308 m. rusų šaltiniai mini Polocko užkariavimą Rusioje, bet nepaaiškina šio karo pradžios."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178873
 
@@ -339,22 +750,43 @@ media_all_json: |-
 - t-038
   global_id: t-196887
   teiginys: "Lietuvos metraštis rašo, kad Polocke paliktas Rogvolodas, pramintas Vosyliumi, ilgai gyveno kaip Polocko kunigaikštis ir ten mirė."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178965
-    - c-182606
 
 <a id="claim-t-196888"></a>
 - t-039
   global_id: t-196888
   teiginys: "Lietuvos metraštis rašo, kad Livonijos kariuomenė pirmą kartą atėjo padėti kunigaikščiui Skirgailai prie Polocko."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178966
-    - c-182617
 
 <a id="claim-t-199723"></a>
 - t-055
   global_id: t-199723
   teiginys: "Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Titulas turi būti atribuuotas, o sakinį galima sutrumpinti."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182638
 
@@ -362,6 +794,12 @@ media_all_json: |-
 - t-041
   global_id: t-199725
   teiginys: "Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis sakinys gramatiškai negrabiai perteikia veikėjus, todėl perrašytas aiškiau."
+  susije_objektai: "llm_object: Polockas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182650
 
@@ -369,6 +807,14 @@ media_all_json: |-
 - t-042
   global_id: t-199727
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys pilnas, nurodo Andriaus Polockiečio veiksmą ir remiasi citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]]; mentioned_place: Livonija"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, nurodo Andriaus Polockiečio veiksmą ir remiasi citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182631
 
@@ -376,13 +822,37 @@ media_all_json: |-
 - t-043
   global_id: t-199728
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata pagrindžia Polocko būrių dalyvavimą ir mūšio baigtį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Strėva; mentioned_place: Vitebskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182641
 
-<a id="claim-t-199729"></a>
+<a id="claim-t-187641"></a>
 - t-044
-  global_id: t-199729
+  global_id: t-187641
   teiginys: "Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys yra gramatiškas sakinys apie Stanislovo Hlebavičiaus pareigas Polocke. Atsargus žodis „bene“ išlaiko citatos neapibrėžtumą dėl datos."
+  susije_objektai: "mentioned_place: Vitebskas"
+  temporaliniai_duomenys: "įvykio data: iki 1504 m.; įvykio data: 1492 m.; įvykio data: 1495 m.; įvykio data: po 1502 m.; įvykio data: 1502 m.; įvykio data: 1504 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie Stanislovo Hlebavičiaus pareigas Polocke. Paliktas atsargus „bene“, nes citata pati taip riboja datavimą."
+  ryšio_patikimumas: "prekiavo_su -> Kaunas: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Polockas ir Kaunas kartu įvardyti kaip dideli prekybos centrai Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-182615
 
@@ -390,6 +860,12 @@ media_all_json: |-
 - t-045
   global_id: t-199730
   teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra faktinis sakinys apie Polocko vaidmenį Dauguvos prekyboje."
+  susije_objektai: "mentioned_place: Dauguva; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Dauguva"
+  semantiniai_rysiai: "Polockas prekiavo su Dauguva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32343
 
@@ -397,20 +873,54 @@ media_all_json: |-
 - t-040
   global_id: t-199735
   teiginys: "Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_place: Strėva; mentioned_place: Turovas"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> Lukiškės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lukiškės: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lukiškės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182608
 
-<a id="claim-t-199738"></a>
+<a id="claim-t-180435"></a>
 - t-047
-  global_id: t-199738
+  global_id: t-180435
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Reikia išplėsti neaiškų žodį „karalius“ į citatoje atpažįstamą Steponą Batorą."
+  susije_objektai: "mentioned_place: Livonija; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Maskva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
-    - c-182642
+    - c-182637
 
 <a id="claim-t-199739"></a>
 - t-048
   global_id: t-199739
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys pilnas, gramatiškas ir paremtas citatos informacija apie Mindaugą Polocke."
+  susije_objektai: "llm_object: Polockas; mentioned_place: Brianskas; mentioned_place: Dniepras; mentioned_place: Černigovas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Brianskas; llm_object: Černigovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Mindaugas|Mindaugas]] valdė miestą Polockas"
+  temporaliniai_duomenys: "įvykio data: 1255 m.; įvykio data: apie 1255 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir paremtas citatos informacija apie Mindaugą Polocke."
+  ryšio_patikimumas: "apgule -> Polockas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila laikė apsupęs Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32339
 
@@ -418,6 +928,19 @@ media_all_json: |-
 - t-049
   global_id: t-199740
   teiginys: "Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai ir tiksliai perteikia citatos faktą apie Skirgailą ir Polocką."
+  susije_objektai: "mentioned_place: Kijevas; llm_object: Polockas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas"
+  ryšio_patikimumas: "apgule -> Polockas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila apsiautė Polocką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182622
 
@@ -425,6 +948,18 @@ media_all_json: |-
 - t-050
   global_id: t-199758
   teiginys: "Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys gramatiškas ir citata patvirtina Andriaus buvimą Polocke."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Ratne; mentioned_place: Vladimiras"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32344
 
@@ -432,6 +967,10 @@ media_all_json: |-
 - t-051
   global_id: t-199765
   teiginys: "Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Dauguva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182649
 
@@ -439,6 +978,18 @@ media_all_json: |-
 - t-052
   global_id: t-199767
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o kautynės baigėsi lietuvių pralaimėjimu."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nusako Polocko būrių dalyvavimą ir kautynių baigtį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Strėva; mentioned_place: Vitebskas"
+  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Rusijos kariuomenės įžengimas prie Polocko tiesiogiai apibūdina karinį žygį į tą kryptį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-32341
 
@@ -446,6 +997,19 @@ media_all_json: |-
 - t-053
   global_id: t-199771
   teiginys: "Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys sutrumpintas ir aiškiau susietas su Polocku."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Voluinė; llm_object: Lietuva"
+  semantiniai_rysiai: "Polockas priklausė Lietuva"
+  ryšio_patikimumas: "apgule -> Polockas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skirgailą laikius apsupus Polocką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-182625
 
@@ -453,6 +1017,11 @@ media_all_json: |-
 - t-056
   global_id: t-199774
   teiginys: "Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys prasideda neaiškiu konteksto fragmentu; citata palaiko aiškų perrašymą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Dauguva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182649
 
@@ -460,6 +1029,15 @@ media_all_json: |-
 - t-057
   global_id: t-199782
   teiginys: "Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau."
+  susije_objektai: "llm_object: Polockas; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla"
+  semantiniai_rysiai: "[[objektai/asmenys/Skirgaila|Skirgaila]] apgulė Polockas; [[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Polockas"
+  temporaliniai_duomenys: "mūšio data: 1399 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-182609
 
@@ -467,6 +1045,21 @@ media_all_json: |-
 - t-058
   global_id: t-199785
   teiginys: "Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie įvykį prie Polocko."
+  susije_objektai: "mentioned_place: Dauguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva"
+  temporaliniai_duomenys: "įvykio data: 1518 m.; įvykio data: 1519 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį prie Polocko."
+  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Polocką tarp anksčiau lietuvių užvaldytų žemių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-182632
 
@@ -474,6 +1067,14 @@ media_all_json: |-
 - t-046
   global_id: t-188804
   teiginys: 'Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas Polocko kontekstas ir įvardyti Tautvila, Treniota bei Polocko bajorai. Motyvas „bijodamas keršto“ paliktas su Narbuto atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  temporaliniai_duomenys: 'įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Išskleistas Polocko kontekstas ir įvardyti Tautvila, Treniota bei Polocko bajorai. Motyvas „bijodamas keršto“ paliktas su Narbuto atribucija.'
   pagrindžia:
     - c-182624
 
@@ -481,6 +1082,9 @@ media_all_json: |-
 - t-054
   global_id: t-197474
   teiginys: 'Trečioji - Jaunė, arba Ieva, taip pat rusė kunigaikštytė, Polocko kuni gaikščio, mirusios Gedimino žmonos brolio, duktė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-182624
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
@@ -851,8 +1455,8 @@ media_all_json: |-
     buvo įrodymai, kad jie su jais išvien stojo prieš didįjį
     kunigaikštį Kęstutį.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -875,8 +1479,8 @@ media_all_json: |-
     go Jono Kanto Boreišos Jėzaus Draugijos lotyniškame pamoksle (ran­
     kraštyje), sakytame 1689 metais, šv.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -895,6 +1499,7 @@ media_all_json: |-
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
     Įvykiai tačiau ėmė vystytis Mindaugo nenaudai.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -913,6 +1518,7 @@ media_all_json: |-
     žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
     Strėvoje, kai pati upė yra nesunkiai perbrendama.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -931,6 +1537,7 @@ media_all_json: |-
     Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
     centru.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -948,6 +1555,7 @@ media_all_json: |-
     tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras (†
     1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -963,6 +1571,7 @@ media_all_json: |-
     tvirtovę. Kelias į Lietuvos gilumą tapo atviras. 1564 m. dvi didelės rusų kariaunos pajudėjo Vilniaus link. Lietuvos
     kariuomenė sugebėjo jas abi sumušti, dar nespėjus joms susijungti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -986,6 +1595,7 @@ media_all_json: |-
     klusnumą.
   citata_rodoma: "Vykstant Vytautui pro Polocką,\nVitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,\njam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­\nklusnumą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1018,6 +1628,7 @@ media_all_json: |-
     tas.
   citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1042,6 +1653,7 @@ media_all_json: |-
     Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
   citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1064,6 +1676,7 @@ media_all_json: |-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   citata_rodoma: "Mindaugo laikais \nprie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-\nkais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-\nnė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1084,6 +1697,7 @@ media_all_json: |-
     lavičiaus sūnus.
   citata_rodoma: "FIeTep6yprb 1793 roAa 8vo) \ntariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­\nniuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­\nnigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis- \nlavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II. \nKunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis- \nlavičiaus sūnus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1105,6 +1719,7 @@ media_all_json: |-
     Biblija“.
   citata_rodoma: "rusėnai \nskilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje. \nIš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-\nvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus \nSkorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-\ndicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1127,6 +1742,7 @@ media_all_json: |-
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1145,6 +1761,7 @@ media_all_json: |-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
   citata_rodoma: ")**\n\nGediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-\ndė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1174,6 +1791,7 @@ media_all_json: |-
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1195,6 +1813,7 @@ media_all_json: |-
     kybos centrai — Kaunas ir Polockas. Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1224,6 +1843,7 @@ media_all_json: |-
     locką.
   citata_rodoma: "Antrasis laiškas\nyra paties Švitrigailos rašytas didžia­\njam magistrui iš Polocko, likus 5 die­\nnoms iki Mergelės Marijos gimimo,\ntai yra, 1432 metų rugsėjo 3 dieną,\nkuriame jam praneša, kad kuni­\ngaikštis Žygimantas ir Alšėnų kuni­\ngaikštis Simonas užpuolę jo dvarą\nAšmenoje ir kad jis sėkmingai su to­\ntorių generolais pasiekęs Polocką ir\ndėl to prašo skubiai padėti. Taigi\nklysta Kojelavičius ir Strij-\nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1245,6 +1865,7 @@ media_all_json: |-
 
     (^1) ) C.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1269,6 +1890,7 @@ media_all_json: |-
     to w i c z, Wilno, 1827, 8vo, 1.
   citata_rodoma: "Martyno, vys­\nkupo ir išpažinėjo, Viešpaties metais\n1388], Skirgaila save vadina: Schir-\ngalo Dei gratia dux lithuanie et domi­\nnus Tracensis et Polocensis [Skirgaila -\ndidysis Lietuvos kunigaikštis ir Tra­\nkų bei Polocko valdovas].\n17\nLatopisiec Litwy, paskelbtas D a ni­\nto w i c z, Wilno, 1827, 8vo, 1."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1305,6 +1927,7 @@ media_all_json: |-
     Žygimanto ir Švitrigailos grupuočių taikiniu.
   citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1323,6 +1946,7 @@ media_all_json: |-
     Lietuva tapo didvalstybe - regiono lydere.
   citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1345,6 +1969,7 @@ media_all_json: |-
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
   citata_rodoma: "Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-\nsijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1362,6 +1987,7 @@ media_all_json: |-
     Vitebsko.
   citata_rodoma: "Polockas, kuris jau buvo pakliuvęs į ordino\nįtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti\nVitebsko."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1385,6 +2011,7 @@ media_all_json: |-
     Upytės kraštą.
   citata_rodoma: "Magistras grįžo į savo žemę, o Švitrigaila -\nį Polocką, ir, vėl paleidęs kariuomenę, iš-\nvyko į Kijevą.\n\nRugpjūčio pabaigoje į Žemaitiją paeiliui\nįsibrovė trys Livonijos daliniai, jie niokojo\nUpytės kraštą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1413,6 +2040,7 @@ media_all_json: |-
     kas sugrįžo Lietuvai ir liko jos
     iki pirmojo padalinimo).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1443,6 +2071,7 @@ media_all_json: |-
     iš įvairių šeimynų, visus prieš save sukiršino18.
   citata_rodoma: "0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio\nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių\nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių\nŽygimanto ir Švitrigailos grupuočių taikiniu."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1467,6 +2096,7 @@ media_all_json: |-
     kluotų žmonių būrį.
   citata_rodoma: "116\n\n## Puslapis 133\n\nIl KNYGA\nSkirgailai išvykus į Polocką jam buvo gera proga įgyvendin­\nti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­\nvykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug\ndengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­\nkluotų žmonių būrį."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1501,6 +2131,7 @@ media_all_json: |-
     zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
     ta.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1522,6 +2153,7 @@ media_all_json: |-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1560,6 +2192,7 @@ media_all_json: |-
     atremti priešą.
   citata_rodoma: "Tai šen, tai ten liepsnojo prie­\nšo padegti kaimai, kylantys\nG ed im in a s\nsu m u ša\ndūmai žadino skausmą, o\nk ry ž iu o č iu s  ir a tim a\nskausmas — drąsą, tačiau ap-\niš jų  Ž e m a itiją\ndairiam\nkunigaikščiui\ntuo\ntarpu daugiau rūpėjo, kieno\npusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­\nriuomenę, laukė pagrindinių dalinių, kurie su naugar-\ndukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo\nuž dienos ar kitos pasirodyti. Todėl ir delsė, tramdy­\ndamas įniršį, kurį kėlė akivaizdūs priešo siautėjimo\nženklai: nenorėjo nei neapdairiai pulti į kovą, nei nie­\nko nedaryti."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1579,6 +2212,7 @@ media_all_json: |-
     atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
     vis artino į aisčių kraštą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1604,6 +2238,7 @@ media_all_json: |-
     IV KNYGA
     kartu kovėsi, norėdamas parodyti pavyzdį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1634,6 +2269,7 @@ media_all_json: |-
     latiniais grobikiškais antpuo­
     liais, smarkiai nusiaubė Sembos žemę.
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1656,6 +2292,7 @@ media_all_json: |-
     tus, tarnaudama dievui ir perrašinėdama knygas cerk­
     vės reikalui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1676,6 +2313,7 @@ media_all_json: |-
     buvo įrodymai, kad jie su jais išvien stojo prieš didįjį
     kunigaikštį Kęstutį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1698,6 +2336,7 @@ media_all_json: |-
     tus, tarnaudama dievui ir perrašinėdama knygas cerk­
     vės reikalui.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1715,6 +2354,7 @@ media_all_json: |-
     (Naugarduke), teko ir santykiai su totoriais.
   citata_rodoma: "Ir Polocke,\npo Voinos mirties, nors tas paliko savo įpėdinius, Gediminas paso­\ndino Narimantą. Jam su Karijotu, gavusiu dalį Juodojoje Rusioje\n(Naugarduke), teko ir santykiai su totoriais."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1733,6 +2373,7 @@ media_all_json: |-
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1753,6 +2394,7 @@ media_all_json: |-
     lavičiaus sūnus.
   citata_rodoma: "FIeTep6yprb 1793 roAa 8vo) \ntariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­\nniuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­\nnigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis- \nlavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II. \nKunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis- \nlavičiaus sūnus."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1774,6 +2416,7 @@ media_all_json: |-
     Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
   citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1806,6 +2449,7 @@ media_all_json: |-
     zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
     ta.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1829,6 +2473,7 @@ media_all_json: |-
     IV KNYGA
     kartu kovėsi, norėdamas parodyti pavyzdį.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1842,6 +2487,7 @@ media_all_json: |-
     ir didžiojo kunigaikščio maršalu (iki 1504 m. imtinai); 1495 m. —
     Vitebsko vietininku. Polocko vietininku buvo bene nuo 1502 m.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1860,6 +2506,7 @@ media_all_json: |-
     Lietuva tapo didvalstybe - regiono lydere.
   citata_rodoma: "Prie jau anksčiau lietuvių užvaldytų\nJuodosios Rusios (Naugarduko žemių) ir Polocko Gediminas\npridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.\nLietuva tapo didvalstybe - regiono lydere."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1878,6 +2525,7 @@ media_all_json: |-
     buvo įrodymai, kad jie su jais išvien stojo prieš didįjį
     kunigaikštį Kęstutį.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1899,6 +2547,7 @@ media_all_json: |-
     Upytės kraštą.
   citata_rodoma: "Magistras grįžo į savo žemę, o Švitrigaila -\nį Polocką, ir, vėl paleidęs kariuomenę, iš-\nvyko į Kijevą.\n\nRugpjūčio pabaigoje į Žemaitiją paeiliui\nįsibrovė trys Livonijos daliniai, jie niokojo\nUpytės kraštą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1919,6 +2568,7 @@ media_all_json: |-
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
   citata_rodoma: "Netrukus į pagalbą konfe-\nderatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie \nPolocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-\nsijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1945,6 +2595,7 @@ media_all_json: |-
     kas sugrįžo Lietuvai ir liko jos
     iki pirmojo padalinimo).
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1967,6 +2618,7 @@ media_all_json: |-
     kluotų žmonių būrį.
   citata_rodoma: "116\n\n## Puslapis 133\n\nIl KNYGA\nSkirgailai išvykus į Polocką jam buvo gera proga įgyvendin­\nti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­\nvykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug\ndengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­\nkluotų žmonių būrį."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1983,6 +2635,7 @@ media_all_json: |-
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2003,6 +2656,7 @@ media_all_json: |-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2021,6 +2675,7 @@ media_all_json: |-
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: "Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių \npolitinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2050,6 +2705,7 @@ media_all_json: |-
     locką.
   citata_rodoma: "Antrasis laiškas\nyra paties Švitrigailos rašytas didžia­\njam magistrui iš Polocko, likus 5 die­\nnoms iki Mergelės Marijos gimimo,\ntai yra, 1432 metų rugsėjo 3 dieną,\nkuriame jam praneša, kad kuni­\ngaikštis Žygimantas ir Alšėnų kuni­\ngaikštis Simonas užpuolę jo dvarą\nAšmenoje ir kad jis sėkmingai su to­\ntorių generolais pasiekęs Polocką ir\ndėl to prašo skubiai padėti. Taigi\nklysta Kojelavičius ir Strij-\nk o v s k i s sakydami, kad Švitrigai­\nla pabėgęs į Smolenską, bet ne į Po­\nlocką."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2078,6 +2734,7 @@ media_all_json: |-
     iš įvairių šeimynų, visus prieš save sukiršino18.
   citata_rodoma: "0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio\nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių\nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių\nŽygimanto ir Švitrigailos grupuočių taikiniu."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2098,6 +2755,7 @@ media_all_json: |-
     loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
     gaikštystę kartu su savo tėvu.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2126,6 +2784,7 @@ media_all_json: |-
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2142,6 +2801,7 @@ media_all_json: |-
     vasalinę sutartį.
   citata_rodoma: "Vykdamu Lietuvon malšinti sukilimo, jiedu\nturėjo raštu pažadėti, pareikalavus, atgal sugrįžti.\nUžėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.\nDar 1385 m."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2160,6 +2820,7 @@ media_all_json: |-
     šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   citata_rodoma: "Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties \npradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą \nkaruose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-\nšą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2184,6 +2845,7 @@ media_all_json: |-
     to w i c z, Wilno, 1827, 8vo, 1.
   citata_rodoma: "Martyno, vys­\nkupo ir išpažinėjo, Viešpaties metais\n1388], Skirgaila save vadina: Schir-\ngalo Dei gratia dux lithuanie et domi­\nnus Tracensis et Polocensis [Skirgaila -\ndidysis Lietuvos kunigaikštis ir Tra­\nkų bei Polocko valdovas].\n17\nLatopisiec Litwy, paskelbtas D a ni­\nto w i c z, Wilno, 1827, 8vo, 1."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2203,6 +2865,7 @@ media_all_json: |-
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2216,6 +2879,7 @@ media_all_json: |-
     tvirtovę. Kelias į Lietuvos gilumą tapo atviras. 1564 m. dvi didelės rusų kariaunos pajudėjo Vilniaus link. Lietuvos
     kariuomenė sugebėjo jas abi sumušti, dar nespėjus joms susijungti.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2249,6 +2913,7 @@ media_all_json: |-
     vadai.
   citata_rodoma: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO \nALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA \nSU MOLDAVUOS VAIVADA STEPONU\nTą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo \nbrolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­\n\n## Puslapis 146\n\nvai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti \nseimą Parčeve. Tą pačią žiemą didysis kunigaikštis \nAleksandras su didžiąja kunigaikštiene Elena bei su \ndidikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­\nlenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo \nj Vilnių 3 .\nSeptyni tūkstančiai ketvirtaisiais metais, o nuo Kris­\ntaus gimimo tūkstantis keturi šimtai devyniasdešimt \nšeštaisiais didysis kunigaikštis Aleksandras išvyko \nį Brastą \\  o karalius Olbrachtas su jų broliu, karalai­\nčiu Zigmantu — į Liubliną 5 ."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2266,6 +2931,7 @@ media_all_json: |-
     Vitebsko.
   citata_rodoma: "Polockas, kuris jau buvo pakliuvęs į ordino\nįtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti\nVitebsko."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2280,6 +2946,7 @@ media_all_json: |-
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
     tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2300,6 +2967,7 @@ media_all_json: |-
     davo broliu; tačiau caras, pykdamas ant Stp.
   citata_rodoma: "Caras jo pasiuntinius priėmė labai\nnemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,\nSmolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai\nvartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau\nnuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-\ndavo broliu; tačiau caras, pykdamas ant Stp."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2320,6 +2988,7 @@ media_all_json: |-
     kybos centrai — Kaunas ir Polockas. Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2350,6 +3019,7 @@ media_all_json: |-
     tas.
   citata_rodoma: "locke. Tačiau miestiečių išvytas, nu­\nvykęs pas magistrą sulaukė para­\nmos, su pastaruoju 1381 metais iš­\nlaikė apsupęs Polocką 12 savaičių, \nbet ir sunki pilies apgultis, ir netikė­\nti pokyčiai Lietuvoje, per kuriuos \nKęstučiui atiteko kunigaikščio sos­\ntas, privertė Livonijos magistrą nu­\ntraukti apgultį, o Skirgailą grįžti į \nVilnių. Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2365,6 +3035,7 @@ media_all_json: |-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
   citata_rodoma: ")**\n\nGediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-\ndė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2383,6 +3054,7 @@ media_all_json: |-
 
     (^1) ) C.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2416,6 +3088,7 @@ media_all_json: |-
     Žygimanto ir Švitrigailos grupuočių taikiniu.
   citata_rodoma: "216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­\nvą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio \nsklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­\nnis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­\nkusi tokios didžios galybės, alinama jo įpėdinių niekšybių \nir barbariškumo, nuo to laiko pradėjo smukti. Vilnius, drau­\nge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­\njų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių \nŽygimanto ir Švitrigailos grupuočių taikiniu."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -2435,6 +3108,7 @@ media_all_json: |-
     per brastas.
   citata_rodoma: "Tuo keliu nuėjo ne tik Dauguvos pilys,\nkaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo\nnatūralus gynėjas ir sąjungininkas. Ano laiko šaltiniai patiekia\natsitiktinių užuominų, kaip tokios lietuvių įtakos sferon pakliuvusios\nartimos žemės lietuvių kariuomenes aprūpindavo maistu, suteik­\ndavo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo\nper brastas."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2455,6 +3129,7 @@ media_all_json: |-
     su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
     Kęstutis jau nebegalėjo abejoti, kad Kuno v.
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas jomarku vadina mugę, kurioje žemaitis galėjo parduoti paaugintą arklį ar namie austos drobės skiautelę.
+Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paauginus parduoti ar drobės skiautelę namie austos kokioj mugėj, tai yra jomarke, prarasti ir tuomi pagalvinę už save ir už kūdikius mokėti.
 
 ## Teiginiai
 
 <a id="claim-t-201218"></a>
 - t-001
   global_id: t-201218
-  teiginys: "Daukantas jomarku vadina mugę, kurioje žemaitis galėjo parduoti paaugintą arklį ar namie austos drobės skiautelę."
+  teiginys: "Iki šiol dar nuvargusio žemai čio visų didžiausias įrankis buvo arklį paauginus parduoti ar drobės skiautelę namie austos kokioj mugėj, tai yra jomarke, prarasti ir tuomi pagalvinę už save ir už kūdikius mokėti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184568
 
 ## Citatos
 
 - id: c-184568
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 125"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 125."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau metuose 1562
     Abromaitis parašė knygą, mokančią, kaip reikia su
@@ -69,6 +74,7 @@ Daukantas jomarku vadina mugę, kurioje žemaitis galėjo parduoti paaugintą ar
     ganyklas, savo sudus, savo rotužes ir pilės, kurių
     šiandien dar kame ne kame iros tebriogso.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

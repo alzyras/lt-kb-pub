@@ -56,6 +56,21 @@ Nenurodyta
 - t-001
   global_id: t-62843
   teiginys: "1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Pieštvė: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pieštvė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ordinas buvo atremtas prie Pieštvės pilies, todėl ryšys su puolimu prieš šią vietą yra tiesiogiai kontekstinis, bet ne maksimaliai tikslus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pieštvė (0.66)"
+  temporaliniai_duomenys: "įvykio data: 1322 m.; įvykio data: 1323 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-63673
 
@@ -74,6 +89,7 @@ Nenurodyta
     panemunes apie Paštuvą (III, 340, 342, 347).
   citata_rodoma: "Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš\nVokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,\nAriogalą, tačiau buvo atremtas prie Pieštvės pilies Dubysos ir Nemuno santakoje. 1323\nm., atvykus riteriams iš Čekijos ir nuo Reino, vėl žygiuota prieš Lietuvą, bet dėl didelių\nšalčių  iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti\npanemunes apie Paštuvą (III, 340, 342, 347)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

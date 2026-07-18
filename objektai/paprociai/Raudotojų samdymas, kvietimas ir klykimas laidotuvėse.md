@@ -49,6 +49,20 @@ Nenurodyta
 - t-001
   global_id: t-189867
   teiginys: "Narbuto aprašyme laidotuvėse svarbiausios buvo raudotojos, nes manyta, kad jų raudos nuramina vėles."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> vėlė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raudotojų samdymas, kvietimas ir klykimas laidotuvėse: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėlė: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojų samdymas, kvietimas ir klykimas laidotuvėse\" parinktas kaip owner_note_path. Targetas \"vėlė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172750
 
@@ -56,6 +70,20 @@ Nenurodyta
 - t-002
   global_id: t-189868
   teiginys: "Narbutas raudotojas aprašė kaip jaunas stiprių plaučių moteris, kurios nuo mirties iki kūno nuleidimo į kapą be perstojo klykia."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raudotojų samdymas, kvietimas ir klykimas laidotuvėse: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=88"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudotojų samdymas, kvietimas ir klykimas laidotuvėse\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172751
 
@@ -63,6 +91,13 @@ Nenurodyta
 - t-003
   global_id: t-189869
   teiginys: "Narbutas rašė, kad net neturtingų žmonių laidotuvėse kuri nors moteris iš dievobaimingumo turėjo paklykauti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172752
 
@@ -81,6 +116,7 @@ Nenurodyta
     ta, kad jos nuraminančios vėles. Sis paprotys žmonėse tebegy­
     vuoja iki šiol, nepaisant tiekos politinių ir religinių permainų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +136,7 @@ Nenurodyta
     Jeigu mirusysis neturėjo tam tinkamos giminaitės, kviečiama
     pirma pasitaikiusi kaimynė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +161,7 @@ Nenurodyta
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

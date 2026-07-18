@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto vartojami vyčiai buvo ūkės gynėjai, traukiantys į karą prieš neprietelius, o šį vardą Daukantas kildino iš žodžio „vyti“.
+Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan.
 
 ## Teiginiai
 
 <a id="claim-t-201214"></a>
 - t-001
   global_id: t-201214
-  teiginys: "Daukanto vartojami vyčiai buvo ūkės gynėjai, traukiantys į karą prieš neprietelius, o šį vardą Daukantas kildino iš žodžio „vyti“."
+  teiginys: "Tie, kurie į karę traukė ūkę nuo neprietelių ginti, vadinos vyčiais, nuo žodžio vyti, tai yra gin ti, kurie neprietelius ujo iš savo ūkės laukan."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184564
 
 ## Citatos
 
 - id: c-184564
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 94"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 94."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet, rei­
     kiant kariauti su kokia tauta, pakeltas nuo kareivių
@@ -59,6 +64,7 @@ Daukanto vartojami vyčiai buvo ūkės gynėjai, traukiantys į karą prieš nep
     (bajorai), jog už žemę, kurią dėvėjo nieko nemokė­
     dami, turėjo,' ūkės pavojui radusis, į karę traukti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,13 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
 - t-001
   global_id: t-185326
   teiginys: "Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168687
 
@@ -40,6 +47,13 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
 - t-002
   global_id: t-193456
   teiginys: "Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168687
 
@@ -68,6 +82,7 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
     žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
     vo ruso netrukus žiauriai nukankintas.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195230
   teiginys: "1900 m. „Ritvalos Helkos šventė“ paskelbta „Virittaja“ ir apibūdinta kaip vieno Suomijos valsčiaus kaimiečių apeigų aprašymas."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177596
 
@@ -63,6 +67,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     valsčiuje kaimiečių apeigos, indoeuropiečių kilmės).
   citata_rodoma: "1900. Ritvalos Helkos šventė. \nVirittaja. \n(Viename \nSuomijos \nvalsčiuje kaimiečių apeigos, indoeuropiečių kilmės)."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

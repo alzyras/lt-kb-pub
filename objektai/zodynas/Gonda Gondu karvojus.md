@@ -33,6 +33,13 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 - t-001
   global_id: t-189224
   teiginys: "Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvių karalienę, išleidžiančią mergaites už vyrų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172112
 
@@ -40,6 +47,13 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
 - t-002
   global_id: t-189225
   teiginys: "Narbutas skiria Gondu nuo karvojaus: Gondu esą puošdavo vestuvių apeigas ir likdavo ant stalo neliestas, o karvojų suvalgydavo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172113
 
@@ -102,6 +116,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     rūpinti popieriaus dirbtuvę žaliava.
   citata_rodoma: "143\n\n## Puslapis 143\n\nGonda (Gondu)\nVestuvinių iškilmių deivė, vestuvių karalienė, išleidžianti\nmergaites už vyrų.\nJą mini Lasickis; yra tą pati patvirtinančių vestuvinių dai­\nnų. Ją kviesdavosi pačios merginos, norėdamos atsikratyti bran­\ngios, bet nuobodžios mergystės."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +140,7 @@ Narbutas Gondą (Gondu) apibūdina kaip vestuvinių iškilmių deivę ir vestuvi
     paršelių, sidabrinių pinigų.
   citata_rodoma: "Tokia\nfigūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­\njus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­\ntas tas antrasis pavadinimas.\nTačiau lietuviams tie du dalykai visiškai skirtingi. Gondu\nsuteikia vestuvių apeigoms puošnumo, ir jį visuomet palieka\nant stalo neliestą, o tikrąjį karvojų suvalgo."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

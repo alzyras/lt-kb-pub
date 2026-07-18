@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Šv. Stepono dieną, gruodžio 26 d., Sviatopelko sutelkta kariauna apgulė Cartovicą, bet keli puolimai nepavyko.
+Stepono dieną, 26 gruo džio mėnesio, pilį Cartovicą apgulė; pirmasis ant puolis nevyko, antrasis ir trečiasis taip pat, lygia dalia ir kiti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201316"></a>
 - t-001
   global_id: t-201316
-  teiginys: "Šv. Stepono dieną, gruodžio 26 d., Sviatopelko sutelkta kariauna apgulė Cartovicą, bet keli puolimai nepavyko."
+  teiginys: "Stepono dieną, 26 gruo džio mėnesio, pilį Cartovicą apgulė; pirmasis ant puolis nevyko, antrasis ir trečiasis taip pat, lygia dalia ir kiti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184666
 
 ## Citatos
 
 - id: c-184666
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 314"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą
     patį metą sukėlęs didžią kariauną savo krašte ir
@@ -62,6 +67,7 @@ Nenurodyta
     dalia ir kiti. Septynias nedėlias mušės su įgulė, bet
     ir taip negalėjo į pilį įsigriauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

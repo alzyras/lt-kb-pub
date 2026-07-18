@@ -43,6 +43,20 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-001
   global_id: t-60245
   teiginys: "Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ryga: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltramiejus (Aleto vyskupas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Baltramiejaus atvykimą į Rygą kaip vieno iš dviejų legatų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Baltramiejus (Aleto vyskupas) keliavo į Ryga (0.92); Jonas XXII (arkivyskupas, XIV a.) siuntė į Livonija (0.90); Baltramiejus (Aleto vyskupas) keliavo į Livonija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1324 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas konkretus faktas apie Baltramiejų."
   pagrindžia:
     - c-60877
 
@@ -70,6 +84,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: "Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­\n                                   čionių 1324 metais\n\n   Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,\nįkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties\nmiesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento\nBenedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti\nlietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,\nšventės (rugsėjo 22) atvyko  į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo\nkaraliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto\nvalia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti\nšį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi\ntokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti\ndėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,\ntik apaštališkasis sostas, prie kurio  jie patys per  tris mėnesius turėsią prisistatyti,\nkad atvykę deramai pataisytų tai, kas atsitiko."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

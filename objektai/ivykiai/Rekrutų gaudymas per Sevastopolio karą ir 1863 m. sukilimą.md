@@ -68,6 +68,10 @@ Nenurodyta
 - t-001
   global_id: t-195581
   teiginys: "1855 m. rekrutų gaudymas siautėjo ypač smarkiai."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177989
 
@@ -75,6 +79,10 @@ Nenurodyta
 - t-002
   global_id: t-195582
   teiginys: "Po Sevastopolio karo trejus metus visai neėmė rekrutų."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177990
 
@@ -82,6 +90,10 @@ Nenurodyta
 - t-003
   global_id: t-195583
   teiginys: "1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177989
 
@@ -89,6 +101,10 @@ Nenurodyta
 - t-004
   global_id: t-195584
   teiginys: "Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177990
 
@@ -96,6 +112,10 @@ Nenurodyta
 - t-005
   global_id: t-195585
   teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177990
 
@@ -118,6 +138,7 @@ Nenurodyta
     sveikatos trūkumų.
   citata_rodoma: "Žymiausias rekrutų gaudymas siautė 1855 metais. Tais metais prancūzai, anglai ir turkai apgulė Sevastopolį. Rusų kariuomenei papildyti rekrutai buvo gaudomi ištisus metus: nežiūrint nei į amžių nei sveikatos trūkumų."
   statusas: verified
+  atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,6 +163,7 @@ Nenurodyta
     žmoniškesnis.
   citata_rodoma: "Po Sevastopolio karo trejis metus visai neėmė rekrutų. Paskiau, kad ir ėmė, bet ne po daug, o atėjus 1863 metų sukilimui, dvejis metus pagrečiui vėl neėmė. Vėliau visi valstiečiai „krestjanai“, poniškiai ir karališkiai tapo surašyti į vieną valsčių, valdomą „taikos tarpininko“, ir jau rekrutų rinkimas buvo žmoniškesnis."
   statusas: verified
+  atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

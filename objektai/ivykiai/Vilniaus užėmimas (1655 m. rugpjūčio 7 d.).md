@@ -59,6 +59,20 @@ Nenurodyta
 - t-001
   global_id: t-41382
   teiginys: "1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Vilnius: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rusijos kariuomenė užėmė Vilnius (0.96); Kazokai buvo sąjungininkas su Rusijos kariuomenė (0.93); Kazokai užėmė Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1648 m.; įvykio data: 1649 m.; įvykio data: 1651 m.; įvykio data: 1654 m.; įvykio data: 1654-1655"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir tiesiogiai paremtas citatos kontekstu."
   pagrindžia:
     - c-44934
 
@@ -104,6 +118,7 @@ Nenurodyta
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
   citata_rodoma: "ŠKLOVO MUSIS 125\n\nv\nVl\no\n=\n-\n>\nc\na)\n>\no\nperi\ni\n>\nr\n\n## Puslapis 128\n\nTVANAS\n\nLietuvos kariuomenė padėjo lenkams numalšinti 1648 m. kilusį\nBogdano Chmelnickio vadovaujamą Ukrainos kazokų sukilimą,\n1649 m. didysis etmonas Jonušas Radvila sumušė į Lietuvą įsi-\nveržusias sukilėlių pajėgas, 0 1651 m. užėmė ir sudegino Kijevą.\nKazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti\niš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-\nčiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas\nužėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

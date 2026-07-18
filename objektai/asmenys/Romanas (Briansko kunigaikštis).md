@@ -43,6 +43,18 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-001
   global_id: t-40404
   teiginys: "Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romanas (Briansko kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romanas (Briansko kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1275 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Brianskas“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44496
 
@@ -50,6 +62,13 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-002
   global_id: t-193403
   teiginys: "Kunigaikštis Romanas Kojelavičiaus pasakojime kartu su Stanislovu paskatino karius sprukti iš kovos lauko."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-176125
 
@@ -57,6 +76,12 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-003
   global_id: t-193974
   teiginys: "O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176599
 
@@ -64,6 +89,13 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-004
   global_id: t-196587
   teiginys: "Kilus pavojui Kijevui, kunigaikštis Romanas pakilo į kovą prieš Gedimino vadovaujamus lietuvius."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178781
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
@@ -97,6 +129,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
   citata_rodoma: "Taigi Lietuvos antpuolyje su toto-\nriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo\nsūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo\nmetu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje\nprieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,\nVladimiro, taip pat Pinsko, Turovo - kunigaikščiai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +161,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     ties.
   citata_rodoma: "Kova\nįsiplieskė iš naujo, kai atžygiavo rusų pagalbiniai da­\nliniai, vedami Perejeslavlio kunigaikščio Olego ir Luc­\nko kunigaikščio Levo, tačiau šie kunigaikščiai, per\nneatsargumą įsiveržę tarp susigrūdusių karių, pragaišo\nmaišatyje, leisdami tuo lietuviams neabejoti pergale.\nNetekusios vadų pagalbinės jėgos ėmė kovoti atvan­\ngiau ir padrikai, vidurinės eilės, anksčiau išstumtos iš\nvietos, pradėjo trauktis, galop kunigaikščiai Stanis­\nlovas ir Romanas paskatino savo pavyzdžiu kitus ka­\nrius sprukti iš kovos lauko. Bėgančiųjų žudynes su­\nstabdė naktis."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +183,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
   citata_rodoma: "Bet kunigaikštis Jurijus susisiekė su smo- \nlenskiečiais, tie priėmė jį ir atidarė jam miesto vartus. \nO čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto \npaskirtas. Jie jį patį užmušė, o kunigaikštienę ir jo vai­\nkus paleido."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,6 +215,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     ti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­
     gę, ar pernelyg įnikę į grobikiškus išpuolius.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

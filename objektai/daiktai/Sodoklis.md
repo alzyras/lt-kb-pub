@@ -53,9 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-195305
   teiginys: "Sodoklis aprašytas kaip akmeninis dalgio galandimo įrankis šienapjūtėje."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177675
     - c-177676
+    - c-177675
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -74,6 +78,7 @@ Nenurodyta
     Kai dalgis nustoja pustyklės klausęs, tada šienpiovys griebiasi sodoklio.
   citata_rodoma: "Kai dalgis nustoja pustyklės klausęs, tada šienpiovys griebiasi sodoklio."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,6 +100,7 @@ Nenurodyta
     po kiekvienos pradalgės.
   citata_rodoma: "Dabar šienpiovys turi akmeninį sodoklį ir juo galanda dalgį po kiekvienos pradalgės."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,12 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 - t-001
   global_id: t-185483
   teiginys: "Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis aiškių aiškiausiai meluoja apie pasaulio sutvėrimą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168844
 
@@ -53,6 +59,7 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
     nugyvenęs ir visa ko patyręs, nieko tokio nesu nei ma­
     tęs, nei girdėjęs".
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

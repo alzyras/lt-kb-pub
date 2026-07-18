@@ -33,6 +33,9 @@ Kariai, laukiantys komandos „ugnis“.
 - t-001
   global_id: t-39072
   teiginys: "Kariai laukė komandos „ugnis“ ir turėjo iššauti, kai tai padarys kairėje esantis padalinys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40876
 
@@ -51,6 +54,7 @@ Kariai, laukiantys komandos „ugnis“.
     Sunkiosios kavalerijos eskadronas
     išrikiuotas dvieile.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

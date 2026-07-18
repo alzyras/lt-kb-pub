@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas „atpuskus“ sieja su Alberto iš popiežiaus išprašytu nuodėmių atleidimu žygiuojantiems kariauti kaip į Žemę Šventą.
+Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti.
 
 ## Teiginiai
 
 <a id="claim-t-201203"></a>
 - t-001
   global_id: t-201203
-  teiginys: "Daukantas „atpuskus“ sieja su Alberto iš popiežiaus išprašytu nuodėmių atleidimu žygiuojantiems kariauti kaip į Žemę Šventą."
+  teiginys: "Lygia dalia Alber tas nuo popiežiaus išlūgojo tuos pačius atpuskus ir tą patį griekų atleidimą, kaip jei einantiems į Že mę Šventą kariauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184553
 
 ## Citatos
 
 - id: c-184553
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 183"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 183."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet
     pagal nuomonę tų amžių krikščionys turėjo netikė­
@@ -57,6 +62,7 @@ Daukantas „atpuskus“ sieja su Alberto iš popiežiaus išprašytu nuodėmių
     tą patį griekų atleidimą, kaip jei einantiems į Že­
     mę Šventą kariauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

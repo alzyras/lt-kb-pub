@@ -51,9 +51,13 @@ Dusetos šiame šaltinyje yra vietovė.
 - t-001
   global_id: t-195489
   teiginys: "1931 m. Tautosakos komisijos suvestinėje A. Mažiulis ir A. Barzda nurodyti kaip iš Dusetų."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177911
     - c-177912
+    - c-177911
 
 ## Citatos
 
@@ -65,6 +69,7 @@ Dusetos šiame šaltinyje yra vietovė.
     A. Barzda (iš Dusetų v.) . .
   citata_rodoma: "A. Barzda (iš Dusetų v.)"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,6 +85,7 @@ Dusetos šiame šaltinyje yra vietovė.
     . .
   citata_rodoma: "A. Mažiulis (iš Dusetų v/)"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

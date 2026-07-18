@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Albertas, sutelkęs kalavijuočius, krikščionis ir perkrikštus, nužygiavo į Turaidą, kur jo kariauna apgulė Dabrelio pilį. Dabrelio pilies apgulties metu letgalių pastatytą naują bokštą naktį išvertė viesulas, žuvo daug žmonių.
+Tą išgirdęs, Albertas sukėlė kalavijonis, mel džionis ir perkrikštus, traukė į Turaidą patrakusiųjų drausti, kursai tuojau iš visos galios Dabrelio pilį apgulė. Letgaliai bekariaudami buvo naują bokštą pilėj padirbę, kurį ant jos nelaimos vieną naktį viesulas pakilęs išvertė ir daug žmonių išmušė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,23 +41,34 @@ Nenurodyta
 <a id="claim-t-201280"></a>
 - t-001
   global_id: t-201280
-  teiginys: "Albertas, sutelkęs kalavijuočius, krikščionis ir perkrikštus, nužygiavo į Turaidą, kur jo kariauna apgulė Dabrelio pilį."
+  teiginys: "Tą išgirdęs, Albertas sukėlė kalavijonis, mel džionis ir perkrikštus, traukė į Turaidą patrakusiųjų drausti, kursai tuojau iš visos galios Dabrelio pilį apgulė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184630
 
 <a id="claim-t-201281"></a>
 - t-002
   global_id: t-201281
-  teiginys: "Dabrelio pilies apgulties metu letgalių pastatytą naują bokštą naktį išvertė viesulas, žuvo daug žmonių."
+  teiginys: "Letgaliai bekariaudami buvo naują bokštą pilėj padirbę, kurį ant jos nelaimos vieną naktį viesulas pakilęs išvertė ir daug žmonių išmušė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184631
 
 ## Citatos
 
 - id: c-184630
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 220"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 220."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą išgirdęs, Albertas sukėlė kalavijonis, mel­
     džionis ir perkrikštus, traukė į Turaidą patrakusiųjų
@@ -72,6 +83,7 @@ Nenurodyta
     naktį vylyčias ir akmenis iš taranų, daugybes jos
     svieto ir gyvolių naikino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,9 +91,8 @@ Nenurodyta
     - t-201280
 
 - id: c-184631
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 220"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 220."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Letgaliai bekariaudami
     buvo naują bokštą pilėj padirbę, kurį ant jos nelai-
@@ -101,6 +112,7 @@ Nenurodyta
     gėdama, įgulė ir badaudama išsiuntė savo karvedį
     Ašį pas meldžionis sandarauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

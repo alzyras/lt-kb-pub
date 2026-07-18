@@ -38,6 +38,20 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 - t-001
   global_id: t-31784
   teiginys: "Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rusai: 0.79"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Frazė tiesiogiai mini lietuvių puolimus į rusų žemes; objektas normalizuojamas į rusų grupę, nes atskiro rusų žemių kandidato nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Rusai (0.79)"
+  temporaliniai_duomenys: "įvykio data: 1044 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sklandesnio sakinio su aiškesniu faktiniu predikatu."
   pagrindžia:
     - c-33619
 
@@ -57,6 +71,7 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
     nėra.
   citata_rodoma: "Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus\nį rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­\nriuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.\nLenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius\nnėra."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

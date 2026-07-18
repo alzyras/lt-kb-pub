@@ -34,6 +34,11 @@ Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „S
 - t-001
   global_id: t-192898
   teiginys: 'Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „Sienas“ ir reiškia senovinį miestą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Etimologinis aiškinimas suformuluotas kaip Narbuto interpretacija. Pridėta tik citatoje esanti Rosės upės aplinka.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/revoliucija|revoliucija]]; mentioned_place: Upės (Oppen) kaimas'
   pagrindžia:
     - c-175668
 
@@ -57,6 +62,7 @@ Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „S
     paskutiniame ikikrikščioniškajame amžiuje ten ilgai vy­
     ko sarmatų-alanų revoliucija.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

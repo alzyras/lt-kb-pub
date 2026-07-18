@@ -39,6 +39,10 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 - t-001
   global_id: t-187303
   teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
+  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-170342
 
@@ -46,6 +50,10 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 - t-002
   global_id: t-187304
   teiginys: 'Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys papildytas aiškiu predikatu ir sujungtas su vietovės funkcija pasakojime.'
+  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-170342
 
@@ -74,6 +82,7 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: "pats su visa kariuomene išėjo į kalnus, \nį siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-\n\n/52\n\n## Puslapis 148\n\nlamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo \nsu visa savo kariuomene kaip didelėje tvirtovėje2 9 ."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

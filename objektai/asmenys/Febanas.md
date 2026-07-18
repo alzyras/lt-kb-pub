@@ -33,6 +33,12 @@ Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus
 - t-001
   global_id: t-191395
   teiginys: 'Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus Norike ir žuvo kautynėse su Odoakru.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Febaną ir Narbuto pasakojimui priskiria engimo bei žūties motyvus. Nepridėta papildomų aplinkybių už citatos ribų.'
+  susije_objektai: 'llm_object: [[objektai/asmenys/Febanas|Febanas]]; mentioned_place: Norikas; mentioned_person: [[objektai/asmenys/Frederikas|Frederikas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Frederikas|Frederikas]] buvo sūnus [[objektai/asmenys/Febanas|Febanas]]'
   pagrindžia:
     - c-174277
 
@@ -54,6 +60,7 @@ Narbuto pasakojime rugių karalius Febanas pernelyg engė Odoakro sąjungininkus
     karalius žuvo kautynėse, o jo sūnus Frederikas išsigel­
     bėjo pabėgdamas iš krašto.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

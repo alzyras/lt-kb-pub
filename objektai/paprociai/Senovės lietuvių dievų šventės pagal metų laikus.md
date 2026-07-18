@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja, kad lietuviai, kalnėnai ir žemaičiai nuo neatmenamų laikų garbino savo dievus, o jų šventės buvo susietos su metų laikais ir linksmybėmis.
+Kas buvo kitose tautose, tas pats nutiko su lie tuviais, kalnėnais ir žemaičiais, kurie, gyvendami nuo neatmenamų laikų vienoj vietoj, turėjo savo dievus, kurie jų lieknuose ir giriose gyvendami džiaugės, ir godojo juos it ynus savo geradėjus ir užtarytojus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,19 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201468"></a>
+<a id="claim-t-201387"></a>
 - t-001
-  global_id: t-201468
-  teiginys: "Daukantas vaizduoja, kad lietuviai, kalnėnai ir žemaičiai nuo neatmenamų laikų garbino savo dievus, o jų šventės buvo susietos su metų laikais ir linksmybėmis."
+  global_id: t-201387
+  teiginys: "Kas buvo kitose tautose, tas pats nutiko su lie tuviais, kalnėnais ir žemaičiais, kurie, gyvendami nuo neatmenamų laikų vienoj vietoj, turėjo savo dievus, kurie jų lieknuose ir giriose gyvendami džiaugės, ir godojo juos it ynus savo geradėjus ir užtarytojus."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184818
+    - c-184737
 
 ## Citatos
 
-- id: c-184818
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 141"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 141."
+- id: c-184737
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas buvo kitose tautose, tas pats nutiko su lie­
     tuviais, kalnėnais ir žemaičiais, kurie, gyvendami
@@ -69,8 +74,9 @@ Nenurodyta
     jog tikyba senovės lietuvių buvo džiaugsmu, o
     džiaugsmas tikyba.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201468
+    - t-201387

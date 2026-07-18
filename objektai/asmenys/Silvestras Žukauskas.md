@@ -43,6 +43,12 @@ media_all_json: |-
 - t-001
   global_id: t-80722
   teiginys: "1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1894 m.; įvykio data: 1904-1905; įvykio data: 1905 m.; įvykio data: 1912 m.; įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citata paremtas faktas."
   pagrindžia:
     - c-42216
 - susijęs iš [[objektai/autoriai/J. Aničas.md#claim-t-39866|J. Aničas]]: J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.
@@ -71,6 +77,7 @@ media_all_json: |-
     buvo sužeistas, paskirtas brigados, vėliau ir divizijos
     | vadu. 1916 m. jam suteiktas generolo majoro laipsnis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

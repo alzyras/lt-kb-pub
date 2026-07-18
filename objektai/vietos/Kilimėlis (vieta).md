@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Ragainės komtūras Libencelis, pasiųstas į Lietuvą, sugriovė dvi pilis, tarp jų ant Nemuno kranto stovėjusį Kilimėlį.
+Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto.
 
 ## Teiginiai
 
 <a id="claim-t-201169"></a>
 - t-001
   global_id: t-201169
-  teiginys: "Ragainės komtūras Libencelis, pasiųstas į Lietuvą, sugriovė dvi pilis, tarp jų ant Nemuno kranto stovėjusį Kilimėlį."
+  teiginys: "Vienok tuo tarpu, norėdamas gelbėti kalavijonis, išsiuntė Libencelį, kamendotą Ragainės, į Lietuvą, vildamos tuomi sugrąžinsią lietuvius, ka riaujančius Padaugavy su kalavijonimis; tasai, dvi pili tenai sugriovęs, vieną, vadinamą Kilimėliu, ant Nemuno kranto."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184519
 
 ## Citatos
 
 - id: c-184519
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 489"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 489."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Toms audroms verčiant Padaugavy, didysis mis­
     tras kryžėjų Foichtvangenas, atkeliavęs į Parusnį,
@@ -62,6 +67,7 @@ Ragainės komtūras Libencelis, pasiųstas į Lietuvą, sugriovė dvi pilis, tar
     bet dar grįžtantį vijo su didžiu kryžėjų nuopuoliu
     taip, jog kamendotas tenkino į savo pilį beįmukęs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

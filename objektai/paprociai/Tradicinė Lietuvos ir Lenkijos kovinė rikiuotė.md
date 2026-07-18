@@ -57,6 +57,16 @@ Nenurodyta
 - t-001
   global_id: t-09548
   teiginys: "XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12309
 
@@ -64,6 +74,16 @@ Nenurodyta
 - t-002
   global_id: t-09550
   teiginys: "XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-12308
 
@@ -83,6 +103,7 @@ Nenurodyta
     flanguodama priešininką.
   citata_rodoma: "Xv a. pabaigoje - xvi a. pradžioje susiformavo kovinė rikiuotė, kuri\nilgam laikui tapo tradicine Lietuvoje ir Lenkijoje. Mūšiui kariuo-\nmenės centre dviem ešelonais, viena už kitos išsidėstydavo sun-\nkiųjų raitelių vėliavos. Centras mūšio metu atlikdavo pagrindinį\nvaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija\nbuvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką\nflanguodama priešininką."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,6 +124,7 @@ Nenurodyta
     ugnimi centro pajėgų atakas.
   citata_rodoma: "Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-\nbuvo labai reikšmingas. K. Ostrogiškio sprendimai, išnaudojant\nartileriją Oršos mūšyje, buvo tam metui nestandartiški ir netgi\nnovatoriški. xVI a. antrojoje pusėje imta efektyviau išnaudoti pės-\ntininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios\nkavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo\nugnimi centro pajėgų atakas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

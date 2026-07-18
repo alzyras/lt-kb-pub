@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje.
+137.) Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir to, bet ir miestą patį su laivais sudegino, vos ne vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201353"></a>
 - t-001
   global_id: t-201353
-  teiginys: "Žemaičiai gavėnios metu įsilaužė į Klaipėdos pilį, sudegino miestą su laivais, o kryžėjai išsilaikė mūrinėje pilyje."
+  teiginys: "137.) Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir to, bet ir miestą patį su laivais sudegino, vos ne vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184703
 
 ## Citatos
 
 - id: c-184703
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 540"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 540."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     137.)
     Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj
@@ -62,6 +67,7 @@ Nenurodyta
     siai užvis apygardas Vėluvos nuterioję, su nemažu
     grobiu namon jau grįžo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

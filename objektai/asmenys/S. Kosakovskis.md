@@ -41,6 +41,18 @@ Kosakovskis.
 - t-001
   global_id: t-40407
   teiginys: "S. Kosakovskis buvo paskutinysis LDK didysis etmonas ir generolas, suimtas Milerio name Vilniuje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Kosakovskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Kosakovskis\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44499
 
@@ -77,6 +89,7 @@ Kosakovskis.
     pavyko kpt.
   citata_rodoma: "balandis-liepa KOVOS DĖL VILNIAUS 149\n\nwn\n-\n>\n2\nss\nKT)\nT\n©\n>\no\nx\n\n## Puslapis 152\n\ngatvėje Milerio name buvo su-\nimtas paskutinysis LDK didysis\netmonas, ištikimas Rusijai, gene-\nrolas S. Kosakovskis. Jį saugoję\nLietuvos kariuomenės artileris-\ntai patys įleido sukilėlius į vidų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

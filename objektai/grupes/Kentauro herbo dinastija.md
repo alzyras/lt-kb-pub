@@ -30,6 +30,15 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
 - t-001
   global_id: t-198583
   teiginys: "Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiams, Lietuvos sostas atiteko Vyteniui."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys gramatiškas ir tinkamai atribuuoja legendinį Bychovco kronikos pasakojimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-180666
 
@@ -54,6 +63,7 @@ Bychovco kronikos pasakojime, išmirus Kentauro herbo dinastijos kunigaikščiam
     minaičių dinastijos valdovui Vyteniui.
   citata_rodoma: "Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir \nprasideda sakiniu apie Kristaus gimimą, valdant Romos \nimperatoriui Augustui, Romos imperatorių ligi Nerono \nišvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais. Vėliau, išmirus Palemono \nįpėdiniams ir sekančios Kentauro herbo dinastijos ku­\nnigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi- \nminaičių dinastijos valdovui Vyteniui."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,6 +43,10 @@ Bogušo miškas šiame šaltinyje yra miškas.
 - t-001
   global_id: t-195484
   teiginys: "Bogušo miškas minimas kaip vieta, iš kurios šiemet buvo samdoma."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177905
 
@@ -59,6 +63,7 @@ Bogušo miškas šiame šaltinyje yra miškas.
     vilkti.
   citata_rodoma: "Juk tamsta šiemet samdei iš Bogušo miško. Kažin, ar ilgai stovės kelias. Nėr ko laukti, reikia tuojau namo vilkti."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,12 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 - t-001
   global_id: t-195190
   teiginys: "Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą leidimą."
+  susije_objektai: "mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177556
 
@@ -46,6 +52,12 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 - t-002
   global_id: t-195191
   teiginys: "Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius; mentioned_place: Viena"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177555
 
@@ -75,6 +87,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
     nuo minėto pono Vilniaus vyskupo.
   citata_rodoma: "Šiuo raštu skelbiame visiems ir \nkiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad \nyra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai \ngerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al- \nšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­\nsiųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš \nkitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­\nno vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat \nvaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė \nar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­\nčiomis nemažą turgaus plotą, ir norėdami pačią turgavietę \nir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­\nje vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių, \ntiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė \nir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto \nvietoje vien tik minėto miesto reikmėms, tuo atsiskirdami \nnuo minėto pono Vilniaus vyskupo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +119,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
     są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
   citata_rodoma: "Taigi, kai šis \nginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­\nrimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­\ndimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­\nklausančioje jam ir jo katedros bažnyčiai, savo ir savo \nįpėdinių bei bažnyčios reikmėms įsteigti ir pastatyti kiek nors \nnaujų mėsinių, iš kurių reikėtų sumokėti mokestį psalteris- \ntams, mes manėme, kad verta sutikti ir leisti. Taigi mes jo \nteisėtam prašymui pritardami ir, norėdami sustiprinti Die­\nvo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­\nriame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­\nčios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje, \nkuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­\nvių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­\nsos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas \nturėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir \njo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­\nsą valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

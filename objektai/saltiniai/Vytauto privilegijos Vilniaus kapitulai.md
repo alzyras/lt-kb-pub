@@ -42,6 +42,19 @@ media_all_json: |-
 - t-001
   global_id: t-88212
   teiginys: "1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto privilegijos Vilniaus kapitulai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto privilegijos Vilniaus kapitulai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1411 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia privilegijos datą, vietą ir mainų esmę."
   pagrindžia:
     - c-84193
 
@@ -49,6 +62,16 @@ media_all_json: |-
 - t-002
   global_id: t-88213
   teiginys: "Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto privilegijos Vilniaus kapitulai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto privilegijos Vilniaus kapitulai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84194
 
@@ -56,6 +79,20 @@ media_all_json: |-
 - t-003
   global_id: t-88214
   teiginys: "1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje sakoma, kad Vytautas su palyda atvyko į Vilnių; tai tiesiogiai atitinka keliavimo santykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vilnius (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1411 m.; įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatoje pateiktus duomenis."
   pagrindžia:
     - c-84192
 
@@ -63,6 +100,19 @@ media_all_json: |-
 - t-004
   global_id: t-88215
   teiginys: "1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto privilegijos Vilniaus kapitulai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto privilegijos Vilniaus kapitulai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1407 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia privilegijos datą, vietą ir mainų turinį."
   pagrindžia:
     - c-84191
 
@@ -95,6 +145,7 @@ media_all_json: |-
     tis ir Rusios valdovas].
   citata_rodoma: "1413 metais,\n70\nTai keturios privilegijos, iki šiol išli­\nkusios Vilniaus kapitulos archyve: 1- \noji, rašyta Vilniuje, sabbato in festo \nSancti Barnabae Apostoli, anno D-ni \n1407 [šeštadienį Šv. apaštalo Barna­\nbo šventėje Viešp. metais 1407], ku­\nria kapitulai mainais už pirm dova­\nnotą Jaryničių kaimą atiduodamas \nLiubarų kaimas, joje didysis kuni­\ngaikštis rašo: Nos Alexander alias \nWithowdus Dei gratia Dux Major Lit- \nhuaniae et Dominus Russiae [Mes, \nAleksandras, kitaip Vytautas, Dievo \nmalone didysis Lietuvos kunigaikš­\ntis ir Rusios valdovas]."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,6 +196,7 @@ media_all_json: |-
     nių ryšių dėlei, Lietuvos sostinė vėl atgijo.
   citata_rodoma: "[kaimus, arba mums \npriklausančius, vadinamus Mileika- \nvu ir Moranonikovičiais, Krėvos \nvalsčiuje esančius, ir Blušą prie Svis- \nločės upės Svisločės valsčiuje tokia \npačia teise ir sąlygomis, kaip ją val­\ndė Druško kunigaikščio Andriaus \nsūnūs ]. - 4-oji privilegija, 1412,feria \ntertia proxima ante festum Corporis \nChristi [artimiausią antradienį prieš \nKristaus Kūno šventę], Trakuose \nrašyta, joje sakoma, kad Vytautas tam \npačiam vvskupui Mikalojui ir jo įpė-\n148\n\n## Puslapis 165\n\nIl KNYGA\nkaraliui Vladislovui Jogailai su Vytautu, lydimiems gausios \nlietuvių ir lenkų didikų svitos, atvykus į Vilnių po ano atmin­\ntino seimo Horodlėje, prie Būgo, Lietuvos ir Lenkijos glaudes­\nnių ryšių dėlei, Lietuvos sostinė vėl atgijo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,6 +233,7 @@ media_all_json: |-
     tenuerunt, etc.
   citata_rodoma: "Aktuota ir \nduota antrą gavėnios sekmadienį \n(vasario 16-ą) 1410 metais mūsų Vil­\nniaus pilyje]. 3-oji privilegija rašyta \nTrakuose, datuota 1411 m., kuria di­\ndysis kunigaikštis Vytautas, atsi­\nliepdamas į vyskupo Mikalojaus ir \nVilniaus kapitulos pareiškimus \nmainais už dvasininkijos Vechatnicos \nkaimą Volkovisko paviete, esantį \nkapitulai netinkamoje vietovėje, \nduoda jai: Vilias seu haereditates \nnostras Mileykozvo et Moranonnikoni- \nce nuncupatas in districtu Creuensi \n(powiat Krewski) sitas, haereditates \nque Blusza in flumine Swisłocz et di­\nstrictu Swisłocen, eo modo et jure quo \nipsam filii Andreani Ducis de Druszsko \ntenuerunt, etc."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,6 +275,7 @@ media_all_json: |-
     copus Vilnensis Doctor juris canonici
     et artium Magister.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -65,15 +65,23 @@ Nenurodyta
 - t-001
   global_id: t-195406
   teiginys: "Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177825
     - c-177828
+    - c-177825
     - c-177829
 
 <a id="claim-t-195407"></a>
 - t-002
   global_id: t-195407
   teiginys: "Avižinės kruopos ruoštos mirkant, kaitinant, malant ir „nekojant“ avižas."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177827
 
@@ -81,6 +89,10 @@ Nenurodyta
 - t-003
   global_id: t-195408
   teiginys: "Gavėniai užėjus šeimininkės rūpinosi pasninko valgiais ir šeima ruošdavosi keturiasdešimt šešių dienų pasninkui."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177824
     - c-177830
@@ -89,6 +101,10 @@ Nenurodyta
 - t-004
   global_id: t-195409
   teiginys: "Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177823
     - c-177826
@@ -117,6 +133,7 @@ Nenurodyta
     tą krosnį.
   citata_rodoma: "Šustos pupos ir šusti žirniai irgi gavėnios valgymas. Pamerkia iš vakaro pupas ar žirnius, rytoj rytą nusunkia, supila į molinį puodą, uždengia virkščiomis, užbruka virkščias šakaliukais, kad šios prisispraustų, ir tada, apvertę dugną į viršų, pastumia į ką tik iškūrentą krosnį."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,6 +153,7 @@ Nenurodyta
     kruopas.
   citata_rodoma: "51. Gavėnios valgiai."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +178,7 @@ Nenurodyta
     vietoje su kopūstais.
   citata_rodoma: "Pupas valgo visada sausas ir vienas, o žirnius — ar vienus, ar duonos vietoje su kopūstais."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,6 +197,7 @@ Nenurodyta
     čių miltų. Po dviejų parų jau rūkštis vartojama.
   citata_rodoma: "Rūkštį dirba šitaip: į išvirintą vandenį įpila duoninių miltų ir užraugę įdeda duonos plutą. Į dviejų gorčių statinaitę deda vieną gorčių miltų. Po dviejų parų jau rūkštis vartojama."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +224,7 @@ Nenurodyta
     nės avižų kruopos.
   citata_rodoma: "Avižines kruopas taisant reikia gerai išmirkyti ir supilti avižas į karštą krosnį, kad jos iškeptų ir sudžiūtų. Toliau jas mala iškeltomis girnomis. Per girnas varo daug sykių, kiekvieną sykį „nekoja“ —- ypatingu būdu mėto geldoje — ir tuo atskiria išsiaižiusias ašakas. Malimą ir nekojimą tiek kartoja, kol gauna avižų branduolius nuvalytus nuo ašakų, sveikus ar pertrintus pusiau. Tai ir yra šustinės avižų kruopos."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -223,6 +244,7 @@ Nenurodyta
     ašaras.
   citata_rodoma: "Valgo garstyčninką duoną dažydami arba, dar geriau, bulbes pasmeigę ant balanos šipuliuko."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,6 +263,7 @@ Nenurodyta
     mi nuo didžiųjų.
   citata_rodoma: "Mažiukai, pripuolę prie sietuvės su kruopomis, nešioja jas saujomis ir valgo pasislėpdami nuo didžiųjų."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -262,6 +285,7 @@ Nenurodyta
     pasninko.
   citata_rodoma: "Rūpestinga šeimyna turi iš vasaros pasitiekusi suverdančių žirnių, pupų, džiovintų baravykų, sūdytų ruduokių, raugintų agurkų, džiovintų grūšių, miškinių obuoliukų ir kitų dalykų. Taip pasiruošę, be baimės, pradeda eilę keturių dešimtų šešių dienų nuolatinio pasninko."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

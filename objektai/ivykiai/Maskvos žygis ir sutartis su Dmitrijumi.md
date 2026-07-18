@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Maskvos žygis ir sutartis su Dmitrijumi (sutartis)'
+pavadinimas: 'Maskvos žygis ir sutartis su Dmitrijumi'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Maskvos žygis ir sutartis su Dmitrijumi'
-aliases:
-  - 'Maskvos žygis ir sutartis su Dmitrijumi'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Maskvos žygis ir sutartis su Dmitrijumi (sutartis)
+# Maskvos žygis ir sutartis su Dmitrijumi
 
 ## Santrauka
 
-Daukanto pasakojime lietuviai, būdami 18 trūkių nuo Maskvos, taip greitai artėjo, kad beveik pasiekė miestą anksčiau už grįžtantį pasiuntinį.
+18 trūkių būdami nuo Maskvos, su tokia greitybe baužė, jog mažne pirmiaus jie atėjo pas Maskvą nekaip reiškėjas pagrįžo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201271"></a>
 - t-001
   global_id: t-201271
-  teiginys: "Daukanto pasakojime lietuviai, būdami 18 trūkių nuo Maskvos, taip greitai artėjo, kad beveik pasiekė miestą anksčiau už grįžtantį pasiuntinį."
+  teiginys: "18 trūkių būdami nuo Maskvos, su tokia greitybe baužė, jog mažne pirmiaus jie atėjo pas Maskvą nekaip reiškėjas pagrįžo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184621
 
 ## Citatos
 
 - id: c-184621
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 646"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 646."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     18 trūkių būdami nuo Maskvos, su tokia grei-
     tybe baužė, jog mažne pirmiaus jie atėjo pas
@@ -65,6 +66,7 @@ Nenurodyta
     lietuvius užėmus Možaiską ir vienu trūkiu baužią
     į Maskvą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

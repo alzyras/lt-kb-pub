@@ -29,7 +29,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1251 m. liepos 29 d. Kuršo vyskupas ir kryžėjai pradėjo statyti Klaipėdos pilį, kuri po metų buvo užbaigta; vyskupas joje įkūrė bažnyčią ir pasirinko pilį savo buveine.
+Taip sukalbėję, 29 liepos mėnesy metuo se 1251 Klaipėdos pilį pamatavo, kurią metams su kankant nubengė ir tenai vyskupas įkūręs bažnyčią paskyrė sau už katedrą, o pilį už buveinę, kaipogi iki šiolei Kuršo vyskupas lindojo Rygoj, jog žem galiai ir kuržemiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,16 +48,21 @@ Nenurodyta
 <a id="claim-t-201286"></a>
 - t-001
   global_id: t-201286
-  teiginys: "1251 m. liepos 29 d. Kuršo vyskupas ir kryžėjai pradėjo statyti Klaipėdos pilį, kuri po metų buvo užbaigta; vyskupas joje įkūrė bažnyčią ir pasirinko pilį savo buveine."
+  teiginys: "Taip sukalbėję, 29 liepos mėnesy metuo se 1251 Klaipėdos pilį pamatavo, kurią metams su kankant nubengė ir tenai vyskupas įkūręs bažnyčią paskyrė sau už katedrą, o pilį už buveinę, kaipogi iki šiolei Kuršo vyskupas lindojo Rygoj, jog žem galiai ir kuržemiai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184636
 
 ## Citatos
 
 - id: c-184636
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 356"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 356."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Darbinykus sutarė abeji iš ly­
     gumo leisti, vyskupas gavo vieną dalį pilės miesto
@@ -86,6 +91,7 @@ Nenurodyta
     apent nenustotų, todėl lūgojo užtarymo nuo popie­
     žiaus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

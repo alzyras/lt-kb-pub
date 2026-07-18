@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
+Vratislavas, brolis Mestvino, pa sigailęs vargų savo ūkėjų tose terionėse, pąkajų padarė su kryžėjais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201333"></a>
 - t-001
   global_id: t-201333
-  teiginys: "Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų."
+  teiginys: "Vratislavas, brolis Mestvino, pa sigailęs vargų savo ūkėjų tose terionėse, pąkajų padarė su kryžėjais."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184683
 
 ## Citatos
 
 - id: c-184683
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 416"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 416."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vratislavas, brolis Mestvino, pa­
     sigailęs vargų savo ūkėjų tose terionėse, pąkajų
@@ -70,6 +75,7 @@ Nenurodyta
     desnioji dalis Varmijos ir Natangų turėjo kryžė-
     jams vėl vergauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

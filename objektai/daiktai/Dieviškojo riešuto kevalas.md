@@ -47,6 +47,9 @@ Nenurodyta
 - t-001
   global_id: t-194799
   teiginys: 'Ši sakmė yra dviejų dalykų suplakimas, primenantis No jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu kalioną ir Pirą, iš kurių kildinosi graikai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177195
 
@@ -69,6 +72,7 @@ Nenurodyta
     kalioną ir Pirą, iš kurių kildinosi graikai. Tautų neapykanta
     yra senų pirmykščių laikų palikimas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

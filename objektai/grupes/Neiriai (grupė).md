@@ -27,24 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas neirius lokalizuoja į šiaurę nuo budinų, Vilniaus apygardose, ir spėja, kad nuo jų pavadintos Neris bei Paneriai.
+Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir skitų kalba, už tų budinu juo dar į šiaurę, beje, apy gardose Vilniaus, neiriai; regis, upė Neris ir kalnai to krašto Paneriai nuo tų gyventojų yra praminti.
 
 ## Teiginiai
 
 <a id="claim-t-201252"></a>
 - t-001
   global_id: t-201252
-  teiginys: "Daukantas neirius lokalizuoja į šiaurę nuo budinų, Vilniaus apygardose, ir spėja, kad nuo jų pavadintos Neris bei Paneriai."
+  teiginys: "Versmėse Pinsko gyveno vadinami budinai, kurie kalbėjo mišria grekonų ir skitų kalba, už tų budinu juo dar į šiaurę, beje, apy gardose Vilniaus, neiriai; regis, upė Neris ir kalnai to krašto Paneriai nuo tų gyventojų yra praminti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184602
-- susijęs iš Paneriai: Daukanto spėjimu, Neries upės ir Panerių pavadinimai galėjo būti susiję su Vilniaus apygardose gyvenusiais neiriais.
-- susijęs iš Vilnius: Daukantas svarstė, kad Vilniaus apygardose gyvenusių neirių vardu galėjo būti pavadinti Neris ir Paneriai.
+
 ## Citatos
 
 - id: c-184602
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 23"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 23."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Už tų tyragetų
     juo tolesniai dar į šiaurę gyveno masagetai, beje, me-
@@ -58,6 +62,7 @@ Daukantas neirius lokalizuoja į šiaurę nuo budinų, Vilniaus apygardose, ir s
     kiaus su Pilypu, viešpačiu maudonų, bet tų karių
     trumpumas mano rašto neleidžia čia išguldyti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

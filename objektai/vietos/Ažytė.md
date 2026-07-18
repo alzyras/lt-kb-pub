@@ -49,6 +49,10 @@ Ažytė šiame šaltinyje yra upelis.
 - t-001
   global_id: t-195473
   teiginys: "Ažytė vietos žmonių atmintyje minima kaip vaikystės maudynių vieta."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177896
 
@@ -56,6 +60,10 @@ Ažytė šiame šaltinyje yra upelis.
 - t-002
   global_id: t-195474
   teiginys: "Ažytė apibūdinama kaip upelis, kuris pavasariais ir rudeniais patvinsta, o vasarą būna sausas."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177894
 
@@ -63,6 +71,10 @@ Ažytė šiame šaltinyje yra upelis.
 - t-003
   global_id: t-195475
   teiginys: "Pasakotojo dabartyje Ažytė buvo sausa."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177895
 - susijęs iš Duburys: Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku.
@@ -83,6 +95,7 @@ Ažytė šiame šaltinyje yra upelis.
     si joje gyvuliai ir žmonės.
   citata_rodoma: "Mūsų upelis Ažytė šią gadynę patvinsta pavasariais ir rudeniais, gi per vasarą esti sausas;"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,6 +116,7 @@ Ažytė šiame šaltinyje yra upelis.
     Šiandien Ažytė sausa.
   citata_rodoma: "Šiandien Ažytė sausa."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +139,7 @@ Ažytė šiame šaltinyje yra upelis.
     Augdami maudėmės Ažytėje.
   citata_rodoma: "Augdami maudėmės Ažytėje."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

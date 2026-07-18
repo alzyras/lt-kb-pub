@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Ehrenfriedas v. Neuenburgas, Altenburgo komtūras, kartu su Arnoldu v. Dorfu buvo pasiųstas į Padaugavį aiškintis krašto, kunigų, įsakymų, papročių ir kalavijonų būdo.
+Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v.
 
 ## Teiginiai
 
 <a id="claim-t-201418"></a>
 - t-001
   global_id: t-201418
-  teiginys: "Ehrenfriedas v. Neuenburgas, Altenburgo komtūras, kartu su Arnoldu v. Dorfu buvo pasiųstas į Padaugavį aiškintis krašto, kunigų, įsakymų, papročių ir kalavijonų būdo."
+  teiginys: "Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184768
 
 ## Citatos
 
 - id: c-184768
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 276"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 276."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­
@@ -52,6 +57,7 @@ Ehrenfriedas v. Neuenburgas, Altenburgo komtūras, kartu su Arnoldu v. Dorfu buv
     bepagrįžti tą patį metą namo, nes atentį metą jūra
     parkeliavo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,13 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - t-001
   global_id: t-191139
   teiginys: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
     - c-174021
 
@@ -40,6 +47,12 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - t-002
   global_id: t-197722
   teiginys: "1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179307
 
@@ -47,23 +60,47 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - t-003
   global_id: t-197723
   teiginys: "Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179308
 
-<a id="claim-t-200981"></a>
+<a id="claim-t-200980"></a>
 - t-004
+  global_id: t-200980
+  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184330
+
+<a id="claim-t-200981"></a>
+- t-005
   global_id: t-200981
-  teiginys: "Grįžtantį į Bartiją Divonį prie Gurbės upės kryžėjai netikėtai užpuolė miegantį be sargybos, atėmė grobį ir vos jo paties nenužudė."
+  teiginys: "Divonis palikinąs tyrus grobį, gyvolius ir im tinius su didesne dalia savo kariaunos pirma pa leido, o pats su rinktiniais paskui grįžo namo į Barti ją."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184331
 - susijęs iš [[objektai/asmenys/Augustas Oktavianas.md#claim-t-191182|Augustas Oktavianas]]: Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190883|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190883|Jaroslavas]]: Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.
 - susijęs iš [[objektai/daiktai/Divonio kelionės rankraštis.md#claim-t-193010|Divonio kelionės rankraštis]]: Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš Divonio kelionės aprašymas: Narbutas nurodo, kad Divonio kelionės aprašymas išliko rankraštyje, siejamame su Plocko katedros klebonu Jaroslavu ir vyskupu Kristijonu.
 - susijęs iš Hartknocho Prūsijos istorija: Narbutas nurodė, kad Hartknochas aprašė padavimus apie Bitinijos keliautojo Divonio apsilankymą būsimame Prūsijos krašte.
 - susijęs iš Prūsų vyskupo Kristijono kronika: Pasak Teodoro Narbuto, vyskupas Kristijonas Divonio kelionės aprašymą rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš [[objektai/autoriai/Jaroslavas.md#claim-t-191627|Jaroslavas]]: Narbutas rašė, kad Divonio kelionės aprašymą vyskupas Kristijonas veikiausiai rado Plocko katedros klebono Jaroslavo kronikoje.
-- susijęs iš [[objektai/ivykiai/Christburgo apgultis.md#claim-t-201279|Christburgo apgultis]]: Christburgo apgulties metu nauja kariauna apsupo pilį, o lietuviai Sirgūnėje nuskandino valtis, kuriomis įgula gaudavo maisto.
 - susijęs iš Plocko kanauninko Jaroslavo kronika: Pasak Teodoro Narbuto, Divonio kelionės aprašymą vyskupas Kristijonas rado Plocko kanauninko Jaroslavo kronikoje.
 - susijęs iš Heraklio stulpai: Romėnai, sužinoję apie pūnų laivus už Heraklio stulpų keliaujant į šiaurines jūras, pasiuntė jūrų keliautoją sekti vieną tokį laivą.
 - susijęs iš Plockas: Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje.
@@ -112,6 +149,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     Dyvaonys, paskutinį kartą Dymonis.
   citata_rodoma: "Vyrai turi po tris žmonas, bendrauja su jo­\nmis kada ir kur nori nesigėdydami pašalinių, nes tokiuose\ndalykuose jie neturi gėdos, bendrauja su žmonomis bend­\nrai ir pakaitomis; ten, kur yra vyras, turi būti ir žmona,\nir, nors daug turi moterų, vaikų augina mažai.\n171\n\n## Puslapis 169\n\n172\nBitinijos keliautojai turėjo daug laiko visa tai sužinoti,\nnes juos tame krašte užklupo labai sunki žiema; čia jiems\nreikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,\nišskyrus vieną, vardu Divonis1."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +168,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
     Dyvaonys, paskutinį kartą Dymonis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,16 +192,42 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     taip: Bogumilas, Boguchvalas, Bogislavas ir t. t. Panašiai ir lietuviai
     Teodotą išvertė savaip — Diemonis (Diewas — Deus).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-197723
 
+- id: c-184330
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Ant didesnės laimos perkrikštų, pasitiko tarp jų
+    sumanančių karvedžių ir gudrių vyrų, kurie mo­
+    kėjo kliautį ir vienybę savo ūkėjų antturėti, ne vien
+    permaną vokyčių kalbą, bet sumaną dar su voky­
+    čių ginklu kariauti, mylį savo tėvūnę ir gai-lįs liuo-
+    sybės, nešykštaują nei turtų, nei vargų įkyrį, nė
+    pačios savo gyvybos negailintys, to vien įsitėpę,
+    idant tiktai galėtų tėvūnę išliuosuoti ir liuosais gy­
+    venti. Penkiose srityse atsirado tokie vyrai: Olan­
+    das Samijoj, Montė Natangijoj, Glapas Varmijoj, Di-
+    vonis Partijoj o Auktuma Pagezonijoj. Tie visi vy­
+    rai buvo dar gimę liuosybėj ir tėvūnei jų klestint,
+    todėl, mindami linksmas dienas senovės liuosybės,
+    neapvežėjo vergybos.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200980
+
 - id: c-184331
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 418"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 418."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Divonis palikinąs tyrus grobį, gyvolius ir im­
     tinius su didesne dalia savo kariaunos pirma pa­
@@ -174,6 +239,7 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     liais beišsprūdo, raudodamas savo genties Daubario
     kritusio.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

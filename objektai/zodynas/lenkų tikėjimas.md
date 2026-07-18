@@ -33,6 +33,11 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
 - t-001
   global_id: t-187551
   teiginys: 'Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-170501
 
@@ -54,6 +59,7 @@ Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
     Vaidotas3 2 ; jie visi trys mirė, jauni būdami, negavę
     dalių 3 3 .
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-66501
   teiginys: "1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66714
 
@@ -57,6 +60,9 @@ Nenurodyta
 - t-002
   global_id: t-66502
   teiginys: "Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66715
 
@@ -64,6 +70,9 @@ Nenurodyta
 - t-003
   global_id: t-66503
   teiginys: "Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66713
 
@@ -82,6 +91,7 @@ Nenurodyta
     joje degtinės pajamos kad ir sumažėjo, bet ne taip labai: ten
     buvo tikėtasi 929.305 rublių, o gauta 336.781 rublis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +110,7 @@ Nenurodyta
     tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
   citata_rodoma: "1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų\npasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-\ntais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +132,7 @@ Nenurodyta
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

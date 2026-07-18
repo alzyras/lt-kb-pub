@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto vertinimu, Vulfstano pasakojimą apie žemaičius patvirtina vėlesni Lietuvos tautos rašytojai.
+Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesnieji Lietuvos tautos rašy tojai, ką tuojau alvienas skaitytojas regės.
 
 ## Teiginiai
 
 <a id="claim-t-201453"></a>
 - t-001
   global_id: t-201453
-  teiginys: "Daukanto vertinimu, Vulfstano pasakojimą apie žemaičius patvirtina vėlesni Lietuvos tautos rašytojai."
+  teiginys: "Visa tą, ką čia dabar Vulfstanas pasakojo savo amžiuj, patvirtina paskesnieji Lietuvos tautos rašy tojai, ką tuojau alvienas skaitytojas regės."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184803
 
 ## Citatos
 
 - id: c-184803
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 50"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemaičiai mokėję šaltį padirbti, dėl ko gi jų
     lavonai taip ilgai laikomi negedę: kaipo 2 bački
@@ -55,6 +60,7 @@ Daukanto vertinimu, Vulfstano pasakojimą apie žemaičius patvirtina vėlesni L
     dėl ko prašaleičiai žemaičius aestais vadino, yra vir-
     šiaus išguldytas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

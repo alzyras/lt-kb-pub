@@ -49,6 +49,10 @@ Nenurodyta
 - t-001
   global_id: t-189912
   teiginys: 'Narbutas aukojamojo indo apeigas priskiria paprastosioms aukojimo maldoms arba žemesniosios kategorijos aukoms, kurias atnašaudavo viršaitis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Fragmentiškas įvadinis sakinys perrašytas kaip enciklopedinis teiginys apie apeigų vietą aukojimo sistemoje. Nepridėta vėlesnių puoduko apeigos veiksmų.'
   pagrindžia:
     - c-172795
 
@@ -82,6 +86,7 @@ Nenurodyta
     ir sviesdavo per galvą. Tai kartodavo tiek kartų, kiek buvo die­
     vų, kuriems reikėjo duoti auką.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

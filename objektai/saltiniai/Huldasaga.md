@@ -32,6 +32,20 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
 - t-001
   global_id: t-190535
   teiginys: "Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa statė šventyklą Odino garbei."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Huldasaga: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Huldasaga\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173418
 
@@ -50,6 +64,7 @@ Narbutas, remdamasis Huldasaga, rašo, kad Huldos dukterys Tergerda ir Irpa stat
     (Thergerd) ir Irpą (Yrpo). Jos statė šventyklą Odino garbei, gyveno
     miškuose ir Siaurės šalyse (Islandų saga, pavadinta Huldasaga).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

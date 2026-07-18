@@ -48,6 +48,12 @@ Nenurodyta
 - t-001
   global_id: t-196328
   teiginys: "Po karo suiručių susilauV y ta u la s p u ola schizkęs ramybės, Vytautas pasim ą, p lin ta n čią jo va ijuto saugus ir uoliai įniko d o se ginti visoje valstybėje tikrą jį tikėjimą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169264
 
@@ -85,6 +91,7 @@ Nenurodyta
     bažnyčia.
   citata_rodoma: "Tais pačiais metais \nK o n sta n tin o p o lio im- \nnusiuntė Rytų imperatoriui,\np era to riu i \nsiunčia \nturkų antpuolių baisiai iška-\nm a isto \nmuotam, iš savo valdų daug\nvisokio maisto. Šios siuntos, \nupėmis pavandeniui nuplukdytos į Juodąją jūrą, iš Cha- \nčibėjaus, tuo metu Lietuvai priklausiusio uosto, buvo \ngabenamos didesniais laivais į Konstantinopolį.\nPo karo suiručių susilau- \nV y ta u la s p u ola schiz- \nkęs ramybės, Vytautas pasi-\nm ą, p lin ta n čią jo va i- \njuto saugus ir uoliai įniko\nd o se \nginti visoje valstybėje tikrą­\njį tikėjimą."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

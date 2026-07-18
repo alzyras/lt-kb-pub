@@ -56,6 +56,12 @@ Nenurodyta
 - t-001
   global_id: t-05332
   teiginys: "Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys faktinis, bet reikėjo aiškiai susieti su note objektu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-174967
 
@@ -63,6 +69,10 @@ Nenurodyta
 - t-002
   global_id: t-12418
   teiginys: "Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14480
 
@@ -70,6 +80,11 @@ Nenurodyta
 - t-003
   global_id: t-192096
   teiginys: "Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00230
 
@@ -77,6 +92,11 @@ Nenurodyta
 - t-004
   global_id: t-192097
   teiginys: "Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00231
 
@@ -84,6 +104,12 @@ Nenurodyta
 - t-005
   global_id: t-192099
   teiginys: "Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys paremtas citata, bet pritaikytas note objektui ir sutrumpintas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14479
 
@@ -91,6 +117,11 @@ Nenurodyta
 - t-006
   global_id: t-192100
   teiginys: "Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsų žemė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05407
 
@@ -98,6 +129,20 @@ Nenurodyta
 - t-007
   global_id: t-192508
   teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčių laidotuvių ir vėlinių apeigos\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175298
 
@@ -140,6 +185,7 @@ Nenurodyta
     su daiktais nesudeginti.
   citata_rodoma: "Aisčiai manė, kad mirusiam žmogui būsią\nreikalinga turėti tų pačių reikmenių ir įrankių, kuriuos turėjęs\nšiame pasauly. Todėl, laidodami lavonus, jie įdėdavo į kapą įvai-\nrių daiktų: pabalnotų arklių, ginklų, papuošalų ir kitko. Tik pat-\nsai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-\nmesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-\ndojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami\nsu daiktais nesudeginti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +206,7 @@ Nenurodyta
     mėn būdavo nuliejama gėrimų ir numetama maisto.
   citata_rodoma: "Tačiau aisčiai tikėjo, kad mirusiųjų vėlės nesiskiriančios nuo\nšeimų ir gyventos aplinkos: jos apsigyvenančios gyvuliuose ar\nmedžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų\nglobėjos. Todėl būdavo ruošiamos specialios vėlių garbinamo-\nsios šventės, vadinamosios vėlinės; tuomet joms būdavo\naukojamos įvairios aukos. Vėlėms kiekvienos puotos metu že-\nmėn būdavo nuliejama gėrimų ir numetama maisto."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +226,7 @@ Nenurodyta
     dalybomis per arklių lenktynes (SRP, I, 735-5).
   citata_rodoma: "Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.\n«Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių\nmetu. Nesudegintą lavoną laikydami du mėnesius ir daugiau (o\nturtingųjų ir « kunigų » net iki pusės metų), per tą laiką iš įniru­\nsiojo turto keldavę puotas. Jeigu kas likdavo, buvo išbaigiama\ndalybomis per arklių lenktynes (SRP, I, 735-5)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,6 +249,7 @@ Nenurodyta
     toliau, kaip anksčiau tarnavo”1 2).
   citata_rodoma: "Dėl to buvo paprotys, kad mirus kilmingam žmo­\ngui (edelin) ginklus ir arklį, tarnus (knechte), moteris (meide),\nbrangius apdarus, kurtus ir sakalus ir daug kitų padargų, rei­\nkalingų karo žygyje buvo sudeginama kartu su lavonu. Taip\npat su paprasto žmogaus lavonu buvo deginama visa, kas\npriklausė jo užsiėmimui. Mat, visi tokie daiktai kartu su jais,\npagal jų tikėjimą, turėjo prisikelti iš numirusių ir tarnauti\ntoliau, kaip anksčiau tarnavo”1 2)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,6 +269,7 @@ Nenurodyta
     kėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus.
   citata_rodoma: "Kur ir kaip vėlės aname pasauly laikėsi ir patiems tikin­\ntiesiems nebuvo aišku. Būta kažkokios dausų sąvokos. Gy­\nvieji, rūpindamiesi vėlių likimu, šaukdavosi į Žeminę, nuliedami\njai gėrimo ar numesdami valgio, ypač vėlinių dienomis. Ti­\nkėta vėles pereinant į gyvulius, medžius ir kitus gamtos kūnus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -236,6 +286,7 @@ Nenurodyta
     drauge pakasami žirgai.
   citata_rodoma: "Patobulėjo ginklų, įrankių ir papuošalų formos.\nMirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net\ndrauge pakasami žirgai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -262,6 +313,7 @@ Nenurodyta
     laipsnio.
   citata_rodoma: "Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo\nsu krivičiais, o ne krivičių Smolenską, nes iš daugelio\ntos genties šakų lengvai galėjo atsirasti viena, kuri, kaip\nir Polocko, galėjo būti palankesnė rusams ir prisidėti\nprie Olego.\nBe to, reikia pridurti nors ir nepilną, tačiau Nestoro\nišsaugotą jų gyvenimo paveikslą. Jie degindavo mirusių­\njų palaikus ir jų pelenus surinkdavo į urnas, o laidotuvių\nmetu rengdavo turnyrus."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

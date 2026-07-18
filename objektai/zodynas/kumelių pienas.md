@@ -36,6 +36,20 @@ Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių
 - t-001
   global_id: t-200722
   teiginys: "Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių pieną, o neturtingieji ir vergai gėrė midų."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> vergai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kumelių pienas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vergai: mention_match, thing, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kumelių pienas\" parinktas kaip owner_note_path. Targetas \"vergai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184067
 
@@ -56,6 +70,7 @@ Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių
     buvo daugiau išoriniai stebėtojai (arba net ne stebėtojai, o svetimų pasakojimų per-
     rašinėtojai), tad ir jų teiginius turėtume vertinti kritiškai.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

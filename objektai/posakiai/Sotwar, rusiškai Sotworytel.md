@@ -33,6 +33,18 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
 - t-001
   global_id: t-192131
   teiginys: "Narbutas rašo, kad kiti Santvaro ženklo užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sotwar, rusiškai Sotworytel: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sotwar, rusiškai Sotworytel\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175019
 
@@ -57,6 +69,7 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
     net nemanė jį esant pagonišką simbolį.
   citata_rodoma: "Dėl Santvaro atvaizdo buvo įvairiausių nuomonių. Visų pirma\n  buvo abejojama dėl popieriaus autentiškumo: ar jis priklausė iki-\n  krikščioniškajai epochai ir 200 metais buvo panaudotas dokumentui\n  rašyti. Bet buvo rastas popierius su tokiu pat ženklu, tik be ratinio\n  užrašo; jis įtikino, jog kažkur Lietuvoje arba Lietuvos Rusioje bu­\n  vo fabrikas, gaminęs tokios rūšies popierių. Taigi galėjo panašus\n  egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir\n  net nemanė jį esant pagonišką simbolį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

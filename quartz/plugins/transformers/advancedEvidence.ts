@@ -24,9 +24,7 @@ const ADVANCED_KEYS = new Set([
   "šaltinio_profilis",
   "saltinio_profilis",
   "irodymo_stiprumas",
-  "saltinio_vieta",
   "sprendimo_priezastis",
-  "atnaujinimo_run_id",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
   "ryšio_patikimumo_priezastys",
@@ -39,9 +37,8 @@ const ADVANCED_KEYS = new Set([
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
-  "vertinimo_autorius",
+  "atnaujinta",
   "pagrindžia",
-  "global_id",
 ])
 const ADVANCED_LABELS = new Map<string, string>([
   ["global_id", "Globalus ID"],
@@ -57,10 +54,9 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["temporaliniai_duomenys", "Laikotarpiai"],
   ["temporalinis_paaiskinimas", "Laiko paaiškinimas"],
   ["temporalinis_llm_pakomentavimas", "Laiko interpretacija"],
-  ["šaltinio_profilis", "Šaltinio profilis"],
-  ["saltinio_profilis", "Šaltinio profilis"],
+  ["šaltinio_profilis", "Šaltinio kontekstas"],
+  ["saltinio_profilis", "Šaltinio kontekstas"],
   ["irodymo_stiprumas", "Įrodymo stiprumas"],
-  ["saltinio_vieta", "Citatos vieta šaltinyje"],
   ["sprendimo_priezastis", "Sprendimo priežastis"],
   ["ryšio_patikimumas", "Ryšio patikimumas"],
   ["ryšio_patikimumo_lygis", "Ryšio patikimumo lygis"],
@@ -73,10 +69,45 @@ const ADVANCED_LABELS = new Map<string, string>([
   ["ryšio_paaiskinimas", "Ryšio paaiškinimas"],
   ["ai_siulomas_patikimumas", "AI siūlomas patikimumas"],
   ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
-  ["vertinimo_atnaujinta", "Atnaujinta"],
-  ["vertinimo_autorius", "Atnaujino"],
-  ["atnaujinimo_run_id", "Run ID"],
+  ["vertinimo_atnaujinta", "Paskutinis atnaujinimas"],
+  ["atnaujinta", "Paskutinis atnaujinimas"],
   ["citata_originali", "Originali citata"],
+])
+const ADVANCED_HINTS = new Map<string, string>([
+  ["teiginio_tipas", "Kokio tipo faktas ar teiginys čia pateikiamas."],
+  ["patikimumo_lygis", "Bendras šio teiginio arba ryšio patikimumo įvertis."],
+  ["patikimumo_saltinis", "Pagal ką arba kas nustatė šį patikimumo įvertį."],
+  ["patikimumo_pagrindimas", "Trumpas paaiškinimas, kodėl teiginys taip įvertintas."],
+  ["sudarymo_pagrindimas", "Paaiškinimas, kaip iš šaltinio citatos suformuluotas teiginys."],
+  ["susije_objektai", "Objektai, kurie tiesiogiai susiję su šiuo teiginiu ar citata."],
+  ["semantiniai_rysiai", "Iš citatos ar teiginio išvesti prasminiai ryšiai."],
+  ["temporaliniai_duomenys", "Su teiginiu susijusios datos ir laikotarpiai."],
+  ["temporalinis_paaiskinimas", "Paaiškinimas, kaip suprastos citatoje nurodytos datos."],
+  ["temporalinis_llm_pakomentavimas", "Papildomas laiko interpretacijos paaiškinimas."],
+  [
+    "šaltinio_profilis",
+    "Šaltinio interpretavimo ir atribucijos kontekstas; tai nėra bibliografinis autorius.",
+  ],
+  [
+    "saltinio_profilis",
+    "Šaltinio interpretavimo ir atribucijos kontekstas; tai nėra bibliografinis autorius.",
+  ],
+  ["irodymo_stiprumas", "Kiek tiesiogiai citata pagrindžia teiginį."],
+  ["sprendimo_priezastis", "Priežastis, dėl kurios teiginys ar ryšys priimtas tokiu pavidalu."],
+  ["ryšio_patikimumas", "Šio konkretaus ryšio pasitikėjimo įvertis."],
+  ["ryšio_patikimumo_lygis", "Kokybės kategorija, priskirta ryšiui."],
+  ["ryšio_patikimumo_priezastys", "Signalai, kuriais remiantis įvertintas ryšys."],
+  ["ryšio_sprendimo_taisykle", "Taisyklė, pagal kurią ryšys buvo nustatytas."],
+  ["ryšio_subjekto_parinkimas", "Kodėl parinktas šis ryšio subjektas."],
+  ["ryšio_targeto_parinkimas", "Kodėl parinktas šis ryšio objektas."],
+  ["ryšio_slopinti_kandidatai", "Kiti kandidatai, kurie buvo svarstyti, bet atmesti."],
+  ["ryšio_slopinimo_priezastys", "Kodėl kiti galimi ryšiai nebuvo pasirinkti."],
+  ["ryšio_paaiskinimas", "Žmogiškai suprantamas šio ryšio paaiškinimas."],
+  ["ai_siulomas_patikimumas", "Automatinio vertinimo pasiūlytas patikimumo lygis."],
+  ["ai_siulymo_pagrindimas", "Automatinio vertinimo pasiūlymo paaiškinimas."],
+  ["vertinimo_atnaujinta", "Kada paskutinį kartą atnaujintas vertinimas."],
+  ["atnaujinta", "Kada paskutinį kartą atnaujintas šis teiginys arba šaltinio įrašas."],
+  ["citata_originali", "Tikslus šaltinio fragmentas, iš kurio pateikiama citata."],
 ])
 const CLAIM_ADVANCED_KEYS = [
   "teiginio_tipas",
@@ -92,7 +123,6 @@ const CLAIM_ADVANCED_KEYS = [
   "šaltinio_profilis",
   "saltinio_profilis",
   "irodymo_stiprumas",
-  "saltinio_vieta",
   "sprendimo_priezastis",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
@@ -106,8 +136,7 @@ const CLAIM_ADVANCED_KEYS = [
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
-  "vertinimo_autorius",
-  "atnaujinimo_run_id",
+  "atnaujinta",
 ]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
@@ -237,6 +266,15 @@ function advancedCell(text: string): string {
 
 function advancedLabel(key: string): string {
   return ADVANCED_LABELS.get(key) ?? key
+}
+
+function advancedHeader(key: string): string {
+  const label = escapeHtml(advancedLabel(key))
+  const hint = ADVANCED_HINTS.get(key)
+  if (!hint) {
+    return `<th>${label}</th>`
+  }
+  return `<th class="advanced-field-label" title="${escapeHtml(hint)}"><span>${label}</span><span class="advanced-field-help" aria-hidden="true">?</span></th>`
 }
 
 function normalizeLabelKey(label: string): string {
@@ -554,14 +592,18 @@ function renderClaimsSection(
   entries.forEach((entry, index) => {
     const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const sourceIds = [...new Set(
-      refs
-        .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
-        .filter((citation): citation is EvidenceEntry => Boolean(citation))
-        .map((citation) => citation.fields.get("šaltinis") ?? citation.fields.get("saltinis") ?? "")
-        .filter(Boolean)
-        .map(normalizeCitationSourceId),
-    )]
+    const sourceIds = [
+      ...new Set(
+        refs
+          .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
+          .filter((citation): citation is EvidenceEntry => Boolean(citation))
+          .map(
+            (citation) => citation.fields.get("šaltinis") ?? citation.fields.get("saltinis") ?? "",
+          )
+          .filter(Boolean)
+          .map(normalizeCitationSourceId),
+      ),
+    ]
     const publicId = claimPublicId(index)
     const domKey = claimDomKey(entry, index, usedDomKeys)
     const anchorId = `claim-${domKey}`
@@ -572,15 +614,7 @@ function renderClaimsSection(
     const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
       `<tr${anchorAttr} data-claim-row="true" data-citation-source-ids="${escapeHtml(sourceIds.join("|"))}"><td>${claimCell}</td></tr>`,
-      renderClaimEvidenceDetailRow(
-        entry,
-        detailId,
-        domKey,
-        publicId,
-        refs,
-        citationsById,
-        resolveIndex,
-      ),
+      renderClaimEvidenceDetailRow(entry, detailId, domKey, refs, citationsById, resolveIndex),
     )
   })
   out.push(
@@ -593,35 +627,18 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(
-  entry: EvidenceEntry,
-  publicId: string,
-  resolveIndex: SlugResolveIndex,
-): string[] {
+function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
   const rows: string[] = []
-  rows.push(
-    `<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`,
-  )
-  rows.push(
-    `<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`,
-  )
-  const globalId = entry.fields.get("global_id")
-  if (globalId) {
-    rows.push(
-      `<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`,
-    )
-  }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
         key === "susije_objektai" ||
         key === "semantiniai_rysiai" ||
-        key === "temporaliniai_duomenys" ||
-        key === "saltinio_vieta"
+        key === "temporaliniai_duomenys"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : advancedCell(value)
-      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr>${advancedHeader(key)}<td>${rendered}</td></tr>`)
     }
   }
   return rows
@@ -724,15 +741,14 @@ function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
   domKey: string,
-  publicId: string,
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
 ): string {
-  const claimTechnicalRows = claimAdvancedRows(claimEntry, publicId, resolveIndex)
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
   const claimTechnicalHtml =
     claimTechnicalRows.length > 0
-      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Teiginio techniniai duomenys</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
+      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Apie teiginį ir jo pagrindimą</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
       : ""
   const cards = refs
     .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
@@ -753,9 +769,7 @@ function advancedRows(
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(
-      `<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`,
-    )
+    rows.push(`<tr>${advancedHeader("citata_originali")}<td>${advancedCell(original)}</td></tr>`)
   }
   for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
@@ -763,11 +777,10 @@ function advancedRows(
       const rendered =
         key === "susije_objektai" ||
         key === "semantiniai_rysiai" ||
-        key === "temporaliniai_duomenys" ||
-        key === "saltinio_vieta"
+        key === "temporaliniai_duomenys"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : escapeHtml(markdownText(value))
-      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr>${advancedHeader(key)}<td>${rendered}</td></tr>`)
     }
   }
   return rows

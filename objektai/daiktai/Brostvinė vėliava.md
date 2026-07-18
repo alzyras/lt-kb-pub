@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po antrojo Eilerto puolimo lietuviai iš nugalėtų jo karių perėmė turtą, ginklus, mantą ir brostvinę vėliavą. Bavarų kunigaikštis pilį apjuosė grioviais ir pylimais, o jos įgulai įdavė dėvėti vėliavą su savo žyme.
+Vienok noris ir taip nuveikti, kalavijonys nenorėjo dar visuotinai pasiduoti, užvis geidė kaip įmaną karūną, arba vėliavą, brostvinę apent įgauti. Ant galo bavarų kunigaikštis, savo pilį didžiais grioviais apkasęs ir pylomis apipylęs, įgulei įdavė vėliavą su savo žy me dėvėti.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -44,23 +44,34 @@ Nenurodyta
 <a id="claim-t-201359"></a>
 - t-001
   global_id: t-201359
-  teiginys: "Po antrojo Eilerto puolimo lietuviai iš nugalėtų jo karių perėmė turtą, ginklus, mantą ir brostvinę vėliavą."
+  teiginys: "Vienok noris ir taip nuveikti, kalavijonys nenorėjo dar visuotinai pasiduoti, užvis geidė kaip įmaną karūną, arba vėliavą, brostvinę apent įgauti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184709
 
 <a id="claim-t-201360"></a>
 - t-002
   global_id: t-201360
-  teiginys: "Bavarų kunigaikštis pilį apjuosė grioviais ir pylimais, o jos įgulai įdavė dėvėti vėliavą su savo žyme."
+  teiginys: "Ant galo bavarų kunigaikštis, savo pilį didžiais grioviais apkasęs ir pylomis apipylęs, įgulei įdavė vėliavą su savo žy me dėvėti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184710
-- susijęs iš [[objektai/grupes/Žemgaliai.md#claim-t-200938|Žemgaliai]]: Daukanto pasakojime po lietuvių pergalės žemgaliai išsižadėjo krikščionybės, vėl susijungė su lietuviais ir žemaičiais bei karvedžiu išsirinko Nameiksį.
+
 ## Citatos
 
 - id: c-184709
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 452"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 452."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok noris ir taip nuveikti, kalavijonys nenorėjo
     dar visuotinai pasiduoti, užvis geidė kaip įmaną
@@ -78,6 +89,7 @@ Nenurodyta
     ermyderį Nameiksis, didžiai išmintingas žemgalis,
     kuriam vokytis buvo per ausį uždaužęs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,9 +97,8 @@ Nenurodyta
     - t-201359
 
 - id: c-184710
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 575"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 575."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip apsitvdrtinęs, kunigaikštis Ba­
     varijos leido pulkus meldžionų sarioti į apygardas,
@@ -99,6 +110,7 @@ Nenurodyta
     me dėvėti. Tą tenuveikę meldžionys Žemaičiuose
     grįžo vėl į Parusnį užvis dėl to, jog žiema artinos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

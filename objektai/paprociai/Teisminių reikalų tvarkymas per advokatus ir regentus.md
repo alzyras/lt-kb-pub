@@ -67,6 +67,17 @@ Nenurodyta
 - t-001
   global_id: t-200557
   teiginys: "Jei advokatas būtų pareikalavęs daugiau, Lopacinskis žadėjo jam nedelsdamas sumokėti ir papildomą sumą."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> pakancleris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teisminių reikalų tvarkymas per advokatus ir regentus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "pakancleris: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teisminių reikalų tvarkymas per advokatus ir regentus\" parinktas kaip owner_note_path. Targetas \"pakancleris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183948
 
@@ -74,6 +85,20 @@ Nenurodyta
 - t-002
   global_id: t-200558
   teiginys: "1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teisminių reikalų tvarkymas per advokatus ir regentus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778): mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teisminių reikalų tvarkymas per advokatus ir regentus\" parinktas kaip owner_note_path. Targetas \"Mikalojus Lopacinskis (LDK didysis raštininkas, 1715–1778)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1751 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, adresatą, gavėją ir sumą. Citata tiesiogiai palaiko šį veiksmą."
   pagrindžia:
     - c-183948
 
@@ -92,6 +117,7 @@ Nenurodyta
     advokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10].
   citata_rodoma: "Laiškuose irgi būdavo minimos teismo pareigūnų paslaugos. 1751 m. laiške LDK\npakancleriui Mykolui Antanui Sapiegai kanauninkas teigė, kad regentui Ščepanovskiui\n(Szczepanowski) liepęs sumokėti advokatui Glindzičiui (Glindzyc) 15 auksinų, nes Vil-\nniuje jau preliminariai pats pakancleris žadėjo duoti 10. Kanauninkas paminėjo, kad jei\nadvokatas pareikalautų daugiau, jam nedelsdamas sumokėtų [10]."
   statusas: verified
+  atnaujinta: "2026-07-14 04:19"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

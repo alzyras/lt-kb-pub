@@ -41,6 +41,20 @@ Lietuva patyrė Kijevo Rusios agresiją.
 - t-001
   global_id: t-39556
   teiginys: "1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jaroslavas (Kijevo valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jaroslavas surengė žygį į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jaroslavas (Kijevo valdovas) surengė žygį į Lietuva (0.99)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1040 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jaroslavas (Kijevo valdovas) buvo valdovas Kijevas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Jaroslavo žygį ir tiksliai atitinka citatą."
   pagrindžia:
     - c-41360
 
@@ -58,6 +72,7 @@ Lietuva patyrė Kijevo Rusios agresiją.
     bėta įtraukti į senrusiškos kultūros įtaką, kas ateityje galėjo lemti
     lietuvių tautos asimiliaciją.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

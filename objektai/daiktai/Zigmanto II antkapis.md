@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-65014
   teiginys: "Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-65533
 
@@ -60,6 +63,9 @@ Nenurodyta
 - t-002
   global_id: t-65015
   teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-65534
 - susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
@@ -76,6 +82,7 @@ Nenurodyta
     Lenkų karalius (taip jis atvaizduotas Kro-
     kuvos katedroje esančiam antkapy).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +100,7 @@ Nenurodyta
     Zigmanto II antkapis Krokuvos katedroje.
   citata_rodoma: "Zigmanto II antkapis Krokuvos katedroje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,10 +53,14 @@ Nenurodyta
 - t-001
   global_id: t-195299
   teiginys: "Spragilas minimas tarp senosios kaimo buities įrankių kaip javų kūlimo priemonė."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177663
-    - c-177664
     - c-177665
+    - c-177664
 - susijęs iš [[objektai/daiktai/Spragilo siautuvė.md#claim-t-195329|Spragilo siautuvė]]: Trumpas spragilo dalies paminėjimas su regioniniu pavadinimo variantu.
 - susijęs iš [[objektai/paprociai/Senosios gadynės kasdienybė.md#claim-t-195612|Senosios gadynės kasdienybė]]: Senojoje gadynėje Lietuvos žmonės švietėsi balanomis, avėjo vyžomis, kūlė spragilu ir gyveno dūminėse grįčiose.
 - susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.
@@ -87,6 +91,7 @@ Nenurodyta
     naivumo ir tragizmo.
   citata_rodoma: "Man teko būti liudininku, kaip senoji gadynė pasikeitė į naująją, \nliudininku tos gadynės, kada Lietuvos žmonės balana (skala) švietėsi, \nvj/žomis avėjo, spragilu kūlė, dūminėse grįčiose gyveno, daug dainavo, \ndaug meldėsi, daug dirbo, daug gėrė ir lėbavo."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +111,7 @@ Nenurodyta
     gilų balso.
   citata_rodoma: "Svečiai po klojimą darbuojasi, o šeimininkas kieme klausosi ir vis negirdi spragilų balso."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +133,7 @@ Nenurodyta
     laiko, kiek vieno klojimo iškūlimas.
   citata_rodoma: "Iškūlus jaują ir spragilus pakabinus, darbas dar nepabaigtas: reikia jaują pridžiauti, ir tas užima tiek laiko, kiek vieno klojimo iškūlimas."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

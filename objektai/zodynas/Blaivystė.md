@@ -56,6 +56,10 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
 - t-001
   global_id: t-195623
   teiginys: "Blaivystė šiame šaltinyje vaizduojama kaip padedanti atsisakyti girtavimo."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178025
 
@@ -78,6 +82,7 @@ Terminas vartojamas prisiekimo, išpažinties ir komunijos kontekste.
     žmogus.
   citata_rodoma: "Blaivystė daug sugelbėjo svietui; ir mano štai vyras gėrė smarkiai, o dabar nustojo — ir šventas žmogus."
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

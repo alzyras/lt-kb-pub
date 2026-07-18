@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-186862
   teiginys: 'Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalintas pasikartojantis komentarų boilerplate ir suformuluotas aiškus faktas apie objektą.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Davaina|Davaina]]'
   pagrindžia:
     - c-170047
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
@@ -70,6 +73,7 @@ Nenurodyta
     apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
   citata_rodoma: "Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1  \natmaina: per visą herbo skydą baltas kryžius raudonam e lauke; \napatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \\V)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

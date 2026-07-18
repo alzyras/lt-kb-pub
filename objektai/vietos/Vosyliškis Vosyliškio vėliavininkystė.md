@@ -33,6 +33,11 @@ Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą,
 - t-001
   global_id: t-189082
   teiginys: 'Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą, kuriuo Aleksandras Jurgaitis Meteika tvirtino Vosyliškio vėliavininkystės žemininkų žemės mainus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas subjektas ir pašalinti OCR lūžiai. Palikta Narbuto atribucija, nes teiginys remiasi jo radinio aprašymu; datos tikrumas nesustiprintas.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliavininkas|vėliavininkas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-171971
 
@@ -55,6 +60,7 @@ Narbutas nurodo prie galbūt XV a. pirmosios pusės dokumento radęs antspaudą,
     kų apsikeitimą žemėmis. Data nežinoma, gali būti iš XV am­
     žiaus pirmosios pusės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,10 @@ Nenurodyta
 - t-001
   global_id: t-189928
   teiginys: 'Narbutas rašė, kad po lavono sudeginimo giminaičiai ir bičiuliai pelenus, nesudegusius kaulus ir velionio mėgtus daiktus sudėdavo į urną.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Subjektas ir veiksmas suformuluoti aiškiai, pašalintas puslapio triukšmas ir OCR lūžiai. Palikti tik citatoje nurodyti laidojimo veiksmai.'
   pagrindžia:
     - c-172811
 
@@ -78,6 +82,7 @@ Nenurodyta
     sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
     laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

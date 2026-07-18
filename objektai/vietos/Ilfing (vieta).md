@@ -27,28 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto perteikiamoje Vulfstano žinioje Ilfingas yra upė į saulėtekį nuo Vyslos, tekanti į Žemaičių jūrą, o jos skardyje buvo Trusas.
+Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį.
 
 ## Teiginiai
 
 <a id="claim-t-201166"></a>
 - t-001
   global_id: t-201166
-  teiginys: "Daukanto perteikiamoje Vulfstano žinioje Ilfingas yra upė į saulėtekį nuo Vyslos, tekanti į Žemaičių jūrą, o jos skardyje buvo Trusas."
+  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184516
-- susijęs iš Trusas: Daukantas Trusą aprašo kaip prekybos vietovę prie Ilfingo upės ir nurodo, kad į ją buvo galima atplaukti per septynias naktis, irkluojant dieną ir naktį.
-- susijęs iš Elbingas: Truso prekyvietė, pasak Daukanto, buvo visų žemaičių prekių sankrova, o jos vietoje šiandien yra Elbingas, arba Elblongas.
-- susijęs iš Elbingas: 1303 m. didysis magistras Gotfridas Elbingo kapituloje atsisakė savo pareigų.
-- susijęs iš Elbingas: 1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.
-- susijęs iš Vysla: Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
-- susijęs iš Vysla: Daukanto perteikiamas Vulfstanas Vyslą, arba Yslą, apibūdino kaip didelę upę, tekančią į Aestų, tai yra Žemaičių, jūrą.
+
 ## Citatos
 
 - id: c-184516
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 48"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
@@ -61,6 +61,7 @@ Daukanto perteikiamoje Vulfstano žinioje Ilfingas yra upė į saulėtekį nuo V
     krova visų žemaičių prekių, kurios vietoj šiandien
     vietovė, vadinama Elbingu, arba Elblongu, trakšo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

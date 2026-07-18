@@ -54,6 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-194942
   teiginys: "Savo karaliukui, vardu Masos, kaip duoklę atneša gražiausius savo vaikus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177338
 
@@ -73,6 +80,7 @@ Nenurodyta
     karalius gyvena kitoje stovykloje ir ten augina tuos vai­
     kus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

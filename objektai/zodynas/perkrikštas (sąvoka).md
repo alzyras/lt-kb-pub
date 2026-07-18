@@ -33,51 +33,80 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje miške užpuolė per girią žygiavusius žemaičius ir privertė juos trauktis. Po Meinhardo mirties Daukanto pasakojime vokyčiai su kai kuriais perkrikštais Ikškilėje priėmė Bertoldą nauju vyskupu, o šis vaišino ir apdovanojo perkrikštų diduomenę. Daukanto pasakojime vokyčiai, leidę latviams išsikraustyti, perkrikštus apkalo ir per jūrą išsiuntė į Teutoniją vergauti, o Bažnyčios salos pilyje įkurdino savo įgulą.
+Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu. Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai. Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo.
 
 ## Teiginiai
 
 <a id="claim-t-201186"></a>
 - t-001
   global_id: t-201186
-  teiginys: "Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje miške užpuolė per girią žygiavusius žemaičius ir privertė juos trauktis."
+  teiginys: "Meinhardas, nujautęs ateinančius lietuvius ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su rinkęs savo vokyčius ir perkrikštus, įsitraukė į gi rią ir tykojo žemaičių ateinant, kurie, nevildamies pavojaus, traukė per minavotą girią nuliozgę; tuo tarpu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184536
 
 <a id="claim-t-201187"></a>
 - t-002
   global_id: t-201187
-  teiginys: "Po Meinhardo mirties Daukanto pasakojime vokyčiai su kai kuriais perkrikštais Ikškilėje priėmė Bertoldą nauju vyskupu, o šis vaišino ir apdovanojo perkrikštų diduomenę."
+  teiginys: "Pradžioj nairės priimti tą vyresnybę, bet, gavęs nuo arkivyskupo ir kapi tulos 20 svarų sidabro kasmetinės algos, palaimin tas vyskupu nuo arkivyskupo, iškeliavo į Padaugavį, kurį vokyčiai su perkrikštais Ikškilės priėmė kaipo savo naują vyskupą, kursai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184537
 
 <a id="claim-t-201188"></a>
 - t-003
   global_id: t-201188
-  teiginys: "Daukanto pasakojime vokyčiai, leidę latviams išsikraustyti, perkrikštus apkalo ir per jūrą išsiuntė į Teutoniją vergauti, o Bažnyčios salos pilyje įkurdino savo įgulą."
+  teiginys: "Vokyčiai netikėliams lat viams leido išsikraustyti, bet perkrikštus parvedą apkalo ir į Teutoniją per jūrą išsiuntė vergauti, o į pilį Bažnyčios salos vokyčių įgulę įdėjo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184538
 
 <a id="claim-t-201189"></a>
 - t-004
   global_id: t-201189
-  teiginys: "Daukanto pasakojime vokyčiams ir perkrikštams pavyko įsiveržti į pilies priemiestį ir priartėti prie mūro, tačiau lietuviai išklojo 400 meldžionų ir spaudžiami pasitraukė į pilį."
+  teiginys: "Die na nemetu pavyko vokyčiams ir perkrikštams , arba priemiestę, įsigrūsti ir mūran pačios pilės pri siartinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184539
 
 <a id="claim-t-201190"></a>
 - t-005
   global_id: t-201190
-  teiginys: "Daukanto pasakojime Kęstutis skatino perkrikštus mesti vokyčių jungą ir grįžti prie senojo tikėjimo, o 800 giminių persikėlė gyventi į Lietuvą ir Žemaičius."
+  teiginys: "Daugybė perkrikštų, mindama senovės aukso amžius, palikina krikščionų švente nybes ėjo po ąžuolu senu įpratimu melstis ir savo dievą Perūną garbinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184540
 
 ## Citatos
 
 - id: c-184536
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 172"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 172."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meinhardas, nujautęs ateinančius lietuvius
     ir žemaičius, nedrįsdamas akivaizdoj jų laukti, su­
@@ -94,6 +123,7 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     daiktas esą pilės dirbti ir apsikapėti dėl apsigynimo
     nuo neprietelių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,9 +131,8 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     - t-201186
 
 - id: c-184537
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 175"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 175."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netrukus Mein-
     hardas ant rankų padaugavionų su šiuo pasauliu
@@ -126,6 +155,7 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     diduomenę suvadinęs pas save vaišino ir apdove-
     nojo visaip, norėdamas pasigerinti ir pasikliauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,9 +163,8 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     - t-201187
 
 - id: c-184538
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 198"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 198."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lat­
     viai, kurie iki šiol didžiai kantriai gynės, bet neb-
@@ -148,6 +177,7 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     Tos baisios karės ir terionės apvertė brandingą
     ir angis žydintį kraštą į rūstus tyrus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,9 +185,8 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     - t-201188
 
 - id: c-184539
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 619"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 619."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet tą pajutusi įgulė
     laidė rąstus ir tratino dirbamus rentinius, vienok
@@ -170,6 +199,7 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     visų pusių nuo vokyčių, turėjo apent į pilį trauktis,
     pakreikę gasą kūnais savųjų ir neprietelių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -177,9 +207,8 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     - t-201189
 
 - id: c-184540
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 629"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 629."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui, kur vien Kęstutis užėjo, ten skatino per­
     krikštus vokyčių jungą nuo savęs mesti ir grįžti į
@@ -190,6 +219,7 @@ Daukanto pasakojime Meinhardas, surinkęs vokyčius ir perkrikštus, pasaloje mi
     dievą Perūną garbinti. 800 giminių išsidangino į
     Lietuvą ir Žemaičius gyventi.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

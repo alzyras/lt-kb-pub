@@ -40,13 +40,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ACity_pla
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1}
+  {"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1757 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"City walls of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1},{"mediaId":"m-c7fc67925a699ec3ea564e2b","title":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","caption":"Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais, 1915–1916 m.","originalTitle":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000000016238","sourceUrl":"https://www.limis.lt/api/media/60000000016238/60000000016249/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000000016238%2F60000000016249%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T03:30:22.058086+03:00","reviewedAt":"2026-07-11T20:00:19.955380+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto aikštės vaizdas su grindiniu, pastatais ir žmonėmis; pačiame atviruke įrašyta „Kowno“ ir „Siemens-Platz“.","metadataEvidence":"Pavadinimas ir aprašas nurodo dabartinės Vienybės aikštės Kaune vaizdą 1915–1916 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus istorinis Kauno miesto vietos vaizdas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-909b927da792aca923277512","title":"Centras.png","caption":"Kauno miesto žemėlapis su pažymėtu Centru.","originalTitle":"Centras.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACentras.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.988993+03:00","reviewedAt":"2026-07-11T02:38:00.936751+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stilizuotas Kauno miesto kontūras su upėmis, vandens telkiniais ir žaliai pažymėta centrine teritorijos dalimi.","metadataEvidence":"Pavadinimas „Centras.png“, aprašas nurodo, kad vaizdas paremtas failu „Kauno miesto zemelapis.png“, o kategorijų sutapimas sieja su Kaunu.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus Kauno miesto žemėlapio vaizdas, nors akcentuota tik viena miesto dalis.","isPrimary":0},{"mediaId":"m-4f99df26abaf03326b4707d6","title":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","caption":"Kauno miesto planas, H. D. Schultz, 1774 m.","originalTitle":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","creator":"H. D. Schultz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt","dateDisplay":"1774","dateStart":null,"dateEnd":null,"width":600,"height":431,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.984452+03:00","reviewedAt":"2026-07-11T02:38:00.920007+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis Kauno miesto planas su upių santaka, gatvių tinklu ir gynybiniais elementais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „City plan of Kaunas“ bei kūrėją H. D. Schultz, 1774 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-e213a29958aa48d4d62426d6","title":"Dainava.png","caption":"Kauno miesto žemėlapis su pažymėta Dainava.","originalTitle":"Dainava.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADainava.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.991048+03:00","reviewedAt":"2026-07-11T02:38:00.949078+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su upėmis ir žaliai pažymėta šiaurės rytinė miesto dalis.","metadataEvidence":"Pavadinimas „Dainava.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Kaunu aiškus, nes tai Kauno miesto žemėlapio pagrindu sudarytas vaizdas.","isPrimary":0},{"mediaId":"m-fd65713f64d655668907e806","title":"Gričiupis.png","caption":"Kauno miesto žemėlapis su pažymėtu Gričiupiu.","originalTitle":"Gričiupis.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGri%C4%8Diupis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990165+03:00","reviewedAt":"2026-07-11T02:38:00.945501+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su vandens telkiniais ir žaliai pažymėta nedidele rytinės-centrinės miesto dalies teritorija.","metadataEvidence":"Pavadinimas „Gričiupis.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai susijęs su Kauno miesto teritorija.","isPrimary":0},{"mediaId":"m-de110ff70e1a815e04433617","title":"Kaunas 2001.jpg","caption":"Kauno miesto savivaldybės bendrasis planas, 2001 m.","originalTitle":"Kaunas 2001.jpg","creator":"Savivaldybės įmonė „Kauno planas“","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.kaunas.lt/wp-content/uploads/sites/13/2015/06/29.jpg","dateDisplay":"2001-12-20","dateStart":null,"dateEnd":null,"width":3177,"height":2210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaunas_2001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986662+03:00","reviewedAt":"2026-07-11T02:38:00.927324+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Kauno miesto teritorijos planas su miesto dalių ir seniūnijų ribomis.","metadataEvidence":"Pavadinimas „Kaunas 2001“ ir aprašas „General plan of Kaunas city municipality“ tiesiogiai nurodo Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto savivaldybės planas, todėl vaizdas tiesiogiai vaizduoja target vietą.","isPrimary":0},{"mediaId":"m-b636dab1fc37a425c56dab72","title":"Kauno centrinės dalies detalusis planas 1978 m..jpg","caption":"Kauno centrinės dalies detalusis planas, 1978 m.","originalTitle":"Kauno centrinės dalies detalusis planas 1978 m..jpg","creator":"Alvyc","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2005-03-23 20:49:27","dateStart":null,"dateEnd":null,"width":6560,"height":5405,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.982730+03:00","reviewedAt":"2026-07-11T02:38:00.913166+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas urbanistinis centrinės miesto dalies planas su gatvių, pastatų ir žaliųjų zonų struktūra.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno centrinės dalies detalusis planas, 1978 m.“","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto dalies planas, todėl ryšys su target Kaunas yra tiesioginis.","isPrimary":0},{"mediaId":"m-81cf13b0df8deee3ec39ab82","title":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","caption":"1922 m. Kauno miesto planas.","originalTitle":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","creator":"Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka): Kauno miesto planai: XIX a. – XX a. I pusė / [sud. N. Ambraškienė, V. Girčytė]. – Kaunas, 2007, XVI planas","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://azuolynobiblioteka.lt/wp-content/uploads/2024/01/Priedas_1922-m.-Kauno-planas.pdf https://azuolynobiblioteka.lt/paslaugos/kauno-entuziastams/kauno-entuziastu-virtualios-parodos/ Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka)","dateDisplay":"1922","dateStart":null,"dateEnd":null,"width":5084,"height":4180,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:49:26.577681+03:00","reviewedAt":"2026-07-11T02:50:17.710652+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus miesto planas su užrašais „Kaunas“, „Šančiai“, „Aleksota“, „Vilijampolis“, „Nemunas“, gatvių ir geležinkelio tinklu.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Kauno miesto planai - 1922“ ir „Kaunas city plan of 1922“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-c6aab2c7e8f641f166949325","title":"Kauno miesto savivaldybė.svg","caption":"Kauno miesto savivaldybės žemėlapis.","originalTitle":"Kauno miesto savivaldybė.svg","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work . The map was created using OpenStreetMap data.","dateDisplay":"2023-11-12","dateStart":null,"dateEnd":null,"width":1015,"height":715,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_savivaldyb%C4%97.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987505+03:00","reviewedAt":"2026-07-11T02:38:00.934005+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto teritorijos kontūras su Nemunu, Nerimi ir Kauno mariomis miesto ribose.","metadataEvidence":"Pavadinimas „Kauno miesto savivaldybė.svg“, aprašymas „Location map of Kaunas City Municipality, Lithuania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Kauno miesto savivaldybės teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-b3db53194451f15d015ef178","title":"Kauno miesto zemelapis.png","caption":"Kauno miesto žemėlapis.","originalTitle":"Kauno miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-02-18","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986395+03:00","reviewedAt":"2026-07-11T02:38:00.924383+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinės teritorijos kontūras, upės ir vandens telkiniai.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto žemėlapis, todėl ryšys tiesioginis.","isPrimary":0},{"mediaId":"m-c671f635e4dd5c49512f09c4","title":"Kauno planas MLTE.jpg","caption":"Scheminis Kauno planas, 1968 m.","originalTitle":"Kauno planas MLTE.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://archive.org/details/mle-t.-2/page/83/mode/2up","dateDisplay":"1968","dateStart":null,"dateEnd":null,"width":2154,"height":1424,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_planas_MLTE.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986892+03:00","reviewedAt":"2026-07-11T02:38:00.929925+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas scheminis miesto planas su užrašu „Scheminis Kauno planas“, Nemunu, Nerimi ir pažymėtomis Kauno miesto dalimis.","metadataEvidence":"Pavadinimas „Kauno planas MLTE.jpg“, aprašymas išvardija Kauno rajonus, data 1968.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduojamas Kauno miesto planas.","isPrimary":0},{"mediaId":"m-5920b9b1c25a35e23a6ea891","title":"Kauno tvirtove.Kaunas Fortress.jpg","caption":"Kauno tvirtovės planas, 1903 m.","originalTitle":"Kauno tvirtove.Kaunas Fortress.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken [1] , https://www.skyscrapercity.com/threads/Каунас-город-в-Центре-Литвы.1591772/page-6","dateDisplay":"1903","dateStart":null,"dateEnd":null,"width":1000,"height":737,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_tvirtove.Kaunas_Fortress.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987114+03:00","reviewedAt":"2026-07-11T02:38:00.931921+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas topografinis planas su užrašu „Ковна“ ir aplink miestą pažymėtais fortais bei Nemuno ir Neries santaka.","metadataEvidence":"Pavadinimas „Kauno tvirtove.Kaunas Fortress.jpg“, aprašymas „Kaunas Fortress plan“, data 1903.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno tvirtovės ir miesto apylinkių planas, tiesiogiai susietas su Kaunu.","isPrimary":0},{"mediaId":"m-de7e67bb0404cec1f83e6cc5","title":"Panemunė.png","caption":"Kauno miesto žemėlapis su pažymėta Panemune.","originalTitle":"Panemunė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APanemun%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989773+03:00","reviewedAt":"2026-07-11T02:38:00.940281+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinis kontūras su upėmis ir žaliai pažymėta pietrytine miesto dalimi prie vandens telkinio.","metadataEvidence":"Pavadinimas „Panemunė.png“, aprašas nurodo, kad vaizdas paremtas „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis su pažymėta Panemune, todėl ryšys su Kaunu tiesioginis.","isPrimary":0},{"mediaId":"m-f0033e5cf7b14cd460d3db88","title":"Petrašiūnai.png","caption":"Kauno miesto žemėlapis su pažymėtais Petrašiūnais.","originalTitle":"Petrašiūnai.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APetra%C5%A1i%C5%ABnai.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990556+03:00","reviewedAt":"2026-07-11T02:38:00.947110+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, Kauno marios ir žaliai pažymėta rytinė miesto teritorija prie vandens telkinio.","metadataEvidence":"Pavadinimas „Petrašiūnai.png“, aprašas sieja su „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis, kuriame pažymėta Petrašiūnų dalis.","isPrimary":0},{"mediaId":"m-dadf698679f8e389525c7653","title":"Uzsiliai 1.jpg","caption":"1935 m. Kauno miesto plano fragmentas.","originalTitle":"Uzsiliai 1.jpg","creator":"Valstybinės leidyklos litografija","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kauno viešoji biblioteka, part of File:Kaunas 1935a.jpg","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":2766,"height":3738,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUzsiliai_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989554+03:00","reviewedAt":"2026-07-11T02:38:00.938576+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas miesto plano fragmentas su Nemunu, Kauno rajonų ir vietovių užrašais, gatvių tinklu ir kvartalais.","metadataEvidence":"Aprašas tiesiogiai nurodo „1935 m. Kaunas city plan“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdas aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-01d58491793e99e7c6bf19e5","title":"Vilijampolė.png","caption":"Kauno miesto žemėlapis su pažymėta Vilijampole.","originalTitle":"Vilijampolė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilijampol%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989978+03:00","reviewedAt":"2026-07-11T02:38:00.943319+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, upės ir žaliai pažymėta vakarinė miesto dalis prie Nemuno ir Neries santakos zonos.","metadataEvidence":"Pavadinimas „Vilijampolė.png“, aprašas nurodo pagrindą „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis aiškiai vaizduoja Kauną, nors išskiria Vilijampolės dalį.","isPrimary":0}]
+  [{"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1757 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"City walls of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1},{"mediaId":"m-c7fc67925a699ec3ea564e2b","title":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","caption":"Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais, 1915–1916 m.","originalTitle":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000000016238","sourceUrl":"https://www.limis.lt/api/media/60000000016238/60000000016249/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000000016238%2F60000000016249%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T03:30:22.058086+03:00","reviewedAt":"2026-07-11T20:00:19.955380+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto aikštės vaizdas su grindiniu, pastatais ir žmonėmis; pačiame atviruke įrašyta „Kowno“ ir „Siemens-Platz“.","metadataEvidence":"Pavadinimas ir aprašas nurodo dabartinės Vienybės aikštės Kaune vaizdą 1915–1916 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus istorinis Kauno miesto vietos vaizdas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-909b927da792aca923277512","title":"Centras.png","caption":"Kauno miesto žemėlapis su pažymėtu Centru.","originalTitle":"Centras.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACentras.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Centras eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.988993+03:00","reviewedAt":"2026-07-11T02:38:00.936751+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stilizuotas Kauno miesto kontūras su upėmis, vandens telkiniais ir žaliai pažymėta centrine teritorijos dalimi.","metadataEvidence":"Pavadinimas „Centras.png“, aprašas nurodo, kad vaizdas paremtas failu „Kauno miesto zemelapis.png“, o kategorijų sutapimas sieja su Kaunu.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus Kauno miesto žemėlapio vaizdas, nors akcentuota tik viena miesto dalis.","isPrimary":0},{"mediaId":"m-4f99df26abaf03326b4707d6","title":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","caption":"Kauno miesto planas, H. D. Schultz, 1774 m.","originalTitle":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","creator":"H. D. Schultz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt","dateDisplay":"1774","dateStart":null,"dateEnd":null,"width":600,"height":431,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1774 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"City walls of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.984452+03:00","reviewedAt":"2026-07-11T02:38:00.920007+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis Kauno miesto planas su upių santaka, gatvių tinklu ir gynybiniais elementais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „City plan of Kaunas“ bei kūrėją H. D. Schultz, 1774 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-e213a29958aa48d4d62426d6","title":"Dainava.png","caption":"Kauno miesto žemėlapis su pažymėta Dainava.","originalTitle":"Dainava.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADainava.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Dainava eldership, Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.991048+03:00","reviewedAt":"2026-07-11T02:38:00.949078+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su upėmis ir žaliai pažymėta šiaurės rytinė miesto dalis.","metadataEvidence":"Pavadinimas „Dainava.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Kaunu aiškus, nes tai Kauno miesto žemėlapio pagrindu sudarytas vaizdas.","isPrimary":0},{"mediaId":"m-fd65713f64d655668907e806","title":"Gričiupis.png","caption":"Kauno miesto žemėlapis su pažymėtu Gričiupiu.","originalTitle":"Gričiupis.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGri%C4%8Diupis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gričiupis eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990165+03:00","reviewedAt":"2026-07-11T02:38:00.945501+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su vandens telkiniais ir žaliai pažymėta nedidele rytinės-centrinės miesto dalies teritorija.","metadataEvidence":"Pavadinimas „Gričiupis.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai susijęs su Kauno miesto teritorija.","isPrimary":0},{"mediaId":"m-de110ff70e1a815e04433617","title":"Kaunas 2001.jpg","caption":"Kauno miesto savivaldybės bendrasis planas, 2001 m.","originalTitle":"Kaunas 2001.jpg","creator":"Savivaldybės įmonė „Kauno planas“","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.kaunas.lt/wp-content/uploads/sites/13/2015/06/29.jpg","dateDisplay":"2001-12-20","dateStart":null,"dateEnd":null,"width":3177,"height":2210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaunas_2001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2001 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (documents)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986662+03:00","reviewedAt":"2026-07-11T02:38:00.927324+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Kauno miesto teritorijos planas su miesto dalių ir seniūnijų ribomis.","metadataEvidence":"Pavadinimas „Kaunas 2001“ ir aprašas „General plan of Kaunas city municipality“ tiesiogiai nurodo Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto savivaldybės planas, todėl vaizdas tiesiogiai vaizduoja target vietą.","isPrimary":0},{"mediaId":"m-b636dab1fc37a425c56dab72","title":"Kauno centrinės dalies detalusis planas 1978 m..jpg","caption":"Kauno centrinės dalies detalusis planas, 1978 m.","originalTitle":"Kauno centrinės dalies detalusis planas 1978 m..jpg","creator":"Alvyc","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2005-03-23 20:49:27","dateStart":null,"dateEnd":null,"width":6560,"height":5405,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.982730+03:00","reviewedAt":"2026-07-11T02:38:00.913166+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas urbanistinis centrinės miesto dalies planas su gatvių, pastatų ir žaliųjų zonų struktūra.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno centrinės dalies detalusis planas, 1978 m.“","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto dalies planas, todėl ryšys su target Kaunas yra tiesioginis.","isPrimary":0},{"mediaId":"m-81cf13b0df8deee3ec39ab82","title":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","caption":"1922 m. Kauno miesto planas.","originalTitle":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","creator":"Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka): Kauno miesto planai: XIX a. – XX a. I pusė / [sud. N. Ambraškienė, V. Girčytė]. – Kaunas, 2007, XVI planas","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://azuolynobiblioteka.lt/wp-content/uploads/2024/01/Priedas_1922-m.-Kauno-planas.pdf https://azuolynobiblioteka.lt/paslaugos/kauno-entuziastams/kauno-entuziastu-virtualios-parodos/ Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka)","dateDisplay":"1922","dateStart":null,"dateEnd":null,"width":5084,"height":4180,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1922 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas narrow gauge railway","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:49:26.577681+03:00","reviewedAt":"2026-07-11T02:50:17.710652+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus miesto planas su užrašais „Kaunas“, „Šančiai“, „Aleksota“, „Vilijampolis“, „Nemunas“, gatvių ir geležinkelio tinklu.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Kauno miesto planai - 1922“ ir „Kaunas city plan of 1922“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-c6aab2c7e8f641f166949325","title":"Kauno miesto savivaldybė.svg","caption":"Kauno miesto savivaldybės žemėlapis.","originalTitle":"Kauno miesto savivaldybė.svg","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work . The map was created using OpenStreetMap data.","dateDisplay":"2023-11-12","dateStart":null,"dateEnd":null,"width":1015,"height":715,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_savivaldyb%C4%97.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG location maps of municipalities of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Valid SVG created with Inkscape:Maps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987505+03:00","reviewedAt":"2026-07-11T02:38:00.934005+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto teritorijos kontūras su Nemunu, Nerimi ir Kauno mariomis miesto ribose.","metadataEvidence":"Pavadinimas „Kauno miesto savivaldybė.svg“, aprašymas „Location map of Kaunas City Municipality, Lithuania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Kauno miesto savivaldybės teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-b3db53194451f15d015ef178","title":"Kauno miesto zemelapis.png","caption":"Kauno miesto žemėlapis.","originalTitle":"Kauno miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-02-18","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986395+03:00","reviewedAt":"2026-07-11T02:38:00.924383+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinės teritorijos kontūras, upės ir vandens telkiniai.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto žemėlapis, todėl ryšys tiesioginis.","isPrimary":0},{"mediaId":"m-c671f635e4dd5c49512f09c4","title":"Kauno planas MLTE.jpg","caption":"Scheminis Kauno planas, 1968 m.","originalTitle":"Kauno planas MLTE.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://archive.org/details/mle-t.-2/page/83/mode/2up","dateDisplay":"1968","dateStart":null,"dateEnd":null,"width":2154,"height":1424,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_planas_MLTE.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1968 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Released into the public domain by the copyright holder missing SDC copyright license","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986892+03:00","reviewedAt":"2026-07-11T02:38:00.929925+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas scheminis miesto planas su užrašu „Scheminis Kauno planas“, Nemunu, Nerimi ir pažymėtomis Kauno miesto dalimis.","metadataEvidence":"Pavadinimas „Kauno planas MLTE.jpg“, aprašymas išvardija Kauno rajonus, data 1968.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduojamas Kauno miesto planas.","isPrimary":0},{"mediaId":"m-5920b9b1c25a35e23a6ea891","title":"Kauno tvirtove.Kaunas Fortress.jpg","caption":"Kauno tvirtovės planas, 1903 m.","originalTitle":"Kauno tvirtove.Kaunas Fortress.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken [1] , https://www.skyscrapercity.com/threads/Каунас-город-в-Центре-Литвы.1591772/page-6","dateDisplay":"1903","dateStart":null,"dateEnd":null,"width":1000,"height":737,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_tvirtove.Kaunas_Fortress.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1903 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas Fortress","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Lithuania under Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987114+03:00","reviewedAt":"2026-07-11T02:38:00.931921+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas topografinis planas su užrašu „Ковна“ ir aplink miestą pažymėtais fortais bei Nemuno ir Neries santaka.","metadataEvidence":"Pavadinimas „Kauno tvirtove.Kaunas Fortress.jpg“, aprašymas „Kaunas Fortress plan“, data 1903.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno tvirtovės ir miesto apylinkių planas, tiesiogiai susietas su Kaunu.","isPrimary":0},{"mediaId":"m-de7e67bb0404cec1f83e6cc5","title":"Panemunė.png","caption":"Kauno miesto žemėlapis su pažymėta Panemune.","originalTitle":"Panemunė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APanemun%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Panemunė eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989773+03:00","reviewedAt":"2026-07-11T02:38:00.940281+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinis kontūras su upėmis ir žaliai pažymėta pietrytine miesto dalimi prie vandens telkinio.","metadataEvidence":"Pavadinimas „Panemunė.png“, aprašas nurodo, kad vaizdas paremtas „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis su pažymėta Panemune, todėl ryšys su Kaunu tiesioginis.","isPrimary":0},{"mediaId":"m-f0033e5cf7b14cd460d3db88","title":"Petrašiūnai.png","caption":"Kauno miesto žemėlapis su pažymėtais Petrašiūnais.","originalTitle":"Petrašiūnai.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APetra%C5%A1i%C5%ABnai.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Petrašiūnai eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990556+03:00","reviewedAt":"2026-07-11T02:38:00.947110+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, Kauno marios ir žaliai pažymėta rytinė miesto teritorija prie vandens telkinio.","metadataEvidence":"Pavadinimas „Petrašiūnai.png“, aprašas sieja su „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis, kuriame pažymėta Petrašiūnų dalis.","isPrimary":0},{"mediaId":"m-dadf698679f8e389525c7653","title":"Uzsiliai 1.jpg","caption":"1935 m. Kauno miesto plano fragmentas.","originalTitle":"Uzsiliai 1.jpg","creator":"Valstybinės leidyklos litografija","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kauno viešoji biblioteka, part of File:Kaunas 1935a.jpg","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":2766,"height":3738,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUzsiliai_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Užšiliai","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989554+03:00","reviewedAt":"2026-07-11T02:38:00.938576+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas miesto plano fragmentas su Nemunu, Kauno rajonų ir vietovių užrašais, gatvių tinklu ir kvartalais.","metadataEvidence":"Aprašas tiesiogiai nurodo „1935 m. Kaunas city plan“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdas aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-01d58491793e99e7c6bf19e5","title":"Vilijampolė.png","caption":"Kauno miesto žemėlapis su pažymėta Vilijampole.","originalTitle":"Vilijampolė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilijampol%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilijampolė eldership","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989978+03:00","reviewedAt":"2026-07-11T02:38:00.943319+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, upės ir žaliai pažymėta vakarinė miesto dalis prie Nemuno ir Neries santakos zonos.","metadataEvidence":"Pavadinimas „Vilijampolė.png“, aprašas nurodo pagrindą „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis aiškiai vaizduoja Kauną, nors išskiria Vilijampolės dalį.","isPrimary":0}]
 media_contextual_json: |-
-  [{"mediaId":"m-78e8bd66b8bb150dfcd8db43","title":"Kauno pilis. Koklio, rasto šaudykloje piešinys","caption":"Kauno pilies šaudykloje rasto koklio piešinys, 1955 m.","originalTitle":"Kauno pilis. Koklio, rasto šaudykloje piešinys","creator":"","provider":"europeana","providerLabel":"Heritage Conservation Library of the Cultural Heritage Center","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1955","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF6Ap1b2236","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF6Ap1b2236/thumbnail-original/0001-KPCPBF6Ap1b2236.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkpcpb-bucket%2FKPCPBF6Ap1b2236%2Fthumbnail-original%2F0001-KPCPBF6Ap1b2236.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"buities_daiktas","label":"buities-daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:18.006537+03:00","reviewedAt":"2026-07-11T20:00:19.962817+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matyti keli dekoruoto žalio koklio ar jo fragmentų piešiniai ir dėžutės formos rekonstrukcija; lape įrašyta „Kauno pilis 1955 m.“","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno pilis. Koklio, rasto šaudykloje piešinys“. Target aliasuose yra „Kauno pilis“, o šaltinio kontekste Kauno pilis minima kaip svarbus Kauno istorinis objektas.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta kaip aiškus kontekstinis Kauno pilies radinio atvaizdas, nors vaizduojamas ne pats miestas ar pilies panorama.","isPrimary":0},{"mediaId":"m-a68ecf89247a9489e90fe988","title":"Kariškiai ekskursijoje","caption":"Lietuvos Respublikos kariškiai prie betoninės slėptuvės Kauno rajone, Vieškūnų–Vaistariškių linijoje.","originalTitle":"Kariškiai ekskursijoje","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000001744246","sourceUrl":"https://www.limis.lt/api/media/60000001744246/60000001744366/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000001744246%2F60000001744366%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"karo_reikmuo","label":"karo-reikmuo","facetKind":"tema","confidence":0.82},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.82},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:22.059730+03:00","reviewedAt":"2026-07-11T20:00:19.959819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma kariškių grupė prie betoninės slėptuvės ar įtvirtinimo elemento lauko aplinkoje.","metadataEvidence":"Aprašas nurodo Kauno r. Vieškūnų–Vaistariškių liniją ir teigia, kad slėptuvė pastatyta 1916 m. vokiečiams tobulinant Kauno tvirtovę.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra miesto panorama, bet aiškiai dokumentuoja konkretų su Kaunu susietą gynybinį objektą, todėl ryšys kontekstinis.","isPrimary":0},{"mediaId":"m-4261c951f57412f0fe53631f","title":"Kauno Tvirtoves generalinis planas.jpg","caption":"Kauno tvirtovės generalinis planas.","originalTitle":"Kauno Tvirtoves generalinis planas.jpg","creator":"Original uploader was DreamLoVer at lt.wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from lt.wikipedia ; description page is/was here .","dateDisplay":"8 August 2006 (original upload date)","dateStart":null,"dateEnd":null,"width":397,"height":307,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_Tvirtoves_generalinis_planas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:36:34.985010+03:00","reviewedAt":"2026-07-11T02:38:00.921600+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas fortų ir įtvirtinimų išdėstymo planas aplink miesto teritoriją ir upių vingius.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno tvirtovės planas“.","confidenceLevel":"medium","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja su Kaunu susijusią istorinę tvirtovės sistemą, todėl ryšys kontekstinis, bet aiškus.","isPrimary":0}]
+  [{"mediaId":"m-78e8bd66b8bb150dfcd8db43","title":"Kauno pilis. Koklio, rasto šaudykloje piešinys","caption":"Kauno pilies šaudykloje rasto koklio piešinys, 1955 m.","originalTitle":"Kauno pilis. Koklio, rasto šaudykloje piešinys","creator":"","provider":"europeana","providerLabel":"Heritage Conservation Library of the Cultural Heritage Center","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1955","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF6Ap1b2236","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF6Ap1b2236/thumbnail-original/0001-KPCPBF6Ap1b2236.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkpcpb-bucket%2FKPCPBF6Ap1b2236%2Fthumbnail-original%2F0001-KPCPBF6Ap1b2236.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"buities_daiktas","label":"buities-daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:18.006537+03:00","reviewedAt":"2026-07-11T20:00:19.962817+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matyti keli dekoruoto žalio koklio ar jo fragmentų piešiniai ir dėžutės formos rekonstrukcija; lape įrašyta „Kauno pilis 1955 m.“","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno pilis. Koklio, rasto šaudykloje piešinys“. Target aliasuose yra „Kauno pilis“, o šaltinio kontekste Kauno pilis minima kaip svarbus Kauno istorinis objektas.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta kaip aiškus kontekstinis Kauno pilies radinio atvaizdas, nors vaizduojamas ne pats miestas ar pilies panorama.","isPrimary":0},{"mediaId":"m-a68ecf89247a9489e90fe988","title":"Kariškiai ekskursijoje","caption":"Lietuvos Respublikos kariškiai prie betoninės slėptuvės Kauno rajone, Vieškūnų–Vaistariškių linijoje.","originalTitle":"Kariškiai ekskursijoje","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000001744246","sourceUrl":"https://www.limis.lt/api/media/60000001744246/60000001744366/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000001744246%2F60000001744366%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"karo_reikmuo","label":"karo-reikmuo","facetKind":"tema","confidence":0.82},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.82},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:22.059730+03:00","reviewedAt":"2026-07-11T20:00:19.959819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma kariškių grupė prie betoninės slėptuvės ar įtvirtinimo elemento lauko aplinkoje.","metadataEvidence":"Aprašas nurodo Kauno r. Vieškūnų–Vaistariškių liniją ir teigia, kad slėptuvė pastatyta 1916 m. vokiečiams tobulinant Kauno tvirtovę.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra miesto panorama, bet aiškiai dokumentuoja konkretų su Kaunu susietą gynybinį objektą, todėl ryšys kontekstinis.","isPrimary":0},{"mediaId":"m-4261c951f57412f0fe53631f","title":"Kauno Tvirtoves generalinis planas.jpg","caption":"Kauno tvirtovės generalinis planas.","originalTitle":"Kauno Tvirtoves generalinis planas.jpg","creator":"Original uploader was DreamLoVer at lt.wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from lt.wikipedia ; description page is/was here .","dateDisplay":"8 August 2006 (original upload date)","dateStart":null,"dateEnd":null,"width":397,"height":307,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_Tvirtoves_generalinis_planas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1890s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas Fortress","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Lithuania under Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:36:34.985010+03:00","reviewedAt":"2026-07-11T02:38:00.921600+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas fortų ir įtvirtinimų išdėstymo planas aplink miesto teritoriją ir upių vingius.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno tvirtovės planas“.","confidenceLevel":"medium","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja su Kaunu susijusią istorinę tvirtovės sistemą, todėl ryšys kontekstinis, bet aiškus.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1},{"mediaId":"m-c7fc67925a699ec3ea564e2b","title":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","caption":"Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais, 1915–1916 m.","originalTitle":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000000016238","sourceUrl":"https://www.limis.lt/api/media/60000000016238/60000000016249/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000000016238%2F60000000016249%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T03:30:22.058086+03:00","reviewedAt":"2026-07-11T20:00:19.955380+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto aikštės vaizdas su grindiniu, pastatais ir žmonėmis; pačiame atviruke įrašyta „Kowno“ ir „Siemens-Platz“.","metadataEvidence":"Pavadinimas ir aprašas nurodo dabartinės Vienybės aikštės Kaune vaizdą 1915–1916 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus istorinis Kauno miesto vietos vaizdas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-909b927da792aca923277512","title":"Centras.png","caption":"Kauno miesto žemėlapis su pažymėtu Centru.","originalTitle":"Centras.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACentras.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.988993+03:00","reviewedAt":"2026-07-11T02:38:00.936751+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stilizuotas Kauno miesto kontūras su upėmis, vandens telkiniais ir žaliai pažymėta centrine teritorijos dalimi.","metadataEvidence":"Pavadinimas „Centras.png“, aprašas nurodo, kad vaizdas paremtas failu „Kauno miesto zemelapis.png“, o kategorijų sutapimas sieja su Kaunu.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus Kauno miesto žemėlapio vaizdas, nors akcentuota tik viena miesto dalis.","isPrimary":0},{"mediaId":"m-4f99df26abaf03326b4707d6","title":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","caption":"Kauno miesto planas, H. D. Schultz, 1774 m.","originalTitle":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","creator":"H. D. Schultz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt","dateDisplay":"1774","dateStart":null,"dateEnd":null,"width":600,"height":431,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.984452+03:00","reviewedAt":"2026-07-11T02:38:00.920007+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis Kauno miesto planas su upių santaka, gatvių tinklu ir gynybiniais elementais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „City plan of Kaunas“ bei kūrėją H. D. Schultz, 1774 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-e213a29958aa48d4d62426d6","title":"Dainava.png","caption":"Kauno miesto žemėlapis su pažymėta Dainava.","originalTitle":"Dainava.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADainava.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.991048+03:00","reviewedAt":"2026-07-11T02:38:00.949078+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su upėmis ir žaliai pažymėta šiaurės rytinė miesto dalis.","metadataEvidence":"Pavadinimas „Dainava.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Kaunu aiškus, nes tai Kauno miesto žemėlapio pagrindu sudarytas vaizdas.","isPrimary":0},{"mediaId":"m-fd65713f64d655668907e806","title":"Gričiupis.png","caption":"Kauno miesto žemėlapis su pažymėtu Gričiupiu.","originalTitle":"Gričiupis.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGri%C4%8Diupis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990165+03:00","reviewedAt":"2026-07-11T02:38:00.945501+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su vandens telkiniais ir žaliai pažymėta nedidele rytinės-centrinės miesto dalies teritorija.","metadataEvidence":"Pavadinimas „Gričiupis.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai susijęs su Kauno miesto teritorija.","isPrimary":0},{"mediaId":"m-de110ff70e1a815e04433617","title":"Kaunas 2001.jpg","caption":"Kauno miesto savivaldybės bendrasis planas, 2001 m.","originalTitle":"Kaunas 2001.jpg","creator":"Savivaldybės įmonė „Kauno planas“","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.kaunas.lt/wp-content/uploads/sites/13/2015/06/29.jpg","dateDisplay":"2001-12-20","dateStart":null,"dateEnd":null,"width":3177,"height":2210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaunas_2001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986662+03:00","reviewedAt":"2026-07-11T02:38:00.927324+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Kauno miesto teritorijos planas su miesto dalių ir seniūnijų ribomis.","metadataEvidence":"Pavadinimas „Kaunas 2001“ ir aprašas „General plan of Kaunas city municipality“ tiesiogiai nurodo Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto savivaldybės planas, todėl vaizdas tiesiogiai vaizduoja target vietą.","isPrimary":0},{"mediaId":"m-b636dab1fc37a425c56dab72","title":"Kauno centrinės dalies detalusis planas 1978 m..jpg","caption":"Kauno centrinės dalies detalusis planas, 1978 m.","originalTitle":"Kauno centrinės dalies detalusis planas 1978 m..jpg","creator":"Alvyc","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2005-03-23 20:49:27","dateStart":null,"dateEnd":null,"width":6560,"height":5405,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.982730+03:00","reviewedAt":"2026-07-11T02:38:00.913166+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas urbanistinis centrinės miesto dalies planas su gatvių, pastatų ir žaliųjų zonų struktūra.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno centrinės dalies detalusis planas, 1978 m.“","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto dalies planas, todėl ryšys su target Kaunas yra tiesioginis.","isPrimary":0},{"mediaId":"m-81cf13b0df8deee3ec39ab82","title":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","caption":"1922 m. Kauno miesto planas.","originalTitle":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","creator":"Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka): Kauno miesto planai: XIX a. – XX a. I pusė / [sud. N. Ambraškienė, V. Girčytė]. – Kaunas, 2007, XVI planas","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://azuolynobiblioteka.lt/wp-content/uploads/2024/01/Priedas_1922-m.-Kauno-planas.pdf https://azuolynobiblioteka.lt/paslaugos/kauno-entuziastams/kauno-entuziastu-virtualios-parodos/ Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka)","dateDisplay":"1922","dateStart":null,"dateEnd":null,"width":5084,"height":4180,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:49:26.577681+03:00","reviewedAt":"2026-07-11T02:50:17.710652+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus miesto planas su užrašais „Kaunas“, „Šančiai“, „Aleksota“, „Vilijampolis“, „Nemunas“, gatvių ir geležinkelio tinklu.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Kauno miesto planai - 1922“ ir „Kaunas city plan of 1922“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-c6aab2c7e8f641f166949325","title":"Kauno miesto savivaldybė.svg","caption":"Kauno miesto savivaldybės žemėlapis.","originalTitle":"Kauno miesto savivaldybė.svg","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work . The map was created using OpenStreetMap data.","dateDisplay":"2023-11-12","dateStart":null,"dateEnd":null,"width":1015,"height":715,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_savivaldyb%C4%97.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987505+03:00","reviewedAt":"2026-07-11T02:38:00.934005+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto teritorijos kontūras su Nemunu, Nerimi ir Kauno mariomis miesto ribose.","metadataEvidence":"Pavadinimas „Kauno miesto savivaldybė.svg“, aprašymas „Location map of Kaunas City Municipality, Lithuania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Kauno miesto savivaldybės teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-b3db53194451f15d015ef178","title":"Kauno miesto zemelapis.png","caption":"Kauno miesto žemėlapis.","originalTitle":"Kauno miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-02-18","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986395+03:00","reviewedAt":"2026-07-11T02:38:00.924383+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinės teritorijos kontūras, upės ir vandens telkiniai.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto žemėlapis, todėl ryšys tiesioginis.","isPrimary":0},{"mediaId":"m-c671f635e4dd5c49512f09c4","title":"Kauno planas MLTE.jpg","caption":"Scheminis Kauno planas, 1968 m.","originalTitle":"Kauno planas MLTE.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://archive.org/details/mle-t.-2/page/83/mode/2up","dateDisplay":"1968","dateStart":null,"dateEnd":null,"width":2154,"height":1424,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_planas_MLTE.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986892+03:00","reviewedAt":"2026-07-11T02:38:00.929925+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas scheminis miesto planas su užrašu „Scheminis Kauno planas“, Nemunu, Nerimi ir pažymėtomis Kauno miesto dalimis.","metadataEvidence":"Pavadinimas „Kauno planas MLTE.jpg“, aprašymas išvardija Kauno rajonus, data 1968.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduojamas Kauno miesto planas.","isPrimary":0},{"mediaId":"m-5920b9b1c25a35e23a6ea891","title":"Kauno tvirtove.Kaunas Fortress.jpg","caption":"Kauno tvirtovės planas, 1903 m.","originalTitle":"Kauno tvirtove.Kaunas Fortress.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken [1] , https://www.skyscrapercity.com/threads/Каунас-город-в-Центре-Литвы.1591772/page-6","dateDisplay":"1903","dateStart":null,"dateEnd":null,"width":1000,"height":737,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_tvirtove.Kaunas_Fortress.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987114+03:00","reviewedAt":"2026-07-11T02:38:00.931921+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas topografinis planas su užrašu „Ковна“ ir aplink miestą pažymėtais fortais bei Nemuno ir Neries santaka.","metadataEvidence":"Pavadinimas „Kauno tvirtove.Kaunas Fortress.jpg“, aprašymas „Kaunas Fortress plan“, data 1903.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno tvirtovės ir miesto apylinkių planas, tiesiogiai susietas su Kaunu.","isPrimary":0},{"mediaId":"m-de7e67bb0404cec1f83e6cc5","title":"Panemunė.png","caption":"Kauno miesto žemėlapis su pažymėta Panemune.","originalTitle":"Panemunė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APanemun%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989773+03:00","reviewedAt":"2026-07-11T02:38:00.940281+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinis kontūras su upėmis ir žaliai pažymėta pietrytine miesto dalimi prie vandens telkinio.","metadataEvidence":"Pavadinimas „Panemunė.png“, aprašas nurodo, kad vaizdas paremtas „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis su pažymėta Panemune, todėl ryšys su Kaunu tiesioginis.","isPrimary":0},{"mediaId":"m-f0033e5cf7b14cd460d3db88","title":"Petrašiūnai.png","caption":"Kauno miesto žemėlapis su pažymėtais Petrašiūnais.","originalTitle":"Petrašiūnai.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APetra%C5%A1i%C5%ABnai.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990556+03:00","reviewedAt":"2026-07-11T02:38:00.947110+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, Kauno marios ir žaliai pažymėta rytinė miesto teritorija prie vandens telkinio.","metadataEvidence":"Pavadinimas „Petrašiūnai.png“, aprašas sieja su „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis, kuriame pažymėta Petrašiūnų dalis.","isPrimary":0},{"mediaId":"m-dadf698679f8e389525c7653","title":"Uzsiliai 1.jpg","caption":"1935 m. Kauno miesto plano fragmentas.","originalTitle":"Uzsiliai 1.jpg","creator":"Valstybinės leidyklos litografija","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kauno viešoji biblioteka, part of File:Kaunas 1935a.jpg","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":2766,"height":3738,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUzsiliai_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989554+03:00","reviewedAt":"2026-07-11T02:38:00.938576+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas miesto plano fragmentas su Nemunu, Kauno rajonų ir vietovių užrašais, gatvių tinklu ir kvartalais.","metadataEvidence":"Aprašas tiesiogiai nurodo „1935 m. Kaunas city plan“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdas aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-01d58491793e99e7c6bf19e5","title":"Vilijampolė.png","caption":"Kauno miesto žemėlapis su pažymėta Vilijampole.","originalTitle":"Vilijampolė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilijampol%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989978+03:00","reviewedAt":"2026-07-11T02:38:00.943319+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, upės ir žaliai pažymėta vakarinė miesto dalis prie Nemuno ir Neries santakos zonos.","metadataEvidence":"Pavadinimas „Vilijampolė.png“, aprašas nurodo pagrindą „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis aiškiai vaizduoja Kauną, nors išskiria Vilijampolės dalį.","isPrimary":0},{"mediaId":"m-78e8bd66b8bb150dfcd8db43","title":"Kauno pilis. Koklio, rasto šaudykloje piešinys","caption":"Kauno pilies šaudykloje rasto koklio piešinys, 1955 m.","originalTitle":"Kauno pilis. Koklio, rasto šaudykloje piešinys","creator":"","provider":"europeana","providerLabel":"Heritage Conservation Library of the Cultural Heritage Center","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1955","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF6Ap1b2236","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF6Ap1b2236/thumbnail-original/0001-KPCPBF6Ap1b2236.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkpcpb-bucket%2FKPCPBF6Ap1b2236%2Fthumbnail-original%2F0001-KPCPBF6Ap1b2236.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"buities_daiktas","label":"buities-daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:18.006537+03:00","reviewedAt":"2026-07-11T20:00:19.962817+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matyti keli dekoruoto žalio koklio ar jo fragmentų piešiniai ir dėžutės formos rekonstrukcija; lape įrašyta „Kauno pilis 1955 m.“","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno pilis. Koklio, rasto šaudykloje piešinys“. Target aliasuose yra „Kauno pilis“, o šaltinio kontekste Kauno pilis minima kaip svarbus Kauno istorinis objektas.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta kaip aiškus kontekstinis Kauno pilies radinio atvaizdas, nors vaizduojamas ne pats miestas ar pilies panorama.","isPrimary":0},{"mediaId":"m-a68ecf89247a9489e90fe988","title":"Kariškiai ekskursijoje","caption":"Lietuvos Respublikos kariškiai prie betoninės slėptuvės Kauno rajone, Vieškūnų–Vaistariškių linijoje.","originalTitle":"Kariškiai ekskursijoje","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000001744246","sourceUrl":"https://www.limis.lt/api/media/60000001744246/60000001744366/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000001744246%2F60000001744366%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"karo_reikmuo","label":"karo-reikmuo","facetKind":"tema","confidence":0.82},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.82},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:22.059730+03:00","reviewedAt":"2026-07-11T20:00:19.959819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma kariškių grupė prie betoninės slėptuvės ar įtvirtinimo elemento lauko aplinkoje.","metadataEvidence":"Aprašas nurodo Kauno r. Vieškūnų–Vaistariškių liniją ir teigia, kad slėptuvė pastatyta 1916 m. vokiečiams tobulinant Kauno tvirtovę.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra miesto panorama, bet aiškiai dokumentuoja konkretų su Kaunu susietą gynybinį objektą, todėl ryšys kontekstinis.","isPrimary":0},{"mediaId":"m-4261c951f57412f0fe53631f","title":"Kauno Tvirtoves generalinis planas.jpg","caption":"Kauno tvirtovės generalinis planas.","originalTitle":"Kauno Tvirtoves generalinis planas.jpg","creator":"Original uploader was DreamLoVer at lt.wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from lt.wikipedia ; description page is/was here .","dateDisplay":"8 August 2006 (original upload date)","dateStart":null,"dateEnd":null,"width":397,"height":307,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_Tvirtoves_generalinis_planas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:36:34.985010+03:00","reviewedAt":"2026-07-11T02:38:00.921600+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas fortų ir įtvirtinimų išdėstymo planas aplink miesto teritoriją ir upių vingius.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno tvirtovės planas“.","confidenceLevel":"medium","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja su Kaunu susijusią istorinę tvirtovės sistemą, todėl ryšys kontekstinis, bet aiškus.","isPrimary":0}]
+  [{"mediaId":"m-8efc0a2016b5201434efeec2","title":"City plan of Kaunas in 1757.jpg","caption":"Kauno miesto planas, 1757 m.","originalTitle":"City plan of Kaunas in 1757.jpg","creator":"Daniel Bonke","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt Initial source: Diary of Daniel Bonke, who participated in the Seven Years' War","dateDisplay":"1757","dateStart":null,"dateEnd":null,"width":600,"height":387,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas_in_1757.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/City_plan_of_Kaunas_in_1757.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1757 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"City walls of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.983301+03:00","reviewedAt":"2026-07-11T02:38:00.917566+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto planas su Nemuno ir Neries santaka, gatvėmis, kvartalais ir įtvirtinimų elementais.","metadataEvidence":"Pavadinimas „City plan of Kaunas in 1757“ ir data 1757 tiesiogiai identifikuoja Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno miesto planas, todėl priimtinas kaip tiesioginis vaizdas.","isPrimary":1},{"mediaId":"m-c7fc67925a699ec3ea564e2b","title":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","caption":"Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais, 1915–1916 m.","originalTitle":"Atvirukas „Dabartinės Vienybės aikštės Kaune vaizdas Pirmojo pasaulinio karo metais“","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000000016238","sourceUrl":"https://www.limis.lt/api/media/60000000016238/60000000016249/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000000016238%2F60000000016249%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T03:30:22.058086+03:00","reviewedAt":"2026-07-11T20:00:19.955380+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto aikštės vaizdas su grindiniu, pastatais ir žmonėmis; pačiame atviruke įrašyta „Kowno“ ir „Siemens-Platz“.","metadataEvidence":"Pavadinimas ir aprašas nurodo dabartinės Vienybės aikštės Kaune vaizdą 1915–1916 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus istorinis Kauno miesto vietos vaizdas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-909b927da792aca923277512","title":"Centras.png","caption":"Kauno miesto žemėlapis su pažymėtu Centru.","originalTitle":"Centras.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACentras.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Centras.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Centras eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.988993+03:00","reviewedAt":"2026-07-11T02:38:00.936751+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stilizuotas Kauno miesto kontūras su upėmis, vandens telkiniais ir žaliai pažymėta centrine teritorijos dalimi.","metadataEvidence":"Pavadinimas „Centras.png“, aprašas nurodo, kad vaizdas paremtas failu „Kauno miesto zemelapis.png“, o kategorijų sutapimas sieja su Kaunu.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus Kauno miesto žemėlapio vaizdas, nors akcentuota tik viena miesto dalis.","isPrimary":0},{"mediaId":"m-4f99df26abaf03326b4707d6","title":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","caption":"Kauno miesto planas, H. D. Schultz, 1774 m.","originalTitle":"City plan of Kaunas, created by H. D. Schultz in 1774.jpg","creator":"H. D. Schultz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maps4u.lt","dateDisplay":"1774","dateStart":null,"dateEnd":null,"width":600,"height":431,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACity_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/City_plan_of_Kaunas%2C_created_by_H._D._Schultz_in_1774.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1774 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"City walls of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.984452+03:00","reviewedAt":"2026-07-11T02:38:00.920007+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis Kauno miesto planas su upių santaka, gatvių tinklu ir gynybiniais elementais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „City plan of Kaunas“ bei kūrėją H. D. Schultz, 1774 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-e213a29958aa48d4d62426d6","title":"Dainava.png","caption":"Kauno miesto žemėlapis su pažymėta Dainava.","originalTitle":"Dainava.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADainava.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Dainava.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Dainava eldership, Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.991048+03:00","reviewedAt":"2026-07-11T02:38:00.949078+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su upėmis ir žaliai pažymėta šiaurės rytinė miesto dalis.","metadataEvidence":"Pavadinimas „Dainava.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Kaunu aiškus, nes tai Kauno miesto žemėlapio pagrindu sudarytas vaizdas.","isPrimary":0},{"mediaId":"m-fd65713f64d655668907e806","title":"Gričiupis.png","caption":"Kauno miesto žemėlapis su pažymėtu Gričiupiu.","originalTitle":"Gričiupis.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGri%C4%8Diupis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Gri%C4%8Diupis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Gričiupis eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990165+03:00","reviewedAt":"2026-07-11T02:38:00.945501+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras su vandens telkiniais ir žaliai pažymėta nedidele rytinės-centrinės miesto dalies teritorija.","metadataEvidence":"Pavadinimas „Gričiupis.png“, aprašas nurodo „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai susijęs su Kauno miesto teritorija.","isPrimary":0},{"mediaId":"m-de110ff70e1a815e04433617","title":"Kaunas 2001.jpg","caption":"Kauno miesto savivaldybės bendrasis planas, 2001 m.","originalTitle":"Kaunas 2001.jpg","creator":"Savivaldybės įmonė „Kauno planas“","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://www.kaunas.lt/wp-content/uploads/sites/13/2015/06/29.jpg","dateDisplay":"2001-12-20","dateStart":null,"dateEnd":null,"width":3177,"height":2210,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaunas_2001.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kaunas_2001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"2001 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-LT-exempt (documents)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986662+03:00","reviewedAt":"2026-07-11T02:38:00.927324+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Kauno miesto teritorijos planas su miesto dalių ir seniūnijų ribomis.","metadataEvidence":"Pavadinimas „Kaunas 2001“ ir aprašas „General plan of Kaunas city municipality“ tiesiogiai nurodo Kauną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto savivaldybės planas, todėl vaizdas tiesiogiai vaizduoja target vietą.","isPrimary":0},{"mediaId":"m-b636dab1fc37a425c56dab72","title":"Kauno centrinės dalies detalusis planas 1978 m..jpg","caption":"Kauno centrinės dalies detalusis planas, 1978 m.","originalTitle":"Kauno centrinės dalies detalusis planas 1978 m..jpg","creator":"Alvyc","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2005-03-23 20:49:27","dateStart":null,"dateEnd":null,"width":6560,"height":5405,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Kauno_centrin%C4%97s_dalies_detalusis_planas_1978_m..jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.982730+03:00","reviewedAt":"2026-07-11T02:38:00.913166+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas urbanistinis centrinės miesto dalies planas su gatvių, pastatų ir žaliųjų zonų struktūra.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno centrinės dalies detalusis planas, 1978 m.“","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto dalies planas, todėl ryšys su target Kaunas yra tiesioginis.","isPrimary":0},{"mediaId":"m-81cf13b0df8deee3ec39ab82","title":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","caption":"1922 m. Kauno miesto planas.","originalTitle":"Kauno miesto planai - 1922 (sud. N. Ambraškienė, V. Girčytė, Kaunas, 2007).jpg","creator":"Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka): Kauno miesto planai: XIX a. – XX a. I pusė / [sud. N. Ambraškienė, V. Girčytė]. – Kaunas, 2007, XVI planas","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://azuolynobiblioteka.lt/wp-content/uploads/2024/01/Priedas_1922-m.-Kauno-planas.pdf https://azuolynobiblioteka.lt/paslaugos/kauno-entuziastams/kauno-entuziastu-virtualios-parodos/ Ąžuolyno biblioteka (BĮ Kauno apskrities viešoji biblioteka)","dateDisplay":"1922","dateStart":null,"dateEnd":null,"width":5084,"height":4180,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Kauno_miesto_planai_-_1922_%28sud._N._Ambra%C5%A1kien%C4%97%2C_V._Gir%C4%8Dyt%C4%97%2C_Kaunas%2C_2007%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1922 in rail transport in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Author died more than 70 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas narrow gauge railway","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:49:26.577681+03:00","reviewedAt":"2026-07-11T02:50:17.710652+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus miesto planas su užrašais „Kaunas“, „Šančiai“, „Aleksota“, „Vilijampolis“, „Nemunas“, gatvių ir geležinkelio tinklu.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Kauno miesto planai - 1922“ ir „Kaunas city plan of 1922“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-c6aab2c7e8f641f166949325","title":"Kauno miesto savivaldybė.svg","caption":"Kauno miesto savivaldybės žemėlapis.","originalTitle":"Kauno miesto savivaldybė.svg","creator":"Obivan Kenobi","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work . The map was created using OpenStreetMap data.","dateDisplay":"2023-11-12","dateStart":null,"dateEnd":null,"width":1015,"height":715,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_savivaldyb%C4%97.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/92/Kauno_miesto_savivaldyb%C4%97.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-Zero","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"SVG location maps of municipalities of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Valid SVG created with Inkscape:Maps","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987505+03:00","reviewedAt":"2026-07-11T02:38:00.934005+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto teritorijos kontūras su Nemunu, Nerimi ir Kauno mariomis miesto ribose.","metadataEvidence":"Pavadinimas „Kauno miesto savivaldybė.svg“, aprašymas „Location map of Kaunas City Municipality, Lithuania“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Kauno miesto savivaldybės teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-b3db53194451f15d015ef178","title":"Kauno miesto zemelapis.png","caption":"Kauno miesto žemėlapis.","originalTitle":"Kauno miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-02-18","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Kauno_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration redundant","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986395+03:00","reviewedAt":"2026-07-11T02:38:00.924383+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinės teritorijos kontūras, upės ir vandens telkiniai.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Kauno miesto žemėlapis, todėl ryšys tiesioginis.","isPrimary":0},{"mediaId":"m-c671f635e4dd5c49512f09c4","title":"Kauno planas MLTE.jpg","caption":"Scheminis Kauno planas, 1968 m.","originalTitle":"Kauno planas MLTE.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://archive.org/details/mle-t.-2/page/83/mode/2up","dateDisplay":"1968","dateStart":null,"dateEnd":null,"width":2154,"height":1424,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_planas_MLTE.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8b/Kauno_planas_MLTE.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1968 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Released into the public domain by the copyright holder missing SDC copyright license","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.986892+03:00","reviewedAt":"2026-07-11T02:38:00.929925+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas scheminis miesto planas su užrašu „Scheminis Kauno planas“, Nemunu, Nerimi ir pažymėtomis Kauno miesto dalimis.","metadataEvidence":"Pavadinimas „Kauno planas MLTE.jpg“, aprašymas išvardija Kauno rajonus, data 1968.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduojamas Kauno miesto planas.","isPrimary":0},{"mediaId":"m-5920b9b1c25a35e23a6ea891","title":"Kauno tvirtove.Kaunas Fortress.jpg","caption":"Kauno tvirtovės planas, 1903 m.","originalTitle":"Kauno tvirtove.Kaunas Fortress.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken [1] , https://www.skyscrapercity.com/threads/Каунас-город-в-Центре-Литвы.1591772/page-6","dateDisplay":"1903","dateStart":null,"dateEnd":null,"width":1000,"height":737,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_tvirtove.Kaunas_Fortress.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Kauno_tvirtove.Kaunas_Fortress.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1903 maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas Fortress","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Lithuania under Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Template Unknown (author)","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.987114+03:00","reviewedAt":"2026-07-11T02:38:00.931921+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas topografinis planas su užrašu „Ковна“ ir aplink miestą pažymėtais fortais bei Nemuno ir Neries santaka.","metadataEvidence":"Pavadinimas „Kauno tvirtove.Kaunas Fortress.jpg“, aprašymas „Kaunas Fortress plan“, data 1903.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinis Kauno tvirtovės ir miesto apylinkių planas, tiesiogiai susietas su Kaunu.","isPrimary":0},{"mediaId":"m-de7e67bb0404cec1f83e6cc5","title":"Panemunė.png","caption":"Kauno miesto žemėlapis su pažymėta Panemune.","originalTitle":"Panemunė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APanemun%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Panemun%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Panemunė eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989773+03:00","reviewedAt":"2026-07-11T02:38:00.940281+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto administracinis kontūras su upėmis ir žaliai pažymėta pietrytine miesto dalimi prie vandens telkinio.","metadataEvidence":"Pavadinimas „Panemunė.png“, aprašas nurodo, kad vaizdas paremtas „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis su pažymėta Panemune, todėl ryšys su Kaunu tiesioginis.","isPrimary":0},{"mediaId":"m-f0033e5cf7b14cd460d3db88","title":"Petrašiūnai.png","caption":"Kauno miesto žemėlapis su pažymėtais Petrašiūnais.","originalTitle":"Petrašiūnai.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APetra%C5%A1i%C5%ABnai.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Petra%C5%A1i%C5%ABnai.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Petrašiūnai eldership","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.990556+03:00","reviewedAt":"2026-07-11T02:38:00.947110+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, Kauno marios ir žaliai pažymėta rytinė miesto teritorija prie vandens telkinio.","metadataEvidence":"Pavadinimas „Petrašiūnai.png“, aprašas sieja su „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai Kauno miesto žemėlapis, kuriame pažymėta Petrašiūnų dalis.","isPrimary":0},{"mediaId":"m-dadf698679f8e389525c7653","title":"Uzsiliai 1.jpg","caption":"1935 m. Kauno miesto plano fragmentas.","originalTitle":"Uzsiliai 1.jpg","creator":"Valstybinės leidyklos litografija","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kauno viešoji biblioteka, part of File:Kaunas 1935a.jpg","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":2766,"height":3738,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUzsiliai_1.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Uzsiliai_1.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Užšiliai","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989554+03:00","reviewedAt":"2026-07-11T02:38:00.938576+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas miesto plano fragmentas su Nemunu, Kauno rajonų ir vietovių užrašais, gatvių tinklu ir kvartalais.","metadataEvidence":"Aprašas tiesiogiai nurodo „1935 m. Kaunas city plan“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdas aiškiai identifikuoja istorinį Kauno miesto planą.","isPrimary":0},{"mediaId":"m-01d58491793e99e7c6bf19e5","title":"Vilijampolė.png","caption":"Kauno miesto žemėlapis su pažymėta Vilijampole.","originalTitle":"Vilijampolė.png","creator":"Melilac","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2017-04-21","dateStart":null,"dateEnd":null,"width":1353,"height":917,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilijampol%C4%97.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/05/Vilijampol%C4%97.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Locator maps of elderships in Kaunas City Municipality","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vilijampolė eldership","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:36:34.989978+03:00","reviewedAt":"2026-07-11T02:38:00.943319+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas Kauno miesto kontūras, upės ir žaliai pažymėta vakarinė miesto dalis prie Nemuno ir Neries santakos zonos.","metadataEvidence":"Pavadinimas „Vilijampolė.png“, aprašas nurodo pagrindą „Kauno miesto zemelapis.png“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis aiškiai vaizduoja Kauną, nors išskiria Vilijampolės dalį.","isPrimary":0},{"mediaId":"m-78e8bd66b8bb150dfcd8db43","title":"Kauno pilis. Koklio, rasto šaudykloje piešinys","caption":"Kauno pilies šaudykloje rasto koklio piešinys, 1955 m.","originalTitle":"Kauno pilis. Koklio, rasto šaudykloje piešinys","creator":"","provider":"europeana","providerLabel":"Heritage Conservation Library of the Cultural Heritage Center","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"","attribution":"","dateDisplay":"1955","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF6Ap1b2236","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF6Ap1b2236/thumbnail-original/0001-KPCPBF6Ap1b2236.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Fkpcpb-bucket%2FKPCPBF6Ap1b2236%2Fthumbnail-original%2F0001-KPCPBF6Ap1b2236.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"buities_daiktas","label":"buities-daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:18.006537+03:00","reviewedAt":"2026-07-11T20:00:19.962817+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matyti keli dekoruoto žalio koklio ar jo fragmentų piešiniai ir dėžutės formos rekonstrukcija; lape įrašyta „Kauno pilis 1955 m.“","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Kauno pilis. Koklio, rasto šaudykloje piešinys“. Target aliasuose yra „Kauno pilis“, o šaltinio kontekste Kauno pilis minima kaip svarbus Kauno istorinis objektas.","confidenceLevel":"high","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta kaip aiškus kontekstinis Kauno pilies radinio atvaizdas, nors vaizduojamas ne pats miestas ar pilies panorama.","isPrimary":0},{"mediaId":"m-a68ecf89247a9489e90fe988","title":"Kariškiai ekskursijoje","caption":"Lietuvos Respublikos kariškiai prie betoninės slėptuvės Kauno rajone, Vieškūnų–Vaistariškių linijoje.","originalTitle":"Kariškiai ekskursijoje","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Kaunas Ninth Fort Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO_Kauno_IX_forto_muziejus___Kaunas_9th_Fort_Museum_LIMIS_60000001744246","sourceUrl":"https://www.limis.lt/api/media/60000001744246/60000001744366/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F60000001744246%2F60000001744366%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"karo_reikmuo","label":"karo-reikmuo","facetKind":"tema","confidence":0.82},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.82},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T03:30:22.059730+03:00","reviewedAt":"2026-07-11T20:00:19.959819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma kariškių grupė prie betoninės slėptuvės ar įtvirtinimo elemento lauko aplinkoje.","metadataEvidence":"Aprašas nurodo Kauno r. Vieškūnų–Vaistariškių liniją ir teigia, kad slėptuvė pastatyta 1916 m. vokiečiams tobulinant Kauno tvirtovę.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra miesto panorama, bet aiškiai dokumentuoja konkretų su Kaunu susietą gynybinį objektą, todėl ryšys kontekstinis.","isPrimary":0},{"mediaId":"m-4261c951f57412f0fe53631f","title":"Kauno Tvirtoves generalinis planas.jpg","caption":"Kauno tvirtovės generalinis planas.","originalTitle":"Kauno Tvirtoves generalinis planas.jpg","creator":"Original uploader was DreamLoVer at lt.wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Originally from lt.wikipedia ; description page is/was here .","dateDisplay":"8 August 2006 (original upload date)","dateStart":null,"dateEnd":null,"width":397,"height":307,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKauno_Tvirtoves_generalinis_planas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Kauno_Tvirtoves_generalinis_planas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.82},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1890s maps of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kaunas Fortress","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Old maps of Lithuania under Russian Empire","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Kaunas.md","title":"Kaunas","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:36:34.985010+03:00","reviewedAt":"2026-07-11T02:38:00.921600+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas fortų ir įtvirtinimų išdėstymo planas aplink miesto teritoriją ir upių vingius.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Kauno tvirtovės planas“.","confidenceLevel":"medium","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja su Kaunu susijusią istorinę tvirtovės sistemą, todėl ryšys kontekstinis, bet aiškus.","isPrimary":0}]
 ---
 # Kaunas
 
@@ -74,6 +74,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-001
   global_id: t-10565
   teiginys: "Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris."
+  atnaujinta: "2026-05-31 14:18"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prienai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prienai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Prienai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-21467
 
@@ -81,6 +91,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-002
   global_id: t-10566
   teiginys: "1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lietuviai puolė Vilniaus link."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėją, kryptį ir Kauną kaip puolimo pradžios vietą."
   pagrindžia:
     - c-12706
 
@@ -88,6 +112,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-003
   global_id: t-10567
   teiginys: "1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie įvykį Kaune."
   pagrindžia:
     - c-163557
 
@@ -95,6 +132,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-004
   global_id: t-10847
   teiginys: "Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163591
 
@@ -102,6 +151,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-005
   global_id: t-10848
   teiginys: "Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-163563
 
@@ -109,6 +168,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-006
   global_id: t-10850
   teiginys: "Kaune atsirado jėzuitų kolegija, funduota brolių Vijūkų Kojelavičių."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1971 m.; įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia pateikti tikslesnį faktą apie kolegijos fundaciją."
   pagrindžia:
     - c-13418
 
@@ -116,6 +188,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-007
   global_id: t-12492
   teiginys: "Vytautas Kaune pastatė parapinę ir pranciškonų bažnyčias."
+  atnaujinta: "2026-05-31 14:18"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-21469
 
@@ -123,6 +205,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-008
   global_id: t-179916
   teiginys: "Vytauto valdymo metu Kaunas ir Polockas buvo du dideli prekybos centrai Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kaunas: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo vokiečių pirklių įsigalėjimą Kaune ir Polocke, bet kandidatuose nėra tikslesnės vokiečių pirklių grupės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vokiečiai gyveno Kaunas (0.60)"
   pagrindžia:
     - c-163561
 
@@ -130,6 +223,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-009
   global_id: t-179917
   teiginys: "1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūksta ir turi OCR fragmentų."
   pagrindžia:
     - c-163553
 
@@ -137,6 +243,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-010
   global_id: t-179918
   teiginys: "1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata geriau pagrindžia trumpesnį konkretų faktą apie renginį Kaune."
   pagrindžia:
     - c-163612
 
@@ -144,6 +263,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-011
   global_id: t-179919
   teiginys: "1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata aiškiai sako, kad Vytautas dalyvavo žygyje prieš lenkus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai (0.82); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo prieš Vokiečiai (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1368 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
   pagrindžia:
     - c-163620
 
@@ -151,6 +284,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-012
   global_id: t-179920
   teiginys: "1408 m. Vytautas Kaune suteikė Magdeburgo teises vokiečių pirkliams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-163567
 
@@ -158,6 +304,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-013
   global_id: t-179921
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1922 m.; įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Kaune veikusius Aukštuosius kursus."
   pagrindžia:
     - c-163618
 
@@ -165,6 +324,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-014
   global_id: t-179922
   teiginys: "Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kauno pilis (pilis): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kauno pilis (pilis): mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kauno pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "pastatymo data: 1361 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai susieja Kauną su pirmąja Kauno pilimi ir jos vieta."
   pagrindžia:
     - c-43489
 
@@ -172,6 +344,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-015
   global_id: t-179923
   teiginys: "Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Gedimino valdymo laiką Lietuvoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Gediminas valdė Lietuva (0.86); Kauno pilis (pilis) priklausė Kaunas (0.80); Kauno pilis (pilis) priklausė Lietuva (0.62)"
   pagrindžia:
     - c-163588
 
@@ -179,6 +362,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-016
   global_id: t-179924
   teiginys: "Kaunas buvo Hanzos miestas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Hanza: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Hanza: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kaunas buvo Hanzos miestas, todėl siejamas su Hanza."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kaunas priklausė Hanza (0.95)"
   pagrindžia:
     - c-163555
 
@@ -186,6 +380,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-017
   global_id: t-179925
   teiginys: "Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Gardinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas turėjo valdyti Gardiną, nors formuluojama kaip planuota sąlyga."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Gardinas (0.78); Kaunas priklausė Kryžiuočių ordinas (0.72)"
   pagrindžia:
     - c-163583
 
@@ -193,6 +398,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-018
   global_id: t-179927
   teiginys: "Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163604
 
@@ -200,6 +415,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-019
   global_id: t-179928
   teiginys: "Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bomba: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bomba: mention_match, thing, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Bomba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163580
 
@@ -207,6 +432,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-020
   global_id: t-179929
   teiginys: "Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Sklandytuvai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sklandytuvai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai gamino sportinius sklandytuvus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai pastatė Sklandytuvai (0.88); Lietuviai gyveno Kaunas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1937 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis sakinys pernelyg ilgas, todėl sutrumpintas nekeičiant prasmės."
   pagrindžia:
     - c-163632
 
@@ -214,6 +453,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-021
   global_id: t-179930
   teiginys: "1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Mūrinė pilis: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mūrinė pilis: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Citatos kontekstas apie kryžiuočius leidžia sieti pastatytą mūrinę pilį su jais, nors sakinys yra beasmenis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Mūrinė pilis (0.72)"
+  temporaliniai_duomenys: "pastatymo data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė kontekstinė pradžia."
   pagrindžia:
     - c-163584
 
@@ -221,6 +474,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-022
   global_id: t-179931
   teiginys: "Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vokiečių pirkliai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vokiečių pirkliai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata aiškiai nurodo, kad malūną Kaune turėjo vokiečių pirkliai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Malūnas priklausė Vokiečių pirkliai (0.86)"
   pagrindžia:
     - c-163576
 
@@ -228,6 +492,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-023
   global_id: t-179932
   teiginys: "Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Friburgas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Friburgas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Friburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1905 m.; įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-163560
 
@@ -235,6 +512,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-024
   global_id: t-179933
   teiginys: "1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Kauną kaip Lietuvos apskrities centrą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kaunas priklausė Lietuva (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1915 m.; įvykio data: 1916 m.; įvykio data: 1918 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie administracinį vienetą su centru Kaune."
   pagrindžia:
     - c-163600
 
@@ -242,6 +533,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-025
   global_id: t-179934
   teiginys: "1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1943 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Kauno universiteto uždarymą."
   pagrindžia:
     - c-163599
 
@@ -249,6 +553,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-026
   global_id: t-179935
   teiginys: "1412 m. gruodį Makra, vykdamas per Ragainę ir Kauną, Kalėdoms pasiekė Vytauto pilį Trakuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1412 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis fragmentiškumas ir išnašos triukšmas."
   pagrindžia:
     - c-32116
 
@@ -256,6 +573,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-027
   global_id: t-179937
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163552
 
@@ -263,6 +590,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-028
   global_id: t-179938
   teiginys: "Tarpukariu Kaune buvo projektuojami ir gaminami lėktuvai, o Lietuvos vyrų krepšininkai 1937 ir 1939 m. laimėjo Europos čempionatus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1939 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys prasideda kontekstiniu fragmentu ir nėra savarankiškas."
   pagrindžia:
     - c-163610
 
@@ -270,6 +610,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-029
   global_id: t-179941
   teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163559
 
@@ -277,6 +629,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-030
   global_id: t-179942
   teiginys: "Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal."
+  atnaujinta: "2026-06-10 12:34"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Laivai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=62"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163573
 
@@ -284,6 +646,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-031
   global_id: t-179943
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1971 m.; įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie Romo Kalantos veiksmą Kaune."
   pagrindžia:
     - c-163614
 
@@ -291,6 +666,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-032
   global_id: t-179944
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių tautos religinę ir tautinę dvasią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163552
 
@@ -298,6 +683,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-033
   global_id: t-179946
   teiginys: "Kaune veikusi Veterinarijos akademija rengė žemės ūkio specialistus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per ilgas, nutrūksta ir turi kelių faktų sankaupą."
   pagrindžia:
     - c-163630
 
@@ -305,6 +703,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-034
   global_id: t-179947
   teiginys: "Emmanuelis Levinas gimė Kaune ir baigė gimnaziją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1868 m.; įvykio data: 1901 m.; įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūksta ir turi ilgą pašalinį sąrašą."
   pagrindžia:
     - c-163589
 
@@ -312,6 +723,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-035
   global_id: t-179948
   teiginys: "Grįžęs į Kauną Augustinas Voldemaras Karininkų ramovėje ir per radiją pareiškė, kad Lietuva išėjo į pasaulinę politiką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Augustinas Voldemaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Augustinas Voldemaras grįžo į Kauną."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Augustinas Voldemaras keliavo į Kaunas (0.90)"
   pagrindžia:
     - c-163622
 
@@ -319,14 +741,37 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-036
   global_id: t-179951
   teiginys: "Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163568
-    - c-166991
 
 <a id="claim-t-179953"></a>
 - t-037
   global_id: t-179953
   teiginys: "1920 m. vasario 22-23 d. Kaune kilęs bolševikų sukurstytas maištas galėjo suteikti Lenkijai pretekstą pulti Lietuvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kaunas: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo prarastą pretekstą Kauno puolimui, tačiau tai neįvykęs ketinimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lenkai puolė Kaunas (0.58)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata palaiko glaustesnį sakinį."
   pagrindžia:
     - c-163557
 
@@ -334,6 +779,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-038
   global_id: t-179957
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžioji Britanija: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Didžioji Britanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminiame teiginyje praleista rotušė ir per daug konteksto."
   pagrindžia:
     - c-163556
 
@@ -341,6 +799,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-039
   global_id: t-179958
   teiginys: "1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas Ciolneris Rotenšteinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas Ciolneris Rotenšteinas: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Konradas Ciolneris Rotenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai paremtas citata."
   pagrindžia:
     - c-163623
 
@@ -348,6 +819,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-040
   global_id: t-179959
   teiginys: "Jablonskis „XVI amžiaus inventorius“ parengė atrinkęs aktus iš Centrinio Valstybės Archyvo Kaune ir kitų Lietuvos archyvų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163585
 
@@ -355,6 +836,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-041
   global_id: t-179960
   teiginys: "Kauno Įgulos bažnyčioje buvo atidaryti Skulptūros ir vitražo muziejai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163609
 
@@ -362,6 +846,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-042
   global_id: t-179961
   teiginys: "Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir nurodo 1938 m. Kaune vykusią tautinę olimpiadą."
   pagrindžia:
     - c-163587
 
@@ -369,6 +866,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-043
   global_id: t-179962
   teiginys: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, palaidotas Nežinomas kareivis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "mirties data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-163593
 
@@ -376,6 +886,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-044
   global_id: t-179963
   teiginys: "1939 m. Kaunas turėjo 154 000 gyventojų, iš kurių 60 proc. sudarė lietuviai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Kaunas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lietuviai sudarė dalį Kauno gyventojų, todėl jie gyveno Kaune."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai gyveno Kaunas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1939 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citatos demografiniais duomenimis."
   pagrindžia:
     - c-163605
 
@@ -383,6 +907,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-045
   global_id: t-179964
   teiginys: "Po vieno pralaimėto mūšio Vytautas Kaune fundavo bažnyčią, pašvęstą Švč. Mergelei Marijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163574
 
@@ -390,6 +917,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-046
   global_id: t-179966
   teiginys: "Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-167241
 
@@ -397,6 +934,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-047
   global_id: t-179968
   teiginys: "Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kaunas: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Vytautas įkūrė vienuolyną Kaune, bet kandidatuose nėra paties vienuolyno objekto, todėl objektu lieka vieta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Kaunas (0.68); Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Ašmena (0.66)"
   pagrindžia:
     - c-163611
 
@@ -404,14 +952,38 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-048
   global_id: t-179969
   teiginys: "Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Iki gyvos galvos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Iki gyvos galvos: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Iki gyvos galvos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-163558
-    - c-163551
 
 <a id="claim-t-179970"></a>
 - t-049
   global_id: t-179970
   teiginys: "Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Alekna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "A. Alekna: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"A. Alekna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1933 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas veikėjas ir pašalinta neaiški formuluotė „tą darbą“."
   pagrindžia:
     - c-163570
 
@@ -419,6 +991,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-050
   global_id: t-179971
   teiginys: "Kaune lėktuvo laukusią beveik šimtatūkstantinę minią pravirkdė gauta žinia."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163598
 
@@ -426,6 +1008,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-051
   global_id: t-179972
   teiginys: "1388 m. ties Kaunu buvo sudaryta taikos sutartis tarp Ordino maršalo Engelhardo Rabės ir Lietuvos."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lotyniška citata vadina Skirgailą Lietuvos kunigaikščiu, todėl palaiko valdymo ryšį su Lietuva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Skirgaila valdė Lietuva (0.78)"
+  temporaliniai_duomenys: "sutarties data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo sutarties šalis, vietą ir metus."
   pagrindžia:
     - c-163569
 
@@ -433,6 +1029,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-052
   global_id: t-179973
   teiginys: "1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkęs citatos fragmentas ir teiginys perrašytas į aiškų faktą."
   pagrindžia:
     - c-163559
 
@@ -440,6 +1049,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-053
   global_id: t-179974
   teiginys: "Vytautas Kauno sutarties su Ordinu atveju veikė savarankiškai, kai jam to reikėjo politikoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-37433
 
@@ -447,6 +1066,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-054
   global_id: t-179975
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163608
 
@@ -454,6 +1083,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-055
   global_id: t-179976
   teiginys: "Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46522
 
@@ -461,6 +1100,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-056
   global_id: t-179977
   teiginys: "1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kaunas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos karalystės kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Lenkijos karalystės kariuomenė užėmė Kauną."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lenkijos karalystės kariuomenė užėmė Kaunas (0.96); Lenkijos karalystės kariuomenė keliavo į Lietuva (0.89)"
+  temporaliniai_duomenys: "įvykio data: 1831 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti veikėją ir laiką."
   pagrindžia:
     - c-163603
 
@@ -468,6 +1121,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-057
   global_id: t-179978
   teiginys: "Kaunas tačiau buvo per toli nuo ordino žemių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163616
 
@@ -475,6 +1138,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-058
   global_id: t-179979
   teiginys: "1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Konradas Ciolneris Rotenšteinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Konradas Ciolneris Rotenšteinas: mention_match, person, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Konradas Ciolneris Rotenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163623
 
@@ -482,6 +1155,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-059
   global_id: t-179980
   teiginys: "1950 m. Kauno universitetas buvo reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Salynas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Salynas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Salynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant galimą netikslumą: citata nurodo Kauno universitetą, anksčiau vadintą Vytauto Didžiojo universitetu."
   pagrindžia:
     - c-163629
 
@@ -489,6 +1175,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-060
   global_id: t-179981
   teiginys: "Žygimantas Vilniaus miestiečiams leido be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Kauną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-163573
 
@@ -496,6 +1192,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-061
   global_id: t-179982
   teiginys: "Vytauto laikais Kaunas kartu su Vilniumi ir Trakais išryškėjo kaip Lietuvos gotikos epicentro dalis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai priskiria Vilnių Lietuvos gotikos epicentrui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kaunas priklausė Lietuva (0.78); Vilnius priklausė Lietuva (0.78); Trakai priklausė Lietuva (0.78)"
   pagrindžia:
     - c-163596
 
@@ -503,6 +1210,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-062
   global_id: t-179983
   teiginys: "1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad vokiečiai paėmė Kauno tvirtovę; leidžiamas objektas yra Kaunas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vokiečiai užėmė Kaunas (0.90); Vokiečiai užėmė Vilnius (0.82); Lietuva priklausė Vokietija (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1915 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai susijęs su Kaunu."
   pagrindžia:
     - c-163554
 
@@ -510,6 +1231,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-063
   global_id: t-179984
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno vyko derybos su Vokiečių ordino maršalu Mykolu Kiuchmeisteriu fon Štenbergu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys turi perteklinių vertinamųjų žodžių."
   pagrindžia:
     - c-163565
 
@@ -517,6 +1251,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-064
   global_id: t-179985
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kaunas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai aprašo Prūsų kryžiuočių žygį, kurio metu išgriauta Kauno pilis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Kaunas (0.86); Kryžiuočių ordinas kariavo prieš Lietuviai (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1362 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta ir pašalinta sunkiasvorė sakinio konstrukcija."
   pagrindžia:
     - c-163613
 
@@ -524,6 +1272,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-065
   global_id: t-179988
   teiginys: "1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Eiguliai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Eiguliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad kryžiuočiai sunaikino Eigulių pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Eiguliai (0.84)"
+  temporaliniai_duomenys: "įvykio data: 1382 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir paverstas aiškia faktine sakinio forma."
   pagrindžia:
     - c-163628
 
@@ -531,6 +1293,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-066
   global_id: t-179989
   teiginys: "Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ignalinos atominė elektrinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ignalinos atominė elektrinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Ignalinos atominė elektrinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "pastatymo data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūksta; citata leidžia išskirti aiškų faktą apie Kauną."
   pagrindžia:
     - c-163575
 
@@ -538,6 +1313,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-067
   global_id: t-179990
   teiginys: "Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163615
 
@@ -545,6 +1330,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-068
   global_id: t-179992
   teiginys: "Pažaislio vienuolyno ansamblis prie Kauno minimas tarp europinės reikšmės meno kūrinių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pažaislio vienuolyno ansamblis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata lokalizuoja Pažaislio vienuolyno ansamblį prie Kauno; tai artumo ryšys su vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Pažaislio vienuolyno ansamblis priklausė Kaunas (0.62)"
   pagrindžia:
     - c-163621
 
@@ -552,6 +1348,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-070
   global_id: t-179993
   teiginys: "Kaune, buvusioje Kęstučio pilies vietoje, buvo pastatyta tvirta mūrinė Marienwerderio pilis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163562
 
@@ -559,6 +1365,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-071
   global_id: t-179994
   teiginys: "Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-163572
 
@@ -566,6 +1382,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-072
   global_id: t-179995
   teiginys: "Makrai pasirinkus Kauną bylos sprendimo vieta, abi pusės ten pristatinėjo savo liudininkus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-163581
 
@@ -573,6 +1399,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-073
   global_id: t-179996
   teiginys: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: iki 1935 m.; įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Kaune vykusiu teismu."
   pagrindžia:
     - c-163631
 
@@ -580,6 +1419,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-074
   global_id: t-179998
   teiginys: "Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą apie laivybą iki Kauno."
   pagrindžia:
     - c-163558
 
@@ -587,6 +1439,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-075
   global_id: t-179999
   teiginys: "1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Vytautas kartu keliavo į Kauną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Dubysa (0.86)"
   pagrindžia:
     - c-163577
 
@@ -594,6 +1457,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-076
   global_id: t-184974
   teiginys: "Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168335
 
@@ -601,6 +1477,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-077
   global_id: t-184976
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168337
 
@@ -608,6 +1497,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-078
   global_id: t-184977
   teiginys: "Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168338
 
@@ -615,6 +1517,12 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-079
   global_id: t-184978
   teiginys: "Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168338
 
@@ -622,6 +1530,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-080
   global_id: t-184979
   teiginys: "Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168340
 
@@ -629,6 +1550,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-081
   global_id: t-184980
   teiginys: "Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168341
 
@@ -636,6 +1570,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-082
   global_id: t-188707
   teiginys: "Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškosios Aleksotos grožį apdainuojančias dainas siejo su Kauno apylinkėmis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171596
 
@@ -643,6 +1590,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-083
   global_id: t-188708
   teiginys: "Narbutas Kauno apylinkėse lokalizavo Mildos kultą ir pažymėjo, kad vienas senojo Kauno priemiestis tebevadinosi Aleksotu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.89"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys Aleksotą tiesiogiai apibūdina kaip senojo Kauno priemiestį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Aleksotas priklausė Kaunas (0.89)"
   pagrindžia:
     - c-171597
 
@@ -650,6 +1611,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-084
   global_id: t-188709
   teiginys: "Narbutas rašo, kad Kaune buvo rastas deivės stabas, o atradimo smulkmenas jam papasakojo profesorius Laurinavičius."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pjetras Rosis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pjetras Rosis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Pjetras Rosis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171598
 
@@ -657,6 +1631,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-085
   global_id: t-188710
   teiginys: "Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171599
 
@@ -664,6 +1651,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-086
   global_id: t-188711
   teiginys: "Narbutas iš Kauno apylinkių pasakojimų kildino žinią apie mildauninkus, meilės deivės žynius, padėjusius žmonėms meilės reikaluose."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171600
 
@@ -671,6 +1671,22 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-087
   global_id: t-188712
   teiginys: "Pasak Narbuto minimų vietos padavimų, Kauno Nemuno ir Neries santakoje augusi dievams skirta giraitė tęsėsi iki pilies griuvėsių."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ignalinos atominė elektrinė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ignalinos atominė elektrinė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Ignalinos atominė elektrinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Padaviminis ir religinis turinys paliktas su atribucija. Nepridėta patvirtinimo, kad giraitė tikrai egzistavo."
   pagrindžia:
     - c-171601
 
@@ -678,6 +1694,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-088
   global_id: t-188713
   teiginys: "Narbutas Kauno pavadinimą veikiau kildino iš dievaičio Kaunio nei iš Palemono sūnumi laikyto kunigaikščio Kūno."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171602
 
@@ -685,6 +1714,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-089
   global_id: t-188714
   teiginys: "Narbutas teigė, kad Kaunio vardas labiau nei Kūno vardas primena lietuvišką Kauno pavadinimą Kaunas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171603
 
@@ -692,6 +1734,23 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-090
   global_id: t-188715
   teiginys: "Narbutas perteikia Kosakovskio nuomonę, kad rastasis atvaizdas buvęs Kauno miesto dievas globėjas, kaip rodžiusi jo karūna."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1971 m.; įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Religinė interpretacija ir kito asmens nuomonė išlaikytos su atribucija. Nepridėta, kad atvaizdo tapatybė būtų neabejotina."
+  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
   pagrindžia:
     - c-171604
 
@@ -699,6 +1758,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-091
   global_id: t-188716
   teiginys: "Prie Kauno rastos senovinės lietuviškos monetos vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminaičių stulpai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminaičių stulpai: mention_match, thing, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminaičių stulpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171605
 
@@ -706,6 +1778,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-092
   global_id: t-188717
   teiginys: "Narbutas nurodo, kad Kauno šventasis miškas buvęs prie Neries ir Nemuno santakos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171606
 
@@ -713,6 +1798,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-093
   global_id: t-188718
   teiginys: "Narbutas rašo, kad Kaune tarp pojėzuitinių pastatų buvo senoviniu būdu ir iš senovinių medžiagų sumūryto namo griuvėsiai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys namo griuvėsius tiesiogiai lokalizuoja Kaune."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Namas priklausė Kaunas (0.84)"
   pagrindžia:
     - c-171607
 
@@ -720,6 +1819,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-094
   global_id: t-190654
   teiginys: "Narbutas rašo, kad prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą, kairiajame Nemuno krante matė kapą dengusį laužą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Laužas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Laužas: mention_match, thing, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-173537
 
@@ -727,6 +1839,20 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-095
   global_id: t-192670
   teiginys: "Prie Kauno rasta senovinė lietuviška moneta, kurios vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminaičių stulpai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kaunas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gediminaičių stulpai: mention_match, thing, gap=67"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaunas\" parinktas kaip owner_note_path. Targetas \"Gediminaičių stulpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175440
 
@@ -734,6 +1860,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-096
   global_id: t-193189
   teiginys: "Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-175933
 
@@ -741,6 +1874,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-097
   global_id: t-193638
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-176309
 
@@ -748,6 +1888,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-098
   global_id: t-194986
   teiginys: "Jurgio Talmanto vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių požiūriu."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177370
 
@@ -755,6 +1902,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-099
   global_id: t-196690
   teiginys: "Iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-168337
 
@@ -762,6 +1916,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-100
   global_id: t-196691
   teiginys: "Algirdas ir Kęstutis po penkias savaites trukusių antpuolių užėmė ir iki pamatų sugriovė prie Kauno buvusią kryžiuočių pilį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178844
 
@@ -769,6 +1930,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-101
   global_id: t-197464
   teiginys: "Kaune buvo rastas tos deivės stabas."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171597
 
@@ -776,6 +1944,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-069
   global_id: t-179991
   teiginys: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
+  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR ir turinio fragmentų kratinys, bet citata pagrindžia spaustuvės vietą.'
+  susije_objektai: 'llm_object: Prūsija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  temporaliniai_duomenys: 'įvykio data: iki 1330 m.; įvykio data: 1326 m.; įvykio data: 1330 m.; įvykio data: 1985 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR ir turinio fragmentų kratinys, bet citata pagrindžia spaustuvės vietą.'
   pagrindžia:
     - c-163592
 - susijęs iš Karo muziejaus sodelis: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.
@@ -1794,8 +2967,8 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
     kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).
   citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
-  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1813,6 +2986,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
     kelį pro Lentvarį pulti Vilnių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1838,6 +3012,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1860,6 +3035,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     nymas apeiti ir pulti Kauną iš
     iaurės ie pietų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1878,6 +3054,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
     bingiuose, Utenoje, Eišiškiuose, Gardine, Liet.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1893,6 +3070,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     per Ragainę ir Kauną, Makra Kalėdoms jau buvo pas Vytautą
     — jo puošnioje salos pilyje Trakuose^9.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1911,6 +3089,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     sutartis su Ordinu, jis pasielgdavo savarankiškai: visi tuo at­
     žvilgiu pasižadėjimai žadų keliais ir nueidavo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1930,6 +3109,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kronikose paminėta 1361 m. Ji pastatyta strategiškai
     svarbioje vietoje - Nemuno ir Nėries santakoje.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1947,6 +3127,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     raginti žemaičius keltis pas jį. Ordinas, remdamasis Salyno su-
     tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1970,6 +3151,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     lėmis pajėgomis įsiveržė į Lietuvą.
   citata_rodoma: "Kad įtiktų apgailėtinai politikai ir kad\nbūtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis\nŠach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­\nlėjime. Tačiau Aleksandro planai pasirodė esą klaidingi, nes\ntotoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­\nda gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­\nlėmis pajėgomis įsiveržė į Lietuvą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1989,6 +3171,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tą, atspindinčią lietuvių tautos religinę ir tautinę dvasią. Į bažnyčią žiūrėta
     kaip į tautos vieningumo aktą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2008,6 +3191,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     veikusiai Kaune, ir B, veikusiai Vilniuje), kad žudyti reikia ne tik žydų
     vyrus, bet ir moteris, vaikus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2031,6 +3215,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     lietuviai, latviai ir baltarusiai.
   citata_rodoma: "Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams \nnusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-\nvasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o \nrugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės \nteritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos \nkariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai, \nlietuviai, latviai ir baltarusiai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2050,6 +3235,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
   citata_rodoma: "“ Nors \nLietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), \nji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne \ntiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2074,6 +3260,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     susirinko prie laikinosios sostinės Kauno rotušės.
   citata_rodoma: "Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-\nsinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad \nDidžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių \nsusirinko prie laikinosios sostinės Kauno rotušės."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2093,6 +3280,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Sino ir lenkai prarado pretekstą atviram Kauno puolimui.
   citata_rodoma: "1920 m. vasario 22-23 d. Kaune kilo bolše-\nvikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę\npoziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti\nLietuvą atvira karine jėga."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2120,6 +3308,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     siljevičiaus užmačių.
   citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2148,6 +3337,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ti vokiečių kariuomenei.
   citata_rodoma: "Sukilėliai užimtame Kaune pastatė \nvokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF \natstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-\ngimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-\nklausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-\ntingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“, \nnegailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir \ncivilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-\nti vokiečių kariuomenei."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2168,6 +3358,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     dyta.
   citata_rodoma: "Už poros dešimtmečių sekė irgi vokiška kun. dr. J. Sta­\nkausko disertacija, kuri buvo 1934 m. Kaune sulietuvinta ir papil­\ndyta."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2188,6 +3379,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kybos centrai — Kaunas ir Polockas. Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2205,6 +3397,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     muno nebuvo. Pilies sienos buvo 14 pėdų storumo.
   citata_rodoma: "Tada Kaune, buvusioje Kęstučio pilies vietoje, buvo pa­\nstatyta tvirta mūrinė pilis, Marienwerder, kokių iki tol prie Ne­\nmuno nebuvo. Pilies sienos buvo 14 pėdų storumo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2223,6 +3416,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     raginti žemaičius keltis pas jį.
   citata_rodoma: "Sunormavęs santykius su\nLenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-\ntęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo\nraginti žemaičius keltis pas jį."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2242,6 +3436,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.
   citata_rodoma: "Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio \nkonflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Sa-\nlyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu My-\nkolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2259,6 +3454,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė.
   citata_rodoma: "Kaune Vytautas suteikė Magdeburgo teises (1408\nm.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2276,6 +3472,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2302,6 +3499,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     didysis Lietuvos kunigaikštis ir Tra­
     kų bei Polocko valdovas].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2325,6 +3523,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pradžios, 1934).
   citata_rodoma: "Aleknos mirties\nvakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­\nkulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos\nšaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo\nbolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­\nminių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.\n1933 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2344,6 +3543,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2370,6 +3570,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     čio 19 d. Ind.
   citata_rodoma: "Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos\nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti\nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos,\nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2387,6 +3588,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     išgelbėtas Švč. Mergelės Marijos – iškart po šio mūšio funduota Vytauto
     bažnyčia Kaune buvo pašvęsta Švč. Mergelei.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2406,6 +3608,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     elektrinė (AE)). Dėl industrializacijos šalyje smarkiai padaugėjo darbi-
     ninkų (1960 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2428,6 +3631,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     (^1) ) Žiūr.
   citata_rodoma: "Vokiečių pirkliai Vytautui viešpataujant turėjo Kaune savo\nrankose miesto svarstykles, malūną ir audimo bei vaško ap­\ndirbimo dirbtuves^4 ). Čia galėjo būti ir pinigų dirbtuvė, nes de-\n\n(^1) ) Žiūr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2449,6 +3653,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   citata_rodoma: "Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­\ngijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir\nja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios\nvietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2469,6 +3674,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
   citata_rodoma: "Lapkričio \n15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės \nsprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko \ngyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2489,6 +3695,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     laikų^11.
   citata_rodoma: "Pasirinkus Makrai Kauną bylos sprendimo vieta, abi pusi ten\npristatinėjo savo liudininkus. Nors arbitras viso Žemaitijos klau­\nsimo iš esmės nesvarstė, ordinas paklojo dokumentus nuo Mindaugo\nlaikų^11."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2507,6 +3714,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     O savo atgausimą tėviškę Trakus, Gardiną ir kitas žemes Vytautas
     turėjo valdyti kaip ordino vasalas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2526,6 +3734,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Nemuno.
   citata_rodoma: "Tik po dviejų dešimtmečių, jau\nVytautui esant ordino globoje, 1384 vasarą Kauno vietoje buvo\npastatyta tvirčiausia priešo žemėje mūrinė pilis — Marienwerder.\nKaunui kritus, tuojau sekė kiti kryžiuočių pasisekimai prie\nNemuno."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2547,6 +3756,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kultūros istorijai.
   citata_rodoma: "^85.\nKruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune)\nir eilės kitų Lietuvos archyvų reikalingus aktus, Jablonskis išleido\n«XVI amžiaus inventorius» (1934). Ten jis paskelbė beveik pusę\niki tol nespausdintų XVI amž."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2566,6 +3776,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   citata_rodoma: "Sportas tapo \nintegralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-\npiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.\nLietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2587,6 +3798,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: "Valdant Gediminui ar jo sūnui Algirdui buvo sukurta \nvisa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, \nKrėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo \npolitinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-\ntos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje \nbuvę Voluinė ir Haličas, Kijevas, Pskovas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2621,6 +3833,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
   citata_rodoma: "gimęs ir \nmokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro \nne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs \nChaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar\n\n265\nPA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I\n„Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-\ntorius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924) \nar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik \nkiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar \nVladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, \nVilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry \n(Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel \nLevinas (Emanuelis Levinas).\nToliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA \nžvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-\ntina Senda Berenson-Abbot (Senda Berenson-Abot, g."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2643,6 +3856,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Kauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas.
   citata_rodoma: "Pagaliau ir\nKauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2666,6 +3880,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
   citata_rodoma: "1934 m. lapkričio 23 d. \nKaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos lais-\nvę palaidotas Nežinomas kareivis, sukurtos pagarbos ceremonijos, rūpintasi \nkarių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-\nkilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2687,6 +3902,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
   citata_rodoma: "Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, \nTrakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-\nse LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje \n(Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net \nstačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2705,6 +3921,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas
     naikinti sovietmečiu).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2731,6 +3948,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   citata_rodoma: "Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė \n46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-\nklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., \nsuėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA \ngrupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2754,6 +3972,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     valdyba (Militaerverwaltung Litauen).
   citata_rodoma: "Padalijus kraštą į apskritis, kurių ribos buvo \ndažnai kaitaliojamos, 1916 m. birželį Lietuvos apskritis (su centru Kau-\nne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė \nvaldyba (Militaerverwaltung Litauen)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2773,6 +3992,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
   citata_rodoma: "1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-\nguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai \nvadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-\nniaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2801,6 +4021,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
     įstaigas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2822,6 +4043,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tetų korpusų.
   citata_rodoma: "Augo ir modernėjo miestai, Kaunas, 1939 m. turėjęs 154 000 gyventojų, iš \nkurių 60 proc. sudarė lietuviai, jau buvo naujoviškas, tvarkingas miestas. \nJame pastatyta mokyklų, bibliotekų, naujų muziejų ir universiteto fakul-\ntetų korpusų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2842,6 +4064,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     automobiliai.
   citata_rodoma: "Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis \nPeterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių \n(Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-\ntiesiamos pirmosios telefono linijos, XX a."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2860,6 +4083,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2879,6 +4103,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     1940 m.
   citata_rodoma: "O turima \ngalvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir \nkrepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų \ntitulai. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, \n1940 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2898,6 +4123,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     seną tradiciją, jis įkūrė pranciškonų vienuolynus Kaune ir Ašme­
     noje^39.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2920,6 +4146,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ir nusakytas tautinių vertybių turinys.
   citata_rodoma: "Pasaulio \nlietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių \niš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai, \nrūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems \npolitiniams suvaržymams.\nNepriklausomybės metais aiškiai nubrėžti Lietuvos valstybės kontūrai \nir nusakytas tautinių vertybių turinys."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2940,6 +4167,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     (^11) **A. Kučinskas :** **_Kęstutis,_** **1938, 59-61 p.
   citata_rodoma: "Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­\nčioje Lietuvoje. Talkininkaujami svečių iš Anglijos, Vokietijos ir\nItalijos, ir padedami Livonijos magistro, Prūsų kryžiuočiai 1362\npavasarį atliko drąsų žygį, išgriaudami svarbią lietuvių Nemuno\nir Neries santakos pilį — Kauną. Neišaiškinamu būdu Kęstutis su\n(^10) **SRP, II, 72, 505-507 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2959,6 +4187,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
   citata_rodoma: "1972 m. gegužės 14 d. devyniolikme-\ntis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, \npats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-\nlė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2982,6 +4211,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
   citata_rodoma: "5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S\n233\nUžsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-\nminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose. \nR. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-\nformalių jaunimo grupių judėjimą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -2999,6 +4229,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     Kaunas tačiau buvo per toli nuo ordino žemių. Kryžiuočiai
     nepaliko čia jokios savo bazės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3019,6 +4250,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     mokslinių tyrimų kalba. Gimė naujos tradicijos – 1924 m. Kaune sureng-
     ta pirmoji šalies dainų šventė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3046,6 +4278,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     lyvauja kartu žygyje prieš lenkus.
   citata_rodoma: "Kiek tos kovos Kęstučio valdymo laiku padidėjo,\nrodo ir ta aplinkybė, kad vokiečiai tiek jau buvo įsidrąsinę, kad\n1362 m. išgriovė Kauno pilį ir pradėjo brautis vis gilyn į Lietu­\nvą, pasiekdami net Vilniaus ir Neries sritis, kurių dar niekad\npriešai nebuvo pasiekę.\nTokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­\nre Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,\nir užtat nenuostabu, kad jis labai anksti (1368 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3061,6 +4294,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
     ansamblis prie Kauno.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3080,6 +4314,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     iš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos.
   citata_rodoma: "Abi šalys tokius rezultatus \nŽenevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją \nA. Voldemaras pareiškė: „<…> mes išėjome į pasaulinę politiką.“ Tačiau \niš tikrųjų Vilnius dar labiau nutolo nuo Lietuvos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3107,6 +4342,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
     kotos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3127,6 +4363,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
   citata_rodoma: "Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti\nišeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio\ngale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj\nant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­\nžuolės kaime liepos 6 d."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3146,6 +4383,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     universitetu, reorganizuotas į Kauno politechnikos institutą ir Kauno
     medicinos institutą).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3170,6 +4408,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pasauline literatūra, menu.
   citata_rodoma: "Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio \nakademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-\nalistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-\nkykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie \n1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos, \nkalbų ir istorijos, karo mokslus. \nJaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su \npasauline literatūra, menu."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3191,6 +4430,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     rių teismas už antivalstybinę veiklą.
   citata_rodoma: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-\nsis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos na-\nrių teismas už antivalstybinę veiklą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3211,6 +4451,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
   citata_rodoma: "Kūrybingai panaudodami vokiečių motorus ir prancūzų \nfiuzelažus, lietuviai Kaune konstravo ir statė savo karo ir sporto lėktu-\nvus, tarp jų ir lengvuosius bombonešius, gamino sklandytuvus sporto \nreikalams.\nSportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-\ntuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3228,6 +4469,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje
     Kaune susirinko į pirmąjį Seimo posėdį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -3252,6 +4494,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
     gyvenvietės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3271,6 +4514,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     minimui pavadintas Kaunu, po šiai dienai tebėra vie­
     nas iš žymiausių Lietuvoje.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3305,6 +4549,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     pilį, daug gynėjų žuvo ugnyje.
   citata_rodoma: "Kita vertus, priešas irgi iš pas­\nkutiniųjų stengėsi, kad neseniai nusiaubtose žemėse\nnebūtų iš naujo atstatomos pilys, trukdančios jam leis­\ntis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­\nbininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­\ntosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė\npradėtą pilį. Po to Prūsijos magistras užėmė ir sude­\ngino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;\ntaip pat sudegino ir užkariavo Veliuoną, neseniai pa­\nkeltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­\ntas, tačiau puolėjai prie pačių sienų sukrovė krūvą\nsausų malkų ir padegė taip, kad vėjas neštų liepsną į\npilį, daug gynėjų žuvo ugnyje."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3345,6 +4590,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     riuomene prie pylimo.
   citata_rodoma: "Atėjo žiema, vis dėlto lietuviams ji nebuvo nė\nkiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­\npuolių ir iš žiemos stovyklos.\nKadangi Kaunas Neries ir\nN e s ė k m in g a i m ė g in a\nNemuno\nsantakoje\nvasarą\np u lti K au n ą\nsunkiau prieinamas, tuo tarpu\nžiemą, užšalus vandenims, be\nvargo apsupamas, todėl Vytautas, tikėdamasis jį pa­\nimti, priėjo tylomis miškais ir netikėtai pasirodė su ka­\nriuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­\ntus, gynė stambios lietuvių bei lenkų samdytinių įgulos."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3369,6 +4615,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią
     bei vienuolyną ir dosniai juos apdovanojo.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3392,6 +4639,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     užleisią ir visą Lietuvą.
   citata_rodoma: "Vis dėlto radosi ir tokių, kurie, norėdami nu­\nmalšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad\npačioje pradžioje užgesintų įsiliepsnojančią ir bemaž\njau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­\ngaila, dėdamasis turįs visai kitų ketinimų, atvyko į\nKauną. Nelyginant į vaišes čia pasikvietė kryžiuočių\nvadovus."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3414,6 +4662,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     iliustruojanti šį „pasakojimą“.
   citata_rodoma: "Akstiną domėtis „meilės ir piršlybų“ deive Aleksotą Mil­\nda davė D. Sybinskio aprašytoji antikinė „stebėtino gražumo\nnimfa Alexothe“. Kadangi vienas Kauno priemiestis vadinosi\n16\nŽr.: Lietuvių kalbos žodynas / Atsak. redaktorius J. Kruopas. -\nV., 1968.-T. I.-P. 1118.\n31\n\n## Puslapis 31\n\nAleksotu, tai dainas, kuriose apdainuojamas lietuviškosios\nAleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3435,6 +4684,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     išvykdamas į Kleboniškes, įsakiau nurodytoje vietoje, sienoje, iš­
     kirsti angą ir ją sutvirtinti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3459,6 +4709,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     būtų buvę brangakmeniai.
   citata_rodoma: "Remdamasis šio rankraščio aprašymu, dai­\nlininkas Pjetras Rosis nupiešė tą gotiško stiliaus šventyklą.\nKaune buvo rastas tos deivės stabas. Šio atradimo smulkme­\nnas man papasakojo gerbiamas profesorius ponas Laurinavi­\nčius."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3478,6 +4729,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     ris dėl to iki šiol neprarado gydomojo poveikio.
   citata_rodoma: "Man pasisekė toks tyrimas. Kairiajame Nemuno krante,\ntarp Kauno ir Vilkijos, yra mažas Zapyškio miestelis; priva­\nžiuojant prie jo iš Kauno, per kelią teka mažas upelis, kadaise\nvadintas Upinės upeliu, dabar -  Išganytojo. Vasarą per kiek­\nvieną šventę, ypač per šv."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3499,6 +4751,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     rinčius pasiduoti meilės vilionėms, ir jų širdis užkrėsdaves mir­
     tinais meilės nuodais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3519,6 +4772,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
     vadina šilu, nors joje nematyti jokio medžio.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3544,6 +4798,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kas laikoma Dievo įžeidimu3.
   citata_rodoma: "Taip pat pasako­\nja, kad Aleksoto priemiestyje, ant vieno kalno, stovėjusi šven­\ntykla arba aukuras, skirtas meilės dievybėms.\n159\n\n## Puslapis 159\n\nIš šių pastebėjimų reikia daryti išvadą, kad pats Kauno\nmiestas pavadinimą gavo veikiau nuo dievaičio Kaunio, o ne\nnuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto\nįkūrėjas. Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3567,6 +4822,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     nas Dievo pyktis.
   citata_rodoma: "Neneigdami šios istoriko žinios, privalome pažymė­\nti, kad tikėjimas čia minimą dievaitį buvo senesnis už kuni­\ngaikščio laikus; vietovės didžiųjų upių santakose turėjo būti\ndaug anksčiau apgyventos, jose visur buvozdievų prieglobs­\nčiai. Taip pat Kaunio vardas labiau už Kūno panašesnis į pa­\nvadinimą miesto, kuris lietuviškai vadinasi Kaunu (Kaunos).\nSenovės romėnų vienas iš Kupidono pavadinimų taip pat\nbuvo Caunius."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3588,6 +4844,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     piorunkomis (Piorunki).
   citata_rodoma: "Tai turėjo būti vienas iš penatų; šios rūšies dievai vi­\nsuomet būdavo vaizduojami sėdintys rytietiškai, nes jie buvo kilę\niš Rytų. Tokia buvo ir pono Kosakovskio nuomonė: tai buvęs\nKauno miesto dievas-globėjas, apie ką byloja jo karūna. Trys\nžuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­\nkančias upes: Nerį, Nemuną ir Nevėžį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3609,6 +4866,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
   citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3630,6 +4888,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     miestelis, vadinamas Romnais (Romne).
   citata_rodoma: "Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­\ntakos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­\nse ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo\nšventi miškeliai, daugiau ar mažiau garsūs."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3658,6 +4917,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tyklą.
   citata_rodoma: "268\n\n## Puslapis 268\n\npuikiais statiniais9 10 1, kurių buvo Prūsijoje, kol kryžiuočiai su­\ngriovė.\nKaune tarp kitų pojėzuitinių pastatų yra ir namo, sumūryto\nsenoviniu būdu ir iš senovinių medžiagų, griuvėsiai. Pasakoja­\nma, jog tai būta lietuvių dievui Perkūnui skirtos šventovės."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3679,6 +4939,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
     turi rūpestingai užmesti ant jo kokią nors šakelę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3697,6 +4958,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     tėjusios). Vienoje pusėje — Gediminaičių herbas Stulpai ir kaž­
     kokia neaiški raidė.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3717,6 +4979,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
     jų didelių upių santakas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3734,6 +4997,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
     Italijoje iškovojo Europos čempionato sidabro medalius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3750,6 +5014,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių
     požiūriu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -3779,6 +5044,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
     matų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

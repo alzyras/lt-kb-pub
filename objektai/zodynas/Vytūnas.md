@@ -42,6 +42,9 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-001
   global_id: t-70063
   teiginys: "`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09764
 
@@ -49,6 +52,9 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-002
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09764
 
@@ -61,6 +67,7 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   citata_originali: |
     Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

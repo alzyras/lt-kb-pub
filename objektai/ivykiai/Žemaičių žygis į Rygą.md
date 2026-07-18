@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime žemaičiai, norėdami atmonyti kalavijuočiams, subūrė kariauną ir patraukė į Rygą, kur miesto gynėjai laukė jų atvykstant.
+Žemaičiai, norėdami atmonyti kalavijonims, su kėlę kariauną, traukė į Rygą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201306"></a>
 - t-001
   global_id: t-201306
-  teiginys: "Daukanto pasakojime žemaičiai, norėdami atmonyti kalavijuočiams, subūrė kariauną ir patraukė į Rygą, kur miesto gynėjai laukė jų atvykstant."
+  teiginys: "Žemaičiai, norėdami atmonyti kalavijonims, su kėlę kariauną, traukė į Rygą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184656
 
 ## Citatos
 
 - id: c-184656
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 461"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 461."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant galo, nestengdami galia tos pi­
     lės įgyti, norėjo pasalu įgauti; to dėjęsi, užgulė vi­
@@ -63,6 +68,7 @@ Nenurodyta
     krikštus, sustojo į taborių pas miestą ir laukė že­
     maičių ateinant.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

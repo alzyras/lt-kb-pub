@@ -39,6 +39,12 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - t-001
   global_id: t-195128
   teiginys: "Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta glaustiau ir aiškiau, pašalinant perteklinę konstrukciją bei išlaikant citatos faktą."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177507
 
@@ -46,6 +52,12 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - t-002
   global_id: t-195129
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata apie Dinaburgo komtūro praneštą griūtį."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177510
 
@@ -53,6 +65,15 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - t-003
   global_id: t-195130
   teiginys: "1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko konkrečią griūties pasekmę."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1396 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkrečią griūties pasekmę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177509
 
@@ -60,6 +81,12 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - t-004
   global_id: t-195131
   teiginys: "Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Kontekstinis fragmentas perrašytas į pilną sakinį su aiškiu objektu."
+  susije_objektai: "mentioned_place: Vengrija; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177508
 
@@ -81,6 +108,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     užvertė visas jo brangenybes.
   citata_rodoma: "Mano Petras negalėjo išsiteirauti apie Švitri­\ngailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila \nsu gausia kariauna, nemažais paramos pulkais ir dauge­\nliu žmonių patraukė. - Praneša man vėliau, kad įvyko griū­\ntis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki\" \npriežasties. Tas kalnas užslinko ant Manvydo rūmo (namo) \nir daug nuostolių pridarė, jo pataurininkis ir rykūnės (oz- \nzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos \nužvertė visas jo brangenybes."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +127,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     lydamasis Vytautui į tarnybą su 700 raitelių.
   citata_rodoma: "- Patsai būtų lygiai taip pat \nžuvęs, jeigu nebūtų buvę po dienos pastebėta. Bet tik kalną \ngriūtis palietė, mūrai išliko sveiki. Vienas Vengrijos kuni­\ngaikštis atvyko su aštuoniasdešimčia raitelių į Vilnių, siū­\nlydamasis Vytautui į tarnybą su 700 raitelių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,6 +147,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
   citata_rodoma: "Kitais metais jis buvo išvaduotas dviejų jam palan­\nkių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +168,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     nausiąs ir 1.1.
   citata_rodoma: "(Plg. Ind. cod. kist. dipt. Livoniae)\nTI, p. 132, N 518.\nDinaburgo komtūras praneša Livonijos magistrui, kad \nŠvitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; \nkad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos \nkunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­\nnausiąs ir 1.1."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

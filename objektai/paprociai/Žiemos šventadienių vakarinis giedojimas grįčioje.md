@@ -63,6 +63,10 @@ Nenurodyta
 - t-001
   global_id: t-195392
   teiginys: "Vakarinis giedojimas buvo patogus šventvakario užsiėmimas."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177811
 
@@ -70,6 +74,10 @@ Nenurodyta
 - t-002
   global_id: t-195393
   teiginys: "Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177809
 
@@ -77,6 +85,10 @@ Nenurodyta
 - t-003
   global_id: t-195394
   teiginys: "Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177810
 
@@ -96,6 +108,7 @@ Nenurodyta
     jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti.
   citata_rodoma: "Ką gi žmonės veikdavo žiemos šventadieniais? Kai temsta, kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią karunkos giedoti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +128,7 @@ Nenurodyta
     atėjimą rytą ražončiaus giedoti.
   citata_rodoma: "Čia jį pastebi ir prikaišioja jam tinginystę, o jei jis yra dar augąs, tai kiti jo amžininkai, pusberniukai išstumia jį iš grįčios. Tai pabauda už nekėlimą, už neatėjimą rytą ražončiaus giedoti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +152,7 @@ Nenurodyta
     šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
   citata_rodoma: "Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

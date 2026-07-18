@@ -39,6 +39,11 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
 - t-001
   global_id: t-188983
   teiginys: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas priedo antraštės triukšmas ir suformuluota kilmės teorija. Etimologinis aiškinimas paliktas su Narbuto atribucija.'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Ukmergė; mentioned_place: Upės (Oppen) kaimas'
   pagrindžia:
     - c-171872
 
@@ -46,6 +51,11 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
 - t-002
   global_id: t-188984
   teiginys: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas etimologinis aiškinimas apie Dauguvą. Kadangi tai kilmės interpretacija, ji aiškiai priskirta Narbutui.'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Dvina; mentioned_place: Lietuva'
   pagrindžia:
     - c-171873
 
@@ -73,6 +83,7 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
     Wojnę toczyč w Ryški kraj,
     O žeby tylko wody zamarzly.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,6 +105,7 @@ Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir for
     Bet kodėl taip vadinama ir antroji Dvina, šiaurinė, įtekanti į Bal­
     tąją jūrą?
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

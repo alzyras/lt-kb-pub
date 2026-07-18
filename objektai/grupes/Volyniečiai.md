@@ -33,6 +33,10 @@ Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarna
 - t-001
   global_id: t-194051
   teiginys: 'Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarnauti prisiekusius volyniečius ir išvyko į Vilnių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Subjektas susietas su volyniečiais, o jų priesaika ir Kazimiero išvykimas sujungti į vieną aiškų sakinį. Neperimtas metraštinis titulavimas ir nepridėtos vėlesnės žinios apie Mykoliuką.'
   pagrindžia:
     - c-176664
 
@@ -64,6 +68,7 @@ Kazimieras priėmė jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai tarna
     vo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės
     pamotė6 .
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

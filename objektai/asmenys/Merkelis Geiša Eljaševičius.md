@@ -38,6 +38,20 @@ media_all_json: |-
 - t-001
   global_id: t-87777
   teiginys: "1632 m. sausio 2 d. Akademijos rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus nupirko mūrinį namą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Merkelis Geiša Eljaševičius: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Merkelis Geiša Eljaševičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Namas buvo nupirktas iš Merkelio Geišos Eljaševičiaus, tad prieš pardavimą jam priklausė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Merkelis Geiša Eljaševičius (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1632 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Merkelį Geišą Eljaševičių ir atitinka citatą."
   pagrindžia:
     - c-83756
 
@@ -62,6 +76,7 @@ media_all_json: |-
     šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
     deginti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

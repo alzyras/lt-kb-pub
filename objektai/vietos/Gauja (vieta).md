@@ -6,7 +6,6 @@ variantai:
   - 'Gauja'
 aliases:
   - 'Gauja'
-  - 'objektai/vietos/Gauja'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 sukurta: ''
@@ -28,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime gudai, palikę vokiečių stovyklą, persikėlė per Gaują ir nusiaubė Turaidos kraštą.
+Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą.
 
 ## Teiginiai
 
 <a id="claim-t-201135"></a>
 - t-001
   global_id: t-201135
-  teiginys: "Daukanto pasakojime gudai, palikę vokiečių stovyklą, persikėlė per Gaują ir nusiaubė Turaidos kraštą."
+  teiginys: "Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184485
 
 ## Citatos
 
 - id: c-184485
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 232"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 232."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gudai paliki­
     ni abažą vokyčių persikėlė per upį Gaują, deginda­
@@ -57,6 +61,7 @@ Daukanto pasakojime gudai, palikę vokiečių stovyklą, persikėlė per Gaują 
     su gudais. Tą regėdamas, mistras kalavijonų traukė
     prieš jų drausti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

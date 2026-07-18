@@ -71,6 +71,17 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - t-001
   global_id: t-20826
   teiginys: "Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "gyne -> Žydai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuvių visuomenės dalis padėjo ir gelbėjo žydus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai gynė Žydai (0.88)"
   pagrindžia:
     - c-23548
 
@@ -78,6 +89,17 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - t-002
   global_id: t-20827
   teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "gyne -> Žydai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja lietuvius su žydų gelbėjimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai gynė Žydai (0.87)"
   pagrindžia:
     - c-23548
 
@@ -103,6 +125,7 @@ Nenurodyta
     vis papildomas.
   citata_rodoma: "vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

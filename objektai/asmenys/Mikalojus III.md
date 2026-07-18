@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Mikalojus III (vyskupas, XVI a.)'
+pavadinimas: 'Mikalojus III'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
@@ -8,10 +8,6 @@ datos:
   - '1525 m.'
 date_start: '1525'
 date_end: ''
-variantai:
-  - 'Mikalojus III'
-aliases:
-  - 'Mikalojus III'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -31,11 +27,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Mikalojus III (vyskupas, XVI a.)
+# Mikalojus III
 
 ## Santrauka
 
-Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą. Daukantas pasakoja, kad popiežius Mikalojus III, pradėjęs pontifikatą, turėjo rūpintis svarbesniais reikalais nei pagalba kryžėjams.
+Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą. Popiežius Mikalojus III, įsėdęs į baž nyčios suolą, turėjo rūpintis didesniais reikalais nekaip pagalba kryiėjų.
 
 ## Teiginiai
 
@@ -43,13 +39,33 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
 - t-001
   global_id: t-200871
   teiginys: "Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bernardinų bažnyčia Vilniuje: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus III: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bernardinų bažnyčia Vilniuje: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus III\" parinktas kaip owner_note_path. Targetas \"Bernardinų bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184216
 
 <a id="claim-t-201015"></a>
 - t-002
   global_id: t-201015
-  teiginys: "Daukantas pasakoja, kad popiežius Mikalojus III, pradėjęs pontifikatą, turėjo rūpintis svarbesniais reikalais nei pagalba kryžėjams."
+  teiginys: "Popiežius Mikalojus III, įsėdęs į baž nyčios suolą, turėjo rūpintis didesniais reikalais nekaip pagalba kryiėjų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184365
 
@@ -68,6 +84,7 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
     tytojų uolumą; pritrūkus lėšų, Bernardinų bažnyčios statyba užsitęsė iki pat
     XVI amžiaus galo.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,9 +92,8 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
     - t-200871
 
 - id: c-184365
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 448"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 448."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Popiežius Mikalojus III, įsėdęs į baž­
     nyčios suolą, turėjo rūpintis didesniais reikalais
@@ -94,6 +110,7 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
     prakuota ir paprakų it nedorybės neapvežanti, my­
     linti liuosyibę ir dobę savo tautos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

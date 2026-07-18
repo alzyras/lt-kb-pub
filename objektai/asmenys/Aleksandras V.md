@@ -33,6 +33,17 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
 - t-001
   global_id: t-35010
   teiginys: "Aleksandras V rėmė Vytautą prieš Ordiną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras V: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kadangi Vytautas nėra leidžiamuose kandidatuose, tiesiogiai palaikoma tik tai, kad Aleksandras V veikė prieš Ordiną remdamas Vytautą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Aleksandras V buvo priešas Kryžiuočių ordinas (0.64)"
   pagrindžia:
     - c-37974
 - susijęs iš [[objektai/asmenys/Gregorijus XII.md#claim-t-35086|Gregorijus XII]]: Gregorijus XII rėmė Vytautą prieš Ordiną.
@@ -53,6 +64,7 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
     davo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok.
   citata_rodoma: "Inocentas VII, Gregorijus XII ir Aleksandras V parem­\ndavo Vytautą prieš Ordiną. Jonas XXIII atėmė Vok."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

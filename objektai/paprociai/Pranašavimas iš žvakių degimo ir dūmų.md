@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189931
   teiginys: "Narbutas žvakinius, arba Žwakones, apibūdino kaip pranašautojus, kurie ateitį spėdavo iš specialių žvakių degimo ir dūmų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Žvakiniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pranašavimas iš žvakių degimo ir dūmų: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Žvakiniai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranašavimas iš žvakių degimo ir dūmų\" parinktas kaip owner_note_path. Targetas \"Žvakiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172814
 
@@ -92,6 +106,7 @@ Nenurodyta
     ir iki nustatytų metų, o vėliau galėdavo ištekėti.
   citata_rodoma: "Apie juos\nbuvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti\njį arba paleisti, kad pūstų.\nŽvakiniai (Žwakones)\nŠie pranašautojai nusiliedavo tam tikras žvakes ir pagal jų\ndegimą bei dūmus kurdavo savo ateities pranašavimus.\nPūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

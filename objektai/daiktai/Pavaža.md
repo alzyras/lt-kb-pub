@@ -53,9 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-195350
   teiginys: "Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177756
     - c-177757
+    - c-177756
 - susijęs iš [[objektai/daiktai/Tekinis.md#claim-t-195351|Tekinis]]: Prie pavažos pritvirtintas ratas, verčiantis įtaisą svyruoti ir suktis.
 - susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 ## Reikšmingi paminėjimai
@@ -76,6 +80,7 @@ Nenurodyta
     turi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant.
   citata_rodoma: "Traukiant pavažą už \nvirvės pavaža slenka, o tekinis sukasi, nes jo stukas, siekdamas žemę, \nturi suktis, negali šliaužti, lygiai taip, kaip ratų tekinis bevažiuojant."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,6 +99,7 @@ Nenurodyta
     žemę.
   citata_rodoma: "Paimta sena sena pavaža, ant vieno jos stipino užmautas tekinis. \nTekinis neduoda stovėti pavažai, jis svyra į šalį, kol stukas pasiekia \nžemę."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

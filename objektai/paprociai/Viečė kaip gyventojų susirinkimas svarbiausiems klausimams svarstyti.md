@@ -45,6 +45,12 @@ Nenurodyta
 - t-001
   global_id: t-199231
   teiginys: "3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181746
 
@@ -69,6 +75,7 @@ Nenurodyta
     * Orig.
   citata_rodoma: "Tačiau tiesioginių žinių apie paties Polocko puolimą ki­\ntuose patikimuose šaltiniuose nėra.\n3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų \nsusirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei­\ndimo ir kitiems svarbiausiems klausimams svarstyti.\n*  Orig."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

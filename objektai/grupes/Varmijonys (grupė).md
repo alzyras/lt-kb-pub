@@ -27,30 +27,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime po Baigos pilies užėmimo varmijonys supyko, susirinko su ginklais ir, vadovaujami Piepsos, apgulė pilį. Daukanto pasakojime varmijonių karvedį Glapą namų išdavikas perdavė kryžėjams, kurie jį pakorė ant vėliau Glapo kalnu vadinto kalno.
+Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį. Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo.
 
 ## Teiginiai
 
 <a id="claim-t-201234"></a>
 - t-001
   global_id: t-201234
-  teiginys: "Daukanto pasakojime po Baigos pilies užėmimo varmijonys supyko, susirinko su ginklais ir, vadovaujami Piepsos, apgulė pilį."
+  teiginys: "Taip sau dūmojo kryžėjai lindodami pilė j, bet ką kitą ry mojo varmijonys, kaipogi paskydus žiniai, jog Bai ga, visų stiprioji pilis, kliuvo į nagą kryžėjų, visi gyventojai užsirūstino ir tuojau kas ginklą pake liąs ėmė rinktis nuo visų pusių į būrį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184584
 
 <a id="claim-t-201235"></a>
 - t-002
   global_id: t-201235
-  teiginys: "Daukanto pasakojime varmijonių karvedį Glapą namų išdavikas perdavė kryžėjams, kurie jį pakorė ant vėliau Glapo kalnu vadinto kalno."
+  teiginys: "Tuo pačiu laiku varmijonys nustojo taip pat sa vo karvedžio Glapo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184585
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-200993|Glapas]]: Daukanto pasakojime namų išdavikas išdavė Glapą kryžėjams, kurie jį pakorė ant kalno, vėliau vadinto Glapo kalnu.
+
 ## Citatos
 
 - id: c-184584
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 304"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 304."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kryžėjai, įgiję Baigos pilį, ne vien apgalėjo vi­
     są apygardą, bet dar vylės netrukdami visą Var­
@@ -76,6 +87,7 @@ Daukanto pasakojime po Baigos pilies užėmimo varmijonys supyko, susirinko su g
     žėjus; nusiminę lietuviai jo giltine pradėjo mukti
     į girias.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,9 +95,8 @@ Daukanto pasakojime po Baigos pilies užėmimo varmijonys supyko, susirinko su g
     - t-201234
 
 - id: c-184585
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 436"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 436."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug
     kartų jo smurtą karda gandino meldžionis, ant di­
@@ -97,6 +108,7 @@ Daukanto pasakojime po Baigos pilies užėmimo varmijonys supyko, susirinko su g
     jį kryžėjams, kurie jį pakorė ant kalno, kurį ilgą
     laiką Glapo kalnu dar vadino minavonei.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

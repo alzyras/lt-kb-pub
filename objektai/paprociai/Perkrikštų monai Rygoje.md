@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pasak Daukanto, Albertas Rygoje įvedė perkrikštams skirtus monus, arba komedijas, kuriose susirinkusiesiems aiškintas Šventasis Raštas.
+Todėl daug kartų perkrikštai ėjo į Daugavą krikšto plauti ir sekė įstatymus savo senosios ti kybos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201385"></a>
 - t-001
   global_id: t-201385
-  teiginys: "Pasak Daukanto, Albertas Rygoje įvedė perkrikštams skirtus monus, arba komedijas, kuriose susirinkusiesiems aiškintas Šventasis Raštas."
+  teiginys: "Todėl daug kartų perkrikštai ėjo į Daugavą krikšto plauti ir sekė įstatymus savo senosios ti kybos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184735
 
 ## Citatos
 
 - id: c-184735
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 196"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 196."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Todėl daug kartų perkrikštai ėjo į Dauga-
     vą krikšto plauti ir sekė įstatymus savo senosios ti­
@@ -67,6 +72,7 @@ Nenurodyta
     zintiems. Kaipogi karė Gedeono su filistinais buvo
     didžiai pavėdi į karę, kurią v.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

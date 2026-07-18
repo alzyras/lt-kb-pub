@@ -63,6 +63,16 @@ Nenurodyta
 - t-001
   global_id: t-176229
   teiginys: "Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ištikimybės priesaikos Jogailai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ištikimybės priesaikos Jogailai\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-160252
 
@@ -70,6 +80,16 @@ Nenurodyta
 - t-002
   global_id: t-176231
   teiginys: "Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ištikimybės priesaikos Jogailai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ištikimybės priesaikos Jogailai\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-160253
 
@@ -90,6 +110,7 @@ Nenurodyta
     šaukti tuojau atvyksią į Lenkiją.
   citata_rodoma: "Pirmučiausia šitam reikalui iš Krokuvos\nbuvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-\nversti duoti priesaika patvirtintus raštus, kad amžinai būsią\ništikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-\nšaukti tuojau atvyksią į Lenkiją."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,6 +130,7 @@ Nenurodyta
     stojo savo galios^3 ).
   citata_rodoma: "Tokią ištikimybės prie­\nsaiką tuo laiku iš viso buvo padarytos trys^2 ).\nProchaska yra tos nuomonės, kad aukščiau minėtu priesai­\nkos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­\nstojo savo galios^3 )."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

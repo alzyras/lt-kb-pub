@@ -37,6 +37,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-001
   global_id: t-113890
   teiginys: "Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Maskvėnai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Radvila Rudasis veikė siekdamas užkirsti kelią maskvėnų pajėgoms, todėl tekstas palaiko karinį priešpriešos santykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mikalojus Radvila Rudasis kariavo prieš Maskvėnai (0.72)"
   pagrindžia:
     - c-42142
 
@@ -44,6 +55,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-002
   global_id: t-113891
   teiginys: "Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila Rudasis\" parinktas kaip owner_note_path. Targetas \"Mikalojus Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42142
 
@@ -51,6 +72,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-003
   global_id: t-113892
   teiginys: "Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lukomlis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lukomlis: mention_match, place, gap=107"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila Rudasis\" parinktas kaip owner_note_path. Targetas \"Lukomlis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42142
 
@@ -58,6 +90,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-004
   global_id: t-113893
   teiginys: "Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vilniaus pirkliai: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus pirkliai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Radvila užstojo Vilniaus pirklius, todėl tai yra parama grupei."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Mikalojus Radvila Rudasis rėmė Vilniaus pirkliai (0.91)"
   pagrindžia:
     - c-105076
 
@@ -65,6 +108,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-005
   global_id: t-113894
   teiginys: "Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila Rudasis\" parinktas kaip owner_note_path. Targetas \"Mikalojus Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-105077
 
@@ -72,6 +125,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-006
   global_id: t-113895
   teiginys: "Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Maskvėnai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo Radvilos Rudojo veiksmą prieš maskvėnų pajėgų susijungimą, todėl santykis laikomas karine priešprieša."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mikalojus Radvila Rudasis kariavo prieš Maskvėnai (0.70)"
   pagrindžia:
     - c-105074
 
@@ -79,6 +143,17 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-007
   global_id: t-113896
   teiginys: "Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Dubingiai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dubingiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dubingių kunigaikščio titulas tiesiogiai sieja asmenį su valdymu Dubingiuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Mikalojus Radvila Rudasis buvo valdovas Dubingiai (0.88)"
   pagrindžia:
     - c-105078
 
@@ -86,6 +161,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 - t-008
   global_id: t-113897
   teiginys: "Mikalojus Radvila Rudasis galėjo turėti nuo 4 iki 6 tūkstančių raitelių."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mikalojus Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Radvila Rudasis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Mikalojus Radvila: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila Rudasis\" parinktas kaip owner_note_path. Targetas \"Mikalojus Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42143
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
@@ -112,6 +197,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     ninkų ir artilerijos pajudėjo greitu maršu.
   citata_rodoma: "Iš Polocko su savo kariuomene kuni-\ngaikštis P. Šuiskis pajudėjo sausio 23 d.\nApie tai Lietuvos didysis etmonas Myko-\nlas Radvila Rudasis žvalgų buvo greitai\ninformuotas, pats jis tuo metu buvo tik\napie 100 km nuo Polocko, Lukomlyje.\nNenorėdamas leisti maskvėnų pajėgoms\nsusijungti, jis nurodė nedelsiant pradėti\nžygį siekiant užkirsti kelią P. Šuiskio ka-\nriuomenei."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +216,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     “14, 4iki 6 tūkstančių raitelių. Tačiau tai
   citata_rodoma: "M. Radvila Rudasis galėjo turėti tik nuo\n\n“14, 4iki 6 tūkstančių raitelių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,6 +240,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     “14, 4iki 6 tūkstančių raitelių.
   citata_rodoma: "Skubėdami užkirsti artėjančiam\npriešui kelią, raiteliai nelaukdami pėsti-\nninkų ir artilerijos pajudėjo greitu maršu.\n\nM. Radvila Rudasis galėjo turėti tik nuo\n\n“14, 4iki 6 tūkstančių raitelių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,6 +270,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
     čius*.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -199,6 +288,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
     Reformacija tapo nauju lenkėjimo postūmiu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -219,6 +309,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     sios Kunigaikštystės kancleriui, Mozyriaus, Lydos seniūnui
     ir 1.1, ir 1.1., mūsų nuoširdžiai mylimam].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

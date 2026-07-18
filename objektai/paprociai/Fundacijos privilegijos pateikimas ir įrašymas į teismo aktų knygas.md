@@ -62,6 +62,19 @@ Nenurodyta
 - t-001
   global_id: t-87162
   teiginys: "1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1426 m.; įvykio data: 1785 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas fundacijos privilegijos pateikimo aprašymu."
   pagrindžia:
     - c-83142
 
@@ -69,6 +82,19 @@ Nenurodyta
 - t-002
   global_id: t-87163
   teiginys: "1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1649 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra dokumento fragmentas, bet citata remia aiškų faktą apie privilegijos įrašymą."
   pagrindžia:
     - c-83141
 
@@ -76,6 +102,19 @@ Nenurodyta
 - t-003
   global_id: t-183823
   teiginys: "LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-167208
 
@@ -106,6 +145,7 @@ Nenurodyta
     tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­
     nauninkui, Pabaisko klebonui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,6 +202,7 @@ Nenurodyta
     Aktų knygas.
   citata_rodoma: "liepos 8-ą.\n238\n\n## Puslapis 255\n\nPRIEDAI\nPRIE VILNIAUS MIESTO ISTORIJOS \nTREČIOSIOS KNYGOS\nI\nPABAISKO BAŽNYČIOS FUNDACIJA\nIšrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, \ntvarkytų Vilniuje\nMetais tūkstantis septyni šimtai aštuoniasdešimt penktais \nkovo mėnesio keturioliktą dieną\nPrieš mus, teisėjus, į Lietuvos Didžiosios Kunigaikštys­\ntės Vyriausiąjį Tribunolą iš vaivadijų, kunigaikštystės ir ap­\nskričių Immediate [iš tikrųjų] praėjusiais tūkstantis septyni \nšimtai aštuoniasdešimt ketvirtais Vilniaus kadencijai išrink­\ntus ir tikrai Jo Karališkosios Didenybės mieste Vilniuje po­\nsėdžiaujančius bei teisiančius, asmeniškai teisme dalyvau­\ndamas Jo Malonybė Gerbiamasis globėjas Ponas Laurynas \nOzechovskis, Mozyriaus pavieto architektas, Pabaisko \nbažnyčios ir klebonijos fundacijos privilegiją, kitados švie­\nsiausiojo Lenkijos karaliaus Jo Didenybės Žygimanto, tūks­\ntantis penki šimtai keturiasdešimt ketvirtais metais sudary­\ntą, o tūkstantis šeši šimtai keturiasdešimt devintų metų \ngruodžio mėnesio dvidešimt devintą dieną Jo Malonybės \nkunigo Jono Kazimiero Penkevičiaus, Ukmergės dekano ir \nPabaisko klebono Ukmergės pavieto teisme aktuotą, pada­\nrant kopiją, - pateikė tik patį originalą, kad būtų įtrauktas į\n\n## Puslapis 256\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLietuvos Didžiosios Kunigaikštystės Vyriausiojo Tribunolo \nAktų knygas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,6 +263,7 @@ Nenurodyta
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

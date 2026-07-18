@@ -66,6 +66,7 @@ Nenurodyta
     * * *
   citata_rodoma: "Lietuvoje prie Kuršo sienos, ypač dviejose liuteroniškose\nŽeimelio ir Biržų parapijose, kur pamaldos vyksta ne\ntik vokiečių, bet ir latvių kalbomis;"
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

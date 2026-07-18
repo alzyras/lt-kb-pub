@@ -33,6 +33,13 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
 - t-001
   global_id: t-194785
   teiginys: "Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklauso^ prie dievo Višnaus paslapčių, išreiškia tei kiamą jam garbę '."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177181
 - susijęs iš [[objektai/asmenys/Lionardo da Vinci.md#claim-t-200860|Lionardo da Vinci]]: Vorobjovo aiškinimu, Lionardo da Vinci moterų paveikslų šypsena paliko pėdsaką vėlesnių Milano dailininkų atmintyje.
@@ -83,6 +90,7 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
     kiamą jam garbę '.
     Straipsnyje apie kapus pateiksime dar šią žinią.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

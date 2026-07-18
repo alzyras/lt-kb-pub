@@ -41,6 +41,20 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 - t-001
   global_id: t-87816
   teiginys: "Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Patrikas, arba Patricijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Patriką kaip Narimanto sūnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Patrikas, arba Patricijus buvo sūnus Narimantas (Pinsko kunigaikštis) (0.96); Patrikas, arba Patricijus valdė Naugardas (0.88)"
+  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas."
   pagrindžia:
     - c-83795
 
@@ -69,6 +83,7 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
     Ruška pr 206.
   citata_rodoma: "Bet, regis, visa tai yra prasima­\nnymas. Bent jau apie Narimantą kal­\nbant, pirmiausia, Dlugošas, žinia, \napsirinka jį prie Algirdo brolių pri­\nskirdamas, ir žinome iš Rusios met­\nraštininkų, kad jis Didįjį Naugardą \nvaldęs iki 1348 m.; o po jo ten val­\ndžią perėmęs jo sūnus Patrikas, ar­\nba Patricijus; po pastarojo tapo val­\ndovu, arba Žečpospolitos vaivada, \nir Rusios bei Ladogos kunigaikštis \nSimonas Lungvinas, arba tiksliau \nLengvenis, Lietuvos kunigaikštis, \nAlgirdo sūnus: žr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,20 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - t-001
   global_id: t-60321
   teiginys: "1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Morungenas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Morungenas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Hermanas pastatė Morungeno miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas) pastatė Morungenas (0.95)"
+  temporaliniai_duomenys: "pastatymo data: 1327 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną."
   pagrindžia:
     - c-60953
 
@@ -63,6 +77,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
                              3.
   citata_rodoma: "Apie Morungeno pilies pastatymą\n\n  1327  viešpaties metais  brolis Hermanas, Elbingo komtūras  bei  didysis Ordino\nšpitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,\ngavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.\n\n\n\n\n                         3."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

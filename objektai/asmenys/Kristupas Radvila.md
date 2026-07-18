@@ -47,6 +47,19 @@ Nenurodyta
 - t-001
   global_id: t-87402
   teiginys: "1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibūdina cituojamo laiško paskirtį ir adresatą."
   pagrindžia:
     - c-83382
 
@@ -54,6 +67,19 @@ Nenurodyta
 - t-002
   global_id: t-87403
   teiginys: "1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas laiško antraštėje nurodytu įpareigojimu."
   pagrindžia:
     - c-83381
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
@@ -137,6 +163,7 @@ Nenurodyta
     buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
     lonybę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,6 +203,7 @@ Nenurodyta
     ir visokeriopos sėkmės.
   citata_rodoma: "Rašyta Varšuvoje gegužės mė­\nnesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­\ntyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­\nraisiais metais.\n\n## Puslapis 367\n\nIV KNYGA\nIX\nA) LIETUVOS PONŲ TARYBOS LAIŠKAS, \nRAŠYTAS IŠ GARDINO 1586 METŲ  \nGRUODŽIO MĖNESIO 13 DIENĄ  \nKUNIGAIKŠČIUI KRISTUPUI RADVILAI,  \nVILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,  \nPRANEŠANTIS APIE KARALIAUS STEPONO BATORO  \nMIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ \nDĖL NEIŠMOKĖTOS ALGOS  \nKARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI\n(Iš originalo)\nMaloningasis Pone,\nPavesdami Jūsų Didenybės malonei nuolankią ir paklus­\nnią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos \nir visokeriopos sėkmės."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

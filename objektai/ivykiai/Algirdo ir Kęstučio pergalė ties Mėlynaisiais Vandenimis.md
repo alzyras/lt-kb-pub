@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Ties Mėlynaisiais Vandenimis Algirdas ir Kęstutis, pamatę totorius, liepė lietuviams rikiuotis ir padalijo kariuomenę į penkias dalis. Po pergalės Algirdas ir Kęstutis, Daukanto pasakojimu, užėmė Očakavo pilį prie Juodosios jūros, persekiojo totorius ir grįždami užėmė Krymą.
+Lie tuviai, atėję ties Mėlynaisiais Vandenimis, pamatė totorius taboriuose stovinčius, kurių trys karvedžiai: Katlubachas, Girėjus ir Dimeiteris stipriai pasirėdę vedė tuojau nesuskaitomas gaujas į mūšą. Pirmajame susirėmime totoriai ga lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi totoriai sulenkta eila pagal savo būdą nebgalėjo be kariauti, radęsi staiga nuo lietuvių apsiaustais; kai pogi totoriai, išmetę savo vylyčias į tuščias vietas, susirėmė su.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,23 +41,34 @@ Nenurodyta
 <a id="claim-t-201274"></a>
 - t-001
   global_id: t-201274
-  teiginys: "Ties Mėlynaisiais Vandenimis Algirdas ir Kęstutis, pamatę totorius, liepė lietuviams rikiuotis ir padalijo kariuomenę į penkias dalis."
+  teiginys: "Lie tuviai, atėję ties Mėlynaisiais Vandenimis, pamatė totorius taboriuose stovinčius, kurių trys karvedžiai: Katlubachas, Girėjus ir Dimeiteris stipriai pasirėdę vedė tuojau nesuskaitomas gaujas į mūšą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184624
 
 <a id="claim-t-201275"></a>
 - t-002
   global_id: t-201275
-  teiginys: "Po pergalės Algirdas ir Kęstutis, Daukanto pasakojimu, užėmė Očakavo pilį prie Juodosios jūros, persekiojo totorius ir grįždami užėmė Krymą."
+  teiginys: "Pirmajame susirėmime totoriai ga lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi totoriai sulenkta eila pagal savo būdą nebgalėjo be kariauti, radęsi staiga nuo lietuvių apsiaustais; kai pogi totoriai, išmetę savo vylyčias į tuščias vietas, susirėmė su."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184625
 
 ## Citatos
 
 - id: c-184624
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 566"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 566."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Todėl karvedžiu lie­
     tuvių ir žemaičių Algirdas ir Kęstutis, atilsinusįu
@@ -71,6 +82,7 @@ Nenurodyta
     dusiu, taip suskliautė priešakį, jog nė kokios per­
     glytos nebliko.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,9 +90,8 @@ Nenurodyta
     - t-201274
 
 - id: c-184625
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 566"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 566."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pirmajame susirėmime totoriai ga­
     lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi
@@ -101,6 +112,7 @@ Nenurodyta
     keliose kruvinose mūšose pergalėjo; nuo tenai grįž-
     damu, Krymą užėmė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

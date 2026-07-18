@@ -32,6 +32,10 @@ Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.
 - t-001
   global_id: t-191457
   teiginys: 'Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys tiesiogiai nusako Reginos Koženiauskienės vertėjos vaidmenį šiame leidime. Pašalinis puslapio ir įklijos triukšmas į teiginį neperkeltas.'
   pagrindžia:
     - c-174339
 
@@ -67,6 +71,7 @@ Regina Koženiauskienė vertė šiame leidime pateiktus eiliuotus tekstus.
     Vien pirkia tėvų menkutė
     Turtas mano pats didysis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

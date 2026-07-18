@@ -30,26 +30,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Boleslovas Kreivburnis, artėjant gyvenimo pabaigai, padalijo savo valstybę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui.
+Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto.
 
 ## Teiginiai
 
 <a id="claim-t-201412"></a>
 - t-001
   global_id: t-201412
-  teiginys: "Boleslovas Kreivburnis, artėjant gyvenimo pabaigai, padalijo savo valstybę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui."
+  teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184762
-- susijęs iš [[objektai/asmenys/Mieškas (kunigaikštis, XII a.).md#claim-t-201406|Mieškas (kunigaikštis, XII a.)]]: Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę.
-- susijęs iš [[objektai/asmenys/Mieškas (kunigaikštis, XII a.).md#claim-t-201406|Mieškas (kunigaikštis, XII a.)]]: Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę.
-- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-201047|Vladislovas]]: Boleslovas Kreivburnis padalijo ūkę sūnums Vladislovui, Mieškui, Henrikui ir Kazimierui, bet broliai tuo padalijimu nepasitenkino.
-- susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
+
 ## Citatos
 
 - id: c-184762
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 161"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135
@@ -65,6 +67,7 @@ Boleslovas Kreivburnis, artėjant gyvenimo pabaigai, padalijo savo valstybę sū
     damos valdžios, įgundino savo vyrą brolių dalis
     atimti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

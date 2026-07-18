@@ -33,6 +33,9 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - t-001
   global_id: t-67280
   teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67250
 
@@ -40,6 +43,9 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - t-002
   global_id: t-67281
   teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67251
 
@@ -59,6 +65,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
   citata_rodoma: "Griežčiausiai neigiamai at-\nsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-\nkados\" (Przenigdy\"). Apskritai mūsų bajorijos nusistatymas buvo\nlaikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,6 +86,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     cialia brošiūra atsakė: „Niekad, niekados".
   citata_rodoma: "Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai\nparašyta brošiūra — „Lietuvių Balsas\" (1902 m.), kur\njaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-\nnimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-\ncialia brošiūra atsakė: „Niekad, niekados\"."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

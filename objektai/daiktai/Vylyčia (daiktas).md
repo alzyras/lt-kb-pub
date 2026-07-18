@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mūšio pradžioje susirėmusios šalys pirmiausia varstėsi vylyčiomis, vėliau kovėsi kardais. Daukanto pasakojime vylyčia pervėrė Gedimino petį, kai jis skynėsi kelią per priešininkų rikiuotes.
+Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa. Nes, ant nelaimos lietuvių, Gediminui, sau kelią skinant per rindas neprietelių, pečius vylyčia pervėrė.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,25 +49,34 @@ Nenurodyta
 <a id="claim-t-201357"></a>
 - t-001
   global_id: t-201357
-  teiginys: "Mūšio pradžioje susirėmusios šalys pirmiausia varstėsi vylyčiomis, vėliau kovėsi kardais."
+  teiginys: "Susirėmusios šalys pirma vylyčiomis vars tės, paskui baisesniai dar kardomis skardės, kausena buvo didžiai smarki ir maringa."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184707
 
 <a id="claim-t-201358"></a>
 - t-002
   global_id: t-201358
-  teiginys: "Daukanto pasakojime vylyčia pervėrė Gedimino petį, kai jis skynėsi kelią per priešininkų rikiuotes."
+  teiginys: "Nes, ant nelaimos lietuvių, Gediminui, sau kelią skinant per rindas neprietelių, pečius vylyčia pervėrė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184708
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-200988|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Daukanto pasakojime medžiodamas Paneriuose Gediminas, kaip pasakojama, ant Tauro kalno vylyčia nuvėrė taurą.
-- susijęs iš [[objektai/ivykiai/Dabrelio pilies apgultis ir letgalių pasidavimas.md#claim-t-201281|Dabrelio pilies apgultis ir letgalių pasidavimas]]: Dabrelio pilies apgulties metu letgalių pastatytą naują bokštą naktį išvertė viesulas, žuvo daug žmonių.
-- susijęs iš Tauro kalnas: Daukanto pasakojime Gediminas, medžiodamas Paneriuose, esą pats vylyčia nuvėrė taurą ant Tauro kalno.
+
 ## Citatos
 
 - id: c-184707
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 532"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip apdrąsinąs karėjus, Gediminas liepė ženg­
     ti toliaus, vienok saugodamos, idant neprieteliai
@@ -83,6 +92,7 @@ Nenurodyta
     prietelių, jog pirmuoju antpuoliu gudų rindą iš­
     vertė ir pergalėtoju paliko.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,9 +100,8 @@ Nenurodyta
     - t-201357
 
 - id: c-184708
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 576"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 576."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet įgulė, jutusi ateinant sau pa­
     galbon marčelgą Dusenerį, paliaubas sulaužė: kai­
@@ -106,6 +115,7 @@ Nenurodyta
     kur begalėjo prasiblokšti tamsos dingsęia, tas mu­
     ko šalin visa palikinąs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

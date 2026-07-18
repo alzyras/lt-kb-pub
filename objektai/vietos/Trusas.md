@@ -34,6 +34,21 @@ media_all_json: |-
 - t-001
   global_id: t-192857
   teiginys: "Narbuto pasakojime Trusas buvo prekybinis miestas prie Drūsinės ežero, galbūt ten, kur vėliau įkurtas Elbliongas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Drūsinė: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Trusas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Drūsinė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Trusas lokalizuojamas prie Drūsinės ežero."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Trusas priklausė Drūsinė (0.80)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175627
 
@@ -41,22 +56,32 @@ media_all_json: |-
 - t-002
   global_id: t-197934
   teiginys: "Daugiausiai dėmesio vertas šios provincijos prekybinis miestas Trusas prie Drūsinės eže ro, buvęs, ko gero, ten, kur vėliau buvo įkurtas Elbliongas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175627
 
 <a id="claim-t-201109"></a>
 - t-003
   global_id: t-201109
-  teiginys: "Daukantas Trusą aprašo kaip prekybos vietovę prie Ilfingo upės ir nurodo, kad į ją buvo galima atplaukti per septynias naktis, irkluojant dieną ir naktį."
+  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184459
 - susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-192605|Vulfstanas]]: Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero.
 - susijęs iš [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius).md#claim-t-190820|Vulfstanas (jūrininkas, IX amžius)]]: Teodoro Narbuto vertinimu, be Vulfstano aprašymų apie prekybinį Truso miestą prie Drūsinės ežero galbūt nieko nebūtų žinoma.
 - susijęs iš Šiaurės keliautojo Vulfstano aprašymai: Teodoras Narbutas Vulfstano aprašymus laikė kone būtinu šaltiniu žinioms apie senovinį Truso miestą prie Drūsinės ežero.
-- susijęs iš Ilfing (vieta): Daukanto perteikiamoje Vulfstano žinioje Ilfingas yra upė į saulėtekį nuo Vyslos, tekanti į Žemaičių jūrą, o jos skardyje buvo Trusas.
 - susijęs iš [[objektai/autoriai/Motiejus Pretorijus.md#claim-t-190760|Motiejus Pretorijus]]: Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę.
 - susijęs iš [[objektai/autoriai/Pretorijus.md#claim-t-190786|Pretorijus]]: Pasak Pretorijaus, Poiein ziemme senovės prūsams reiškė galingos genties žemę.
-- susijęs iš Elbingas: Truso prekyvietė, pasak Daukanto, buvo visų žemaičių prekių sankrova, o jos vietoje šiandien yra Elbingas, arba Elblongas.
 ## Citatos
 
 - id: c-175627
@@ -76,6 +101,7 @@ media_all_json: |-
     rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
     nieko nežinotume apie šį miestą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,9 +110,8 @@ media_all_json: |-
     - t-197934
 
 - id: c-184459
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 48"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 48."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ten, sa­
     ko jis, Vysla, arba Ysla, yra didelė upis, vienoj pu­
@@ -99,6 +124,7 @@ media_all_json: |-
     krova visų žemaičių prekių, kurios vietoj šiandien
     vietovė, vadinama Elbingu, arba Elblongu, trakšo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

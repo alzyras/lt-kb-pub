@@ -44,6 +44,19 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
 - t-001
   global_id: t-61291
   teiginys: "Penkių tomų „Scriptores rerum Prussicarum“ leidinys išėjo Leipcige 1861–1874 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Leipcigas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Scriptores rerum Prussicarum T. Hirsch, M. Toppen, E. Strehlke 5 Bd: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Leipcigas: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Scriptores rerum Prussicarum T. Hirsch, M. Toppen, E. Strehlke 5 Bd\" parinktas kaip owner_note_path. Targetas \"Leipcigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1861-1874; įvykio data: 1874 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomus, vietą ir leidimo metus."
   pagrindžia:
     - c-61923
 
@@ -76,6 +89,7 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
     Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.
   citata_rodoma: "Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874\n—Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

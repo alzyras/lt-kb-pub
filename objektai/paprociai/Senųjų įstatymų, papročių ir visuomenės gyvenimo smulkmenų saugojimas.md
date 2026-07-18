@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189940
   teiginys: "Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kinai: mention_match, group, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas\" parinktas kaip owner_note_path. Targetas \"Kinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172823
 
@@ -106,6 +120,7 @@ Nenurodyta
     žyniai.
   citata_rodoma: "Seniausios žemės tautos -  indai ir kinai savo tautiškumo\nsvarbiausiais bruožais laikė ir tebelaiko tvirtą saugojimą se­\nnųjų įstatymų, papročių, įpročių ir visokių visuomenės gyve­\nnimo smulkmenų. Kaip tik tai yra priežastis amžino sąstingio,\ndėl kurio tos tautos su savo geografine padėtimi ilgai buvo ir\ndabar tebėra to paties apšvietos, politinių institucijų ir religi­\njos lygio. Jokia laiko pažanga, jokia civilizuoto pasaulio per­\nmaina nesutrikdo jų stabilios padėties: amžiais jos stovi ant\ntos pačios pakopos; niekas jų neskatina ieškoti gerovės žen­\ngiant aukščiau; iš kitų tautų, pasisavinusių svetimus daiktus ir\natradimus, jie su panieka tyčiojasi. Jie įnirtę persekioja net\nnorą kaip nors pakeisti senovę. Tokia pat dvasia gyveno dau­\ngybė senųjų Azijos tautų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

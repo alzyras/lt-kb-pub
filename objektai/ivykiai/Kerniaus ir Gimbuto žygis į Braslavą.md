@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1058 m. Kernius ir Gimbutas, pasak Daukanto, pasinaudojo vidaus nesantaikos suskaldytų gudų padėtimi, jėga įsilaužė į Braslavo pilį ir prijungė Braslavo pilį bei kraštą prie Lietuvos ūkės.
+Visų pirma tenai pilį Braslavo apgulė, į kurią varu įsilaužusiu, kraštą ir pilį su Lietuvos ūke sunėrė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201323"></a>
 - t-001
   global_id: t-201323
-  teiginys: "1058 m. Kernius ir Gimbutas, pasak Daukanto, pasinaudojo vidaus nesantaikos suskaldytų gudų padėtimi, jėga įsilaužė į Braslavo pilį ir prijungė Braslavo pilį bei kraštą prie Lietuvos ūkės."
+  teiginys: "Visų pirma tenai pilį Braslavo apgulė, į kurią varu įsilaužusiu, kraštą ir pilį su Lietuvos ūke sunėrė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184673
 
 ## Citatos
 
 - id: c-184673
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 148"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 148."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kad taip giminės lietuvių žemaičių, gyvenančios
     saulėlydy, taikinėjo pamarionims ir pačios grūmės
@@ -69,6 +74,7 @@ Nenurodyta
     Braslavo apgulė, į kurią varu įsilaužusiu, kraštą ir
     pilį su Lietuvos ūke sunėrė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1277 m. lapkričio 21 d. Skomantas su daugiau kaip 4000 jotų ir lietuvių bei žemaičių talkininkais pasirodė prie Kulmijos sienos.
+Ateinantį metą 1277 Skomantas, sukėlęs daugiaus nei 4000 karėjų jotų, stiprindamos dar patelkė lietuvius ir žemaičius, su kuriais susinėręs, 21 die noj lapkričio pasirodė ant rubežiaus Kulmijos it būt apmaudo giežti ir grobio grieti norįs.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201343"></a>
 - t-001
   global_id: t-201343
-  teiginys: "1277 m. lapkričio 21 d. Skomantas su daugiau kaip 4000 jotų ir lietuvių bei žemaičių talkininkais pasirodė prie Kulmijos sienos."
+  teiginys: "Ateinantį metą 1277 Skomantas, sukėlęs daugiaus nei 4000 karėjų jotų, stiprindamos dar patelkė lietuvius ir žemaičius, su kuriais susinėręs, 21 die noj lapkričio pasirodė ant rubežiaus Kulmijos it būt apmaudo giežti ir grobio grieti norįs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184693
 
 ## Citatos
 
 - id: c-184693
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 447"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 447."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui antras kryžėjas, įgijęs valdžią, kruvinai te­
     nai atvejų atvejais kovės su sūdau jais su įvairia
@@ -71,6 +76,7 @@ Nenurodyta
     mendotas, duodamas du kelio žinovu, kuriuodu tu­
     rėjo kelią rodyti lietuviams traukiant tolesniai.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

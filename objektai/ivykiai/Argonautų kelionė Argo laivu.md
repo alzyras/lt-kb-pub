@@ -50,6 +50,21 @@ Nenurodyta
 - t-001
   global_id: t-191039
   teiginys: "Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Argonautų kelionė Argo laivu: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jasonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Argonautų kelionė Argo laivu: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jasono vadovaujamą kelionę, kuri sutampa su įvykio objektu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jasonas keliavo į Argonautų kelionė Argo laivu (0.88); Argonautai keliavo į Argonautų kelionė Argo laivu (0.84)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173921
 
@@ -71,6 +86,7 @@ Nenurodyta
     buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
     1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

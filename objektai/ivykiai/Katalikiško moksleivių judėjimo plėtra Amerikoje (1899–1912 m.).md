@@ -49,6 +49,10 @@ Nenurodyta
 - t-001
   global_id: t-66609
   teiginys: "1899 m. Federacijos įkurta „Motinėlė“ šelpė lietuvius moksleivius ir skyrė stipendijas studentams Amerikos bei Europos universitetuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-66807
 
@@ -69,6 +73,7 @@ Nenurodyta
     ir Europos universitetuose.
   citata_rodoma: "Taip antai, Federacijos įkurta (1899 m.) „Motinėlė\", kuri, jos remiama, šelpia lie-\ntuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos\nir Europos universitetuose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

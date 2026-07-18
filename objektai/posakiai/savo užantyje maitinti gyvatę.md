@@ -52,6 +52,16 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 - t-001
   global_id: t-36019
   teiginys: "Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "savo užantyje maitinti gyvatę: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"savo užantyje maitinti gyvatę\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38392
 
@@ -59,6 +69,16 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 - t-002
   global_id: t-36020
   teiginys: "Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę."
+  atnaujinta: "2026-06-13 17:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "savo užantyje maitinti gyvatę: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"savo užantyje maitinti gyvatę\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38391
 
@@ -79,6 +99,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     užantyje maitinti gyvatę.
   citata_rodoma: "Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +123,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     Skirgailai^1 ).
   citata_rodoma: "Atsisakydamas jį priimti, Jo­\ngaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo\nužantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis\nLietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau\nžemaičius viliojęs, nes pastarieji yra pasidavę jam ir jo broliui\nSkirgailai^1 )."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

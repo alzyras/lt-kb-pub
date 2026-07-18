@@ -38,6 +38,9 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
 - t-001
   global_id: t-187332
   teiginys: 'Sniatinas lokalizuojamas į rytus nuo Kolomyjos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Sakinys tiksliai perteikia citatoje nurodytą Sniatino lokalizaciją.'
+  susije_objektai: 'mentioned_place: Kolomyja; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-170359
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
@@ -60,6 +63,7 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
     algininkų daliuj.
   citata_rodoma: "a  A pie rugsėjo 24 d., palydėjęs M oldavijos vaivadų Steponų \nligi Sniatino (j rytus nuo Kolomyjos), Kazimieras davė jam  3000 \nalgininkų daliuj."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

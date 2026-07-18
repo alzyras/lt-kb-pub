@@ -32,6 +32,17 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 - t-001
   global_id: t-30985
   teiginys: "Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Dniepras: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad rytiniai baltai gyveno Dniepro aukštupio plotuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Baltai gyveno Dniepras (0.87)"
   pagrindžia:
     - c-33144
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
@@ -54,6 +65,7 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
     aukštupio ir jo intakų Beržūnės ir Sožies plotuose.
   citata_rodoma: "Jau prieš I pa­\nsaulinį karą buvo teigiama (Sobolevskij, A. Kočubinskij), jog prieš­\nistoriniais laikais baltai yra gyvenę žymiai toliau į rytus. Rem­\ndamasis ilgus šimtmečius išsilaikiusia baltiška toponomastine me­\ndžiaga, ypač upių ir ežerų vardų studijomis, K."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

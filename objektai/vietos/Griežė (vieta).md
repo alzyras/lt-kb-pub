@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime kalavijuočiai įsilaužė į Griežės pilį, išplėšė jos turtus ir sulygino pilį su žeme.
+Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino.
 
 ## Teiginiai
 
 <a id="claim-t-201145"></a>
 - t-001
   global_id: t-201145
-  teiginys: "Daukanto pasakojime kalavijuočiai įsilaužė į Griežės pilį, išplėšė jos turtus ir sulygino pilį su žeme."
+  teiginys: "Kalavijonys, nerasdami Griežėj stiprios įgu lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo, o turtus ir gėrybes išdrevėjo, pačią pilį su žeme sulygino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184495
-- susijęs iš [[objektai/zodynas/Jomarkas (sąvoka).md#claim-t-201218|Jomarkas (sąvoka)]]: Daukantas jomarku vadina mugę, kurioje žemaitis galėjo parduoti paaugintą arklį ar namie austos drobės skiautelę.
+
 ## Citatos
 
 - id: c-184495
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 427"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 427."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kalavijonys, nerasdami Griežėj stiprios įgu­
     lės, įsilaužė į pilį ir visa, ką gyvą rado, nugalavo,
@@ -52,6 +57,7 @@ Daukanto pasakojime kalavijuočiai įsilaužė į Griežės pilį, išplėšė j
     pelenus ir iras Griežės berado. Kalavijonys vieni
     pasisuko pajūrin, kiti su grobiu nuėjo į Rygą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

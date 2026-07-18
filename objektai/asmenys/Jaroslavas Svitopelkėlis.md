@@ -30,23 +30,28 @@ media_all_json: |-
 
 ## Santrauka
 
-1112 m. Jaroslavas Svitopelkėlis, Daukanto pasakojimu, traukė su didele kariauna užimti Lietuvos šalies, vadintos Jacviegija arba Paletija.
+Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikštis gudų, gobėdamps tą šalį Lietuvos užimti, kurią Jacviegija, arba Paletija, vadino, traukė tenai su didžia kariauna.
 
 ## Teiginiai
 
-<a id="claim-t-201419"></a>
+<a id="claim-t-201425"></a>
 - t-001
-  global_id: t-201419
-  teiginys: "1112 m. Jaroslavas Svitopelkėlis, Daukanto pasakojimu, traukė su didele kariauna užimti Lietuvos šalies, vadintos Jacviegija arba Paletija."
+  global_id: t-201425
+  teiginys: "Tuo pačiu laiku, tai yra metuose 1112, Jarosla vas Svitopelkėlis, kunigaikštis gudų, gobėdamps tą šalį Lietuvos užimti, kurią Jacviegija, arba Paletija, vadino, traukė tenai su didžia kariauna."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184769
+    - c-184775
 
 ## Citatos
 
-- id: c-184769
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 159"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 159."
+- id: c-184775
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai dar kruvinose mūšose* pamarionų su
     Boleslovu lietuviai vis pamarionis šelpė, noris per- m2
@@ -64,8 +69,9 @@ media_all_json: |-
     vienok palečionys nepasidavė ir gudams neverga­
     vo, kaip tuojau regėsim.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201419
+    - t-201425

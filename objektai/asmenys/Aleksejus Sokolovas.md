@@ -33,6 +33,16 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 - t-001
   global_id: t-40005
   teiginys: "Aleksejus Sokolovas buvo agentų-smogikų organizatorius Lietuvoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksejus Sokolovas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksejus Sokolovas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44270
 
@@ -40,6 +50,9 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 - t-002
   global_id: t-40006
   teiginys: "Saugumo majoras Aleksejus Sokolovas formavo vadinamąsias specialiąsias grupes, kuriose veikdavo smogikai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44271
 
@@ -55,6 +68,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     agentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a. 5 deš.
   citata_rodoma: "Antroje eilėje, trečias iš dešinės stovi\nagentų-smogikų organizatorius Lietuvoje Aleksejus Sokolovas. Lietuvos SSR, XX a."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -74,6 +88,7 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     „kompromatas“ būtų pamestas tikriesiems partizanams.
   citata_rodoma: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-\nmuotose vadinamosiose specialiosiose grupėse, kurioms paprastai\nvadovaudavo koks nors operatyvininkas. Tokių grupių priedangai\nnaudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-\nbių pabėgti ar pasitraukti iš spec."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

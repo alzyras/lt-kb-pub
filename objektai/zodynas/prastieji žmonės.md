@@ -33,6 +33,20 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - t-001
   global_id: t-187545
   teiginys: "Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "prastieji žmonės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prastieji žmonės\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
   pagrindžia:
     - c-170495
 
@@ -40,6 +54,20 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
 - t-002
   global_id: t-187546
   teiginys: "Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> vaivada: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "prastieji žmonės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vaivada: mention_match, thing, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prastieji žmonės\" parinktas kaip owner_note_path. Targetas \"vaivada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170496
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-199220|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
@@ -111,6 +139,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     žmonės buvo jį išrinkę vaivada.
   citata_rodoma: "Ir tą pačią naktį Andrius su žmona, o su juo \nSmolensko bajorai išvyko iš miesto.\nPaskui Smolenske kilo didelis maištas, smolenskie- \nčiai sučiupo Smolensko maršalą Petriką 5  ir nuskandino \nDnepre, o Smolensko vaivados vieton pasisodino Do- \nrohobužo kunigaikštį Andrejų Dimitrijevičių 6 . Smolens­\nko bajorai nenorėjo pripažinti to Dorohobužo kuni­\ngaikščio savo vaivada, kadangi ne jie patys, o prastieji \nžmonės buvo jį išrinkę vaivada."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +166,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
     didįjį kunigaikštį Kazimierą nužudyti ir užimti sostą.
   citata_rodoma: "Ir jie nuvyko skųs­\n132\n\n## Puslapis 128\n\ntis didžiajam kunigaikščiui Kazimierui, kad Smolenske \nprastieji žmonės be jų sutikimo išsirinko vaivada tą \nDorohobužo kunigaikštį Andrejų.\nPrastieji žmonės, išgirdę, kad Smolensko bajorai iš­\nvyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai \nišsigando, Įėmė] dairytis stiprios paramos ir vienbalsiai \nnutarė imti sau valdovu kunigaikštį Jurgį Lengvenai- \nt į1. Tas kunigaikštis Jurgis Lengvenaitis, pas juos at­\nvykęs, tapo jų valdovu."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

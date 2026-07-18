@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1284 m. Traidžio pasiųstas Buivydas su kariauna per Lukavą žygiavo į Sandomirą, o Daukanto pasakojime iš žygio parsivedė apie 6000 belaisvių.
+Tasai su rimta kariauna grūdos per Lukavą į Sandomirą, tenai, kur užėjo, ten teriojo ir dre vėj o -nei nuo ko nedraudžiamas; pagriejęs neapseikimas gėrybes, pačių imtinių būk 6000 jau namo varęs.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201277"></a>
 - t-001
   global_id: t-201277
-  teiginys: "1284 m. Traidžio pasiųstas Buivydas su kariauna per Lukavą žygiavo į Sandomirą, o Daukanto pasakojime iš žygio parsivedė apie 6000 belaisvių."
+  teiginys: "Tasai su rimta kariauna grūdos per Lukavą į Sandomirą, tenai, kur užėjo, ten teriojo ir dre vėj o -nei nuo ko nedraudžiamas; pagriejęs neapseikimas gėrybes, pačių imtinių būk 6000 jau namo varęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184627
 
 ## Citatos
 
 - id: c-184627
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 460"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 460."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mykolo Liubline mūro bažnyčią įkū­
     rė, kuri liig šiai dienai dar tebėra.
@@ -70,6 +75,7 @@ Nenurodyta
     kimas gėrybes, pačių imtinių būk 6000 jau namo
     varęs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

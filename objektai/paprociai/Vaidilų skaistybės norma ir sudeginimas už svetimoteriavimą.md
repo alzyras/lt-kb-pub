@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189965
   teiginys: "Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaidilos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172848
 
@@ -89,6 +103,7 @@ Nenurodyta
     buvo tų ypatingų žmonių amatas.
   citata_rodoma: "293\n\n## Puslapis 293\n\ndžiausiu įniršiu. Vaidilos tiksliausiai laikydavosi dorovės pa­\npročių; jeigu kuris nors iš jų būdavo pastebėtas svetimoteriau­\njant, tokį be gailesčio gyvą sudegindavo. Šie žyniai būdavo ne­\nvedę*."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

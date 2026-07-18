@@ -41,6 +41,20 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
 - t-001
   global_id: t-35173
   teiginys: "Vytautas 1415 m. Naugarduke paskelbė Jurgį Cemblaką Kijevo metropolitu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Jurgis Cemblakas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jurgis Cemblakas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytautas paskelbė Jurgį Cemblaką Kijevo metropolitu, todėl leidžiamas paskyrimo ryšys su asmeniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Jurgis Cemblakas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-38064
 
@@ -65,6 +79,7 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
     silaikė savo soste iki mirties.
   citata_rodoma: "Vytautas tą savos metropolijos svarbą suprato labai gerai ir po\nvisokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti\nklausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho\npriešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­\ntuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį\nCemblaką. Patriarcho tas metropolitas buvo iškeiktas, bet iš­\nsilaikė savo soste iki mirties."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

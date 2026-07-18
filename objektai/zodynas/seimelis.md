@@ -41,32 +41,62 @@ media_all_json: |-
 - t-001
   global_id: t-200630
   teiginys: "Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus."
+  atnaujinta: "2026-07-14 09:55"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-184025
-    - c-184026
-    - c-184027
 
 <a id="claim-t-200631"></a>
 - t-002
   global_id: t-200631
   teiginys: "Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas."
+  atnaujinta: "2026-07-14 09:55"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas kontekstinis junginys ir sukonkretintas veiksnys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-184029
-    - c-184026
-    - c-184027
 
 <a id="claim-t-200632"></a>
 - t-003
   global_id: t-200632
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
+  atnaujinta: "2026-07-14 09:55"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimelis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimelis\" parinktas kaip owner_note_path. Targetas \"Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-184029
-    - c-184026
 
 <a id="claim-t-200667"></a>
 - t-004
   global_id: t-200667
   teiginys: "1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md::deterministic_recovery"
+  ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimelis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimelis\" parinktas kaip owner_note_path. Targetas \"Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata apie Smolensko pavieto seimelį bei jame rinktas pareigybes. Atskirų išrinktų asmenų vardai neprivalomi šiam apibendrinimui."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-184013
 
@@ -74,6 +104,23 @@ media_all_json: |-
 - t-005
   global_id: t-200694
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas, žemės teisėju - Karolis Eidžiatovičius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "seimelis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): mention_match, person, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimelis\" parinktas kaip owner_note_path. Targetas \"Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkęs sąrašo fragmentas perrašytas į vieną pilną sakinį su aiškiu seimelio veiksmu. Palikta tik dalis rinkimų rezultatų, kad sakinys nebūtų kataloginis."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184043
 - susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200657|Vilniaus seimelis]]: 1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
@@ -117,6 +164,7 @@ media_all_json: |-
     Karolis Piotrovskis (Karol Piotrowski) [9].
   citata_rodoma: "Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-\nnėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,\nseimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-\nninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /\nKaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas\nDylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –\nKarolis Piotrovskis (Karol Piotrowski) [9]."
   statusas: verified
+  atnaujinta: "2026-07-14 10:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +183,7 @@ media_all_json: |-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
   citata_rodoma: "Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-\njais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-\ndavo renkami specialiai šaukiamame Grabnyčių seimely (apie va-\nsario 2 d.) ir darbuodavos tribunole vienus metus."
   statusas: verified
+  atnaujinta: "2026-07-14 09:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,6 +201,7 @@ media_all_json: |-
     teismą ir kitus urėdus.
   citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo"
   statusas: verified
+  atnaujinta: "2026-07-14 09:55"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -172,6 +222,7 @@ media_all_json: |-
     pat išliko iki pat nepriklausomybės pabaigos.
   citata_rodoma: "Su mažais pakeitimais jis toks"
   statusas: verified
+  atnaujinta: "2026-07-14 09:55"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -193,6 +244,7 @@ media_all_json: |-
     **3.
   citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo\nteismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-\nstovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t.\n**3."
   statusas: verified
+  atnaujinta: "2026-07-14 09:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -214,6 +266,7 @@ media_all_json: |-
     Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
     per seimelį dėl brolio interesų.
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

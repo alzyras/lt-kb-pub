@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime kalavijonys, pasitelkę danus, per Jelgavą žygiavo į Tauriavietės pilį, niokojo apygardas, naikino javus ir degino kaimus.
+Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti.
 
 ## Teiginiai
 
 <a id="claim-t-201176"></a>
 - t-001
   global_id: t-201176
-  teiginys: "Daukanto pasakojime kalavijonys, pasitelkę danus, per Jelgavą žygiavo į Tauriavietės pilį, niokojo apygardas, naikino javus ir degino kaimus."
+  teiginys: "Susinėrę ties Ryga, traukė per Jelgavą į Tauriavietės pilį; tenai eidamas žemgalius ir žemai čius, kurie norėjo dar remtis, išblaškė ir, ties minavota pilė sustoję į abažą, ėmė apygardas terioti ir javus naikinti, kaimas deginti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184526
 
 ## Citatos
 
 - id: c-184526
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 455"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 455."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kalavijonys, nujautę žemaičių nesant namie, ta­
     rės tuo pragumu žemgalius sudrausią; to dėjęsi, su- 128j
@@ -57,6 +62,7 @@ Daukanto pasakojime kalavijonys, pasitelkę danus, per Jelgavą žygiavo į Taur
     zomatus ir įsitraukė į pačius pilės mūrus, ketėdami
     iki paskuojo grumtis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

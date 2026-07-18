@@ -34,6 +34,17 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
 - t-001
   global_id: t-53956
   teiginys: "Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve."
+  atnaujinta: "2026-05-23 15:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Kijevas: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Algimantaitis (Alšėniškis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vietininko paskyrimas Kijeve tiesiogiai rodo jo valdžios funkciją tame mieste."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Algimantaitis (Alšėniškis) valdė miestą Kijevas (0.74)"
   pagrindžia:
     - c-54947
 
@@ -41,6 +52,13 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
 - t-002
   global_id: t-196495
   teiginys: "Kojelavičius pasakoja, kad Jonas Algimantaitis neilgai džiaugėsi naujomis valdomis, nes jo džiaugsmą nutraukė kito žmogaus nedorumas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178729
 
@@ -57,6 +75,7 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
     ten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 ).
   citata_rodoma: "Taip\npav., mirus Kijevą valdžiusiam Skirgailai, jis savo vietininku\nten paskyrė sau artimą kunig. Joną Algimantaitį (Alšėniškį)^3 )."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,6 +101,7 @@ Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vieti
     be užmoka už gyvybes tų, kurių nelaimei ketino gyven­
     ti.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

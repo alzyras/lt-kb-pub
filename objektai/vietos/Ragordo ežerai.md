@@ -34,6 +34,16 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-36543
   teiginys: "Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ragordo ežerai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragordo ežerai\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38622
 
@@ -58,6 +68,7 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
     tuvą nuo didesnės vokiečių įtakos1 2).
   citata_rodoma: "Jos buvo pravestos nuo\nMozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš\nčia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­\nvintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­\nlininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių\npakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo\nbūdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji\nskyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­\ntuvą nuo didesnės vokiečių įtakos1 2)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

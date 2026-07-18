@@ -38,6 +38,17 @@ media_all_json: |-
 - t-001
   global_id: t-100223
   teiginys: "Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zenonas Ivinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vytauto Didžiojo perijodo bibliografija: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Zenonas Ivinskis: mention_match, author, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto Didžiojo perijodo bibliografija\" parinktas kaip owner_note_path. Targetas \"Zenonas Ivinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
   pagrindžia:
     - c-94084
 
@@ -57,6 +68,7 @@ media_all_json: |-
     (^38) **DlugO, XIII, 29, 119 p.**
   citata_rodoma: ": _Kovos bruožai dėl Žemaičių ir jų\nsienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_\n\n(^37) **DlugO, XIII, 119 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

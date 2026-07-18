@@ -32,6 +32,11 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
 - t-001
   global_id: t-190193
   teiginys: 'Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinė interpretacija suformuluota kaip Narbuto naudojamas šaltinis ir Celsui priskirta mintis. Neperrašyta ilga citata ir nepridėta platesnio Origeno veikalo konteksto.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Celsas|Celsas]]; mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]'
   pagrindžia:
     - c-173076
 
@@ -60,6 +65,7 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,6 +59,20 @@ Nenurodyta
 - t-001
   global_id: t-87166
   teiginys: "Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad totoriai gyveno Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Totoriai gyveno Vilnius (0.93); Totoriai gyveno Nemėžis (0.90); Totoriai gyveno Ašmena (0.86); Totoriai gyveno Naugardukas (0.86); Totoriai gyveno Lietuva (0.82)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas."
   pagrindžia:
     - c-83147
 
@@ -66,6 +80,17 @@ Nenurodyta
 - t-002
   global_id: t-87168
   teiginys: "Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai buvo apgyvendinti prie Vilniaus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Totoriai gyveno Vilnius (0.88)"
   pagrindžia:
     - c-83146
 
@@ -162,6 +187,7 @@ Nenurodyta
     žemės valdų ir laisvių, tėvynei iš jų gavo narsių ir ištikimų
     gynėjų ir pavyzdingų piliečių62.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,6 +227,7 @@ Nenurodyta
     kapinės ir 1.1.
   citata_rodoma: "]* - \nŠitas, nepalankus lietuvių atžvilgiu \npalyginimas su totoriais gal persū­\ndytas, tačiau negalima būtų nugin­\nčyti, kad totoriai, Vytauto Lietuvoje \nįkurdinti, net iki mūsų laikų garsūs \nnepriekaištinga dora, narsa ir prie­\nraišumu savo naujai tėvynei. Jų dau­\ngybę su visomis šeimomis į šiuos \nkraštus turėjo būti atkėlęs šaunus \npergalingas karys Vytautas; be jų pa­\ngrindinės gyvenvietės prie Vokės \nupės, be tų, kurie įsikūrė mieste ir \nkurie apsigyveno vietovėje, vadinto­\nje Nemėžiu, per mylią nuo Vilniaus į \nrytus, daug jų įsikūrė pavietuose: \nLydos, Ašmenos ir Naugarduko ir \niš tiesų nėra valdos, ypač pasakyti­\nna tai apie Vilniaus, Trakų ir Nau­\ngarduko pavietus, kur iki šiolei ne­\nbūtų išlikę totorių buveinių pėdsakų \npavadinimuose: Totoriškės, Totorių \nkapinės ir 1.1."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

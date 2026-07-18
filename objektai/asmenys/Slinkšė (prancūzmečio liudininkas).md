@@ -51,6 +51,10 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
 - t-001
   global_id: t-195562
   teiginys: "Žmonės Slinkšę laikė patikimu prancūzmečio liudininku, nes anuomet jis jau buvo vedęs ir turėjo daugiau kaip trisdešimt metų."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177979
 
@@ -58,6 +62,10 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
 - t-002
   global_id: t-195563
   teiginys: "Slinkšė buvo laikomas tų namų šeimininko „strujumi“."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177980
 
@@ -83,6 +91,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     iš kitų yra girdėjęs.
   citata_rodoma: "Žinojo visi, kad Slinkšė per prancūzmetį buvo jau vedęs vyras, turėjo daugiau kaip trisdešimt metų, galėjo šnekėti apie tai, ką pats matė."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +111,7 @@ Slinkšė pasakojime įvardijamas kaip senas žmogus ir namų šeimininko „str
     Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui.
   citata_rodoma: "Seniukas Slinkšė prisieina „strujumi“ tų namų šeimininkui."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

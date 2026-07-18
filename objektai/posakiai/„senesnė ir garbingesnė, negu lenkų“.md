@@ -33,5 +33,7 @@ Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už
 - t-001
   global_id: t-195047
   teiginys: 'Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir išlaiko kronikai būtiną atribuciją.'
   pagrindžia:
     - c-001

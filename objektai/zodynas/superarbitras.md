@@ -33,6 +33,17 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 - t-001
   global_id: t-36837
   teiginys: "Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86)"
   pagrindžia:
     - c-38762
 
@@ -56,6 +67,7 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
     prieš savo kelionę į rusų kraštus.
   citata_rodoma: "Dobrynės\nir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių\npasirinktiems arbitrams, o didesniuose nesusipratimuose nutar­\nta kreiptis į popiežių, kaip į superarbitrų^2 ). Ši tarpininko arba\nsuperarbitro rolė jau į antrą mėnesį buvo pavesta Vengrijos ka­\nraliui Zigmantui, neseniai tik tapusiam Romos ciesorium^3 ), pas\nkurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar\nprieš savo kelionę į rusų kraštus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

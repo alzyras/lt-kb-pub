@@ -62,6 +62,22 @@ Nenurodyta
 - t-001
   global_id: t-192054
   teiginys: "Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie akmeninius kovos kirvius ir remiasi citata."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Rusija"
+  temporaliniai_duomenys: "įvykio data: 1800 m.; įvykio data: 2000-1800"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie akmeninius kovos kirvius ir remiasi citata."
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akmeniniai kovos kirviai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akmeniniai kovos kirviai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-174926
 
@@ -69,6 +85,17 @@ Nenurodyta
 - t-002
   global_id: t-192055
   teiginys: "Narbutas priduria, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akmeniniai kovos kirviai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus gaisro gesinimo įrankiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akmeniniai kovos kirviai\" parinktas kaip owner_note_path. Targetas \"Vilniaus gaisro gesinimo įrankiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-174925
 
@@ -76,6 +103,20 @@ Nenurodyta
 - t-003
   global_id: t-192492
   teiginys: "Narbutas pridėjo pastabą, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akmeniniai kovos kirviai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus gaisro gesinimo įrankiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akmeniniai kovos kirviai\" parinktas kaip owner_note_path. Targetas \"Vilniaus gaisro gesinimo įrankiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174925
 
@@ -124,6 +165,7 @@ Nenurodyta
     egzemplioriais.
   citata_rodoma: "„Akmeniniai kirviai randami laukuose ir prie senų sody­\nbų,\nbet\nne\nkapavietėse“"
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,6 +188,7 @@ Nenurodyta
     dirbystę ir gyvulininkystę.
   citata_rodoma: "Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir\nkituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­\ntijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti\nateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną\nį miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­\nžangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­\ntojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­\ndirbystę ir gyvulininkystę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

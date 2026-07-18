@@ -32,6 +32,11 @@ Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rez
 - t-001
   global_id: t-191492
   teiginys: 'Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rezidenciją Gailgarbio, arba Galgarbeno, pilyje ant Rinavos kalno.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys jau aiškiai nurodo Šamą, jo ryšį su Vaidevučiu ir rezidencijos vietą. Padavimo pobūdis paliktas su atribucija, o papildomos žinios apie karo laužus nepridėtos.'
+  susije_objektai: 'mentioned_place: Rinava'
   pagrindžia:
     - c-174374
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190877|Herodotas]]: Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr.
@@ -56,6 +61,7 @@ Anot Narbuto perteikiamų padavimų, Vaidevučio sūnus Šamas įkūrė savo rez
     davo įspėti žmones, kurie stodavo po garsių karvedžių
     vėliavomis, jei priešas išsilaipindavo pakrantėse.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

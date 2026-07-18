@@ -34,6 +34,17 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
 - t-001
   global_id: t-95922
   teiginys: "Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Volbožas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Volbožas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kariuomenės susirinkimas į Volbožą tiesiogiai rodo judėjimą į šią vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lenkijos kariuomenė keliavo į Volbožas (0.86)"
   pagrindžia:
     - c-37839
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.
@@ -53,6 +64,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červi
     kusi vieton ir ruošėsi keltis per Vislą.
   citata_rodoma: "Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­\nską išvyko birželio mėn. 26 d. Birželio m. 30 d. jau buvo atvy­\nkusi vieton ir ruošėsi keltis per Vislą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

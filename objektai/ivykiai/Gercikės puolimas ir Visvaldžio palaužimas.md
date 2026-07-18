@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Albertas surengė staigų Gercikės puolimą, kurio metu buvo paimta Visvaldžio buveinė, sugauta Dangerutė, o pati pilis sudeginta.
+Todėl Albertas, sukėlęs visus kalavijonis, meldžionis ir perkrikštus, traukė į Gercikę, buveinę kunigaikščio Visvaldžio, kurios įgulė, tuo staigiu antpuoliu nugandinta, nusiminusi muko į pi lį, bet tame sambrūzdy nebsuskubėjo įeidama jos angų užrakinti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201284"></a>
 - t-001
   global_id: t-201284
-  teiginys: "Albertas surengė staigų Gercikės puolimą, kurio metu buvo paimta Visvaldžio buveinė, sugauta Dangerutė, o pati pilis sudeginta."
+  teiginys: "Todėl Albertas, sukėlęs visus kalavijonis, meldžionis ir perkrikštus, traukė į Gercikę, buveinę kunigaikščio Visvaldžio, kurios įgulė, tuo staigiu antpuoliu nugandinta, nusiminusi muko į pi lį, bet tame sambrūzdy nebsuskubėjo įeidama jos angų užrakinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184634
 
 ## Citatos
 
 - id: c-184634
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 213"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 213."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas vokyčiams, kad Visvaldis apie tą
     nieko nežinojo. Todėl Albertas, sukėlęs visus kala-
@@ -70,6 +75,7 @@ Nenurodyta
     nė vieno savo nenustojo ir taip veikiai pasipelnė;
     ant galo pačią pilį sudegino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

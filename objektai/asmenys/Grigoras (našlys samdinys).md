@@ -53,6 +53,10 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 - t-001
   global_id: t-195543
   teiginys: "Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177959
 
@@ -60,6 +64,10 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 - t-002
   global_id: t-195544
   teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177961
 
@@ -67,6 +75,10 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
 - t-003
   global_id: t-195545
   teiginys: "Pasakojime pažymima, kad Grigoras duoto žodžio neištesėjo."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177960
 - susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195546|Jokūbas (samdytojas, XIX a.)]]: Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą.
@@ -86,6 +98,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     nės — atsiliepė pirmą sykį Grigoras.
   citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +124,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     padarė, atsiprašant, kažin ką.
   citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +148,7 @@ Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užau
     tinėlę.
   citata_rodoma: "Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

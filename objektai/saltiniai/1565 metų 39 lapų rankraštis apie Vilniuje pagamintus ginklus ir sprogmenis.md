@@ -43,6 +43,19 @@ Nenurodyta
 - t-001
   global_id: t-88176
   teiginys: "1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1565 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, citata leidžia atkurti pilną enciklopedinį sakinį."
   pagrindžia:
     - c-84157
 
@@ -50,6 +63,19 @@ Nenurodyta
 - t-002
   global_id: t-88177
   teiginys: "1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1565 m.; įvykio data: 1565 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia patikslinti, kad rankraštis aprašė gamybą iki 1565 m. ir neišplėsti teiginio už citatos ribų."
   pagrindžia:
     - c-84155
 
@@ -57,6 +83,16 @@ Nenurodyta
 - t-003
   global_id: t-88178
   teiginys: "Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84156
 
@@ -93,6 +129,7 @@ Nenurodyta
     niuje, išsiuntinėtus po kitas pilis".
   citata_rodoma: "Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS \nAUGUSTAS savo ranka.\n\n## Puslapis 328\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIV\nGINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO \nKARALIŠKOSIOS DIDENYBĖS LĖŠOMIS \nPAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I \nPASIENIO PILIS\n1565 METŲ 39 LAPŲ RANKRAŠTIS \n(Iš Pulavų bibliotekos rankraščių)\nTaip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­\nliotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­\nkraštis, perrašytas iš originalo, esančio Stokholme, ten lan­\nkantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir \namuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos \nDidžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­\nniuje, išsiuntinėtus po kitas pilis\"."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +147,7 @@ Nenurodyta
     nių pabūklų. Čia išvardyti tik tie, kurie buvo naujai
     pagaminti ir ten išsiuntinėti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +168,7 @@ Nenurodyta
     mantu Senuoju ir Žygimantu Augustu.
   citata_rodoma: "Įvairių kulkų - 88 352.\nBent jau vertingiausi ginklai (toliau rašo Golembiovskis) \nturėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­\ndinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­\ntėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­\nmantu Senuoju ir Žygimantu Augustu."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

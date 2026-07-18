@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočių magistras pasiuntė Arnoldą v. Dorfą, Nagelštato komtūrą, ir Ehrenfriedą v. Neuenburgą į Padauguvį tirti kalavijuočių tvarkos.
+Neuenburgą, kamendotą Altenburgo, ir Arnoldą v.
 
 ## Teiginiai
 
 <a id="claim-t-201415"></a>
 - t-001
   global_id: t-201415
-  teiginys: "Kryžiuočių magistras pasiuntė Arnoldą v. Dorfą, Nagelštato komtūrą, ir Ehrenfriedą v. Neuenburgą į Padauguvį tirti kalavijuočių tvarkos."
+  teiginys: "Neuenburgą, kamendotą Altenburgo, ir Arnoldą v."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184765
 
 ## Citatos
 
 - id: c-184765
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 276"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 276."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matančiam mistrui kryžeivių rodės tarimas
     mistro kalavijonų, arba Kristaus karėjų, dar reika­
@@ -52,6 +57,7 @@ Kryžiuočių magistras pasiuntė Arnoldą v. Dorfą, Nagelštato komtūrą, ir 
     bepagrįžti tą patį metą namo, nes atentį metą jūra
     parkeliavo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

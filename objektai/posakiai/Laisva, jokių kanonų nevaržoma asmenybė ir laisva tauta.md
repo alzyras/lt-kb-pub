@@ -45,6 +45,13 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - t-001
   global_id: t-189596
   teiginys: "„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171027
 
@@ -91,6 +98,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     ti tautinę kultūrą.
   citata_rodoma: "Vietoj senosios feodalinės vals­\ntybės suvokimo formavosi naujos tautinės valstybės sampra­\nta, tautos kaip bendrijos, sudarytos iš įvairių socialinių sluoks­\nnių, saistomos panašių interesų, kalbos, papročių, tikėjimo.\nStiprėjant tautinei savimonei, pavergtos tautos, įėjusios į di­\ndžiųjų imperijų sudėtį, pradėjo kilti į kovą už didesnį savaran­\nkiškumą ir nepriklausomybę. Laisva, jokių kanonų nevaržo­\nma asmenybė ir laisva tauta buvo vienas iš svarbiausių šio pla­\ntaus, sudėtingo visuomeninio judėjimo devizų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

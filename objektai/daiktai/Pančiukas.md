@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-195337
   teiginys: "Gyvulio parvedimo ir valdymo daiktas."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177736
 
@@ -73,6 +77,7 @@ Nenurodyta
     Barbora nusineša pančiuką — ir veste parveda bulių.
   citata_rodoma: "Barbora nusineša pančiuką — ir veste parveda bulių."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185493
   teiginys: "Rusų kunigaikščiai prie Irpenio upės įsirengė karo stovyklas, ketindami užpulti į Kijevą traukiančius lietuvius."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Rusų kunigaikščių kariuomenės ketino užpulti lietuvius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168854
 
@@ -59,6 +72,21 @@ Nenurodyta
 - t-002
   global_id: t-185494
   teiginys: "Kojelavičiaus pasakojime Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Kijevas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kijevo luomai prisiekė paklusti Gedimino valdžiai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Gediminas valdė Kijevas (0.72)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168855
 
@@ -66,6 +94,20 @@ Nenurodyta
 - t-003
   global_id: t-185495
   teiginys: "Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Kijevas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gediminas užėmė Kijevą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Gediminas užėmė Kijevas (0.98); Gediminas užėmė Brianskas (0.96); Gediminas užėmė Perejeslavlis (0.94)"
   pagrindžia:
     - c-168856
 
@@ -73,6 +115,13 @@ Nenurodyta
 - t-004
   global_id: t-196148
   teiginys: "Kojelavičius rašo, kad rusų kunigaikščiai prie Irpenio įsirengė stovyklas, ketindami pulti lietuvius, kai šie bus nuvargę ar įnikę į grobį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-168854
 
@@ -80,6 +129,12 @@ Nenurodyta
 - t-005
   global_id: t-196149
   teiginys: "Visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168855
 
@@ -87,6 +142,12 @@ Nenurodyta
 - t-006
   global_id: t-196150
   teiginys: "Šitaip ilgai niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija, patyrusi visokių sėkmių ir nesėk mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val džioje."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168856
 
@@ -94,6 +155,13 @@ Nenurodyta
 - t-007
   global_id: t-196151
   teiginys: "Kojelavičiaus vertinimu, Gediminas tapo pirmuoju svetimšaliu, valdžiusiu Kijevą, savo vietininku paskyręs Alšėnų kunigaikštį Mintautą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178557
 
@@ -129,6 +197,7 @@ Nenurodyta
     Levas; be savo žemių karių,
   citata_rodoma: "Iškilęs pavojus paskatino \ndaugelį kunigaikščių, o ypač Seversko, griebtis ginklo:\nį kovą pakilo Perejeslavlio \nB endras \nrusų \nž y g is \nkunigaikštis Romanas ir iš-\np rieš G ed im in ą \ntremtas Lucko kunigaikštis\njie turėjo pagalbininkų skitų. Kadangi sklido gandai, \njog priešas skubiai traukiąs į Kijevą, jie už šešių my­\nlių nuo šio miesto, prie Irpenio upės, įsirengė karo \nstovyklas, ketindami, jeigu tik bus įmanoma, užgriū­\nti visa jėga lietuvius, kai šie bus ar iš kelionės nuvar­\ngę, ar pernelyg įnikę į grobikiškus išpuolius. Tačiau \nGediminas, iš žvalgų sužinojęs, kokios rusų jėgos, ką \njie keta daryti ir kur jų stovykla, bemat susigrąžino \nvisus būrius, išvykusius plėšikauti, ir patraukė į priekį \ntvarkingomis voromis, nenorėdamas priešo žemėje be \ntinkamo pasirengimo stoti į kovą. Abi kariuomenės \nviena kitą išvydo vienu metu; ir vieni, ir kiti, vos \npamatę priešą, beregint stojo į mūšį. Rusai puolė drą-\nLevas; be savo žemių karių,\n\nR usios \nku n ig a ik ščia i \nk a u ja si su lietu via is, \njie n u galim i\nšiai, pasipiktinę, kad štai tu­\nri grumtis dėl valdžios su \ntauta, kitados jiems mokėju­\nsia duoklę."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,6 +231,7 @@ Nenurodyta
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +256,7 @@ Nenurodyta
     senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
     minystės ryšiais.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -216,6 +287,7 @@ Nenurodyta
     kyrus naują valdytoją, šio ir taip kartoka valdžia ne­
     taptų dar kartesnė dėl jo skirtingo tikėjimo.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -64,6 +64,10 @@ Nenurodyta
 - t-001
   global_id: t-195372
   teiginys: "Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177788
 
@@ -71,6 +75,10 @@ Nenurodyta
 - t-002
   global_id: t-195373
   teiginys: "Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177790
 
@@ -78,6 +86,10 @@ Nenurodyta
 - t-003
   global_id: t-195374
   teiginys: "Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177789
 
@@ -102,6 +114,7 @@ Nenurodyta
     dami pasišaukė bonkelę.
   citata_rodoma: "Taip užkandžiavo šventoriuje. \nAtėjusieji į bažnyčią \npėsti \npo \npamokslo ėjo pas žydą į gertuvę pasėdėti, čia besėdėdami ir bešnekė­\ndami pasišaukė bonkelę."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +137,7 @@ Nenurodyta
     važiuoti namo pietauti.
   citata_rodoma: "Ilgainiui vyskupas Valančius atkreipė dėmesį į šią \ntvarką ir prisakė mišparus laikyti tuojau po pamaldų, ir žmonės turėjo \nvažiuoti namo pietauti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +163,7 @@ Nenurodyta
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­\nsiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

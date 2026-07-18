@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-200687
   teiginys: "1749 m. laiške Aleksandrui Mykolui Sapiegai aprašytas Sapiegų rūmų remontas Antakalnyje."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Antakalnis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antakalnis: mention_match, place, gap=61"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Mykolas Sapiega (LDK stovyklininkas, Polocko vaivada, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Antakalnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir turi aiškų kontekstą: 1749 m. laišką Aleksandrui Mykolui Sapiegai. Jis neprideda daugiau, negu leidžia citata."
   pagrindžia:
     - c-183880
 - susijęs iš [[objektai/posakiai/Vilniaus publika dar nepradėjo rinktis.md#claim-t-200626|Vilniaus publika dar nepradėjo rinktis]]: 1747 m. Jonas Dominykas Lopacinskis rašė, kad Vilniaus publika dar nepradėjo rinktis, nors jos požymiai jau matėsi.
@@ -61,6 +75,7 @@ media_all_json: |-
     kad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose.
   citata_rodoma: "Aplinkybės. Laiške LDK stovyklininkui Aleksandrui Mykolui Sapiegai 1749 m. jis minėjo\nir apie Sapiegų rūmų remontą Antakalnyje. Jis aiškino, kad „ponas vizitatorius“ [galbūt\nkoadjutorius Juozapas Sapiega] apie remontą praneš daugiau, tačiau kanauninkas rašė,\nkad pagrindinėje salėje jau užtaisytos skylės pakabinamose lubose."
   statusas: verified
+  atnaujinta: "2026-07-14 10:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

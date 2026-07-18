@@ -32,7 +32,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių. Daukanto perteikiamu pasakojimu, Igorio viešpatavimo Guduose metu pečenegai, atkeliavę iš Azijos, apsistojo Gudijoje, su Igoriu susiderėjo ir ilgai taikiai gyveno.
+Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių. Viešpataujant Igoriui Guduose, būk radęsi kiti jų neprieteliai, vadinami pečenegai, kurie, atkeliavę iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok, nedrįsdami su Igoriu kariauti, suderėję su juomi ir ilgą laiką taikiai gyvenę.
 
 ## Teiginiai
 
@@ -40,13 +40,33 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - t-001
   global_id: t-192989
   teiginys: "Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Hunai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pečenegai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Hunai: mention_match, group, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pečenegai\" parinktas kaip owner_note_path. Targetas \"Hunai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175759
 
 <a id="claim-t-200927"></a>
 - t-002
   global_id: t-200927
-  teiginys: "Daukanto perteikiamu pasakojimu, Igorio viešpatavimo Guduose metu pečenegai, atkeliavę iš Azijos, apsistojo Gudijoje, su Igoriu susiderėjo ir ilgai taikiai gyveno."
+  teiginys: "Viešpataujant Igoriui Guduose, būk radęsi kiti jų neprieteliai, vadinami pečenegai, kurie, atkeliavę iš gilumo Azijos nuo rytų, Gudijoj apsistojo, vienok, nedrįsdami su Igoriu kariauti, suderėję su juomi ir ilgą laiką taikiai gyvenę."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184277
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191284|Jonas Komninas]]: Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas.
@@ -55,8 +75,7 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - susijęs iš [[objektai/asmenys/Konstantinas VII Purpurinis.md#claim-t-191353|Konstantinas VII Purpurinis]]: Pasak Narbuto cituojamo Purpurinio, Charoboe pečenegų ordos sostinė buvo Belotzebo, slaviškai vadinta Belaja Cerkove.
 - susijęs iš [[objektai/autoriai/Konstantinas Purpurinis.md#claim-t-191584|Konstantinas Purpurinis]]: Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191013|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Teodoro Narbuto pasakojime Jaroslavas po 1031 m. žygio į Lenkiją belaisvius kėlė arčiau Kijevo, bet Rosės krašte kolonijų nesteigė dėl pečenegų.
-- susijęs iš [[objektai/asmenys/Erikas (kunigas, XI a.).md#claim-t-201509|Erikas (kunigas, XI a.)]]: Daukantas Eriką įvardija norvegų, tai yra saulėlydinių žuvėdų, viešpačiu ir mini karą su juo.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas (Lietuvos didysis kunigaikštis, XI a.)]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
+- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-190885|Jaroslavas]]: Narbuto pasakojimu, didysis kunigaikštis Jaroslavas 1031 m. iš Lenkijos išsivedė belaisvių ir arčiau Kijevo steigė jų kolonijas.
 - susijęs iš [[objektai/autoriai/Konstantinas Purpurinis.md#claim-t-191585|Konstantinas Purpurinis]]: Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
 - susijęs iš [[objektai/ivykiai/Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai.md#claim-t-191014|Hirių įsikūrimas prie Rosės ir vėlesni slavų, pečenegų bei poloviečių poslinkiai]]: Narbutas nurodo, kad 1128 m. nutautėję hiriai su pečenegais persikėlė į kairįjį Dnepro krantą, vėliau buvo išstumti už Dono ir davė pradžią Belgorodo totoriams.
 - susijęs iš Belaja Cerkovė: Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
@@ -84,6 +103,7 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
     Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
     smukimo metai2.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,9 +111,8 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
     - t-192989
 
 - id: c-184277
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 54"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 54."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo
     tarpu įkyrėjus juodgirėnams (Drewier) ir baltiesiems
@@ -110,6 +129,7 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
     tikėti, būk tenai išsirėdęs Juodąja jūra su 10 000 el­
     dijų, arba laivų.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

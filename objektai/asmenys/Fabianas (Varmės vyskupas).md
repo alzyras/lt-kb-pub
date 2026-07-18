@@ -47,6 +47,16 @@ Nenurodyta
 - t-001
   global_id: t-87666
   teiginys: "Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Varmė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Fabianas (Varmės vyskupas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Varmė: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fabianas (Varmės vyskupas)\" parinktas kaip owner_note_path. Targetas \"Varmė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83645
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
@@ -90,6 +100,7 @@ Nenurodyta
     accederet.
   citata_rodoma: "## Puslapis 390\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nLENKIJOS KARALIUS ŽYGIMANTAS \nVARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI \n1514 METAI\n(Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio \nkodekso buv. Vilniaus universiteto bibliotekoje )\nQuum Jure Nostro postposito difficultatibusque futuris \nfomitem subducehtes petenti Capitulo Ecclesiae Varmiensis \nconcessimus ut electio quam nobis non salutatis fecerunt de \nR-ndo in X-to Patre D-no Fabiano moderno Varmiensi Epis­\ncopo valida baberetur, nonnullos articulos conferimus quibus \ncautum est, quomodo in futurum vacante Sede Episcopus \neligi sine Nostra nostrorumque successorum adversus Capi­\ntulum controversia deberet, ne indė postea tale aliquid excita­\nri possit, quod statum ejus Ecclesiae cujus nos patronus su­\nmus offenderet, volentesque ut ejusmodi compositio in \narticulos redacta de Sacrosanctae Sedis Apostolicae assensu \nrata atque firma fieret, fecimus impetrare a S-smo D-no Nost­\nro confirmationem."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

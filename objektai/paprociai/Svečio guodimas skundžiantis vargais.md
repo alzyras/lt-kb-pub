@@ -50,6 +50,9 @@ Nenurodyta
 - t-001
   global_id: t-07806
   teiginys: "Neturėdami kuo pavaišinti svečio, šeimininkai verkdavo ir guosdavosi vargais, kad nebūtų palaikyti blogais gaspadoriais."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09964
 
@@ -69,6 +72,7 @@ Nenurodyta
         ir netartų jį paiku gaspadorium esant.
   citata_rodoma: "Šiandien nabagai nuvargę, žudomi vis nori dar žmonysta^501 pasielgti, tankiai išmintingam\nsvečiui, į jų namus įėjusiam, neturėdami kuo jo pamylėti, pradeda verkti ir jam guostis\nprispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų\nir netartų jį paiku gaspadorium esant."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

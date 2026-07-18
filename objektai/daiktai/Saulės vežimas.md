@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-189745
   teiginys: "Narbutas lietuvių mitologijoje Saulės vežimą sieja su rytų Saulės rūmais, iš kurių tekanti Saulė išvažiuodavo nuostabiu vežimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172628
 
@@ -68,6 +75,7 @@ Nenurodyta
     lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
     maudyti ir vykdavo į savo rūmus nakties poilsio.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Traidis, Daukanto pasakojime įvardytas Žemaičių kunigaikščiu, su 30 000 lietuvių ir žemaičių įsiveržė į Kulmiją ir padalijo kariuomenę į tris dalis.
+Nes vos buvo ta gauja atsitolinusi, kaip tuoj aus Traidis, Žemaičių kunig., su 30 000 lietuvių ir žemaičių įgulė tenai, kursai, paskiedęs savo kariauną į tris dalis, vieną į Mozūriją, antrą į Pagezoniją išleido terioti, o su trečiąja pats Kulmijoj siaubė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201346"></a>
 - t-001
   global_id: t-201346
-  teiginys: "Traidis, Daukanto pasakojime įvardytas Žemaičių kunigaikščiu, su 30 000 lietuvių ir žemaičių įsiveržė į Kulmiją ir padalijo kariuomenę į tris dalis."
+  teiginys: "Nes vos buvo ta gauja atsitolinusi, kaip tuoj aus Traidis, Žemaičių kunig., su 30 000 lietuvių ir žemaičių įgulė tenai, kursai, paskiedęs savo kariauną į tris dalis, vieną į Mozūriją, antrą į Pagezoniją išleido terioti, o su trečiąja pats Kulmijoj siaubė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184696
 
 ## Citatos
 
 - id: c-184696
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 425"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 425."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Patsai Kulmas bandė smur-
     tybes lietuvių, vienok įgulė savo kantrybe išsitu­
@@ -69,6 +74,7 @@ Nenurodyta
     vokytį, tas guro ar iro nuo narsybės lietuvių ir žemai­
     čių, ko karda nenuveikė, tą ugnia gaišino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

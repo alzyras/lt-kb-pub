@@ -55,6 +55,16 @@ Nenurodyta
 - t-001
   global_id: t-06864
   teiginys: "Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Specialių brolijų maldininkams globoti steigimas: owner_note_path, thing"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Specialių brolijų maldininkams globoti steigimas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-00236
 
@@ -62,6 +72,19 @@ Nenurodyta
 - t-002
   global_id: t-06865
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Specialių brolijų maldininkams globoti steigimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Specialių brolijų maldininkams globoti steigimas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1099 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes."
   pagrindžia:
     - c-00235
 
@@ -81,6 +104,7 @@ Nenurodyta
     kelyje.
   citata_rodoma: "Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo\ntraukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei\nvėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga\nten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-\ncialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos\nglobojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų\nkelyje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +124,7 @@ Nenurodyta
     virto kariaujančiųjų riterių ordinais.
   citata_rodoma: "Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė\nturkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos\nvirto kariaujančiųjų riterių ordinais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

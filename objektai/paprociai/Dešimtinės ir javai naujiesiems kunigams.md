@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime po krikšto naujiesiems kunigams reikėjo duoti javų ir dešimtines, kurių žemgaliai anksčiau nežinojo.
+To dar nekako, įkandin nau jiesiems kunigams reikėjo javus pilti ir dešimtines duoti, kurių pirma nežinojo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201382"></a>
 - t-001
   global_id: t-201382
-  teiginys: "Daukanto pasakojime po krikšto naujiesiems kunigams reikėjo duoti javų ir dešimtines, kurių žemgaliai anksčiau nežinojo."
+  teiginys: "To dar nekako, įkandin nau jiesiems kunigams reikėjo javus pilti ir dešimtines duoti, kurių pirma nežinojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184732
 
 ## Citatos
 
 - id: c-184732
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 182"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 182."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Apšlėkimas vandeniu būrio vyrų ar mo­
     terų buvo visu jų krikštu, o visas būrys, gavęs var­
@@ -65,6 +70,7 @@ Nenurodyta
     todėl, randant tą žemgalių atkaklybę, nereikia ste­
     bėtis, jog jie tempės ir nenorėjo krikštytis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

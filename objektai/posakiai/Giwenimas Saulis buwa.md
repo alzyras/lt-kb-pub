@@ -32,6 +32,11 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - t-001
   global_id: t-189572
   teiginys: 'Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Citatos eilutės paverstos vienu sakiniu apie vertimo vaizdinį. Pašalinti puslapio ir priedo triukšmai, nepridėta platesnio konteksto apie Lietuvą.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-172460
 
@@ -39,6 +44,9 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - t-002
   global_id: t-194694
   teiginys: 'Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177091
 
@@ -65,6 +73,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     gas; jo sostinė yra Vilnius -  Vyskupų miestas, toks pat didelis
     5.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,6 +103,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     Marios paslėpė, widutinos abjostitas žiemes,
     Ir žiemini swietu, ir Dangas, nie abdeja pa sauli.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Peluza iš Karaliaučiaus komtūro gavo kelias dešimtis rinktinių kryžiuočių ir jų vadą Goliną, kad per didžiūno vestuves užpultų jo pilį ir atkeršytų už išvarymą iš tėvonijos.
+Noris kryžėjai nebkliovės dauginus perkrikštais ir atėjūnais lietuvių, vienok Peluza išlūgojo nuo kamendoto Karaliaučiaus kelias dešimtis kryžėjų rinktinių ir jų vyresnįjį Goliną, kursai pirmesniuose žygiuose buvo atsiženklinęs.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201342"></a>
 - t-001
   global_id: t-201342
-  teiginys: "Daukanto pasakojime Peluza iš Karaliaučiaus komtūro gavo kelias dešimtis rinktinių kryžiuočių ir jų vadą Goliną, kad per didžiūno vestuves užpultų jo pilį ir atkeršytų už išvarymą iš tėvonijos."
+  teiginys: "Noris kryžėjai nebkliovės dauginus perkrikštais ir atėjūnais lietuvių, vienok Peluza išlūgojo nuo kamendoto Karaliaučiaus kelias dešimtis kryžėjų rinktinių ir jų vyresnįjį Goliną, kursai pirmesniuose žygiuose buvo atsiženklinęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184692
 
 ## Citatos
 
 - id: c-184692
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 467"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 467."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Noris kryžėjai nebkliovės dauginus perkrikštais
     ir atėjūnais lietuvių, vienok Peluza išlūgojo nuo
@@ -70,6 +75,7 @@ Nenurodyta
     galuotųjų ir vaikais, su 100 žirgų ir daugybe auk­
     so, sidabro parvedė į Karaliaučių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

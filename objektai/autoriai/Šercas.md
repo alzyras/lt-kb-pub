@@ -33,6 +33,13 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
 - t-001
   global_id: t-190463
   teiginys: "Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „legis custos“, „sacerdos“, „ewa“ ir „eu-werd“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173346
 
@@ -79,6 +86,7 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
     vadinimą kildinęs iš Romos šv.
   citata_rodoma: "411\n\n## Puslapis 411\n\n-  P. 375) ir Šerco (Scherz. Glossarium Germanorum. -  P. 364),\nverčiamas kaip legis custos, sacerdos; ewa -  lex et testamentum,\nquia vim habet legis: inde eu-werd (įstatymo saugotojas,\ndvasininkas; ewa -  įstatymas ir testamentas, kadangi turi\nįstatymo galią; iš to eu-werd)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

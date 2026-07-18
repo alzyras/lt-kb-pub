@@ -56,6 +56,10 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
 - t-001
   global_id: t-195645
   teiginys: "Poterėliais galima verstis kaip elgetavimo būdu."
+  atnaujinta: "2026-07-12 08:53"
+  sprendimo_priezastis: "gap::vocabulary::repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178046
 
@@ -63,6 +67,10 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
 - t-002
   global_id: t-195646
   teiginys: "Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu."
+  atnaujinta: "2026-07-12 08:53"
+  sprendimo_priezastis: "gap::vocabulary::repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178047
 
@@ -80,6 +88,7 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     pai paverkia, skųsdamasi savo našlaityste.
   citata_rodoma: "Liko žmona ir auganti duktė, \n—— kurios buvo pratusios gerai gyventi ir nieko neveikti. Taigi pamė­\ngino verstis poterėliais ir terbele. Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste."
   statusas: verified
+  atnaujinta: "2026-07-12 08:53"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +107,7 @@ Terminas vartojamas elgetavimo ir ėjimo per ūkininkų trobas kontekste.
     pa. Pagavus duonos gabalėlį tuoj pro duris.
   citata_rodoma: "Įėjusi pas kiekvieną ūkininką trum­\npai paverkia, skųsdamasi savo našlaityste. Šiaučienė (taip ją visi va­\ndindavo) ilgai grįčioje negaišta: poteriai trumpi, „apieravonė“ trum­\npa. Pagavus duonos gabalėlį tuoj pro duris."
   statusas: verified
+  atnaujinta: "2026-07-12 08:53"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

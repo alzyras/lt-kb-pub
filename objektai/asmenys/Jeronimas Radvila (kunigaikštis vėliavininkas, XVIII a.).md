@@ -32,6 +32,17 @@ Jeronimas Radvila buvo kunigaikštis vėliavininkas. Jeronimas Radvila buvo suta
 - t-001
   global_id: t-200531
   teiginys: "Jeronimas Radvila buvo kunigaikštis vėliavininkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183878
 
@@ -39,6 +50,18 @@ Jeronimas Radvila buvo kunigaikštis vėliavininkas. Jeronimas Radvila buvo suta
 - t-002
   global_id: t-200532
   teiginys: "Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Jurgis Detloff Flemming (artilerijos generolas, XVIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jurgis Detloff Flemming (artilerijos generolas, XVIII a.): mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183878
 
@@ -60,6 +83,7 @@ Jeronimas Radvila buvo kunigaikštis vėliavininkas. Jeronimas Radvila buvo suta
     Flemingų rūmus.
   citata_rodoma: "Tada, sutaikęs iždininką Jurgį Detlofą Flemingą (Jerzy Detloff Flemming) su kunigaikščiu vėliavininku Jeronimu Radvila, jis persikraustys į\nFlemingų rūmus."
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

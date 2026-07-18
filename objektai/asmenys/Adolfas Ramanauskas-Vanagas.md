@@ -43,6 +43,19 @@ media_all_json: |-
 - t-001
   global_id: t-63404
   teiginys: "Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dainava: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dainava: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Dainava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1956 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį."
   pagrindžia:
     - c-64442
 
@@ -50,6 +63,16 @@ media_all_json: |-
 - t-002
   global_id: t-63405
   teiginys: "Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Perloja: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Perloja: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adolfas Ramanauskas-Vanagas\" parinktas kaip owner_note_path. Targetas \"Perloja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-41794
 - susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
@@ -80,6 +103,7 @@ media_all_json: |-
     zanų puolimo galimybę, kaip neįmanomą.
   citata_rodoma: "Puolimo sėkmę nulėmė išnaudotas ne-\ntikėtumo faktorius, Vanagas vėliau įtarė,\nkad informacija apie rengiamą puolimą\n(dėl kai kurių žemesnės grandies vadų\nnetinkamo paslapčių saugojimo) galėjo\npasiekti priešą, tačiau sovietai atmetė parti-\nzanų puolimo galimybę, kaip neįmanomą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +138,7 @@ media_all_json: |-
     sušaudytas.
   citata_rodoma: "1956 m. suimtas ir vienas iš pa-\nskutinių partizanų vadų, buvęs\nmokytojas Adolfas Ramanaus-\nkas-Vanagas, nepaprastai žiau-\nriai kankintas ir kitais metais\nSovietų išniekinti Dainavos apygardos\npartizanų kūnai\nAdolfas Ramanauskas-Vanagas\nsu ištikimais draugais vanagėliais,\nįsitaisiusiais ant jo pečių\n\nL I E T U V O S  I S T O R I J A\n214\nsušaudytas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

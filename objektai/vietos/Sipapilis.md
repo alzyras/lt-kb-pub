@@ -34,6 +34,12 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - t-001
   global_id: t-192803
   teiginys: 'Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas kaip vietos lokalizacija, pašalinant puslapio ir OCR triukšmą. Vertinimo „svarbiausia istorijai“ neperkėliau kaip fakto.'
+  susije_objektai: 'llm_object: Barta; mentioned_place: Alna; mentioned_place: Barta; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Romovė; mentioned_place: Romovės šventykla'
+  semantiniai_rysiai: 'Sipapilis priklausė Barta'
   pagrindžia:
     - c-175573
 
@@ -41,6 +47,12 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - t-002
   global_id: t-192804
   teiginys: 'Narbutas Sipapilio pavadinimą siejo su senaisiais vardais Sepenbil, Scheppenbil ir Szeffenbil bei teisėjo būsto reikšme.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas Sipapilio pavadinimu. Etimologinis aiškinimas paliktas su Narbuto atribucija.'
+  susije_objektai: 'mentioned_place: Barta; llm_object: Barta'
+  semantiniai_rysiai: 'Sipapilis priklausė Barta'
   pagrindžia:
     - c-175574
 
@@ -66,6 +78,7 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
     rie galėjo patvirtinti prielaidą, jog ten kitados turėjo būti
     Romovės šventykla.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,6 +102,7 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
     kiečių kalba reikštų Schoeppen, arba Schoeffen, t. y. tei­
     sėjo. būstą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

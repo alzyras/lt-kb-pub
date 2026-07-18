@@ -39,6 +39,19 @@ media_all_json: |-
 - t-001
   global_id: t-86615
   teiginys: "1586 m. liepos 11 d. Stepono Batoro reliaciniu sprendimu Vilniaus gyventojams įsakyta švęsti pagal naują kalendorių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "reliacinis sprendimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"reliacinis sprendimas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia sprendimo datą, autorių ir jo turinį apie naujo kalendoriaus šventes."
   pagrindžia:
     - c-82594
 
@@ -77,6 +90,7 @@ media_all_json: |-
     švęsti]; jo turinys yra toks.
   citata_rodoma: "21.\n67\nBe karaliaus Stepono laiškų, rašytų \ndėl kalendorinių ginčų, Dubins- \nk i o išspausdintų „Vilniaus miesto \nprivilegijų rinkinyje\", p. 149 ir 150, \ndar miesto archyve yra reliacinis ka­\nraliaus Stepono sprendimas: Decre­\ntum relationum Stephani Regis Polo- \nniae inter nonnullos mercatores \nvilnenses et advocatum Vilnensem ex \nseriis partium controversiis anno 1586 \ndie 11 Julii latum, quo festa solemnia \njuxta novum calendarium ab omnibus \nincolis civitatis vilnensis in ea qua par \nest reverentia haberi demandantur [Re­\nliacinis Lenkijos karaliaus Stepono \nsprendimas dėl tarp kai kurių Vil­\nniaus pirklių ir Vilniaus vaito šalių \nrimtų prieštaravimų, išleistas 1586 \nmetų liepos 11 dieną, kuriuo įpras­\ntas šventes pagal naują kalendorių \nįsakoma visiems Vilniaus gyvento­\njams su lygiai tokia pačia pagarba \nšvęsti]; jo turinys yra toks."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,12 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
 - t-001
   global_id: t-194096
   teiginys: "Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras Cartorijskis su Skabeika Verbų sekmadienį1 7 įvažiavo į Trakų pilį."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176709
 
@@ -40,6 +46,12 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
 - t-002
   global_id: t-196806
   teiginys: "Aleksandras Cartorijskis labai mėgo medžioklę."
+  atnaujinta: "2026-07-12 22:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-178923
 
@@ -99,6 +111,7 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
     tis — Trakuose.
   citata_rodoma: "O kitų ku­\nnigaikščių ir didikų prie Žygimanto tuo metu nė vieno \nnebuvo. Ir užbaigė susitardami, kad jie patys užims \nVilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­\ngailai, kuris po Pabaisko pralaimėjimo mūšyje su My- \nkoliuku Zygimantaičiu buvo pabėgęs į Moldaviją \",\nIr, taip nutarę, išsiuntė dvarionį Skabeiką '5 , kilusį \niš Kijevo, davė jam tris šimtus vežimų šieno, o kiek­\nviename vežime po šienu paslėpė po penkis ginkluotus \nvyrus, o vienas važnyčiojo; ir išsiuntė tą Skabeiką į  \nTrakus neva su dėkliniu šienu.\nIšsiuntę Skabeiką, pasiuntė į Moldaviją1 6  ieškoti \nkunigaikščio Švitrigailos, Ir kunigaikštis Aleksandras \nCartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo \nį Trakų pilį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +134,7 @@ Išsiuntę Skabeiką, pasiuntė į Moldaviją1 6 ieškoti kunigaikščio Švitri
     džioklės malonumus. Ir karalaičiui Kazimierui labai pa­
     tiko, nes jis labai mėgo medžioklę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

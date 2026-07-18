@@ -7,14 +7,14 @@ datos:
   - '1263 m.'
 date_start: '1263'
 date_end: ''
-amziai:
-  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - mūšis
+amziai:
+  - 'XIII'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,6 +56,20 @@ Nenurodyta
 - t-001
   global_id: t-62951
   teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vizenburgo pilies kautynės ir apleidimas (1263 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vizenburgo pilies kautynės ir apleidimas (1263 m.)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“."
   pagrindžia:
     - c-63835
     - c-63836
@@ -64,6 +78,17 @@ Nenurodyta
 - t-002
   global_id: t-62952
   teiginys: "Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Vizenburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vizenburgo pilies kautynės ir apleidimas (1263 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Vizenburgas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vizenburgo pilies kautynės ir apleidimas (1263 m.)\" parinktas kaip owner_note_path. Targetas \"Vizenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63834
     - c-63835
@@ -72,6 +97,12 @@ Nenurodyta
 - t-003
   global_id: t-196977
   teiginys: "Mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63836
 
@@ -89,13 +120,28 @@ Nenurodyta
     bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
     susidūrime tris nukovė.
   citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+- c-004
+  santrauka: 'Vizenburgo pilies kautynėse prūsai prie Vangrapės įveikė brolius ir nukovė dvidešimt brolių bei visą jų kariuomenę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391
+    juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
+    buvo susitarę. Šitai matydami, broliai sulipo į šalimais buvusį kalnelį ir ten ilgai narsiai
+    gynėsi, o šios grumtynės pareikalavo iš vienos ir kitos šalies daugybės aukų. Viešpačiui
+    leidus, prūsai galop paėmė viršų ir nukovė dvidešimt brolių bei visą jų kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 
 ## Citatos
 
@@ -112,6 +158,7 @@ Nenurodyta
     link Mazovijos kunigaikštystės.
   citata_rodoma: "117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis\n\n  Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,6 +182,7 @@ Nenurodyta
     susidūrime tris nukovė.
   citata_rodoma: "Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,6 +204,7 @@ Nenurodyta
     drįstų susigrumti su manimi dvikovoje, tegu išeina štai čia iš pilies“.
   citata_rodoma: "Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris\ntada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

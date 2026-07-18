@@ -53,9 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-195323
   teiginys: "Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177708
     - c-177709
+    - c-177708
     - c-177710
 - susijęs iš [[objektai/daiktai/Ąsikliai.md#claim-t-195324|Ąsikliai]]: Pagalbinė detalė vyžoms adyti.
 ## Reikšmingi paminėjimai
@@ -78,6 +82,7 @@ Nenurodyta
     galą, darė adiklius.
   citata_rodoma: "Kai šeimininkės virė košelieną ir mėtė išsinarsčiusius kaulus, bernai rinko karšius kiaulių blauzdikaulius, kirviais pusiau skėlė, o, pasmailinę kurį galą, darė adiklius."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,6 +102,7 @@ Nenurodyta
     Vyžoms adyti reikalingas yra įrankis, vadinamas adikliu.
   citata_rodoma: "Vyžoms adyti reikalingas yra įrankis, vadinamas adikliu."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,6 +123,7 @@ Nenurodyta
     karnomis.
   citata_rodoma: "Baltras iš alksnio pasidarė adiklį ir ąsiklius ir paadė vyžas karnomis."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

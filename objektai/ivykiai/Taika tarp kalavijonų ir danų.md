@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1238 m. gegužės 9 d. ginčas tarp danų ir kalavijonų užbaigtas karaliaus Eriko ir danų diduomenės akivaizdoje, danams gavus Revelio pilį ir Igumijos sritis, o kalavijonams – Jervės kraštą.
+Vilhelmu, popiežiaus siuntiniu, pas danų viešpatį, idant veikesniai galėtų tūlas netaikąs sulyginti ir sutaikinti, vienok metuose 1238, 9 dienoj gegužės mėnesio tas netaikąs beužbengė akivaizdoj viešpaties Eriko ir danų diduomenės; viešpats danų gavo pilį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201345"></a>
 - t-001
   global_id: t-201345
-  teiginys: "1238 m. gegužės 9 d. ginčas tarp danų ir kalavijonų užbaigtas karaliaus Eriko ir danų diduomenės akivaizdoje, danams gavus Revelio pilį ir Igumijos sritis, o kalavijonams – Jervės kraštą."
+  teiginys: "Vilhelmu, popiežiaus siuntiniu, pas danų viešpatį, idant veikesniai galėtų tūlas netaikąs sulyginti ir sutaikinti, vienok metuose 1238, 9 dienoj gegužės mėnesio tas netaikąs beužbengė akivaizdoj viešpaties Eriko ir danų diduomenės; viešpats danų gavo pilį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184695
 
 ## Citatos
 
 - id: c-184695
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 284"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 284."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskui skubiniai iškeliavo su v. Vilhelmu,
     popiežiaus siuntiniu, pas danų viešpatį, idant vei-
@@ -72,6 +77,7 @@ Nenurodyta
     šelpti, užėmus vienok kraštą netikėliams, dvi dali
     jis turėjo gauiti, o trečiąją kalavijonys.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

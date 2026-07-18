@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189891
   teiginys: "Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milžinkapių ir pilkapių pylimas žymiems mirusiesiems: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milžinkapių ir pilkapių pylimas žymiems mirusiesiems\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172774
 
@@ -55,6 +69,20 @@ Nenurodyta
 - t-002
   global_id: t-189892
   teiginys: "Narbutas rašo, kad lietuvių genties tautų kraštuose vietomis matoma aukštų pilkapių, o Lietuvoje jie randami labai retai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Milžinkapių ir pilkapių pylimas žymiems mirusiesiems: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milžinkapių ir pilkapių pylimas žymiems mirusiesiems\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172775
 
@@ -62,6 +90,12 @@ Nenurodyta
 - t-003
   global_id: t-197262
   teiginys: "Paga liau atrodo, kad kai kurie iš tų pilkapių būdavo naudojami kaip visos šeimos kapai; pradedant juos pilti, būdavo galvoja ma apie vietas šeimos nariams, mirsiantiems vėliau6."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179092
 
@@ -98,6 +132,7 @@ Nenurodyta
     nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
   citata_rodoma: "Vis dėlto iki šiol ypač garbinami pilka­\npiai, supilti ant žymių žmonių pelenų.\nŠitokių aukštų milžinkapių pylimo paprotys buvo pažįsta­\nmas daugeliui antikinių tautų. Homeras mini jį kaip bendrą\ngraikams ir trojėnams."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,6 +152,7 @@ Nenurodyta
     riuos savo padavimuose apie milžinus arba didelius žmones
     vadina milžinkapiais, M ilsu Kappi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +175,7 @@ Nenurodyta
     nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma
     kitame šio veikalo tome.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

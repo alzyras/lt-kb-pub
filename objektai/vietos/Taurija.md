@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-86242
   teiginys: "Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Aleksandras: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mendli Girėjus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekste Mendli Girėjus aiškiai siejamas su veikimu prieš Aleksandrą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82221
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -68,6 +78,7 @@ media_all_json: |-
     tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
     džiąją kunigaikštytę Eleną.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

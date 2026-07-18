@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas senovės lietuvių ir žemaičių gyvenimą vaizduoja kaip laisvą bendruomenę be lažo, pavynasčių ir baudžiavų.
+Tokiame tatai krašte gyveno kitą kartą lietuviai bei žemaičiai ilgus amžius didžiai laimingai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201379"></a>
 - t-001
   global_id: t-201379
-  teiginys: "Daukantas senovės lietuvių ir žemaičių gyvenimą vaizduoja kaip laisvą bendruomenę be lažo, pavynasčių ir baudžiavų."
+  teiginys: "Tokiame tatai krašte gyveno kitą kartą lietuviai bei žemaičiai ilgus amžius didžiai laimingai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184729
 
 ## Citatos
 
 - id: c-184729
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 134"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 134."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Čia vyrai aure motriškosios, bal­
     tai apsidarę, trūsinėdami it gulbiai svyravo, kurių
@@ -68,6 +73,7 @@ Nenurodyta
     vagorių, dešimtinykų, šaltyžių, launykų niekuomet
     jų širdies negildė, kits kitą mylėjo ir globė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

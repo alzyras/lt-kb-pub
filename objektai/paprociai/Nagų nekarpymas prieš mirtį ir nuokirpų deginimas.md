@@ -49,6 +49,20 @@ Nenurodyta
 - t-001
   global_id: t-189893
   teiginys: "Narbutas nagų nekarpymą prieš mirtį ir nuokirpų deginimą aiškino tikėjimu, kad po mirties vėlė turės rasti visus nagus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> vėlė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nagų nekarpymas prieš mirtį ir nuokirpų deginimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "vėlė: mention_match, thing, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nagų nekarpymas prieš mirtį ir nuokirpų deginimas\" parinktas kaip owner_note_path. Targetas \"vėlė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172776
 
@@ -96,6 +110,7 @@ Nenurodyta
     stojo kuo garsiausiai ir kuo klaikiausiai klykia, kiek tik gali.
   citata_rodoma: "Kaip tik dėl to, artėjant gyvenimo\npabaigai, užleisdavo ir savo pačių nagus, visai jų nebetrum-\npindavo. Jaunesni žmonės, juos kirpdami, niekad nenumes-\ndavo nuokirpų ant žemės, bet visuomet, stropiausiai surinkę,\nsviesdavo į ugnį, nes būta fantastiškos nuomonės, jog bus nau­\ndingi po mirties, kadangi sudegę ugnyje su dūmais pakils į aukš­\ntybes ir ten kiekvienas juos atras. O jeigu nukirpti nagai būtų\nišmėtyti čia, žemėje, tai mirusiojo vėlė, negalėdama be jų ap- }\nsieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­\nžiausios nuokirpos."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

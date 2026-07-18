@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185749
   teiginys: "Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Maskvos valdovo karo paskelbimas Aleksandrui: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): mention_match, person, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos valdovo karo paskelbimas Aleksandrui\" parinktas kaip owner_note_path. Targetas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169110
 
@@ -52,6 +65,12 @@ Nenurodyta
 - t-002
   global_id: t-196220
   teiginys: "Dievobaimingas Aleksandro įstangas sužlugdė klas tingos Ivano pinklės."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169110
 
@@ -117,6 +136,7 @@ Nenurodyta
     verską ir užpultų su savo kariaunomis Lietuvą.
   citata_rodoma: "Galop visų, o ypač Vladislovo, \nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne \ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės. Jis pra- \nM a s k v o s \nv a ld o v a s \ndėjo slaptai kurstyti Belą jos \nsu lau žo su ta rtį \nkunigaikštį Simoną, Možais­\nko— Andrejų bei \nVasilijų \nŠemiačičių, labai turtingus, valdžiusius didžiules žemes \nir be saiko ištikimus graikų apeigoms, kad jie pasiduo­\ntų Maskvos valdžiai bei priklausomybei, išduotų Se- \nverską ir užpultų su savo kariaunomis Lietuvą."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

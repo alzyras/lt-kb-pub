@@ -50,6 +50,20 @@ Nenurodyta
 - t-001
   global_id: t-189850
   teiginys: "Narbutas Patelo garbei laikomą numirėlio kaukolę siejo su dievu Patelu, kurio stabą lokalizavo Romovės šventykloje, Perkūno dešinėje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romovė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Patelo garbei namuose laikoma numirėlio kaukolė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patelo garbei namuose laikoma numirėlio kaukolė\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172733
 
@@ -57,6 +71,13 @@ Nenurodyta
 - t-002
   global_id: t-194628
   teiginys: "Narbutas teigia, kad lietuvių kalboje Potalas reiškia mirties patalą, neštuvus, ant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik riausiai šio dievo globojami buvo laužai, ant kurių degindavo numirėlius, o jų vėles dievas pernešdavo į amžiną buveinę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177026
 
@@ -117,6 +138,7 @@ Nenurodyta
     klauso mitas apie Kabirus.
   citata_rodoma: "Patelas (Patelo)\nSkraidančių oro dvasių dievas, savitas aukščiausiosios ka­\ntegorijos angelas. Kitaip jį vadinę Pateno, Potelo. Savo stabą\njis turėjo didžiojoje Romovės šventykloje, Perkūno dešinėje.\nJo garbei kiekvienas namuose laikydavo numirėlio kaukolę.\nLasickis jį žino kaip Algį (Algis)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +161,7 @@ Nenurodyta
     vo seniausia jų šventykla.
   citata_rodoma: "Lietuvių kalboje Potalas reiškia mirties patalą, neštuvus,\nant kurių neša mirusiuosius, katafalką, antikinį Bustum. Tik­\nriausiai šio dievo globojami buvo laužai, ant kurių degindavo\nnumirėlius, o jų vėles dievas pernešdavo į amžiną buveinę. Čio­\nnykščiams kaimiečiams Poteliszka yra naktinis drugys, Falena\nįnori; jų manymu, jo pavidalu pasirodąs tas mirties angelas,\npagrobiantis vėlę."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

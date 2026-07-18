@@ -43,6 +43,17 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 - t-001
   global_id: t-87639
   teiginys: "Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Mazovija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Bonislavas (Mazovijos kunigaikštis ) valdė Mazovija (0.62)"
   pagrindžia:
     - c-83618
 
@@ -68,6 +79,7 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   citata_rodoma: "Savo dviejuose \nlaiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla- \nvas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­\nzovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­\nniu valdė Wencenslaus dei gratia dux Masovie et Plocz \n[Venceslavas, Dievo malone Mazovijos ir Plocko kuni­\ngaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­\ndarė sutartį su kryžiuočių Ordinu, ir ne tik Dlugošo pasa­\nkyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus, \nV aniek arba Vanko Masovie Dux, bet dar irVVigand Marb."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

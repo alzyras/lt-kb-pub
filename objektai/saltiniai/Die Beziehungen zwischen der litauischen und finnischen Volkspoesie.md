@@ -44,6 +44,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195233
   teiginys: "Tas pats darbas lietuviškai paskelbtas Tilžėje, „Prūsų lietuvių balse“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177600
 
@@ -51,6 +55,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-002
   global_id: t-195234
   teiginys: "A. R. Niemio „Die Beziehungen zwischen der litauischen und finnischen Volkspoesie“ paskelbtas Tilžėje, „Litauische Warte“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177599
 
@@ -69,6 +77,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Volkspoesie. Tilžė. Litauische Warte.
   citata_rodoma: "L. Die Beziehungen zwischen der litauischen \nund \nfinnischen \nVolkspoesie. Tilžė. Litauische Warte."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,6 +93,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     L. Tas pats lietuviškai. Tilžė. Prūsų lietuvių balsas.
   citata_rodoma: "L. Tas pats lietuviškai. Tilžė. Prūsų lietuvių balsas."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

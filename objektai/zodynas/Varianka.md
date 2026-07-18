@@ -57,6 +57,10 @@ Terminas aptariamas kaip tikslesnis už piltuvėlį.
 - t-001
   global_id: t-195455
   teiginys: "Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177876
 
@@ -75,6 +79,7 @@ Terminas aptariamas kaip tikslesnis už piltuvėlį.
     mat juo skystis pravaromas iš vieno indo į kitą.
   citata_rodoma: "Lovelį tą vadinome varianka, \nmat juo skystis pravaromas iš vieno indo į kitą"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

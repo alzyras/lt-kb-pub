@@ -32,6 +32,11 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
 - t-001
   global_id: t-191827
   teiginys: 'Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutvarkyta formuluotė ir paliktas aiškus subjektas Narbutas, nes teiginys kalba apie jo rekomendaciją. Nepridėta duomenų apie patį veikalo turinį.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Isteris'
   pagrindžia:
     - c-174709
 
@@ -56,6 +61,7 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
     vų gyvenamą kraštą; slavai juos, sakiusius, jog eina į
     Tūlą1, ramiai praleido.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

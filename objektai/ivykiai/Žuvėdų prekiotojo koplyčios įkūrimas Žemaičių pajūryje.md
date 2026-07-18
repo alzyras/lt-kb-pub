@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto perteikiamame vėlesniame pasakojime Svendas 1048 m. įkalbėjo žuvėdų prekybininką Žemaičių pajūryje įkurti koplyčią ir laikyti joje kunigą.
+Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201355"></a>
 - t-001
   global_id: t-201355
-  teiginys: "Daukanto perteikiamame vėlesniame pasakojime Svendas 1048 m. įkalbėjo žuvėdų prekybininką Žemaičių pajūryje įkurti koplyčią ir laikyti joje kunigą."
+  teiginys: "Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184705
 
 ## Citatos
 
 - id: c-184705
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 140"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 140."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ir taip Brunas, sekdamas Vaitiekų, nupelnė
     vainiką mūčelnyko.
@@ -73,6 +78,7 @@ Nenurodyta
     čiai, noris koplyčios negriovę, vienok patys nekrikš-
     tijos nei pamokslą žodžio Dievo klausė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

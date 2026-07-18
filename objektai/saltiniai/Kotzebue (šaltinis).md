@@ -27,31 +27,37 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Gediminas, didindamas dukters kraitį, pažadėjo ūkvaizdžiams paleisti 40 000 Lietuvoje vergavusių lenkų kalinių.
+Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus.
 
 ## Teiginiai
 
-<a id="claim-t-201505"></a>
+<a id="claim-t-201436"></a>
 - t-001
-  global_id: t-201505
-  teiginys: "Daukanto pasakojime Gediminas, didindamas dukters kraitį, pažadėjo ūkvaizdžiams paleisti 40 000 Lietuvoje vergavusių lenkų kalinių."
+  global_id: t-201436
+  teiginys: "Gediminas, didindamas dar kraitį savo dukters, pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu voj vergaujančių, namo paleisti, idant jie Aldoną, 1 Kotzebue, Preus."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184855
+    - c-184786
 
 ## Citatos
 
-- id: c-184855
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 552"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 552."
+- id: c-184786
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gediminas, didindamas dar kraitį savo dukters,
     pažadėjo ūkvaizdžiams 40 000 lenkų kalinių, Lietu­
     voj vergaujančių, namo paleisti, idant jie Aldoną,
     1 Kotzebue, Preus. aelt. Gesch., T. II, K. 21.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201505
+    - t-201436

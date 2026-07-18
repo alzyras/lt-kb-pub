@@ -33,6 +33,10 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
 - t-001
   global_id: t-189594
   teiginys: 'Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su žemaičių skerstuvių apeigomis ir Ežiagulio šaukimu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Lotyniška formulė palikta originalo kalba, o apeiginis kontekstas išskleistas į pilną sakinį. Mitologinė interpretacija palikta su Narbuto atribucija.'
   pagrindžia:
     - c-172480
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves.
@@ -62,6 +66,7 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
     su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
     tomis apeigomis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

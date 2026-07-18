@@ -41,6 +41,20 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 - t-001
   global_id: t-87894
   teiginys: "1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zofija (Jurgio Sniadeckio dukra): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad jaunavedžiai, įskaitant Zofiją, gyveno Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Zofija (Jurgio Sniadeckio dukra) gyveno Vilnius (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1819 m.; įvykio data: 1820 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
   pagrindžia:
     - c-83873
 
@@ -61,6 +75,7 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
     gyveno Vilniuje.
   citata_rodoma: "Balinskis daugelį iš jų asmeniškai pažinojo,\nVII\n\n## Puslapis 8\n\n1819 m. pats įstojo į šią ložę. 1820 m. M. Balinskis vedė Zofiją, \nuniversiteto profesoriaus Jurgio Sniadeckio dukrą. Jaunavedžiai \ngyveno Vilniuje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

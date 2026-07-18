@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-66836
   teiginys: "Mindaugo laikais Padauguvio giminės kurį laiką mokėjo Polockui duoklę ir buvo pripažinusios jo valdžią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66955
 
@@ -56,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-66837
   teiginys: "O Mindaugo laikais jie pavergė ir patį Polocką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66954
 
@@ -74,6 +80,7 @@ Nenurodyta
     Mindaugo laikais jie pavergė ir patį Polocką.
   citata_rodoma: "Tada aisčiams jau lengviau buvo kariauti, ir XIII a. pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O\nMindaugo laikais jie pavergė ir patį Polocką."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,6 +98,7 @@ Nenurodyta
     vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
     kėjo jam duoklę — buvo pripažinusios jo valdžią.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

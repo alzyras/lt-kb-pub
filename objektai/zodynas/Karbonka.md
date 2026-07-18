@@ -55,6 +55,10 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
 - t-001
   global_id: t-195451
   teiginys: "Karbonka šiame šaltinyje vadinama gyvulių liga, kuria galėjo užsikrėsti ir žmonės."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177872
 
@@ -78,6 +82,7 @@ Terminas vartojamas XIX a. vidurio sausros ir kaitros padarinių pasakojime.
     karbonka, kuria nuo gyvulių užsikrėsdavo ir žmonės.
   citata_rodoma: "Šeštame dešimtmetyje praėjusio šimtme­\nčio ištiko viena labai sausa vasara: degė pelkės ir miškai, eglės džiūvo \nnedegančiuose miškuose, gyvuliai nuo kaitros sirgo liga, \nvadinama \nkarbonka, kuria nuo gyvulių užsikrėsdavo ir žmonės"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

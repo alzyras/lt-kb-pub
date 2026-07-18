@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-1245 m. Sviatopelkas pastiprino seną Šveco pilį prie Kulmo ant Vyslos skardžio ir įdėjo joje įgulę.
+Lygia dalia antrą seną pilį, vardu Švecas, ties Kulmu ant skardžio Vyslos pastiprino ir įgulę įdė jo, liepdamas nė ten kryžėjų nepraleisti.
 
 ## Teiginiai
 
 <a id="claim-t-201181"></a>
 - t-001
   global_id: t-201181
-  teiginys: "1245 m. Sviatopelkas pastiprino seną Šveco pilį prie Kulmo ant Vyslos skardžio ir įdėjo joje įgulę."
+  teiginys: "Lygia dalia antrą seną pilį, vardu Švecas, ties Kulmu ant skardžio Vyslos pastiprino ir įgulę įdė jo, liepdamas nė ten kryžėjų nepraleisti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184531
 
 ## Citatos
 
 - id: c-184531
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 325"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 325."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Regėdamas Sviatopelkas visą kraštą nuteriotą
     praėjusią karę ir matydamas, jog kryžėjai, lindoda-
@@ -64,6 +69,7 @@ media_all_json: |-
     jo, liepdamas nė ten kryžėjų nepraleisti.
     Taip prasidėjo metai 1245 su ta kare.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,6 +55,17 @@ Nenurodyta
 - t-001
   global_id: t-08309
   teiginys: "Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> prasma: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Namų baldai ir rakandai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "prasma: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Namų baldai ir rakandai\" parinktas kaip owner_note_path. Targetas \"prasma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56473
 - susijęs iš [[objektai/daiktai/Piestu.md#claim-t-195354|Piestu]]: Ąžuolo gabalas, kuriuo muša grūdus piestoje.
@@ -76,6 +87,7 @@ Nenurodyta
     Lygia dalia dailidavo sau patys namų baldus, beje: kubilus, bosus, verpeles^572 , aktainius^573 , legeres^574 , rakandas, pintines, kurvius, rėčius, kretilus, sietus, sėtuves, minkytuvius, lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo.
   citata_rodoma: "Lygia dalia dailidavo sau patys namų baldus, beje: kubilus, bosus, verpeles^572 , aktainius^573 , legeres^574 , rakandas, pintines, kurvius, rėčius, kretilus, sietus, sėtuves, minkytuvius, lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

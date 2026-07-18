@@ -56,6 +56,16 @@ Nenurodyta
 - t-001
   global_id: t-71756
   teiginys: "Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-04909
 
@@ -63,6 +73,16 @@ Nenurodyta
 - t-002
   global_id: t-71757
   teiginys: "Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_vyras -> Morta: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Morta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Mindaugo žmona gavo Mortos vardą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31354
 
@@ -70,6 +90,19 @@ Nenurodyta
 - t-003
   global_id: t-71758
   teiginys: "1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1250 m.; įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir tiesiogiai pagrįstas citata."
   pagrindžia:
     - c-04910
     - c-70280
@@ -92,6 +125,7 @@ Nenurodyta
     nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +144,7 @@ Nenurodyta
     pagalbos ir krikštijosi.
   citata_rodoma: "1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis\nnebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino\npagalbos ir krikštijosi."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +168,7 @@ Nenurodyta
     gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
   citata_rodoma: "Mindaugas krikštijosi\nne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu\njam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš\nMindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas\nkrikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­\nžius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­\ngonių, kurie buvo jam (Mindaugui) pasidavę»^93."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,6 +191,7 @@ Nenurodyta
     m. sukaktis (1951 m.).
   citata_rodoma: "Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­\ndaugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia\nskaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu\nnauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą\nkartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač\nJ. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700\nm. sukaktis (1951 m.)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,6 +215,7 @@ Nenurodyta
     kad visi rytų slavai jau X amž. gale yra priėmę bizantiško pavi­
     dalo krikščionybę su liturgija senojoje slavų kalboje^5.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

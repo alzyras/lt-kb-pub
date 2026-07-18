@@ -33,6 +33,19 @@ media_all_json: |-
 - t-001
   global_id: t-186266
   teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vigandas fon Baldersheimas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vigandas vijosi iš Prūsijos traukiančius lietuvius, bet konkreti jo padaryta žala nukreipta į kaimus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169627
 
@@ -40,6 +53,13 @@ media_all_json: |-
 - t-002
   global_id: t-196626
   teiginys: "Įsruties komtūras Vigandas fon Baldersheimas, vydamasis iš Prūsijos traukiančius lietuvius, apiplėšė ir sudegino daug kaimų, žudydamas ir imdamas į nelaisvę kaimiečius."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169627
 
@@ -66,6 +86,7 @@ media_all_json: |-
     ti Volynę.
   citata_rodoma: "Nega­\nlėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­\nvedė savo būrius niokoti priešo kaimų. Šis staigus ant­\npuolis baisiai nusiaubė Prūsiją: visa žemė paversta \ndykromis, jos sostinė Gozenlankės pilis užkariauta ir \nišgriauta. Puolęs vytis įkandin traukiančių iš Prūsijos \nlietuvių su menka manta beapsikrovusiais kariais, Įs- \nruties komtūras Vigandas fon Baldersheimas apiplėšė \ngalybę kaimų, ligi tol nepatyrusių karo negandų, ir \nsudegino išžudęs bei paėmęs į nelaisvę kaimiečius."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

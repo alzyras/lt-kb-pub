@@ -33,6 +33,16 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
 - t-001
   global_id: t-86545
   teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas Hozijus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "prokuratorius ir provizorius: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Hozijus: mention_match, person, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prokuratorius ir provizorius\" parinktas kaip owner_note_path. Targetas \"Jonas Hozijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82524
 
@@ -67,6 +77,7 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
     priimti ir apgyvendinti, patogiai gyventi.
   citata_rodoma: "Taip pat \natiduodame, dovanojame, skiriame ir užrašome pagal žemiau \nišvardintas tokias sąlygas ir formas, tokiu būdu. Kol minėtai \nprieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­\nčiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto \nprokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, \nkaip minėtos prieglaudos provizoriaus žiniai, pavedėme, kaip \nir visus pelnus bei pajamas ir aukas, kurias Kristuje susivie-\n-  —  •  •  —\n390\n\n## Puslapis 407\n\nIV KNYGA\nniję tikintieji arba jau padarė, arba dar gali ateityje padaryti, \nvisuomet priims ir rinks, ir iš šio tilto pajamų minėta prie­\nglauda su visais pastatais, skirtais jos poreikiams, bus pa­\nstatyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės, \npriimti ir apgyvendinti, patogiai gyventi."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

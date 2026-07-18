@@ -32,6 +32,19 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 - t-001
   global_id: t-185253
   teiginys: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Liubava: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168614
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
@@ -99,6 +112,7 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
     daiktais išsislapstė miškų tankmėse.
   citata_rodoma: "Vėliau, be tvarkos kelian­\n180\n\n## Puslapis 179\n\ntis per Narevą, upės sūkuriuose žuvo didelė dalis ka­\nrių ir grobio. Ne geriau pavyko kitam lietuvių būriui,\napiplėšusiam Liubavą. Penkiasdešimt raitelių (nunioko­\nję kaimus, jie išžudė daugybę kaimiečių, kuriuos už­\nklupo beginklius), nejausdami pavojaus, vežėsi namo\ngrobį ir varėsi belaisvius; juos apsupo staiga pasiro­\ndę kryžiuočiai ir privertė atsiteisti už neapgalvotą nar­\nsumą ar godumą: neteko penkiolikos karių ir didelės\ngrobio dalies."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

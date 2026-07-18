@@ -4,10 +4,10 @@ pavadinimas: 'valdymieras'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
-aliases:
-  - 'objektai/zodynas/valdymierai'
 variantai:
   - 'valdymierai'
+aliases:
+  - 'objektai/zodynas/valdymierai'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -48,6 +48,9 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-001
   global_id: t-70059
   teiginys: "`Valdymierai` šiame tekste reiškia tautų valdovus."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09756
 
@@ -55,6 +58,9 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-002
   global_id: t-70060
   teiginys: "`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09754
 
@@ -62,18 +68,25 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-003
   global_id: t-70061
   teiginys: "Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09756
 
 <a id="claim-t-200959"></a>
 - t-004
   global_id: t-200959
-  teiginys: "Daukanto pasakojime padaugavionų siuntiniai prašė Pleskavo valdymiero Vladimiro padėti išvyti vokiečius iš Padaugavio."
+  teiginys: "Ditrichas, noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet rado jau tenai siuntinius padaugavionų, telkiančius valdymierą jiems padėti vokyčius per jūrą varyti laukan iš Padaugavio, guosdamies jam, jog Alber tas su meldžionimis, danguodamos savo tikyba."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184309
-- susijęs iš [[objektai/ivykiai/Popiežiaus Grigaliaus IX kryžiaus karės paskelbimas prieš lietuvius ir žemaičius.md#claim-t-201501|Popiežiaus Grigaliaus IX kryžiaus karės paskelbimas prieš lietuvius ir žemaičius]]: Daukanto pasakojime popiežius Grigalius IX žadėjo 20 dienų atlaidus pamokslų klausytojams, o ekskomunikuotiesiems – bausmės atleidimą, jei jie kariaus prieš lietuvius ir žemaičius.
-- susijęs iš Rusnė: Daukantas manė, kad pasaka apie pirmąją Rusnės žinyčią galėjo būti pertaisyta XV ar XVI a. gudų arba vokiečių vienuolio.
-- susijęs iš Vogenė (vieta): Daukantas rašo, kad Pleskavo valdymieras Ditrichas pasiuntiniams susitikti su vokyčiais paskyrė birželio 29-ąją Vogenės paupyje.
+
 ## Citatos
 
 - id: c-09754
@@ -83,6 +96,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_originali: |
     Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +110,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_originali: |
     nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,9 +119,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     - t-70061
 
 - id: c-184309
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 197"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 197."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ditrichas,
     noris plikas, nukeliavo į Pleskavą pas Vladimirą, bet
@@ -121,6 +135,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
     ko jis reikalavo. Ditrichas sakės ateinąs nuo savo
     viešpaties v.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

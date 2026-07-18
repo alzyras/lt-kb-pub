@@ -33,6 +33,13 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
 - t-001
   global_id: t-189299
   teiginys: "Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir sieja ją su Krūmine."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172187
 
@@ -70,6 +77,7 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
     mine Gintowtus.
   citata_rodoma: "JAVINĖ (JAWINE). Nuo Jawu. Daugiskaita -  Jawoi. Tas\npavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme\npavadinę Krūmine, kadangi žymės, kokias jai priskiria prūsai,\nyra tos pačios, apie kurias kalbėta tame straipsnyje."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

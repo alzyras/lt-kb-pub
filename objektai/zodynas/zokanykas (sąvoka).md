@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas zokanyku vadina benediktiną Bruną, kuris 1008 m. su 18 tarnų leidosi į Parusnį mokyti netikėlių.
+Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku.
 
 ## Teiginiai
 
 <a id="claim-t-201221"></a>
 - t-001
   global_id: t-201221
-  teiginys: "Daukantas zokanyku vadina benediktiną Bruną, kuris 1008 m. su 18 tarnų leidosi į Parusnį mokyti netikėlių."
+  teiginys: "Kitas zokanykas benedikčionis, vardu Brunas, nuleidęs ketverius metus, užsidegė meile žodžio Dievo ir gailesiu savo bendro Vaitiekaus vėl eiti netikėlių mokyti; to dėjęsis, leidos į Parusnį metuo se 1008 su 18 savo tarnų, tarp kurių du buvusiu zokanyku."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184571
 
 ## Citatos
 
 - id: c-184571
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 139"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai Bo­
     leslovas, didindamas jo godą kaipo savo tarno, už
@@ -69,6 +74,7 @@ Daukantas zokanyku vadina benediktiną Bruną, kuris 1008 m. su 18 tarnų leidos
     todėl persergėjo tuos mokytojus, idant nepeiktų jų
     senovės dievų ir kuo veikesniai namon grįžtų.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

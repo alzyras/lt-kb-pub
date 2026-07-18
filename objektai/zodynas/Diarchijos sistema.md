@@ -33,6 +33,17 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 - t-001
   global_id: t-28579
   teiginys: "Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Algirdas (Lietuvos valdovas): 0.61"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Susitarimas dėl bendromis jėgomis įgytų žemių leidžia atsargiai fiksuoti politinį sąjungininkų ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.61)"
   pagrindžia:
     - c-28483
 - susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
@@ -48,6 +59,7 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
     pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
     Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

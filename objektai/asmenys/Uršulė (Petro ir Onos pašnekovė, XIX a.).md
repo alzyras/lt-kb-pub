@@ -46,6 +46,10 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
 - t-001
   global_id: t-195556
   teiginys: "Uršulė Petro paklausė, kada bus jo ir Onos vestuvės."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177973
 
@@ -63,6 +67,7 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
     Petras.
   citata_rodoma: "Staiga Uršulė paklausė: „Petrai, kada gi bus jūsų vestuvės?“"
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

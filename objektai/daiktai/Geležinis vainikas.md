@@ -60,6 +60,19 @@ Nenurodyta
 - t-001
   global_id: t-59684
   teiginys: "1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Milanas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Geležinis vainikas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Geležinis vainikas\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo datą, vietą, asmenį ir vainikavimo objektą."
   pagrindžia:
     - c-60316
 
@@ -76,6 +89,7 @@ Nenurodyta
     vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
   citata_rodoma: "Apie jo vainikavimą prie Milano\n\n  1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,\nvainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

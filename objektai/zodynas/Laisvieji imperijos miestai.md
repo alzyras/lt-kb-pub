@@ -46,6 +46,16 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 - t-001
   global_id: t-54795
   teiginys: "Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laisvieji imperijos miestai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laisvieji imperijos miestai\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55793
 
@@ -53,6 +63,16 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 - t-002
   global_id: t-54796
   teiginys: "Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis."
+  atnaujinta: "2026-05-27 07:20"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laisvieji imperijos miestai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laisvieji imperijos miestai\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55793
 
@@ -74,6 +94,7 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     me ir padarė juos galingus ir savarankiškus.
   citata_rodoma: "Vokietijos impera­\ntoriai silpni, nes renkami, tad siekdami galios prieš bajoriją ir \ngalingą dvasininkiją, jie miestams teikė globą ir vis didesnes \nprivilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­\njungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­\nperijos miestams, vėliau jiems leido dalyvauti imperijos valdy­\nme ir padarė juos galingus ir savarankiškus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -52,6 +52,9 @@ Nenurodyta
 - t-001
   global_id: t-40700
   teiginys: "Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44644
 
@@ -74,6 +77,7 @@ Nenurodyta
     karyboje.
   citata_rodoma: "Buzdyganas XVII a. pab. - XVIII a. Aštuonių\nsparnelių auksuoto plieno galva, medinis kotas\nsu kalinėto sidabro ar žalvario plokštelėmis.\nATR meistrų darbo. Buzdyganas buvo ATR\ntautinės kavalerijos karininkų valdžios ženklas\n\n## Puslapis 141\n\nXVII a."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

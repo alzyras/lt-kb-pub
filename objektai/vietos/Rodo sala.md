@@ -33,6 +33,9 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-001
   global_id: t-58717
   teiginys: "Hospitaljerai užėmė turkų gyvenamą Rodo salą ir dar penkias salas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59349
 
@@ -49,6 +52,7 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     salas (Mart. p. 442).
   citata_rodoma: "Apie tai, kaip hospitaljerai užėmė Rodo salą\n\n   Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas\nsalas (Mart. p. 442)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

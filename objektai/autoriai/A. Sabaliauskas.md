@@ -59,6 +59,10 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
 - t-001
   global_id: t-195244
   teiginys: "A. Sabaliauskas yra straipsnio „A. a. prof. A. R. Niemi“ autorius."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177612
 
@@ -66,6 +70,10 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
 - t-002
   global_id: t-195245
   teiginys: "1912 m. minimas kun. A. Sabaliausko dainų rinkinys, leistas drauge su A. R. Niemio veikalu „Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje“."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177611
 
@@ -73,6 +81,10 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
 - t-003
   global_id: t-195246
   teiginys: "1913 m. A. R. Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje."
+  atnaujinta: "2026-07-12 00:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177610
 
@@ -89,6 +101,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
     L. Lietuvių vestuvių apeigos.
   citata_rodoma: "1913 L. Lietuvių liaudies dainų tyrinėjimai.\nKun. A. Sabaliausko vertime spausdinamas Tautosakos Komisijos."
   statusas: verified
+  atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +119,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
     Dainų rinkinys drauge su kun. A. Sabaliausko rinkiniu.
   citata_rodoma: "1912 L. Lietuvių dainos ir giesmės šiaurės rytų Lietuvoje.\nDainų rinkinys drauge su kun. A. Sabaliausko rinkiniu."
   statusas: verified
+  atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +152,7 @@ A. Sabaliauskas šiame tome pasirašo straipsnį „A. a. prof. A. R. Niemi“, 
     savo darbo įdėjęs.
   citata_rodoma: "A. Sabaliauskas\nA. a. prof. A. R. Niemi"
   statusas: verified
+  atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,6 +53,13 @@ Nenurodyta
 - t-001
   global_id: t-189711
   teiginys: "Narbutas rašė, kad senovės žmonės ypač gerbdavo akmenis, kuriuose gamta ką nors pavaizdavo arba kurie savo pavidalu į ką nors panėšėdavo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172594
 
@@ -77,6 +84,7 @@ Nenurodyta
     vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
     mus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

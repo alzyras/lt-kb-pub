@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1327 m. Algirdas, Daukanto pasakojimu, buvo paskirtas lietuvių ir žemaičių karvedžiu, žygiavo į Brandenburgiją ir sustojo ties Frankfurtu.
+Įžagę lietuviai žemaičiai į taip naudingą grobį Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327 paskyrę sau karvedžiu Algirdą, vyriausią sūnų Ge dimino, kursai buvo jau garsus ne vien Lietuvoj, bet ir už rubežiaus savo kantrybe ir narsybe, trau kė vėl.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201276"></a>
 - t-001
   global_id: t-201276
-  teiginys: "1327 m. Algirdas, Daukanto pasakojimu, buvo paskirtas lietuvių ir žemaičių karvedžiu, žygiavo į Brandenburgiją ir sustojo ties Frankfurtu."
+  teiginys: "Įžagę lietuviai žemaičiai į taip naudingą grobį Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327 paskyrę sau karvedžiu Algirdą, vyriausią sūnų Ge dimino, kursai buvo jau garsus ne vien Lietuvoj, bet ir už rubežiaus savo kantrybe ir narsybe, trau kė vėl."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184626
 
 ## Citatos
 
 - id: c-184626
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 557"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 557."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įžagę lietuviai žemaičiai į taip naudingą grobį
     Brandenburgijos atentį metą sukėlė vėl karėjus ir 1327
@@ -76,6 +81,7 @@ Nenurodyta
     demarą, viešpatį Brandenburgijos, laimingai vėl į
     Lietuvą su nepaseikimu grobiu pagr-įžo2.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

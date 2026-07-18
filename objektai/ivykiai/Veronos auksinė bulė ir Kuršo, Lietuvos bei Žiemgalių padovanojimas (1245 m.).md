@@ -55,6 +55,19 @@ Nenurodyta
 - t-001
   global_id: t-31483
   teiginys: "Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fridrichas II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Fridricho II dovanojimas kryžiuočiams rodo politinę paramą Ordinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Fridrichas II rėmė Kryžiuočių ordinas (0.76); Lietuva priklausė Kryžiuočių ordinas (0.66); Žiemgaliai priklausė Kryžiuočių ordinas (0.66)"
+  temporaliniai_duomenys: "įvykio data: 1245 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33434
 
@@ -74,6 +87,7 @@ Nenurodyta
     Romos kurijos globa.
   citata_rodoma: "Jiems Fridrichas II vadinamoje\n_auksinėje bulėje_ , duotoje Veronoje 1245 m., amžinai padovanojo\nKuršą, Lietuvą ir Žiemgalius.\nDar nuo savo dešimtmečių veiklos Palestinoje kryžiuočių or­\ndinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga\nRomos kurijos globa."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

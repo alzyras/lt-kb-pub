@@ -37,6 +37,23 @@ Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su 
 - t-001
   global_id: t-190245
   teiginys: "Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su žalčiais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stecevičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stecevičius\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Iš sąrašo paimtas tik su Stecevičiumi susijęs faktas ir pašalintas kataloginis triukšmas. Narbutas paminėtas kaip aprašo šaltinis, nepridedant heraldinės interpretacijos."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173128
 
@@ -56,6 +73,7 @@ Stecevičius 1609 metais prispaudė vieną iš Narbuto aprašytų antspaudų su 
     (Rexč) 1481 metais;/? - Mickus Pocaitis (Micko Pacowicz) apie
     XV amžiaus vidurį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

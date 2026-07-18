@@ -46,6 +46,20 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - t-001
   global_id: t-19661
   teiginys: "Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų."
+  atnaujinta: "2026-07-12 05:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Blaivybės brolijos: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Blaivybės brolijos\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1858 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta neaiški laiko nuoroda ir OCR triukšmas."
   pagrindžia:
     - c-22365
 
@@ -53,6 +67,10 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - t-002
   global_id: t-195529
   teiginys: "Vyskupas Valančius 1858 m. įvedė Blaivybės Broliją kaip priemonę įsisiautėjusiam girtuokliavimui nutraukti."
+  atnaujinta: "2026-07-12 05:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177947
 
@@ -60,6 +78,10 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - t-003
   global_id: t-195530
   teiginys: "Norintieji pristoti prie blaivybės brolijos turėjo prisiekti iki mirties neragauti degtinės."
+  atnaujinta: "2026-07-12 05:44"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177950
 
@@ -67,6 +89,10 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - t-004
   global_id: t-195531
   teiginys: "Blaivybės brolijų plitimas siejamas su bravarų užgesimu ir gertuvių ištuštėjimu."
+  atnaujinta: "2026-07-12 05:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177949
 
@@ -74,6 +100,10 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - t-005
   global_id: t-195533
   teiginys: "Aprašyta blaivybės būklė tęsėsi iki 1863 m. sukilimo."
+  atnaujinta: "2026-07-12 05:59"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177948
 - susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195373|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką.
@@ -95,6 +125,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     „Vilniaus albumo“.
   citata_rodoma: "Ne-\ngana to, 1858 m. M.  Valančius, \nremdamasis kituose katalikiškuo-\nse kraštuose platinamomis blai-\nvybės idėjomis, inicijavo blaivybės sąjūdį. Po poros metų šių blaivybės \nbrolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi \nlietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-\nMotiejus Valančius iš J. K. Vilčinskio  \n„Vilniaus albumo“."
   statusas: verified
+  atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +151,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“ .
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžusiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
+  atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +171,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     sėsi ligi 1863 metų, ligi sukilimo.
   citata_rodoma: "Tokia dalykų būklė tęsėsi ligi 1863 metų, ligi sukilimo."
   statusas: verified
+  atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,6 +192,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     gai jų išdaužyti, gyvenusieji jose žydai išsidangino.
   citata_rodoma: "Svietas siekė ir pildė priesaiką, ir bravarai užgeso, gertuvės patuštėjo, langai jų išdaužyti, gyvenusieji jose žydai išsidangino."
   statusas: verified
+  atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +213,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
     turėjo prisiekti iki mirties neragauti degtinės.
   citata_rodoma: "Norintieji pristoti prie brolijos, turėjo prisiekti iki mirties neragauti degtinės."
   statusas: verified
+  atnaujinta: "2026-07-12 05:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

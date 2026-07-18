@@ -40,6 +40,19 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
 - t-001
   global_id: t-31629
   teiginys: "„Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Alekna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "A. Alekna: mention_match, author, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus\" parinktas kaip owner_note_path. Targetas \"A. Alekna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1930 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.; įvykio data: 1930 m.; įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie studijėlės pobūdį bei publikavimą."
   pagrindžia:
     - c-33538
 
@@ -63,6 +76,7 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
     Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
   citata_rodoma: "Tai buvo, šaltiniais paremta studijėlė,\n« Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »\n(atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo\nČekijos politika Venceliui mirus » (atsp. iš Židinio 1930)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

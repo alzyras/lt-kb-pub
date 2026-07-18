@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-194065
   teiginys: 'Lietuvos metraščio pasakojime sidabriniai ir auksiniai indai buvo tarp Mindaugo dovanų Rygos magistrui Andriui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį apie indus ir jų kontekstą. Palikta metraščio atribucija, nepridėta daugiau nei citatoje nurodytas dovanojimas.'
   pagrindžia:
     - c-176678
 
@@ -76,6 +80,7 @@ Nenurodyta
     Mat, pasiuntė jam daug aukso ir sidabro bei gražių
     sidabrinių ir auksinių indų ir daug žirgų.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

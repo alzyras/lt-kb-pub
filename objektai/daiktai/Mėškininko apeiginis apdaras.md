@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-195343
   teiginys: "Vestuvinės meškos kostiumo pagrindas."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177745
 
@@ -75,6 +79,7 @@ Nenurodyta
     syti biaurų snukį ir uodegą.
   citata_rodoma: "Aptaisant mešką, reikia dviejų išverstų kailinių, kuo seniausių, kuo rudžiausių, skyrium reikia pritaisyti biaurų snukį ir uodegą."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

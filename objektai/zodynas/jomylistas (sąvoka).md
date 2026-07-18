@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Gedunę, arba Gadunę, Visgaudžio sūnų, vadina senu samionų jomylistu, o Otokaras jo klausė, ar šis įveiktų samius.
+Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms.
 
 ## Teiginiai
 
 <a id="claim-t-201219"></a>
 - t-001
   global_id: t-201219
-  teiginys: "Daukantas Gedunę, arba Gadunę, Visgaudžio sūnų, vadina senu samionų jomylistu, o Otokaras jo klausė, ar šis įveiktų samius."
+  teiginys: "Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184569
 
 ## Citatos
 
 - id: c-184569
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 359"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 359."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mistras pats kryžėjų su didžia iškilme
     priėmė Otokarą karalių, su kurio kariauna susinė­
@@ -56,6 +61,7 @@ Daukantas Gedunę, arba Gadunę, Visgaudžio sūnų, vadina senu samionų jomyli
     samioms. Gadunė, ne visą regėdamas meldžionų
     kariauną, nesterėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

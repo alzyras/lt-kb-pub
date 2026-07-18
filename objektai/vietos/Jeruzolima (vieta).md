@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime 1099 m. Jeruzolimoje Gotfridas de Bouillonas buvo apkarūnuotas geležine karūna ir pakeltas Šventosios Žemės karaliumi.
+Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai me tuose 1099 vadinamą Gotfridą de Bouillon, visų vy riausią savo karvedį, Jeruzolimos mieste gelžies ka rūna apkarūnavo j o ir karalium Žemės Šventos pa kėlė.
 
 ## Teiginiai
 
 <a id="claim-t-201167"></a>
 - t-001
   global_id: t-201167
-  teiginys: "Daukanto pasakojime 1099 m. Jeruzolimoje Gotfridas de Bouillonas buvo apkarūnuotas geležine karūna ir pakeltas Šventosios Žemės karaliumi."
+  teiginys: "Kaipogi vienu žygiu perga lėję turkus, Žemę Šventą jiems atėmė ir tenai me tuose 1099 vadinamą Gotfridą de Bouillon, visų vy riausią savo karvedį, Jeruzolimos mieste gelžies ka rūna apkarūnavo j o ir karalium Žemės Šventos pa kėlė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184517
 
 ## Citatos
 
 - id: c-184517
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 177"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 177."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas begalėjo nuo tokių gau­
     jų svieto beatsiturėti? Kaipogi vienu žygiu perga­
@@ -62,6 +67,7 @@ Daukanto pasakojime 1099 m. Jeruzolimoje Gotfridas de Bouillonas buvo apkarūnuo
     į tas kares — meldžionimis, tai yra žmonis, kare
     * Rankraštyje nurodytas tik išnašos numeris.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

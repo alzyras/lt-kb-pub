@@ -42,6 +42,16 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 - t-001
   global_id: t-87903
   teiginys: "Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras (Riazanės kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras (Riazanės kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83882
 
@@ -79,6 +89,7 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
     karalius iš kalėjimo paleistas].
   citata_rodoma: "Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų \ndata, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, \ntos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­\nmą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-\n55\nStryjkowski, p. 466, Kromer, \nLib. XV. p. 247, byloja, kad tas Ria- \nzanės kunigaikščio autentiškas lai­\ndavimas už savo žentą Kaributą jo \nlaikais buvo karališkajame archyve: \nAtque hinc nata esse videtur sponsio \nAlexandri Resanensium Ducis pro Co- \nributho regi facta, et literarum monu­\nmentis, quae extant in archivo regio, \nsignata, cum eum rex e vinculis libe-\nrasset [Ir po to atrodo, kad yra Ria- \nzanės kunigaikščio Aleksandro pa­\ndarytas tinkamas laidavimas už \nkaralių Kaributą ir raštiškais doku­\nmentais, kurie tebėra karališkajame \narchyve, antspauduotas, su kuriuo \nkaralius iš kalėjimo paleistas]."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

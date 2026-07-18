@@ -66,6 +66,10 @@ Nenurodyta
 - t-001
   global_id: t-195607
   teiginys: "Iš pradžių degtukus vartojo tik miestiečiai ir jie juos naudojo atsargiai."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178013
 
@@ -73,6 +77,10 @@ Nenurodyta
 - t-002
   global_id: t-195608
   teiginys: "1862 m. degtukai pasirodė krautuvėse."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178013
 
@@ -80,6 +88,10 @@ Nenurodyta
 - t-003
   global_id: t-195609
   teiginys: "Vėliau degtukai ėmė skverbtis į kaimo grįčias."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178012
 
@@ -87,6 +99,10 @@ Nenurodyta
 - t-004
   global_id: t-195610
   teiginys: "Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus."
+  atnaujinta: "2026-07-12 07:26"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178012
 
@@ -110,6 +126,7 @@ Nenurodyta
     kilti gaisras.
   citata_rodoma: "Toliau degtukai ėmė skverbtis į kaimo grįčias. Jų nekentė ir bijojo: nekentė dėl to,, kad jie perkami, bijojo dėl to, kad iš jų gali kilti gaisras."
   statusas: verified
+  atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +148,7 @@ Nenurodyta
     vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai.
   citata_rodoma: "Aprašomais 1862 metais degtukai pasirodė krautu- vėse, ir vartojo juos tik miestiečiai, bet ir tie vartojo atsargiai."
   statusas: verified
+  atnaujinta: "2026-07-12 07:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

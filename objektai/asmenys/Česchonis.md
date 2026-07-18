@@ -33,6 +33,17 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 - t-001
   global_id: t-87896
   teiginys: "Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Česchonis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Česchonis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Česchonio namą, todėl namas priklausė Česchoniui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Česchonis (0.92); Česchonis gyveno Vilnius (0.78)"
   pagrindžia:
     - c-83875
 
@@ -71,6 +82,7 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
     pilį, driekiasi ir apima netgi kitas at­
     skiras miesto dalis].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

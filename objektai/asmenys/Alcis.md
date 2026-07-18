@@ -40,6 +40,21 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 - t-001
   global_id: t-190046
   teiginys: "Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžinas Alcis, vėliau pamaldumo paverstas šv. Kristupu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė „Vilniaus herbe“ tiesiogiai sieja herbą su Vilniumi."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Herbas priklausė Vilnius (0.86)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172929
 
@@ -47,6 +62,24 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 - t-002
   global_id: t-190048
   teiginys: "Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija herbą kaip Vilniaus."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Herbas priklausė Vilnius (0.90)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herbas priklausė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Datos ir kilmės teorijos formuluotė palikta kaip Narbuto vertinimas. Užbaigtas nutrūkęs sakinys, nepridedant antrojo antspaudo aprašymo."
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172931
 
@@ -54,6 +87,20 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 - t-003
   global_id: t-190049
   teiginys: "Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys kalba apie Vilniui priskiriamą herbą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-172932
 
@@ -61,6 +108,13 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
 - t-004
   global_id: t-194697
   teiginys: "Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau anksčiau kalbėjome."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177094
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
@@ -98,6 +152,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     vės milžinas Alcis, kurį, priimant krikščionybę, pamaldumas
     pavertė šv. Kristupu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +174,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
     apačioje - Radvilų herbas Trimitai*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +216,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
   citata_rodoma: "Ketvirta­\nme skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu\nšalmu ant galvos; dešine ranka jis remiasi į nulaužtą medžio\nkamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, lai­\nko kažką panašaus į pasagą. Nenuginčijamai tai turėtų būti\nvalstybės antrosios sostinės, arba Vilniaus, herbas. Šis riteris,\nišskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­\nėj, kurį laikėme Vilniaus miesto herbu."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,6 +233,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     anksčiau kalbėjome. Jis žengia per kažkokį vandenį, ramsty-
     damasis medžiu; ant pečių jam sėdi moteris.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

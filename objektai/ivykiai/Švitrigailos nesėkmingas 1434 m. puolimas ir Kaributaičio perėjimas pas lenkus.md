@@ -51,6 +51,20 @@ Nenurodyta
 - t-001
   global_id: t-185793
   teiginys: "Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Braclavas: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus\" parinktas kaip owner_note_path. Targetas \"Braclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
   pagrindžia:
     - c-169154
 
@@ -103,6 +117,7 @@ Nenurodyta
     laujos apygardą, tačiau beveik nieko čia nepešė.
   citata_rodoma: "Mat neseniai, prasi­\ndėjus nesantaikai, Boleslovas įkalino Teodorą Karibu-\ntaitį. Pasipiktinę tokiu žiaurumu, Kaributaičio vasalai ir\nvaldiniai, slaptai susitarę su Bučackiais, sumušė Bo­\nleslovo kariuomenę, o Kaributaitį paleido į laisvę. Iš­\ntrūkęs iš kalėjimo, Kaributaitis perėjo pas lenkus ir\nperdavė jo įgulų ginamas Podolės pilis Braclavą bei\nKremenecą karaliui Vladislovui."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

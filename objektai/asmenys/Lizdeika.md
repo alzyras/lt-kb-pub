@@ -43,6 +43,12 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - t-001
   global_id: t-187902
   teiginys: "Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys perrašytas kaip pilnas sakinys, išlaikant padavimų pobūdį."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-170882
 
@@ -50,6 +56,13 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - t-002
   global_id: t-187903
   teiginys: "Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Citata tiesiogiai palaiko faktą, bet reikia pašalinti nereikalingą autoriaus įvadą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-170881
 
@@ -57,6 +70,23 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - t-003
   global_id: t-188580
   teiginys: "Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lizdeika: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lizdeika\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1318 m.; įvykio data: apie 1318 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Legendinis Vilniaus įkūrimo teiginys paliktas su Narbuto atribucija. Nepridėta pasakojimo apie šventyklos griovimą ar Lizdeikos amžių."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171469
 
@@ -64,6 +94,13 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 - t-004
   global_id: t-194715
   teiginys: "Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177111
 - susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
@@ -149,6 +186,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     šioje vietoje įkursiąs.
   citata_rodoma: "Tuojau prašyta žynių, kurie netoliese gyveno, at­\nskleisti paslaptį. Tuo metu Lizdeika buvo vyriausiasis\nžynys, arba, tėvų kalba, Krivė Krivaitis. Jis, kitados\ndar kūdikis girioje erelio lizde arba, pasak kitų, lop­\nšyje, ant medžio pakabintame, paties Vytenio medžio­\njant surastas, jo paliepimu dievų tarnybai išauklėtas ir\niš mažens šventąsias tėvų paslaptis pažinęs, tuo metu\nbuvo laikomas geriausiu slėpiningų ženklų aiškintoju."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,6 +219,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     tam įrodymu.
   citata_rodoma: "2\nTas pats dviejų aukštų pastatas, la­\nbai storo mūro sienomis, stovintis \nšalimais katedros bokšto, iki 1832 \nmetų priklausęs diecezijos konsisto­\nrijai ir gyvenamas kunigų invalidų, \nminėtais metais, kaip ir daugelis ki­\ntų mūrinių pastatų, supančių kated­\nros aikštę, buvo nugriautas, kad bū­\ntų atvira naujos tvirtovės nuokalnė.\n3\nDabartinė katedros varpinė, anot \nLietuvos kronikininkų ir vietos žmo­\nnių padavimų, buvęs tas pats bokš­\ntas, iš kurio Lizdeika ir jo pirmtakai \niškilmingai pasirodydavę Vilniaus \npagonims paskelbti blogos ar geros \npranašystės. Tačiau nėra patikimų\ntam įrodymu."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,6 +241,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
     tos, todėl turėjo būti jau labai senas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,6 +264,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     mo tiesomis.
   citata_rodoma: "Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus\nvyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo\nautoriaus teiginiu; jo paties žodžius pacitavome. Strijkovskis,\ndėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo­\nlat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria\nbuvus Lizdeiką."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime popiežius įdavė didžiajam magistrui savo žiedą kaip savo vyresnybės ir valdžios ženklą.
+Tuomi dar popiežius nekakinos, visą dar kraštą, nuo lietuvių ir žemaičių užkariautąjį, patvirtino kryžėjams ir patį jų zokaną į savo užtarymą paėmė, ir ženklui tos savo geradėjystės įdavė popiežius di džiajam mistrui savo žiedą, kaipo vadą savo vyres nybės ir.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201368"></a>
 - t-001
   global_id: t-201368
-  teiginys: "Daukanto pasakojime popiežius įdavė didžiajam magistrui savo žiedą kaip savo vyresnybės ir valdžios ženklą."
+  teiginys: "Tuomi dar popiežius nekakinos, visą dar kraštą, nuo lietuvių ir žemaičių užkariautąjį, patvirtino kryžėjams ir patį jų zokaną į savo užtarymą paėmė, ir ženklui tos savo geradėjystės įdavė popiežius di džiajam mistrui savo žiedą, kaipo vadą savo vyres nybės ir."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184718
 
 ## Citatos
 
 - id: c-184718
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 316"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 316."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilhelmas į Parusnį pagrįžęs iš Ry­
     mo, tuojau popiežius išleido raštą, skelbdamas kry­
@@ -77,6 +82,7 @@ Nenurodyta
     metą duoklę jam šilti.
     1 V o i g t, Preus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

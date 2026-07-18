@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185558
   teiginys: "Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Choinicai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Choinicai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)\" parinktas kaip owner_note_path. Targetas \"Choinicai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168919
 
@@ -102,6 +115,7 @@ Nenurodyta
     ko jokie pavojai.
   citata_rodoma: "Apsuptieji irgi neleido laiko vėjais: trukdyda­\nmi tinkamai pasirengti lemiamam smūgiui, protarpiais\nrengė be galo drąsius išpuolius, sėkmingai ardė puola­\nmuosius įtaisus, žudė jų statytojus ir sekino kovinę dva­\nsią. Štai todėl karalius įsakė lietuvių kavalerijos vadui,\npasirinkus iš visų vėliavų ryžtingiausių karių, taip stro­\npiai budėti, kad priešas, vos pabandęs surengti išpuolį,\nbūtų bemat atremtas. Kelis kartus sumušus išsiveržė-\nlius, kovoje krito beveik visi narsiausi įgulos vyrai,\ntodėl kiti pilies gynėjai, smarkiai sumažėjus jų skaičiui,\nliovėsi rengę išpuolius."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

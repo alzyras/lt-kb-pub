@@ -64,6 +64,10 @@ Nenurodyta
 - t-001
   global_id: t-195364
   teiginys: "Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177777
 
@@ -71,6 +75,10 @@ Nenurodyta
 - t-002
   global_id: t-195365
   teiginys: "Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177778
 
@@ -78,6 +86,10 @@ Nenurodyta
 - t-003
   global_id: t-195366
   teiginys: "Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177779
 
@@ -99,6 +111,7 @@ Nenurodyta
     Kalėdas rinkdavo paviržius mėsa.
   citata_rodoma: "Rudenį rinkdavo piliavą javais, prieš Kalėdas rinkdavo paviržius mėsa."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +134,7 @@ Nenurodyta
     nuo pilno gyvenimo, o antrą savaitę visai neganė.
   citata_rodoma: "Kaimo ūkininkai taip buvo ganyme susitarę, kad nuo pilno gyvenimo piemuo vieną dieną gano, kitą — ne, o nuo pusės gyvenimo — vieną savaitę piemuo ėjo taip, kaip nuo pilno gyvenimo, o antrą savaitę visai neganė."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,6 +156,7 @@ Nenurodyta
     ganomomis dienomis mes duodame valgyti.
   citata_rodoma: "Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

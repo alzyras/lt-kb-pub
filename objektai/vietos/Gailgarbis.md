@@ -33,6 +33,12 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
 - t-002
   global_id: t-197878
   teiginys: "Ant Rinavos kalno buvo tokia Gailgarbio, arba Galgarbeno1, pilis, kur, anot padavimų, savo rezidenciją įkūrė dar Vaidevučio sūnus Šamas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179377
 
@@ -40,6 +46,11 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
 - t-001
   global_id: t-192837
   teiginys: 'Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno, kur Vaidevučio sūnus Šamas įkūrė rezidenciją.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Padavimo pobūdis paliktas su Narbuto atribucija, o vieta ir asmuo įvardyti aiškiai. Nepridėta vėlesnė informacija apie karo laužus.'
+  susije_objektai: 'mentioned_place: Rinava'
   pagrindžia:
     - c-175607
 - susijęs iš [[objektai/paprociai/Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą.md#claim-t-192101|Karo laužų užkūrimas įspėjant pakrantės žmones apie išsilaipinusį priešą]]: Narbutas aprašo, kad Natangijoje karo laužai būdavo užkuriami įspėti pakrantės žmonėms apie išsilaipinusį priešą.
@@ -62,8 +73,8 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
     davo įspėti žmones, kurie stodavo po garsių karvedžių
     vėliavomis, jei priešas išsilaipindavo pakrantėse.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,6 +95,7 @@ Gailgarbio pilis, Narbuto perteikiamuose padavimuose, stovėjo ant Rinavos kalno
     bio, arba Galgarbeno1, pilis, kur, anot padavimų, savo
     rezidenciją įkūrė dar Vaidevučio sūnus Šamas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

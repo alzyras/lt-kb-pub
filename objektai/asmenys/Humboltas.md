@@ -33,6 +33,13 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 - t-001
   global_id: t-191499
   teiginys: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174381
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191242|Aleksandras Humboltas]]: Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis.
@@ -90,6 +97,7 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
     leidžia mums pažinti tik savo žaismo fragmentus.
   citata_rodoma: "Todėl viskas prasidėjo nuo Siaurės, nes prie\npusiaujo dėl karščio niekas negalėjo augti. Tai taip pat\nsutampa su žymiojo tyrinėtojo pono Humbolto aiškini­\nmais; jis teigia, kad tropikų augalija vėsėjusi senovės\nŠiaurėje, kuri turėjo tuomet gana daug išsiskyrusios ši­\nlumos, kai kieta sausumos dalis atsiskyrė nuo skystos, o\nlai pirmiausia įvyko Šiaurėje: taip tropinė šiluma pagim­\ndė augaliją ir gyvūniją. Iš tikrųjų tai truko neilgai, o\ntik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro\njuostas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Naugardo kunigaikštis Vsevolodas vijosi lietuvius, susikovė su jais ir žuvo kartu su savo kariais.
+Norėjo dar Vsevolodas, ku nigaikštis Naugardo, lietuviams atmonyti tas nelai mes savo ūkės, kaipogi, tame širdgile surinkęs savo ūkinykus, ėmė vyti lietuvius, kuriuos antnokęs su sigrūmė, bet pats su visais savo kareiviais tenai galą gavo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201330"></a>
 - t-001
   global_id: t-201330
-  teiginys: "Daukanto pasakojime Naugardo kunigaikštis Vsevolodas vijosi lietuvius, susikovė su jais ir žuvo kartu su savo kariais."
+  teiginys: "Norėjo dar Vsevolodas, ku nigaikštis Naugardo, lietuviams atmonyti tas nelai mes savo ūkės, kaipogi, tame širdgile surinkęs savo ūkinykus, ėmė vyti lietuvius, kuriuos antnokęs su sigrūmė, bet pats su visais savo kareiviais tenai galą gavo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184680
 
 ## Citatos
 
 - id: c-184680
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 166"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 166."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip nusiaubę visą kraštą, daugybes im­
     tinių į vergus parvarė. Norėjo dar Vsevolodas, ku­
@@ -61,6 +66,7 @@ Nenurodyta
     galą gavo. Nuo to laiko mažne visi Baltieji Gudai
     ir Juodgirėnai paliko lietuvių valdžioj.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

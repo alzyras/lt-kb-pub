@@ -60,6 +60,9 @@ Nenurodyta
 - t-001
   global_id: t-78619
   teiginys: "1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-75849
 
@@ -67,6 +70,19 @@ Nenurodyta
 - t-002
   global_id: t-78620
   teiginys: "Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ketverių metų seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ketverių metų seimas (1788–1792 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ketverių metų seimas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ketverių metų seimas (1788–1792 m.)\" parinktas kaip owner_note_path. Targetas \"Ketverių metų seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas."
   pagrindžia:
     - c-43055
 
@@ -74,6 +90,9 @@ Nenurodyta
 - t-003
   global_id: t-78623
   teiginys: "Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-75848
 
@@ -102,6 +121,7 @@ Nenurodyta
     sutelkė dėmesį į ATR.
   citata_rodoma: "## Puslapis 145\n\nLIETUVOS BRASTOS MŪŠIS 1792\n\nMūšio priešistorė\n\nKetverių metų seimas (1788-1792) 1791 m.\ngegužės 3 d. priėmė ne tik konstituciją, bet\nir daugelį kitų įstatymų, turėjusių refor-\nmuoti valstybę ir atsikratyti Rusijos protek-\ntorato. Tuo metu Rusija kariavo su Švedija\nir Turkija, todėl Abiejų Tautų Respublika\nturėjo tam tikrą veiksmų laisvę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,6 +143,7 @@ Nenurodyta
     ėmėsi reformų.
   citata_rodoma: "Nepaisydamas karaliaus pa-\nstangų, seimas atmetė pasiūlymą\nsudaryti karinę sąjungą su Ru-\nsija ir, Prūsijos palaikomas,\nėmėsi reformų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,6 +164,7 @@ Nenurodyta
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
     praplėsti karaliaus valdžią.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

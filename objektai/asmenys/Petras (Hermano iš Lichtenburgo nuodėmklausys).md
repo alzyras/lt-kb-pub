@@ -43,6 +43,16 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 - t-001
   global_id: t-60407
   teiginys: "Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Šarvai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Petras (Hermano iš Lichtenburgo nuodėmklausys): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Šarvai: mention_match, thing, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras (Hermano iš Lichtenburgo nuodėmklausys)\" parinktas kaip owner_note_path. Targetas \"Šarvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61039
 
@@ -50,6 +60,12 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 - t-002
   global_id: t-197143
   teiginys: "Petras (Hermano iš Lichtenburgo nuodėmklausys) taip nusiaubė šią [žemę], kad kitais metais ji vėl pasidavė tikėjimui bei broliams."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61039
 
@@ -76,6 +92,7 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
     metais ji vėl pasidavė tikėjimui bei broliams.
   citata_rodoma: "Kai brolis\nPetras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų\nsvorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol\ngyvas, juos nusivilkti. Tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį\ntaip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą\njį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

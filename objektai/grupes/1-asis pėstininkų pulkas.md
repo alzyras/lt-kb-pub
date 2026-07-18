@@ -33,6 +33,17 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 - t-001
   global_id: t-78158
   teiginys: "1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Turmantas: 0.56"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "1-asis pėstininkų pulkas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Turmantas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Užėmimas įvyko parėmus 1-ojo pėstininkų pulko batalionui; Turmantas yra leidžiamas vietos kandidatas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "1-asis pėstininkų pulkas užėmė Turmantas (0.56)"
   pagrindžia:
     - c-75466
 
@@ -40,6 +51,10 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 - t-002
   global_id: t-78159
   teiginys: "Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42601
 
@@ -47,6 +62,16 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 - t-003
   global_id: t-78160
   teiginys: "1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zarasai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "1-asis pėstininkų pulkas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Zarasai: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1-asis pėstininkų pulkas\" parinktas kaip owner_note_path. Targetas \"Zarasai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-75467
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
@@ -65,6 +90,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     nepilnos sudėties 4-oji baterija (3 patran-
     kos). Šiai kolonai vadovavo pats Ladyga.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,6 +117,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     nemažų nuostolių ir puolimas nepavyko.
   citata_rodoma: "Tos dienos\nvakare, nežiūrint itin atkaklaus bolše-\nvikų pasipriešinimo, parėmus 1-ojo pės-\ntininkų pulko batalionui, pavyko užimti\nšią stotį, o taip pat ir senus Pirmojo pa-\nsaulinio karo laikų vokiečių apkasus.\n\nTuo tarpu 1-asis pėstininkų pulkas puo-\nlimą pradėjo naktį iš 23 į 24 d. palei Zarasų\nplentą ir siekė pralaužti atsparumu pagarsė-\njusią „Bružų poziciją“, tačiau lietuviai patyrė\nnemažų nuostolių ir puolimas nepavyko."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +138,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     įsakė pulti bolševikus Degučių plentu,
     Zarasų kryptimi.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Posakį „Ar ne medės žirgas!“ Daukantas sieja su žemaičių žirgų auginimu giriose ir laukuose bei jų vertinimu dėl dailumo.
+Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo jo sandraugų vargų ir linksmybės bei tarnu ne vien ūkė j, bet ir karėj.
 
 ## Teiginiai
 
 <a id="claim-t-201257"></a>
 - t-001
   global_id: t-201257
-  teiginys: "Posakį „Ar ne medės žirgas!“ Daukantas sieja su žemaičių žirgų auginimu giriose ir laukuose bei jų vertinimu dėl dailumo."
+  teiginys: "Nėra senų dienų dai nos, kurioje žirgas nebūt garbinamas, kaipogi jis buvo jo sandraugų vargų ir linksmybės bei tarnu ne vien ūkė j, bet ir karėj."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184607
 
 ## Citatos
 
 - id: c-184607
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 85"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 85."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nėra senų dienų dai­
     nos, kurioje žirgas nebūt garbinamas, kaipogi jis
@@ -54,6 +59,7 @@ Posakį „Ar ne medės žirgas!“ Daukantas sieja su žemaičių žirgų augin
     žemlionis po 5, 6 valakus žemės davė už vieną žir­
     gą ir taip negalėjo gauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,13 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
 - t-001
   global_id: t-189248
   teiginys: "Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos prie šventyklų bei kai kuriuose namuose."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172136
 
@@ -50,6 +57,7 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
     sakomą pasibjaurėjimą. Ji taip pat leidžiasi prijaukinama ir
     taip pripranta, kad ją galima išmokyti kai kurių judesių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

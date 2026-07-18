@@ -59,6 +59,19 @@ Nenurodyta
 - t-001
   global_id: t-19548
   teiginys: "1923 m. sausio 9 d. civiliai aprengti 1 050 Lietuvos savanorių peržengė sieną be lietuviškų dokumentų, degtukų ar cigarečių pakelių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuviški dokumentai, degtukai ir cigarečių pakelis Klaipėdos žygyje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuviški dokumentai, degtukai ir cigarečių pakelis Klaipėdos žygyje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1923 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir šnekamosios konstrukcijos; citata leidžia suformuluoti aiškesnį enciklopedinį sakinį."
   pagrindžia:
     - c-22259
 
@@ -74,6 +87,7 @@ Nenurodyta
     ar cigarečių pakelio, peržengė sieną.
   citata_rodoma: "kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

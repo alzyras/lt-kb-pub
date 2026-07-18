@@ -33,6 +33,16 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 - t-001
   global_id: t-36780
   teiginys: "Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ekskomunika: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ekskomunika\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38734
 
@@ -56,6 +66,7 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
     arkivyskupui.
   citata_rodoma: "Vėliau Vytautas popiežiui dar rašė, kad jis nenu­\ntraukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­\nvengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir\nnuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­\nvo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­\nsiuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos\narkivyskupui."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ Reikia tiesiog būti stipresniais.
 - t-001
   global_id: t-39036
   teiginys: "Posakis „Reikia tiesiog būti stipresniais“ apibūdina karių pareigą mūšyje nepasiduoti baimei, panikai ir savisaugos instinktui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-40840
 
@@ -51,6 +54,7 @@ Reikia tiesiog būti stipresniais.
     duoti savisaugos instinktui, kaustančiai baimei, kylančiai panikai
     ir įvykdyti savo pareigą. Reikia tiesiog būti stipresniais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

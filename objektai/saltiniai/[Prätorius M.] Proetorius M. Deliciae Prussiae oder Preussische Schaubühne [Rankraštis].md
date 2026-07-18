@@ -39,6 +39,9 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - t-001
   global_id: t-61260
   teiginys: "M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ rankraštis nurodytas MAB RS fonde F 129-1338."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61892
 
@@ -54,6 +57,7 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne.
   citata_rodoma: "[Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne\n[Rankraštis].— MAB RS, F 129— 1338."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

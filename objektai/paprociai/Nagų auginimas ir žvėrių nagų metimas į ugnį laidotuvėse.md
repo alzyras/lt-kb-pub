@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-07795
   teiginys: "Degindami mirusiuosius į ugnį mėtydavo meškos ir lūšies nagus, o kai kurie prieš mirtį augino nagus, kad galėtų įsikibti kopdami į dangų."
+  atnaujinta: "2026-05-20 21:56"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09951
 
@@ -68,6 +71,7 @@ Nenurodyta
         lipdami ir pasiilsėti galėtų.
   citata_rodoma: "Pagal jų nuomonę į dangų eiti ir doriesiems reikią per didžiai aukštą ir žiaurų kalną ropoti į\naukštybes, todėl, idant lengviau tenai galėtų įlipti, numirėlius degindami, mėčioję į ugnį meškos\nir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti\nlipdami ir pasiilsėti galėtų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

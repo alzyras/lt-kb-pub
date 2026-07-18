@@ -54,6 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-193024
   teiginys: "Narbutas rašo, kad gelonai, prisimindami helenišką kilmę, kasmet siųsdavo į Delą dovanų ir aukų Apolonui."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175794
 
@@ -61,6 +68,12 @@ Nenurodyta
 - t-002
   global_id: t-194873
   teiginys: "Kada įvyko ta revoliucija, privertusi gelonus išvykti iš empo riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus žygio prieš Skitiją gelonai jau seniai gyveno tarp budi nu, susiliejo su jais ir sudarė vieną tautą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177269
 
@@ -80,6 +93,7 @@ Nenurodyta
     65
     Gelonai-budinai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +118,7 @@ Nenurodyta
     ma, kad tai turėjo įvykti ne vėliau kaip VI amžiaus prieš
     Kristaus gimimą antrojoje pusėje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

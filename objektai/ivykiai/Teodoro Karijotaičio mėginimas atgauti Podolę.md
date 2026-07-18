@@ -62,6 +62,12 @@ Nenurodyta
 - t-001
   global_id: t-186703
   teiginys: 'Teodoras Karijotaitis 1402 m. mėgino atgauti Podolę, bet buvo atmuštas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į įvykio objektą ir jo rezultatą. Nepalikta perteklinė redakcinės pastabos atribucija ir nepridėta papildomų biografinių detalių.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1402 m.; įvykio data: 1414 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys sutelktas į įvykio objektą ir jo rezultatą. Nepalikta perteklinė redakcinės pastabos atribucija ir nepridėta papildomų biografinių detalių.'
   pagrindžia:
     - c-169938
 
@@ -69,6 +75,12 @@ Nenurodyta
 - t-002
   global_id: t-186704
   teiginys: 'Redakcinė pastaba teigia, kad 1402 m. Teodoras Karijotaitis mėgino atgauti Podolę, bet buvo atmuštas.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys aiškus, tikslus ir paremtas citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]'
+  temporaliniai_duomenys: 'įvykio data: 1402 m.; įvykio data: 1414 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, tikslus ir paremtas citata.'
   pagrindžia:
     - c-169938
 
@@ -88,6 +100,7 @@ Nenurodyta
     vo atmuštas.
   citata_rodoma: "1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo \nj Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė \nUžkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko \nfunkcijas. Su Teodoru Karijotaičių siejama ligi šiol išlikusi Muka-\nčiovo (UTSR) pilis, o  taip pat legenda apie huculų (ukrainiečių) \nįsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­\nvo atmuštas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

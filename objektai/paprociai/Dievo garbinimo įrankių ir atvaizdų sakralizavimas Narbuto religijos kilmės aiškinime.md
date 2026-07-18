@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194816
   teiginys: "Dėl to buvo išrasti atvaizdai, sim boliai, paminklai, trofėjai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177212
 
@@ -99,6 +106,7 @@ Nenurodyta
     apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą.
   citata_rodoma: "Smarkiai pagausėjus visuomenių, atsirado vidaus saugu­\nmo reikiamybė: visuomenės institucijos ėmė tobulėti, taip pat\ntikėjimas Dievu pakilo į aukštesnį lygį; imta jį skleisti ir pritai­\nkyti dabartinėms reikmėms. Dėl to buvo išrasti atvaizdai, sim­\nboliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­\nliejo su pačia religija, Dievo garbinimo įrankiai virto Dievo\natvaizdais. Perdėtas šito naudojimas lengvai virto paklydimu,\nsiekiančiu taip toli, kad laikui bėgant priemonės, atvaizdai,\nženklai patys virto dievais. Tiesą sako „Antilukrecijaus“ auto­\nrius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir\nžmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­\nnamomis su smilkytuvu rankose“1."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

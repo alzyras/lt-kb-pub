@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto vertinimu, lažą, baudžiavą ir vergybą į lietuvių ir žemaičių kraštus atnešė iš Teutonuos atėję vokiečiai.
+Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats.
 
 ## Teiginiai
 
 <a id="claim-t-201224"></a>
 - t-001
   global_id: t-201224
-  teiginys: "Daukanto vertinimu, lažą, baudžiavą ir vergybą į lietuvių ir žemaičių kraštus atnešė iš Teutonuos atėję vokiečiai."
+  teiginys: "Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184574
 
 ## Citatos
 
 - id: c-184574
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 95"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 95."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Šiandien liku­
     sieji vadinas bajorais taip pat be kokios šviesybės,
@@ -55,6 +60,7 @@ Daukanto vertinimu, lažą, baudžiavą ir vergybą į lietuvių ir žemaičių 
     jiems darė, bet jog jie, vyresniaisiais būdami ir ūkę
     rėdydami, laiko neturėjo duonos sau uždirbtis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

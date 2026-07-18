@@ -51,6 +51,24 @@ Nenurodyta
 - t-001
   global_id: t-185767
   teiginys: "Ginče dėl Podolės lenkai siūlė, kad ateityje Podolė lygiomis teisėmis priklausytų lenkams ir lietuviams."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Braclavas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurga (pasienio seniūnas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Braclavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Jurga apsaugojo Braclavo žemę nuo antpuolių."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Jurga (pasienio seniūnas) gynė Braclavas (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1449 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išvalytas OCR triukšmas ir palikta citatos paremta įvykio esmė."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169128
 
@@ -58,6 +76,13 @@ Nenurodyta
 - t-002
   global_id: t-196253
   teiginys: "Lenkai siūlė Podolės ginčą spręsti panaikinant Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169128
 
@@ -65,6 +90,13 @@ Nenurodyta
 - t-003
   global_id: t-196254
   teiginys: "Kojelavičiaus pasakojime Podolės seimas išsiskirstė nieko nenutaręs ir dar labiau sustiprino abipusį lietuvių bei lenkų nepakantumą."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169128
 
@@ -96,6 +128,7 @@ Nenurodyta
     nutaręs, bet dar labiau sukurstęs abipusį nepakantumą.
   citata_rodoma: "Šitai galima pasiekti tada, kai abi \ntautos gyvensiančios vienodomis teisėmis, valdomos vie­\nno karaliaus, vienoje Lenkijos karalystėje, panaikinus \nLietuvos Didžiosios Kunigaikštystės bei visų Lietuvos \npareigybių vardus, kurie, pirma, rodo, jog valstybė \nesanti padalyta, o antra — visada duos dingstį nesan­\ntaikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­\nvos. Lietuviai, šaukdamiesi dangaus keršto, pakėlė di­\ndelį triukšmą: girdi, ligi šiol patraukliu žodžiu „unija\" \njiems akis muilinę, susimanė galop atimti žemes ir pa­\nsiekti, kad, išnykus lietuvių bei rusų vardams, neliktų \nnė pačios Lietuvos."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

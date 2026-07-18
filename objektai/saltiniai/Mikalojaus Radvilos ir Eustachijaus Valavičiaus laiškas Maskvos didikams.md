@@ -32,6 +32,19 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 - t-001
   global_id: t-186341
   teiginys: "Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Livonija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Augustas ketino ginti Livoniją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169702
 
@@ -39,6 +52,13 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 - t-002
   global_id: t-196360
   teiginys: "Sutarties sąlygose numatyta, kad iš priešo atsiimtas grobis grąžinamas ankstesniems savininkams, o maskvėnų manta dalijama Lietuvai ir Livonijai."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169702
 
@@ -75,6 +95,7 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
     karą.
   citata_rodoma: "Didysis \nLietuvos kunigaikštis bei visi Lietuvos luomai privalą \nginti visą Livoniją ir teutonų riterius, skirdami tam ir \nlėšų, ir karių. Lietuvių etmonai, atžygiavę su kariuo­\nmene į Livoniją ir suderinę karo planus, privalą steng­\ntis, kad kariai, ar įsikurdinę nuolatinėse ar žiemos sto­\nvyklose, ar žygiuodami per kraštą, nedarytų jokios \nžalos. Iš priešo atsiimtas grobis atiteksiąs tam, kam \nanksčiau priklausė: ar lietuviams, ar Livonijos žmo­\nnėms, o maskvėnams priklausiusi manta būsianti dalo­\nma po lygiai tarp Lietuvos ir Livonijos."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

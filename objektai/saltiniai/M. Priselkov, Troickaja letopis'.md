@@ -8,13 +8,13 @@ datos:
   - '1950 m.'
 date_start: '1406'
 date_end: '1950'
+amziai:
+  - 'XV'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XV'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,18 +37,23 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 ## Teiginiai
 
 <a id="claim-t-31842"></a>
-- t-002
-  global_id: t-31842
-  teiginys: "M. Priselkovo „Troickaja letopis''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje."
-  pagrindžia:
-    - c-33660
-
-<a id="claim-t-31842"></a>
 - t-001
   global_id: t-31842
-  teiginys: 'M. Priselkovo „Troickaja letopis''''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje.'
+  teiginys: "M. Priselkovo „Troickaja letopis''“ minima kaip 1950 m. leidinys, cituojamas 457 puslapyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Priselkov, Troickaja letopis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Priselkov, Troickaja letopis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-001
+    - c-33660
 
 ## Citatos
 
@@ -72,6 +77,7 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
     (^49) **PSRL, 11, 193-194.
   citata_rodoma: "vasarą su lietuviu, lenku ir kryžiuočiu būriais (ordinas atsiuntė\n(^47) **A. Nasonov :** **_Novogrodskaja pervaja letopis' staršego i mladšego izvo-\ndov_** **, Moskva-Leningrad 1950, 398 p.—M. Priselkov :** **_Troickaja letopis',_**\n**1950, 457 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

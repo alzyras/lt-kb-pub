@@ -35,6 +35,12 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
 - t-001
   global_id: t-199235
   teiginys: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntinius, primindami jam, kad jis tu rįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo užstatyta Žemaitija7 ."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181754
 
@@ -57,6 +63,7 @@ O paskui vokiečiai atsiuntė pas didjjį kunigaikštį Vytautą savo pasiuntini
     kęs nusiuntė jiems visą auksinų sumą.
   citata_rodoma: "O paskui vokiečiai atsiuntė pas didjjį kunigaikštį \nVytautą savo pasiuntinius, primindami jam, kad jis tu­\nrįs grąžinti tuos tris šimtus auksinų, už kuriuos buvo \nužstatyta Žemaitija7 . Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

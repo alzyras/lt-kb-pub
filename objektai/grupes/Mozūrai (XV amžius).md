@@ -35,6 +35,16 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - t-001
   global_id: t-11083
   teiginys: "Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mozūrai (XV amžius): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozūrai (XV amžius)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-13635
 
@@ -42,6 +52,12 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - t-002
   global_id: t-193119
   teiginys: "Senieji aisčių kaimynai vakaruose buvo lenkams artimi pamarėnai (už Vyslos), pietuose buvo mozūrai, kurių sodybos susisiekė su prūsų giminių ir jotvingų sodybomis."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175879
 
@@ -49,6 +65,12 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - t-003
   global_id: t-193120
   teiginys: "Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo ne tik Mozūrus, bet ir tolimąją Krokuvą."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175880
 
@@ -56,6 +78,12 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 - t-004
   global_id: t-194943
   teiginys: "O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovaujami podoliečiai."
+  atnaujinta: "2026-07-06 12:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177339
 
@@ -71,6 +99,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
         valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
   citata_rodoma: "Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo\nprekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,\nvalakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,6 +118,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
     bos susisiekė su prūsų giminių ir jotvingų sodybomis. Dar toliau
     į pietus jotvingai ribojosi su lenkais ir Voluinės rusais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +136,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
     (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
     vedė net jo dukterį.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +155,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
     Melštino vadovaujami podoliečiai. Vytautas ir be jų turėjo
     pakankamai kariuomenės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

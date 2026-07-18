@@ -62,6 +62,12 @@ Nenurodyta
 - t-001
   global_id: t-186799
   teiginys: 'LDK ir Lenkijos talkos delegacijos nariai įgaliojamuosius raštus gavo Vilniuje 1503 m. sausio 9 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatą apie įgaliojamuosius raštus Vilniuje. Nepridėtos kelionės ir derybų datos, nes jos sudaro atskirus faktus.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Kaunas'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.; įvykio data: 1528 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatą apie įgaliojamuosius raštus Vilniuje. Nepridėtos kelionės ir derybų datos, nes jos sudaro atskirus faktus.'
   pagrindžia:
     - c-169986
 
@@ -69,6 +75,12 @@ Nenurodyta
 - t-002
   global_id: t-186800
   teiginys: 'LDK ir Lenkijos talkos derybos Maskvoje prasidėjo 1503 m. kovo 7 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie derybų pradžią, vietą ir datą. Nepridėtas delegacijos įgaliojimų ar kelionės kontekstas, nes citata palaiko atskirą trumpą faktą.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1503 m.; įvykio data: 1528 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie derybų pradžią, vietą ir datą. Nepridėtas delegacijos įgaliojimų ar kelionės kontekstas, nes citata palaiko atskirą trumpą faktą.'
   pagrindžia:
     - c-169986
 
@@ -76,6 +88,12 @@ Nenurodyta
 - t-003
   global_id: t-186801
   teiginys: 'LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nusako delegacijos išvykimą ir atvykimą pagal citatą. Atribucija nereikalinga, nes tai neutralus chronologinis faktas, ne vertinimas ar legendinis pasakojimas.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'kelionės data: 1503 m.; kelionės data: 1528 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako delegacijos išvykimą ir atvykimą pagal citatą. Atribucija nereikalinga, nes tai neutralus chronologinis faktas, ne vertinimas ar legendinis pasakojimas.'
   pagrindžia:
     - c-169986
 
@@ -94,6 +112,7 @@ Nenurodyta
     1503.111,7.
   citata_rodoma: "n  LDK ir Lenkijos talkos delegacijos nariai gavo Įgaliojamuo­\nsius rašius Vilniuje 1503.1.9. | M askvą išvyko 1503 m. vasario mėn. \npradžioje, atvyko 1503 m. kovo 4 d. Talkos derybos prasidėjo \n1503.111,7."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,6 +38,17 @@ Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama
 - t-001
   global_id: t-200433
   teiginys: "Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama kaip pagrindinis šaltinis jo mintims ir siekiams pažinti."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Dominykas Lopacinskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Dominykas Lopacinskis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183824
 - susijęs iš [[objektai/asmenys/Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.).md#claim-t-200578|Jonas Dominykas Lopacinskis (Vilniaus kanauninkas ir Žemaičių vyskupas, XVIII a.)]]: Jonas Dominykas Lopacinskis buvo kilęs iš gana įtakingos bajorų giminės.
@@ -91,6 +102,7 @@ Jono Dominyko Lopacinskio gausi asmeninė korespondencija straipsnyje pateikiama
     gausi jo asmeninė korespondencija.
   citata_rodoma: "Apie minėtąjį dvasininką – jo mintis ir siekius – sužinoti leidžia \ngausi jo asmeninė korespondencija."
   statusas: verified
+  atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

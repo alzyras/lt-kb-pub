@@ -42,6 +42,16 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 - t-001
   global_id: t-87696
   teiginys: "Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Izabelė Jogailaitė: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izabelė Jogailaitė\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83675
 
@@ -95,6 +105,7 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
     valo atitekti.
   citata_rodoma: "Prašome jų didenybių rnūsų \nseserų, kad nesiteiktų mūsų bloguoju minėti, kad perspėjo- \nme darydami šį gerą darbą dėl to, kad iš meilės Respublikai \nir pačioms jų didenybėms, nelinkime jokio sunkumo, kaip \npačioms jų didenybėms, taip ir Respublikai, kurio, tikime, kad \ntaip pat jų didenybės nei sau, nei Respublikai nelinkės; be to, \ntaip pat dar turime vieną seserį, kuri neišleista už vyro ir da­\nlis jai neatiduota, turime po tėvų mirties likusią našlaitę jos \ndidenybę karalaitę Oną ir kitą jos didenybę karalaitę Kotry­\nną, Švedijos karalienę, jau išleistą už vyro. Ir ši iki šiol neap­\nrūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių \nsunkumų, taip pat norime, kad abiems jų didenybėms būtų \natiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­\nsų seserims - jos didenybei karalaitei Izabelei, Vengrijos\n—  • — \n339\n\n## Puslapis 356\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienei, ir jos didenybei karalaitei Sofijai, Braunsbergo \nkunigaikštienei, tai yra, kad jų didenybėms taip pat, kaip \nir šioms, būtų duota grynais po tris dešimtis ir du tūkstan­\nčius vengriškų zlotų auksu, o atskirai jos didenybei kara­\nlaitei Onai tūkstantį raudonųjų vengriškų zlotų auksu gry­\nnais, taip pat visas mūsų teises, kurias tik turime po velionės \njos didenybės karalienės ponios motinos Bario ir Rezano ku­\nnigaikštystėse ir kitą turtą - kilnojamąjį ir nekilnojamąjį - \nNeapolio karalystėje arba tuo atžvilgiu, kas yra pas jo dide­\nnybę Ispanijos karalių Pilypą, jų didenybėms perleidžiame, \nduodame ir atsisakome taip pat įsipareigotos pagal Kroku­\nvos seimo konstituciją 1540 metais, mūsų tarybų ponų ir \nkrašto pasiuntinių leidimu, tam tikras jos didenybės velio­\nnės mūsų ponios motinos pinigų sumas tiek Krokuvos stalo \nžemietijos valdose, čia, Lenkijoje, tiek ir LDK žemės valdo­\nse, kas yra pažymėta Karalystėje ir Lietuvoje tam tikrais už­\nrašymais ir raštais, taip pat yra aprašyta byla ir jos dideny­\nbės ponios mūsų motinos mieste."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

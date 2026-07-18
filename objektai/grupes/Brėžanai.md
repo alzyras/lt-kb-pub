@@ -33,6 +33,21 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 - t-001
   global_id: t-192994
   teiginys: "Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Stodorėnai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brėžanai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Stodorėnai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Brėžanai ir stodorėnai nurodyti kaip priklausę tai pačiai sąjungai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Brėžanai buvo sąjungininkas su Stodorėnai (0.72)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175764
 
@@ -40,6 +55,12 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 - t-002
   global_id: t-197492
   teiginys: "Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he rulai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175764
 
@@ -85,6 +106,7 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
     tuvių kartos.
   citata_rodoma: "Bet \nšis pavadinimas aprėpė įvairias arti viena kitos taikiai \ngyvenusias arba tam tikrai lygai priklausiusias gentis, o \nta Havolija plytėjo prie Havolos, Sprė ir dalies Elbės. \nŠiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­\nrulai. Taip pat neabejotina, kad senovės valetabai ir lu- \nžitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie­\ntuvių kartos."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,6 +53,18 @@ Nenurodyta
 - t-001
   global_id: t-187980
   teiginys: "Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "interpretacija"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Atrimpo vandens indas arba urna su žalčiu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=82"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atrimpo vandens indas arba urna su žalčiu\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-170987
 
@@ -60,6 +72,10 @@ Nenurodyta
 - t-002
   global_id: t-187981
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170988
 
@@ -67,6 +83,13 @@ Nenurodyta
 - t-003
   global_id: t-188374
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171268
 - susijęs iš [[objektai/autoriai/Liudvikas Adomas Jucevičius.md#claim-t-188441|Liudvikas Adomas Jucevičius]]: Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“.
@@ -128,6 +151,7 @@ Nenurodyta
     džiulį žaltį, tai yra žalčių karalių *.
   citata_rodoma: "Visa tai galima suderinti, padarius prielai­\ndą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje\nvonioje. Taigi senovės lietuviai šį jūrų dievą vaizdavo kaip di­\ndžiulį žaltį, tai yra žalčių karalių *."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -150,6 +174,7 @@ Nenurodyta
     tai yra tik tarminė vardo atmaina.
   citata_rodoma: "Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,6 +199,7 @@ Nenurodyta
     ryt i baimės net drąsiausiems jūreiviams.
   citata_rodoma: "Šitoks lietuvių supratimas galėjo apdovanoti\namžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­\nnųjį ir pirmykštį pradą, kad parodytų nepaliaujamą gyvųjų bū­\ntybių ir augalų atsinaujinimą.\nAtrimpo ženklas buvo javų pėdu uždengtas indas arba ur­\nna, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­\ngo Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,\nprie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

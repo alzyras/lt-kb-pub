@@ -35,24 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Gereimantas 1285 m. užbaigė Vilniaus žinyčios statybą prie Vyliaus ir Neries santakos.
+Šventaragis, didysis Lietuvos kunigaikštis, gražiame ąžuolyne ant santeklio Vyliaus ir Neries upių (šian dien Vilijos ir Vilenkos), kurioje vietoj dabar ka tedra Vilniaus riogso, padėjo pamatus garbingai žinyčiai, o sūnus jo Gereimantas metuose 1285 ją.
 
 ## Teiginiai
 
-<a id="claim-t-201405"></a>
+<a id="claim-t-201408"></a>
 - t-001
-  global_id: t-201405
-  teiginys: "Daukanto pasakojime Gereimantas 1285 m. užbaigė Vilniaus žinyčios statybą prie Vyliaus ir Neries santakos."
+  global_id: t-201408
+  teiginys: "Šventaragis, didysis Lietuvos kunigaikštis, gražiame ąžuolyne ant santeklio Vyliaus ir Neries upių (šian dien Vilijos ir Vilenkos), kurioje vietoj dabar ka tedra Vilniaus riogso, padėjo pamatus garbingai žinyčiai, o sūnus jo Gereimantas metuose 1285 ją."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184755
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-201051|Šventaragis]]: Daukanto pasakojime Šventaragis prie Vilios ir Neries santakos padėjo Vilniaus žinyčios pamatus, o Gereimantas 1285 m. ją baigė statyti.
-- susijęs iš [[objektai/ivykiai/Vilniaus žinyčios įkūrimas.md#claim-t-201350|Vilniaus žinyčios įkūrimas]]: Daukanto pasakojime Šventaragis padėjo Vilniaus žinyčios pamatus prie Vilios ir Neries santakos, o Gereimantas ją baigė statyti 1285 m.
+    - c-184758
+
 ## Citatos
 
-- id: c-184755
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 103"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 103."
+- id: c-184758
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilniaus žinyčia yra dar aiškesniai aprašyta.
     Šventaragis, didysis Lietuvos kunigaikštis, gražiame
@@ -65,8 +69,9 @@ Daukanto pasakojime Gereimantas 1285 m. užbaigė Vilniaus žinyčios statybą p
     turįs pereinamas duris per koplyčią, kurioje šventi
     ir stebuklingi daiktai buvo laikomi.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201405
+    - t-201408

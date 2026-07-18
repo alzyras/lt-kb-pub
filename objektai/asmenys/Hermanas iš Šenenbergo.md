@@ -42,6 +42,20 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - t-001
   global_id: t-60327
   teiginys: "Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Sūduviai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas iš Šenenbergo (karvedys, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata aprašo Hermano kovas su į Kulmo žemę įsibrovusiais sūduviais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo prieš Sūduviai (0.86); Hermanas iš Šenenbergo (karvedys, XIII a.) gynė Kulmas (0.78)"
+  temporaliniai_duomenys: "įvykio data: iki 1277 m.; įvykio data: po 1262 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: po 1276 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį."
   pagrindžia:
     - c-60959
 
@@ -73,6 +87,7 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
     kariuomenės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

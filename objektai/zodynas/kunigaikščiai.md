@@ -34,6 +34,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - t-001
   global_id: t-03055
   teiginys: "Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-03293
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
@@ -333,6 +336,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
     valdovais — kunigaikščiais.
   citata_rodoma: "Bet šitoki\nsusijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami\nbendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių\ntokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai\ntarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais\nvaldovais — kunigaikščiais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

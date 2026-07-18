@@ -32,6 +32,19 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - t-001
   global_id: t-186205
   teiginys: "Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Polona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Grigorijus iš Polonos: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Polona: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus iš Polonos\" parinktas kaip owner_note_path. Targetas \"Polona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169566
 
@@ -39,6 +52,13 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - t-002
   global_id: t-196466
   teiginys: "Kojelavičiaus pasakojime Grigorijus iš Polonos prie Naugarduko pasistatė vienuolyną ir su bendraminčiais ėmė dievobaimingai gyventi."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-169566
 
@@ -69,6 +89,7 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
     kraują.
   citata_rodoma: "Vaišvilkas mat, pasipiktinęs savo tėvo Min­\ndaugo atsimetimu nuo krikščionių tikybos, pabėgo pas\nrusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­\nkeitus aplinkybėms, jo širdis ten palinko niekinti visa,\nkas žemiška, todėl, išpažinęs griežtesnių regulų gyve­\nnimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-\nliče. Gal dėl kitos priežasties, o gal vildamasis atvers­\nti į krikščionių tikėjimą tėvą karalių bei savo tautą,\niš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­\nko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė\nsu daugeliu tokio pat gyvenimo bendrininkų dievo­\nbaimingai ir pastoviai gyventi, kartkartėmis, tiesa,\nkurstomas didikų."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,20 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
 - t-001
   global_id: t-191445
   teiginys: "Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė lenkų kunigaikštis, pasivadinęs Misica."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Muratoris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muratoris\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174327
 - susijęs iš Muratori Antiquitates Italicae medii aevi: Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją.
@@ -52,6 +66,7 @@ Muratoris išsaugojo apaštališkajam sostui skirtą donaciją, kurią sudarė l
     Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
     valdęs nuo 964 iki 999 metų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

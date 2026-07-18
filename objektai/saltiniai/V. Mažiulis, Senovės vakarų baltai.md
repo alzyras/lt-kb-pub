@@ -28,12 +28,14 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
 
 ## Teiginiai
 
-<a id="claim-t-61012"></a>
+<a id="claim-t-61013"></a>
 - t-001
-  global_id: t-61012
+  global_id: t-61013
   teiginys: "V. Mažiulio „Senovės vakarų baltai“ cituojama nurodant 7 puslapį."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61644
     - c-61645
 
 ## Reikšmingi paminėjimai
@@ -83,6 +85,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
     agresija.
   citata_rodoma: "19 Mažiulis V. Senovės vakarų baltai..., p. 7."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +103,7 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
     čia kalbos, materialinės ir dvasinės kultūros, socialinės santvarkos bendrybės.
   citata_rodoma: "14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.\n7; Lietuvininkai."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

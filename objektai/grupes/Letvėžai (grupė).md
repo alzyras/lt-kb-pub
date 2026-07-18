@@ -34,23 +34,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad gilioje senovėje letvėžais vadinti kraštai buvo apgaubti nežinios.
+7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti.
 
 ## Teiginiai
 
 <a id="claim-t-201247"></a>
 - t-001
   global_id: t-201247
-  teiginys: "Daukantas rašo, kad gilioje senovėje letvėžais vadinti kraštai buvo apgaubti nežinios."
+  teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184597
-- susijęs iš [[objektai/grupes/Prūsai.md#claim-t-201458|Prūsai]]: Daukanto pasakojime dabartinių lietuvių ir žemaičių gyvenami kraštai gilioje senovėje vadinami prūsais, žemgaliais ir letvėžais.
+
 ## Citatos
 
 - id: c-184597
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 20-21"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 20-21."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Sigismuntas III Augustas 1540—1572.
     7-oji dalis
@@ -65,6 +70,7 @@ Daukantas rašo, kad gilioje senovėje letvėžais vadinti kraštai buvo apgaubt
     loj* tamsybėj, geisdamas tenai bent vardą lietuvių
     bei žemaičių rasti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

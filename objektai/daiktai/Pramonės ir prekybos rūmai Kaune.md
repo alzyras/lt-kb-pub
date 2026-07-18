@@ -62,6 +62,20 @@ Nenurodyta
 - t-001
   global_id: t-25169
   teiginys: "Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pramonės ir prekybos rūmai Kaune: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Objektas tiesiogiai įvardytas kaip esantis Kaune."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Pramonės ir prekybos rūmai Kaune priklausė Kaunas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir OCR triukšmas, išlaikyti citatoje esantys faktai."
   pagrindžia:
     - c-25725
 
@@ -82,6 +96,7 @@ Nenurodyta
     formuotis tautiniam kultūros elitui.
   citata_rodoma: "L I E T U V O S  I S T O R I J A\n172\nArchitektūros raida: Pramonės ir prekybos rūmai Kaune.  \nArchitektas V. Landsbergis-Žemkalnis, 1938\nA."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

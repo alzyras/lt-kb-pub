@@ -54,6 +54,19 @@ Nenurodyta
 - t-001
   global_id: t-192083
   teiginys: "Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Baltvyžių girios: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Baltvyžių girios auksinė moneta su riteriu ir lokiu: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Baltvyžių girios: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje moneta priskiriama tam kraštui; pagal claim kontekstą tai Baltvyžių girios."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Baltvyžių girios auksinė moneta su riteriu ir lokiu priklausė Baltvyžių girios (0.66)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-174952
 
@@ -73,6 +86,7 @@ Nenurodyta
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
   citata_rodoma: "Be jokios abejonės moneta priklauso tam kraštui ir tai tau ­\ntai, kaip pavaizduota piešinyje, tik nepalyginti meistriškiau nu­\nkalta tokiu pat stiliumi kaip gerais Romos cezarių laikais. Pieši­\nnys ir graviūra, ypač biusto, labai gerai išsilaikiusi. Man tikslią\npiešinio kopiją atsiuntė ponas Marcinovskis, „Kurjer Litewski“\nredaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir\ntikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

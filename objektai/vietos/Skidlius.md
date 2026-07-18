@@ -38,6 +38,20 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
 - t-001
   global_id: t-192899
   teiginys: "Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu buvo krikštijami Jotvingijos pagonys."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jotvingija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skidlius: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingija: mention_match, place, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skidlius\" parinktas kaip owner_note_path. Targetas \"Jotvingija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175669
 - susijęs iš Vengrija: Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje.
@@ -78,6 +92,7 @@ Prie Skidliaus cerkvės rastas 1553 metų užrašas liudijo, kad joje tuo metu b
     kultūra, amatais ir gražesniu kūno sudėjimu.
   citata_rodoma: "Tai aiškūs dviejų skirtingų religijų kolonistų, at­\nvestų iš Jotvingijos, pėdsakai. Taip pat pavyko rasti prie\nSkidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje\ncerkvėje tuo metu buvo krikštijami Jotvingijos pagonys1.\nTurime akivaizdų įrodymą, jog jazigai dar XV amžiuje\ngyveno Vengrijoje arba gretimuose kraštuose."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

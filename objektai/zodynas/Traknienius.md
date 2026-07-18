@@ -56,6 +56,10 @@ Terminas vartojamas ūkinių darbų sekoje, kai ruošiama medžiaga stogui dengt
 - t-001
   global_id: t-195461
   teiginys: "Traknieniai šiame šaltinyje reiškia darbą, susijusį su pėdų laužymu ir trynimu."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177882
 
@@ -78,6 +82,7 @@ Terminas vartojamas ūkinių darbų sekoje, kai ruošiama medžiaga stogui dengt
     dirba „traknienius“ ; tais krato tvartus arba šeria gyvulius.
   citata_rodoma: "Taip iš­\nkūlę, \ndirba stogui dengti kūlius arba laužo ir trina pėdus, vadinasi, \ndirba „traknienius“ ; tais krato tvartus arba šeria gyvulius"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-189834
   teiginys: "Pasak Narbuto minimų padavimų, pūtikas žodžiais galėjęs sulaikyti kraują, tekantį iš perkirstos gyslos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172717
 
@@ -87,6 +94,7 @@ Nenurodyta
     šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
   citata_rodoma: "Pūtikai (Pustones)\nYpatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­\ntimu. Iš to taip pat kilęs jų pavadinimas, kuris reiškia putėją.\nPasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas\ngalėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

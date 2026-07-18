@@ -55,6 +55,21 @@ Nenurodyta
 - t-001
   global_id: t-62269
   teiginys: "1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "keliavo_i -> Aukaimis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Girdila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Girdilos judėjimą prie Aukaimio pilies."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1285 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata."
   pagrindžia:
     - c-62788
 
@@ -62,6 +77,12 @@ Nenurodyta
 - t-003
   global_id: t-194386
   teiginys: "Apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62788
 
@@ -110,6 +131,7 @@ Nenurodyta
     po 20 markių dalies.
   citata_rodoma: "Apie išdavystę, per kurią žuvo šimtas krikščionių\n\n  1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai\ngerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams\nvisokeriopų eibių. Kai broliai jam juos išskyrė, jis  ir patraukė su jais prie Aukaimio\npilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga\njuos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.\n\n\n\n\n\n    227 (222)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -57,9 +57,13 @@ Nenurodyta
 - t-001
   global_id: t-195311
   teiginys: "Virvė minima tiek lauko darbuose, tiek buitinio pokšto pasakojime."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177688
     - c-177689
+    - c-177688
 - susijęs iš [[objektai/daiktai/Liuntas.md#claim-t-195325|Liuntas]]: Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas.
 - susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
 - susijęs iš [[objektai/daiktai/Pavaža.md#claim-t-195350|Pavaža]]: Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą.
@@ -85,6 +89,7 @@ Nenurodyta
     labiau.
   citata_rodoma: "Kai siuvėjas atsigulė, jis truputį trūktelėjo virvę, paskui labiau."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +109,7 @@ Nenurodyta
     važiuodamos buvo pasitvarkslavę šienviržėmis virvėmis.
   citata_rodoma: "Arkliai vedami už pavadžių; vadžių čia nėra; mergaitės at­\nvažiuodamos buvo pasitvarkslavę šienviržėmis virvėmis."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

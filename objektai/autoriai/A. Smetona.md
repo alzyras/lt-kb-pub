@@ -42,6 +42,12 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - t-001
   global_id: t-193703
   teiginys: "Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176372
 
@@ -49,6 +55,12 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - t-002
   global_id: t-193704
   teiginys: "Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176373
 
@@ -67,6 +79,7 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
     dė neatitinkąs tautos interesų, apleidžiantis lietuvybės sklaidą, sudarantis
     grėsmę bolševizmui tarpti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,6 +104,7 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
     Antanas Smetona – Lietuvos prezidentas
     1919–1920 ir 1926–1940 m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,6 +42,17 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 - t-001
   global_id: t-60325
   teiginys: "Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hermanas Bartas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Hermano Barto palaidojimo vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hermanas Bartas buvo palaidotas Akonas (0.95)"
   pagrindžia:
     - c-60957
 
@@ -85,6 +96,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
     tačiau Dusburgietis ir kiti vokiečių autoriai ji vadina Henriku.
   citata_rodoma: "Apie brolį Hermaną, trečią magistrą\n\n   Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė\ngegužės 20 dieną ir palaidotas Akone157.\n\n\n\n\n               5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą\n\n   Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,\no mirė liepos 24 dieną  ir palaidotas Barletoje158."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

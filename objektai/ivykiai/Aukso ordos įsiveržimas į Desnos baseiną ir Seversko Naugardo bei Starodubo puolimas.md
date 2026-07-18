@@ -65,6 +65,21 @@ Nenurodyta
 - t-002
   global_id: t-186784
   teiginys: "1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1500 m.; įvykio data: 1501 m.; įvykio data: apie 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pašalinta nereikalinga redakcinės pastabos įžanga ir tiksliau perteikta citata."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-169979
 
@@ -72,6 +87,12 @@ Nenurodyta
 - t-001
   global_id: t-186782
   teiginys: 'Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Pašalinta įžanga ir išlaikyta citatos paremta informacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Severskas; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Pašalinta įžanga ir išlaikyta citatos paremta informacija.'
   pagrindžia:
     - c-169978
 
@@ -79,6 +100,12 @@ Nenurodyta
 - t-003
   global_id: t-186785
   teiginys: 'Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys padarytas tiesioginis ir įtrauktas citatoje nurodytas laiko patikslinimas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Naugardas; mentioned_place: Severskas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys padarytas tiesioginis ir įtrauktas citatoje nurodytas laiko patikslinimas.'
   pagrindžia:
     - c-169978
 
@@ -95,8 +122,8 @@ Nenurodyta
     įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
     gininko.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,6 +150,7 @@ Nenurodyta
     lynės žemės maršalu jau 1500 m. gruodžio mėn. ir dar 150!
   citata_rodoma: "Pa­\ngal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir \nDono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­\npjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­\nseine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

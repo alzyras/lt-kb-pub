@@ -40,6 +40,20 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 - t-001
   global_id: t-35189
   teiginys: "Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Vilnius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė objektą į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas."
   pagrindžia:
     - c-38073
 
@@ -63,6 +77,7 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
     baigos.
   citata_rodoma: "Apie tai galima spręsti iš to, kad Jogaila, kartu su\n„brangiausia žmona“, taikos vardan pasiuntė į Vilnių per jo se­\nną gynėją Klemensą iš Moskoževo, papuoštą knygą apie Kris­\ntaus kančias, padėtą Vilniaus Katedroj jos patronų garbei (bu­\nvo ir tam tikras raštas).\nKuo būdu stengtasi išlyginti nesusipratimas, apie tai\nliudija ir Vytauto titulas: „ex parte Regni Poloniae supremi du­\ncis Lituaniae“, kokį duoda Vytautui anas raštas iš 1398 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -64,17 +64,25 @@ Nenurodyta
 - t-001
   global_id: t-195370
   teiginys: "Kūlimo metu klojime klausytasi juokavimų ir pasakų."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177786
     - c-177787
+    - c-177786
 
 <a id="claim-t-195371"></a>
 - t-002
   global_id: t-195371
   teiginys: "Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177784
     - c-177785
+    - c-177784
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -95,6 +103,7 @@ Nenurodyta
     juokingo žodžio užtenka viso ryto nuotaikai pakelti.
   citata_rodoma: "Vieno juokingo žodžio užtenka viso ryto nuotaikai pakelti."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +123,7 @@ Nenurodyta
     tuvė“ .
   citata_rodoma: "Pramogos užtekdavo keliems rytams. Kitą sykį mergaitė pasakė, kad spragilo siautuvė kitur vadinasi „keltuvė“ . Iš to Juozas pasigavo ir sako: „Žiūrėkite, kas jai galvoje, mat, „prikeltuvė“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +144,7 @@ Nenurodyta
     Štai pasakos klojime girdėtos.
   citata_rodoma: "Štai pasakos klojime girdėtos."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,6 +168,7 @@ Nenurodyta
     klausydavau juokavimų.
   citata_rodoma: "Aš kurstydavau, šildydavaus ir klausydavau juokavimų."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

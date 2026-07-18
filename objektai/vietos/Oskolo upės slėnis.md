@@ -33,6 +33,21 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
 - t-001
   global_id: t-192888
   teiginys: "Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir iš to sprendė, kad gelonai gyveno Starobelsko apskrityje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Oskolo upės slėnis: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Oskolo upės slėnis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Oskolo upės slėnis nurodomas budinų gyvenamųjų vietovių viduryje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Budinai gyveno Oskolo upės slėnis (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175658
 
@@ -81,6 +96,7 @@ Narbutas Oskolo upės slėnį laikė budinų gyvenamųjų vietovių viduriu ir i
     takoje.
   citata_rodoma: "Išplėtus senų ¡senovės budinu\ngyvenamąsias vietoves nuo Dono į vakarus taip, kad jų\n1 Dissert, de Situ Scyth, Comment. Acad, Petrop. T. 1.\n207\n\n## Puslapis 205\n\nI\nviduryje atsiduria Oskolo upės slėnis, galima lengvai su­\nprasti, kad gelonai gyveno1 šiandienėje Starobelsko ap­\nskrityje, arba prie Doneco ir Sulos aukštupių (§58)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

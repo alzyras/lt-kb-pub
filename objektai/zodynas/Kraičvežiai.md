@@ -56,6 +56,10 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 - t-001
   global_id: t-195626
   teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178028
 
@@ -63,6 +67,10 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 - t-002
   global_id: t-195627
   teiginys: "Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178029
 - susijęs iš [[objektai/zodynas/Plunksnų pirkliai.md#claim-t-195628|Plunksnų pirkliai]]: Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais.
@@ -83,6 +91,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     Jaunikio namuose kraitį iškelia iš ratų ir pastato kieme.
   citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +113,7 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
     tai kraičvežiai.
   citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

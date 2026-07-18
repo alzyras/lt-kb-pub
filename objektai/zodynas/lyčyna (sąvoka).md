@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto vartojama lyčyna reiškia tikybos kaukę, kuria, jo vaizdavimu, krikščionys dangsto ketinimą įvilioti kitus į žabangus.
+Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tikybos.
 
 ## Teiginiai
 
 <a id="claim-t-201225"></a>
 - t-001
   global_id: t-201225
-  teiginys: "Daukanto vartojama lyčyna reiškia tikybos kaukę, kuria, jo vaizdavimu, krikščionys dangsto ketinimą įvilioti kitus į žabangus."
+  teiginys: "Yra tai jų žabangai, kuriuose nori mus nuspęsti, užsimovę lyčyna savo tikybos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184575
 
 ## Citatos
 
 - id: c-184575
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 358"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 358."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Už ką tie kraugeriai vadina
     mus bedieviais, netikėliais, piktesniais už žvėris, ar
@@ -62,6 +67,7 @@ Daukanto vartojama lyčyna reiškia tikybos kaukę, kuria, jo vaizdavimu, krikš
     niais, kuriuos jau perkrikštijo krikščionys, tas ir
     * Viršuj: bruks.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

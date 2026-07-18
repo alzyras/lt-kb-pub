@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime teutonų ciesorius Otas išsiuntė Magdeburgo arkivyskupą Vaitiekų į Parusnį skelbti evangelijos. Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus žūtį, pasiuntė į Parusnį pasiuntinius, kad šie atpirktų jo kūną.
+Paskesniai būk Otas, teutonų ciesorius, išsiuntęs tyčioms jau arkivyskupą Magdeburgo, vardu Vai tiekų (Adalbertą), į Parusnį netikėliams teisybę evangelijos skelbti, kursai, nemokėdamas kalbos lie tuvių, nieko gero nenuveikęs, namon sugrįžo1. Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,23 +41,34 @@ Nenurodyta
 <a id="claim-t-201264"></a>
 - t-001
   global_id: t-201264
-  teiginys: "Daukanto pasakojime teutonų ciesorius Otas išsiuntė Magdeburgo arkivyskupą Vaitiekų į Parusnį skelbti evangelijos."
+  teiginys: "Paskesniai būk Otas, teutonų ciesorius, išsiuntęs tyčioms jau arkivyskupą Magdeburgo, vardu Vai tiekų (Adalbertą), į Parusnį netikėliams teisybę evangelijos skelbti, kursai, nemokėdamas kalbos lie tuvių, nieko gero nenuveikęs, namon sugrįžo1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184614
 
 <a id="claim-t-201265"></a>
 - t-002
   global_id: t-201265
-  teiginys: "Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus žūtį, pasiuntė į Parusnį pasiuntinius, kad šie atpirktų jo kūną."
+  teiginys: "Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184615
 
 ## Citatos
 
 - id: c-184614
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 136"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 136."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas bū­
     damas, vienok tuodu vyru daug tenai apkrikštijo
@@ -77,6 +88,7 @@ Nenurodyta
     rėjo pas Boleslovą Kantrųjį, lenkų karalių, atsidan­
     ginti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,9 +96,8 @@ Nenurodyta
     - t-201264
 
 - id: c-184615
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 139"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­
@@ -99,6 +110,7 @@ Nenurodyta
     tinius į Parusnį. Bet netikėliai norėjo pagal smagu­
     mą kūno sidabro gauti lygų luitą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

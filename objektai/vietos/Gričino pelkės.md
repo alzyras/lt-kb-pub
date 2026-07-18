@@ -33,6 +33,11 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
 - t-001
   global_id: t-187576
   teiginys: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys jau yra pilnas, gramatiškas lietuviškas sakinys apie Gričino pelkes. Jis tiksliai perteikia leidimo pastabos informaciją ir neprideda papildomų faktų.'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_place: Pripetė'
   pagrindžia:
     - c-170524
 - susijęs iš Davidgorodokas: Gorodokas veikiausiai tapatinamas su Davidgorodoku.
@@ -52,6 +57,7 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
     120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
     upės).
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

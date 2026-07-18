@@ -48,6 +48,21 @@ Paplauja čia minima kaip apsistojimo vieta Vilniuje.
 - t-001
   global_id: t-200572
   teiginys: "1754 m. Benediktas Tyzenhauzas buvo siejamas su Paplauja, kur pas jį nuolat lankydavosi Antanas Davainis Solohubas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Paplauja: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.): mention_match, person, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paplauja\" parinktas kaip owner_note_path. Targetas \"Antanas Davainis Solohubas (LDK artilerijos generolas, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektas susietas su Paplauja per citatoje minimą lankymosi situaciją. Nepridėta platesnio politinės konkurencijos aiškinimo ar kortavimo epizodo."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183975
 - susijęs iš [[objektai/asmenys/Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.).md#claim-t-200524|Benediktas Tyzenhauzas (Ukmergės seniūnas, XVIII a.)]]: 1754 m. Benediktas Tyzenhauzas lankydavosi pas Antaną Davainį Solohubą, o šis būdavo pas jį Paplaujoje.
@@ -76,6 +91,7 @@ Paplauja čia minima kaip apsistojimo vieta Vilniuje.
     Hanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40].
   citata_rodoma: "1754 m. dėl konkurencijos jis perspėjo tuometį\nAnykščių seniūną Mykolą Ksaverą Sapiegą, esą jo politiniai konkurentai LDK artilerijos\ngenerolas Antanas Davainis Solohubas (Antoni Dowojna Sołłohub) ir Ukmergės seniūnas\nBenediktas Tyzenhauzas taip vienas kitą pamėgo, kad generolas nuolat būna pas seniūną\nPaplaujoje arba B. Tyzenhauzas lankosi pas A. Davainį Solohubą, kuris apsistojęs pas\nHanyzą (Hanyz) prie Šv. Jono bažnyčios ir jiedu per naktį kortomis lošia faraoną [40]."
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185604
   teiginys: "Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168965
 
@@ -81,6 +94,7 @@ Nenurodyta
     griuvęs žirgas, ir šitaip jis rugpjūčio 27 d. atsisveikino
   citata_rodoma: "Ostrogiškis,\ngavęs žinią, kad skitai bei turkai patraukė į žygį Po-\ndolėn ir Pogorėn su trisdešimt keturiais tūkstančiais\nkarių, skubiai įspėjo susitarimo dalyvius apie pavojų.\nŠie negaišo ir labai greitai atvedė tam reikalui pasam­\ndytus savo lėšomis algininkus. Pas Ostrogiškį atžygia­\nvo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras\nSanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-\nributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­\nnigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-\nravičius, Čerkasų seniūnas Eustachijus Daškevičius ir\n655\n\n## Puslapis 654\n\ndaug kitų."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

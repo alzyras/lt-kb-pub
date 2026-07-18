@@ -43,6 +43,17 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
 - t-001
   global_id: t-60400
   teiginys: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Otonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Otonas palaidotas Akone."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Otonas buvo palaidotas Akonas (0.99); Otonas mirė Akonas (0.68)"
   pagrindžia:
     - c-61032
 
@@ -50,6 +61,12 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
 - t-002
   global_id: t-197139
   teiginys: "Otonas buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61032
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
@@ -76,6 +93,7 @@ Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 di
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
   citata_rodoma: "Apie brolį Otoną, antrą magistrą\n\n  Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną  ir\npalaidotas Akone156.\n\n\n\n\n                         4."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

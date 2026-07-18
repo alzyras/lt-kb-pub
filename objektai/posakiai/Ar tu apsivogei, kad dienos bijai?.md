@@ -53,6 +53,10 @@ Pašaipi formulė, kuria gėdinamas bijantis aušros.
 - t-001
   global_id: t-195426
   teiginys: "Auštant jauną žmogų sulaiko posakiu apie dienos baimę."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177847
 
@@ -74,6 +78,7 @@ Pašaipi formulė, kuria gėdinamas bijantis aušros.
     paties sakoma: „Nėr to blogo, kad ant gera neišeitų“ .
   citata_rodoma: "„jau aušti“ Tada didieji, jį sulaikydami, sako: „Ar tu apsivogei, kad\ndienos bijai?“"
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

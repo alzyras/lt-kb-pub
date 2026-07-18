@@ -33,6 +33,21 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 - t-001
   global_id: t-191303
   teiginys: "Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Odoakras: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Onulfas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Onulfą Odoakro broliu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Onulfas buvo brolis Odoakras (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174185
 - susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
@@ -80,6 +95,7 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
     nesigiminiavusius gyventojus paversti vergais.
   citata_rodoma: "Bet,\nkai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė\nir padidino savo tėvo valdžią. Nuolatiniai skundai ir ap­\nmaudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­\nvavęs herulams, antrąkart privertė Frederiką pasitraukti\niš krašto, šįsyk į Meziją, kur valdė Teodorikas; jie abu\nšiek tiek giminiavosi1. Po šios pergalės, norėdamas vi­\nsiškai apsaugoti herulus ir senus Noriko gyventojus nuo\nvisokios piktų ir nedraugiškų rugių įtakos, visų pasiten­\nkinimui, perkėlė juos į Italiją."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

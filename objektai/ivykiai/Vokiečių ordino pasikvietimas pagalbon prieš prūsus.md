@@ -45,6 +45,16 @@ Nenurodyta
 - t-001
   global_id: t-01860
   teiginys: "XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vokiečių ordino pasikvietimas pagalbon prieš prūsus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokiečių ordino pasikvietimas pagalbon prieš prūsus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02098
 
@@ -62,6 +72,7 @@ Nenurodyta
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
   citata_rodoma: "Po ilgų kovų, XIII amž. pra-\ndžioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė\nsau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-\nriavęs didelius aisčių plotus, sukūrė ten savo valstybę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

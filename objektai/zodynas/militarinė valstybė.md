@@ -34,6 +34,16 @@ media_all_json: |-
 - t-001
   global_id: t-11668
   teiginys: "Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "militarinė valstybė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"militarinė valstybė\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14592
 
@@ -53,6 +63,7 @@ media_all_json: |-
     pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
   citata_rodoma: "Jis turėjo tikslą garantuoti jaunutei krikščionių ko-\nlonijai (Rygoje ir apylinkėse) bei bažnyčiai saugumą ir pagel-\nbėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar-\npe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

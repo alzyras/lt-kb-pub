@@ -33,6 +33,20 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
 - t-001
   global_id: t-191355
   teiginys: "Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi veidą, plaukus ir kūną raudona arba ruda spalva."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gelonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sidonijus Apolinaras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Gelonai: mention_match, group, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sidonijus Apolinaras\" parinktas kaip owner_note_path. Targetas \"Gelonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174237
 
@@ -79,6 +93,7 @@ Sidonijus Apolinaras, Narbuto teigimu, rašė, kad gelonai kartais dažydavosi v
     ir ten minta rūgusiu pienu, sumaišytu su arklių krauju“4.
   citata_rodoma: "81\n\n## Puslapis 79\n\n63\nSenovėje gelonai buvo laikomi geriausiais lankinin­\nkais1. Jie turėjo paprotį išsidažyti kūną2; apie tai pasa­\nkoja Sidonijus Apolinaras*. Jis rašo, kad gelonai, kaip\nir skitai, t. y. budinai, turėjo paprotį kartais išsidažyti\nveidą, plaukus, kūną raudona arba ruda spalva, o tam\njie naudojo kažkokį bulvinį augalą, kurio savybes jie ge­\nrai žinojo."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

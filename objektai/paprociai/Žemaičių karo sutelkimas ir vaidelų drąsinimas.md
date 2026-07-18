@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas aprašo, kad kilus pavojui Žemaičiuose pulkai greitai ginkluodavosi, o vaideliai, dainuodami protėvių karo žygius, drąsindavo karius.
+Dėl to gi su didesne aitra ir smarkybe kariavo žemaičiai netaupydami nė savo vientaučių, jei tie buvo atsižadėję savo bočių probočių tikybos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,19 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201471"></a>
+<a id="claim-t-201390"></a>
 - t-001
-  global_id: t-201471
-  teiginys: "Daukantas aprašo, kad kilus pavojui Žemaičiuose pulkai greitai ginkluodavosi, o vaideliai, dainuodami protėvių karo žygius, drąsindavo karius."
+  global_id: t-201390
+  teiginys: "Dėl to gi su didesne aitra ir smarkybe kariavo žemaičiai netaupydami nė savo vientaučių, jei tie buvo atsižadėję savo bočių probočių tikybos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184821
+    - c-184740
 
 ## Citatos
 
-- id: c-184821
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 355"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 355."
+- id: c-184740
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Dėl to gi su didesne aitra ir smarkybe kariavo
     žemaičiai netaupydami nė savo vientaučių, jei tie
@@ -70,8 +75,9 @@ Nenurodyta
     ran traukti į svetimą kraštą sukėlė sueimą, kuriame
     pakėlė sau karvedį ir valdžion}.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201471
+    - t-201390

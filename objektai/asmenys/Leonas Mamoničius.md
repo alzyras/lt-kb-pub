@@ -43,6 +43,19 @@ media_all_json: |-
 - t-001
   global_id: t-87915
   teiginys: "1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuzma Mamoničius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas Mamoničius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kuzma Mamoničius: mention_match, person, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas Mamoničius\" parinktas kaip owner_note_path. Targetas \"Kuzma Mamoničius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas šaltinio paremtas faktas apie pareigas."
   pagrindžia:
     - c-83894
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
@@ -77,6 +90,7 @@ media_all_json: |-
     11.
   citata_rodoma: "300\n\n## Puslapis 317\n\nIV  KNYGA\nPaliko vaito pareigas to paties karaliaus \nsutikimu kovo 11 d. - 1620\nBurmistrai: nuo katalikų - Petras Pliuščius - 1620\nnuo stačiatikių - Leonas Mamoničius\n11."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

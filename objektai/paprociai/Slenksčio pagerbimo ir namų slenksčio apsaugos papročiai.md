@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194809
   teiginys: "Narbutas teigia, kad lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal kas laikoma Dievo įžeidimu3."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177205
 
@@ -92,6 +99,7 @@ Nenurodyta
     namo su ypatinga pagarba.
   citata_rodoma: "Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje\npatalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­\nkas laikoma Dievo įžeidimu3. Jie turi tokią papročių taisyklę:\n„Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų\nslenksčio, nedaryk jam skriaudos, nes virš tavęs kybos amži­\nnas Dievo pyktis. Virš slenksčio ir po slenksčiu vieši namų lai­\nmė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­\nse“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

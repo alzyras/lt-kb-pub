@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojimu, Aukaimio kamendotas Draikis slapta pasiuntė sūnų pas Ragainės kamendotą Volradą, pažadėjo atverti pilies angas ir sudarė sąlygas kryžėjams ją užimti.
+Ateinantį metą Lietuvoj rados zdroda: kaipogi Aukaimio pilės vyras, arba kamendotas, Draikis nusiuntė slapta savo sūnų Pinį pas kamendotą pi lės Ragainės Volradą, apreikšdamas jam, jog keta krikštytis ir lūgoja jo, idant ateitų pilį užimti ir jam pragumą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201311"></a>
 - t-001
   global_id: t-201311
-  teiginys: "Daukanto pasakojimu, Aukaimio kamendotas Draikis slapta pasiuntė sūnų pas Ragainės kamendotą Volradą, pažadėjo atverti pilies angas ir sudarė sąlygas kryžėjams ją užimti."
+  teiginys: "Ateinantį metą Lietuvoj rados zdroda: kaipogi Aukaimio pilės vyras, arba kamendotas, Draikis nusiuntė slapta savo sūnų Pinį pas kamendotą pi lės Ragainės Volradą, apreikšdamas jam, jog keta krikštytis ir lūgoja jo, idant ateitų pilį užimti ir jam pragumą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184661
 
 ## Citatos
 
 - id: c-184661
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 495"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 495."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą Lietuvoj rados zdroda: kaipogi
     Aukaimio pilės vyras, arba kamendotas, Draikis
@@ -66,6 +71,7 @@ Nenurodyta
     Parusnį, o Draikis su visa savo gimine Ragainės
     pilėj persikrikštijo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

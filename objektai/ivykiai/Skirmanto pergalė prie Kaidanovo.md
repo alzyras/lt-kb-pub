@@ -50,6 +50,18 @@ Nenurodyta
 - t-001
   global_id: t-187488
   teiginys: "Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=86"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmanto pergalė prie Kaidanovo\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170450
 
@@ -57,6 +69,18 @@ Nenurodyta
 - t-002
   global_id: t-187489
   teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "dalyvavo_musyje -> Skirmanto pergalė prie Kaidanovo: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Skirmanto pergalė prie Kaidanovo: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Teiginys aprašo Skirmanto pergalę mūšyje prie Kaidanovo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Skirmantas dalyvavo mūšyje Skirmanto pergalė prie Kaidanovo (0.82)"
   pagrindžia:
     - c-170451
 
@@ -64,6 +88,18 @@ Nenurodyta
 - t-003
   global_id: t-187490
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "uzeme -> Mozyrius: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Skirmantas paėmė Mozyriaus miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Skirmantas užėmė Mozyrius (0.94); Skirmantas užėmė Karačevas (0.90)"
   pagrindžia:
     - c-170451
 
@@ -71,6 +107,18 @@ Nenurodyta
 - t-004
   global_id: t-187491
   teiginys: "Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Skirmantas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Skirmantas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmanto pergalė prie Kaidanovo\" parinktas kaip owner_note_path. Targetas \"Skirmantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170450
 
@@ -78,6 +126,10 @@ Nenurodyta
 - t-005
   global_id: t-193857
   teiginys: 'Lietuvos metraščio pasakojime Skirmantas prie Kaidanovo nukovė totorių chaną, paėmė kelis Rusų žemės miestus ir grįžo be nuostolių.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas subjektas Skirmantas ir Kaidanovo kontekstas, pašalintas OCR triukšmas. Pergalės pasakojimas paliktas su metraščio atribucija, nepridedant duomenų už citatos ribų.'
   pagrindžia:
     - c-176494
 
@@ -101,8 +153,8 @@ Nenurodyta
     Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,6 +180,7 @@ Nenurodyta
     sų žemę ir padarė daug žalos Rusų žemei.
   citata_rodoma: "Tuo metu Užvolgio chanu buvo chanas, vardu Ba-\nlaklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį\nkunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­\ntų jo baskakus tuose miestuose, kaip kad iš tų miestų\nbuvo duodama duoklė, valdant jo pirmtakams, rusų\nkunigaikščiams. Didysis kunigaikštis Skirmantas nepa­\nnoro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­\ntyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.\nIr sekančiais metais tas chanas su daugeriopomis\nsutelktomis jėgomis bei totorių ordomis patraukė į Ru­\nsų žemę ir padarė daug žalos Rusų žemei."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +204,7 @@ Nenurodyta
     vieną Treniotą IS, antrą Liubartą l6, trečią Pisimantą l7.
   citata_rodoma: "Didysis kunigaikštis Skirmantas, surinkęs visas sa­\nvo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­\nnos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją\ngalybę, ir nukovė patį chaną \", Su didžios pergalės\nšlove nužygiavo Rusų žemėn ir paėmė Mozyriaus\nČernigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­\njęs pergalę, be nuostolių pargrįžo atgalios.\nTurėjo didysis kunigaikštis Skirmantas tris sūnus:\nvieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

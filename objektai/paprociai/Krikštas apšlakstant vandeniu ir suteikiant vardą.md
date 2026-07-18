@@ -1,12 +1,8 @@
 ---
 tipas: paprotys
-pavadinimas: 'Krikštas apšlakstant vandeniu ir suteikiant vardą (krikštas)'
+pavadinimas: 'Krikštas apšlakstant vandeniu ir suteikiant vardą'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Krikštas apšlakstant vandeniu ir suteikiant vardą'
-aliases:
-  - 'Krikštas apšlakstant vandeniu ir suteikiant vardą'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Krikštas apšlakstant vandeniu ir suteikiant vardą (krikštas)
+# Krikštas apšlakstant vandeniu ir suteikiant vardą
 
 ## Santrauka
 
-Daukanto aprašytame krikšto epizode vyrų ar moterų būrys buvo apšlakstomas vandeniu ir gaudavo Onos arba Jono vardą.
+Apšlėkimas vandeniu būrio vyrų ar mo terų buvo visu jų krikštu, o visas būrys, gavęs var dą ©nos ar Jono, dyrino šalin dūmodamas, kaip sau naują vardą atminti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201383"></a>
 - t-001
   global_id: t-201383
-  teiginys: "Daukanto aprašytame krikšto epizode vyrų ar moterų būrys buvo apšlakstomas vandeniu ir gaudavo Onos arba Jono vardą."
+  teiginys: "Apšlėkimas vandeniu būrio vyrų ar mo terų buvo visu jų krikštu, o visas būrys, gavęs var dą ©nos ar Jono, dyrino šalin dūmodamas, kaip sau naują vardą atminti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184733
 
 ## Citatos
 
 - id: c-184733
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 182"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 182."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bruko netikėliams nuliūdi­
     mą, rūpesnį, liepė išsižadėti turtų, gėrybių ir paties
@@ -72,6 +73,7 @@ Nenurodyta
     jiesiems kunigams reikėjo javus pilti ir dešimtines
     duoti, kurių pirma nežinojo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

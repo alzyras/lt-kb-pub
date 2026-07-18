@@ -53,6 +53,16 @@ Nenurodyta
 - t-001
   global_id: t-103837
   teiginys: "Prieš kautynes karalius šventino riterius ir priėmė Ordino pasiuntinius, o mūšio metu buvo saugomas 60 raitelių."
+  atnaujinta: "2026-05-31 12:11"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vežimai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-96902
 
@@ -60,6 +70,16 @@ Nenurodyta
 - t-002
   global_id: t-103838
   teiginys: "Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-96903
 
@@ -76,6 +96,7 @@ Nenurodyta
     «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
     iki užkimimo, karius skatinęs kovai^18.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +114,7 @@ Nenurodyta
     tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
     «tarp vežimų ir palapinių »^17.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

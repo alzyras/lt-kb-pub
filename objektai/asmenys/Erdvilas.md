@@ -36,6 +36,12 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-001
   global_id: t-186001
   teiginys: "Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169362
 
@@ -43,6 +49,12 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-002
   global_id: t-193503
   teiginys: "Erdvilas atsisakė duoklės, paskelbė karą ir įteikė jų kunigaikščiui dovaną— dvi strėles."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169362
 
@@ -50,16 +62,28 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-003
   global_id: t-193909
   teiginys: "Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Naugarduko di džiuoju kunigaikščiu I S ."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176534
 
 <a id="claim-t-200983"></a>
 - t-004
   global_id: t-200983
-  teiginys: "Daukantas Erdvilą vaizduoja kaip Žemaičių kunigaikštį, kuris Kernavėje delsė atsakyti totorių siuntiniams, kol telkė karius karui."
+  teiginys: "Tokiu vienok jų gorinimu nenusiminė lietuviai, bet tuojau visoj ūkėj sukėlė karėjus, ir Erdvilas, kunigaikštis Žemaičių, vyras drąsus ir nar sus, liepė siuntinius vaišinti Kernavėj ir visaip tru kinti, lig į karę nepasitiekiąs, neduodant nė kokio atsako."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184333
-- susijęs iš Jaselda: Pasak Daukanto, prie Jaseldos lietuviai perlaužė gudų pajėgas: dalį bėgančių išklojo kelyje, o kitus paskandino Jaseldoje.
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
@@ -129,6 +153,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     netekę teisėtų kunigaikščių.
   citata_rodoma: "Tiesa, kai buvę toliau\nnuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­\nvina kova. Galop nugalėję lietuviai išvijo barbarus iš\nstovyklos: galybė priešų krito mūšyje, kur kas dau­\ngiau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­\ngėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo\nD u o k lės p ra ša n tiem s\nsk ita m s E rd vila s siu n ­\nčia  d v i strė le s\nšaukęs pasiuntinius, jis atsi­\nsakė duoklės, paskelbė karą\nir įteikė jų kunigaikščiui do­\nvaną— dvi strėles."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +176,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     kautis ir kapotis.
   citata_rodoma: "Didysis kunigaikštis Erdvilą įsi­\nrengė čionai sostinę ir ėmė vadintis Naugarduko di­\ndžiuoju kunigaikščiu I S .\nIšžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir \npaskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči- \nną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis \ntuos miestus atstatė ir ėmė juose kunigaikščiauti 2I."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,9 +184,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - t-193909
 
 - id: c-184333
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 238"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 238."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tokiu vienok jų gorinimu nenusiminė
     lietuviai, bet tuojau visoj ūkėj sukėlė karėjus, ir
@@ -177,6 +202,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     buvo taip vaišinami, pargrįžo į savo abažus ir, ką
     buvo regėję, apipasakojo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,30 +33,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Namkarė Daukanto pasakojime kilo dėl Vladislovo žmonos kurstytų valdžios kovų ir, Daukanto vertinimu, beveik pražudė Lenkų ūkį. Namkarė Daukanto pasakojime kilo Vasilkui pradėjus bausti įtariamuosius dėl tėvo Mintauto nužudymo ir virto smurtu prieš kaltus bei nekaltus, nusiaubusiu kraštą.
+Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs.
 
 ## Teiginiai
 
 <a id="claim-t-201211"></a>
 - t-001
   global_id: t-201211
-  teiginys: "Namkarė Daukanto pasakojime kilo dėl Vladislovo žmonos kurstytų valdžios kovų ir, Daukanto vertinimu, beveik pražudė Lenkų ūkį."
+  teiginys: "Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184561
 
 <a id="claim-t-201212"></a>
 - t-002
   global_id: t-201212
-  teiginys: "Namkarė Daukanto pasakojime kilo Vasilkui pradėjus bausti įtariamuosius dėl tėvo Mintauto nužudymo ir virto smurtu prieš kaltus bei nekaltus, nusiaubusiu kraštą."
+  teiginys: "Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184562
 
 ## Citatos
 
 - id: c-184561
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 161"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vla­
     dislovo žmona buvo lyčium tų kerštų, kuri, gobė-
@@ -66,6 +77,7 @@ Namkarė Daukanto pasakojime kilo dėl Vladislovo žmonos kurstytų valdžios ko
     vo valstybėj, pas ciesorių savo uošvį išsidangino,
     palikdamas valdžią Boleslovui IV Garbanočiui.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,9 +85,8 @@ Namkarė Daukanto pasakojime kilo dėl Vladislovo žmonos kurstytų valdžios ko
     - t-201211
 
 - id: c-184562
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 407"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 407."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip tarės lietuviai ir žemaičiai, jei ne karėją,
     tačiaus vyrą gudrų, mokytą, svieto regėjusį, valdy-
@@ -103,6 +114,7 @@ Namkarė Daukanto pasakojime kilo dėl Vladislovo žmonos kurstytų valdžios ko
     kaulus tąsiodami jų gyventojų, gandino savo rūs­
     tais balsais paklydusį keleivį.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

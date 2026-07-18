@@ -38,165 +38,535 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-194955"></a>
-- t-001
+- t-024
   global_id: t-194955
   teiginys: "1930 m. biografijoje Vytautas įvardijamas kaip ketvirtasis Kęstučio sūnus ir, tikėtina, pirmagimis Birutės sūnus."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36562
 
 <a id="claim-t-194956"></a>
-- t-002
+- t-025
   global_id: t-194956
   teiginys: "Šaltinyje teigiama, kad Vytautas pats vedė savo kariuomenę, o lenkų kariuomenė iš pradžių neturėjo vadų."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36564
 
 <a id="claim-t-194957"></a>
-- t-003
+- t-026
   global_id: t-194957
   teiginys: "Kol Jogaila tarėsi su pasiuntiniais, Vytautas judėjo tarp kariuomenės dalinių ir rūpinosi jų tvarka."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36566
 
 <a id="claim-t-194958"></a>
-- t-004
+- t-027
   global_id: t-194958
   teiginys: "Pasak 1930 m. biografijos, kitas Lietuvos bažnyčias po Jogailos pirmųjų iniciatyvų statė Vytautas ir Lietuvos didikai."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177351
 
 <a id="claim-t-194959"></a>
-- t-005
+- t-028
   global_id: t-194959
   teiginys: "1930 m. biografijos autorius Vytauto žygius prieš Aukso Ordos stepių gyventojus vertino kaip itin stiprius smūgius."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177352
 
 <a id="claim-t-194960"></a>
-- t-006
+- t-029
   global_id: t-194960
   teiginys: "Vytautas iš Jogailos gavo Lietuvą valdyti didžiojo kunigaikščio teisėmis kaip lėną; ši sutartis grąžino jam Lietuvos valdžią."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36576
 
 <a id="claim-t-194961"></a>
-- t-007
+- t-030
   global_id: t-194961
   teiginys: "Kėzmarke Vytautas atmetė Zigmanto siūlymą suardyti uniją ir, grįžęs, apie slaptą karūnos pasiūlymą pranešė Jogailai."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36579
 
 <a id="claim-t-194962"></a>
-- t-008
+- t-031
   global_id: t-194962
   teiginys: "1930 m. biografijos autorius Žalgirio pergalę aiškino Vytauto vadovavimu ir vertino jį kaip genialų karvedį."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36580
 
 <a id="claim-t-194963"></a>
-- t-009
+- t-032
   global_id: t-194963
   teiginys: "Istorikas Kochanovskis teigė, kad paskutine unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36581
 
 <a id="claim-t-194964"></a>
-- t-010
+- t-033
   global_id: t-194964
   teiginys: "Pasak Dlugošo pasakojimo, Dauguose sprendimą sužinoję Vytautas ir Jogaila taip garsiai pravirko, kad jų verksmas buvo girdimas iš tolo."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36583
 
 <a id="claim-t-194965"></a>
-- t-011
+- t-034
   global_id: t-194965
   teiginys: "Popiežiaus paskirtą suvažiavimą Vytautas sušaukė 1429 m. sausio 6 d. Lucke."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36586
 
 <a id="claim-t-194966"></a>
-- t-012
+- t-035
   global_id: t-194966
   teiginys: "Vytautas laiške Jogailai piktinosi teiginiu, kad Lietuvos bajorai ir gyventojai negali laisvai išsirinkti valdovo be Lenkijos baronų sutikimo."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177353
 
 <a id="claim-t-194967"></a>
-- t-013
+- t-036
   global_id: t-194967
   teiginys: "Sužinojęs apie kryžiuočių pasiuntinio atvykimą pas Jogailą į Lenčicą, Vytautas ten pasiuntė Vilniaus vaivadą Gedgaudą ir maršalką Rumbaudą."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36588
 
 <a id="claim-t-194968"></a>
-- t-014
+- t-037
   global_id: t-194968
   teiginys: "1930 m. biografijoje Vytauto laukta karūna interpretuojama kaip ženklas, turėjęs išgelbėti valstybę ir jos laisvę."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177354
 
 <a id="claim-t-194969"></a>
-- t-015
+- t-038
   global_id: t-194969
   teiginys: "Atsisveikinęs su svečiais Vytautas susirgo, tačiau dar neprarado vilties karūnuotis."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177355
 
 <a id="claim-t-194970"></a>
-- t-016
+- t-039
   global_id: t-194970
   teiginys: "1930 m. biografijoje Vytauto mirtis aprašoma kaip katalikiškai pasirengusio valdovo išėjimas, po kurio jo kūnas aštuonias dienas buvo viešai išstatytas atsisveikinti."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177356
 
 <a id="claim-t-194971"></a>
-- t-017
+- t-040
   global_id: t-194971
   teiginys: "Šaltinyje Vytauto žemėvaldos politika rusėniškose žemėse apibūdinama kaip reforma, išplėtusi jo nuosavų žemių plotą."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177357
 
 <a id="claim-t-194972"></a>
-- t-018
+- t-041
   global_id: t-194972
   teiginys: "Vytauto laikais Lietuvoje buvo kalami čekų grašiai, o šalia jų kursavo lietuviški denarai."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177358
 
 <a id="claim-t-194973"></a>
-- t-019
+- t-042
   global_id: t-194973
   teiginys: "Nuo jaunystės Vytautas domėjosi karyba, ginklais ir Vakarų Europos karo naujovėmis."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177359
 
 <a id="claim-t-194974"></a>
-- t-020
+- t-043
   global_id: t-194974
   teiginys: "Biografijos autorius atsargiai spėjo, kad Vytautas galėjo mokėti totorių kalbą, nes jo dvare tarnavo totoriai, o kanceliarija siuntė raštus totorių kalba."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177360
 
 <a id="claim-t-194975"></a>
-- t-021
+- t-044
   global_id: t-194975
   teiginys: "1930 m. biografija istoriškai reikšmingos Vytauto veiklos pradžią sieja su Kęstučio konfliktu su Jogaila."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177361
 
 <a id="claim-t-194976"></a>
-- t-022
+- t-045
   global_id: t-194976
   teiginys: "1392-ieji Vytauto gyvenime tapo lūžio metais: jis nutraukė sąjungą su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177362
 
 <a id="claim-t-200768"></a>
-- t-023
+- t-046
   global_id: t-200768
   teiginys: "Vytauto Didžiojo laikais, XV a. pirmame ketvirtyje, galėjo būti pastatyta mūrinė Vilniaus Aukštoji pilis."
+  atnaujinta: "2026-07-16 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184113
+
+<a id="claim-t-194955"></a>
+- t-001
+  global_id: t-194955
+  teiginys: 'Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-194956"></a>
+- t-002
+  global_id: t-194956
+  teiginys: 'Vytautas savo ka riuomenę pats vedė, o lenkai visai neturėjo vadų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-194957"></a>
+- t-003
+  global_id: t-194957
+  teiginys: 'Vytautas visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome nės tarpe, darė tvarką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-194958"></a>
+- t-004
+  global_id: t-194958
+  teiginys: 'Daugiau Jogaila Lie tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos didikai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-194959"></a>
+- t-005
+  global_id: t-194959
+  teiginys: 'Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi no rusus duoklėmis ir baidė Europą^2 ).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-194960"></a>
+- t-006
+  global_id: t-194960
+  teiginys: 'Tuo būdu Vytautas gavo iš Jo gailos Lietuvą didž.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-194961"></a>
+- t-007
+  global_id: t-194961
+  teiginys: 'Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą, norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-194962"></a>
+- t-008
+  global_id: t-194962
+  teiginys: 'Rytai ginklų kovoje nugalėjo Vakarus, vadovaujant genialiam Vytautui, kuris neveltui vadi namas Didžiuoju.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-194963"></a>
+- t-009
+  global_id: t-194963
+  teiginys: 'Kochanovskis yra tos nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len kinti, bet ją civilizuoti^3 ).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-194964"></a>
+- t-010
+  global_id: t-194964
+  teiginys: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-194965"></a>
+- t-011
+  global_id: t-194965
+  teiginys: 'Šis pavojus ir turėjo būt aptartas suvažia vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau sio mėn.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-194966"></a>
+- t-012
+  global_id: t-194966
+  teiginys: 'Tuojau iš čia Vytautas nurašė Jogailai laišką, su pasipiktinimu pabrėždamas, kaip jį skaudžiai jis įžeidė, pasisakęs nenorįs todėl palaikyti jo karūnacijos, kad Lie tuvos bajorai ir gyventojai neturi teisės laisvai išsirinkti valdo vo be Lenkijos baronų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-013
+
+<a id="claim-t-194967"></a>
+- t-013
+  global_id: t-194967
+  teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum poldum).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-194968"></a>
+- t-014
+  global_id: t-194968
+  teiginys: 'Sužinojęs iš savo pasiuntinio apie suvažiavimo pa sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars, Vytautas dabar laukė karūnos, kaip ženklo, kuris turi išgelbėti valstybę^3 ) ir jos laisvę^4 ).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-014
+
+<a id="claim-t-194969"></a>
+- t-015
+  global_id: t-194969
+  teiginys: 'Vytautas, atsisveikinęs su svečiais, susirgo^4 ).'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-015
+
+<a id="claim-t-194970"></a>
+- t-016
+  global_id: t-194970
+  teiginys: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-016
+
+<a id="claim-t-194971"></a>
+- t-017
+  global_id: t-194971
+  teiginys: 'Tai buvo tam tikra žemės valdymo reforma, Vytauto įvykdyta rusiškuose kraštuose, ir praplėtusi jo nuosavų žemių plotą, susiaurėjusi Lietuvoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-017
+
+<a id="claim-t-194972"></a>
+- t-018
+  global_id: t-194972
+  teiginys: 'Vytauto laikais čekų gra šiai buvo kalami ir Lietuvoje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-018
+
+<a id="claim-t-194973"></a>
+- t-019
+  global_id: t-194973
+  teiginys: 'Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-019
+
+<a id="claim-t-194974"></a>
+- t-020
+  global_id: t-194974
+  teiginys: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-020
+
+<a id="claim-t-194975"></a>
+- t-021
+  global_id: t-194975
+  teiginys: 'Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu čio kovos metu su Jogaila.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-021
+
+<a id="claim-t-194976"></a>
+- t-022
+  global_id: t-194976
+  teiginys: '1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-022
+
+<a id="claim-t-200768"></a>
+- t-023
+  global_id: t-200768
+  teiginys: 'Vytauto Didžiojo laikais, pirmame XV a. ketvirtyje, galėjo būti pastatyta mūrinė Vilniaus Aukštoji pilis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Neužbaigtas fragmentas išskleistas į aiškų sakinį apie Vytauto laikotarpį ir Aukštosios pilies statybą. Palikta abejonės forma, nes citata kalba apie spėjimą.'
+  pagrindžia:
+    - c-023
 
 ## Citatos
 
@@ -213,6 +583,7 @@ media_all_json: |-
     šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
     vadinasi turėjo gimti apie 1350 metus^3 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,6 +605,7 @@ media_all_json: |-
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
     vadovybė atiteko Vytautui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -253,6 +625,7 @@ media_all_json: |-
     lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
     (Dlugošas). Tai Vytauto apsauga.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -269,6 +642,7 @@ media_all_json: |-
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
     tis grąžino jam Lietuvos valdžią.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -293,6 +667,7 @@ media_all_json: |-
     tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
     tuos pasitarimus^2 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -315,6 +690,7 @@ media_all_json: |-
     kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
     kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -338,6 +714,7 @@ media_all_json: |-
     auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
     atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -359,6 +736,7 @@ media_all_json: |-
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -377,6 +755,7 @@ media_all_json: |-
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -396,6 +775,7 @@ media_all_json: |-
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -418,6 +798,7 @@ media_all_json: |-
     spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
     naujos visuomeninės tvarkos įvedimo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -441,6 +822,7 @@ media_all_json: |-
     gailą padėti besiginantiems vengrams, tai abiem valdovam pa­
     rašius grasinantį sultonui laišką, turkai iš Bosnijos pasitraukė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -463,6 +845,7 @@ media_all_json: |-
     Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
     kintas tik jam mirus^3 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -485,6 +868,7 @@ media_all_json: |-
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -502,6 +886,7 @@ media_all_json: |-
     su svečiais, susirgo^4 ). Vis dėlto jis ir dabar dar nenustojo
     vilties karūnuotis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -523,6 +908,7 @@ media_all_json: |-
     šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
     su savo dideliu valdovu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -543,6 +929,7 @@ media_all_json: |-
     duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­
     dinant juose dvaro žmones, arba nuomininkus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -563,6 +950,7 @@ media_all_json: |-
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
     m.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -580,6 +968,7 @@ media_all_json: |-
     dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
     jis sekdavo Vakarų Eurpos išradimus ir papročius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -599,6 +988,7 @@ media_all_json: |-
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -619,6 +1009,7 @@ media_all_json: |-
     giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -638,6 +1029,7 @@ media_all_json: |-
     rino su tautos ir valstybės reikalais: tautos priešai yra ir jo
     priešai, tautos draugai — jo draugai.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -658,6 +1050,7 @@ media_all_json: |-
     griuvėsiai ir bus pats seniausias iš tebesančių mūrinių senojo Vilniaus pa­
     statų.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

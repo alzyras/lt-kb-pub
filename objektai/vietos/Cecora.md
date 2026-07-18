@@ -39,9 +39,22 @@ media_all_json: |-
 - t-001
   global_id: t-41639
   teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Valakija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Valakija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kariuomenės įžengimas į Valakiją tiesiogiai palaiko judėjimo į vietą ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lenkijos kariuomenė keliavo į Valakija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1620 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie mūšio vietą."
   pagrindžia:
     - c-45051
-    - c-167168
 
 ## Citatos
 
@@ -59,6 +72,7 @@ media_all_json: |-
     Maskvą, S. Žolkievskis.
   citata_rodoma: "1620 m. Lenkijos kariuomenė įžengė\nį Valakiją ir mūšyje prie Cecoro ne-\ntoli Jasų buvo sutriuškinta Turkijos ka-\nriuomenės. Lenkijos kariuomenė buvo\nsunaikinta, žuvo pats didysis karū-\nnos etmonas, kadaise užėmęs\nMaskvą, S."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,6 +94,7 @@ media_all_json: |-
     toli Jasų buvo sutriuškinta Turkijos ka-
     riuomenės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

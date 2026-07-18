@@ -33,6 +33,9 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 - t-001
   global_id: t-67306
   teiginys: "Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67263
 
@@ -40,6 +43,10 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
 - t-002
   global_id: t-67307
   teiginys: "Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
   pagrindžia:
     - c-67264
 
@@ -57,6 +64,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
     pėstininkų ir viena raitelių divizija, kurios buvo vadinamos lie-
     tuvių bei gudų divizijomis), esą, buvusi taip pat sukilusi.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,6 +87,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
     kalavimų klausančios Lenkų vyriausybės.
   citata_rodoma: "Iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų\ndaug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau\nteisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos\nsavo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-\nkalavimų klausančios Lenkų vyriausybės."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

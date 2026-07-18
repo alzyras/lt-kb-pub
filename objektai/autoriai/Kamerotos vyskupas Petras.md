@@ -33,6 +33,11 @@ Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė 
 - t-001
   global_id: t-190304
   teiginys: 'Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė straipsnyje apie Santvarą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas skyriaus ir puslapio triukšmas, paliktas aiškus teiginys apie Petro rankraštį. Nepridėta platesnio manicheizmo turinio.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvių mitologija|Lietuvių mitologija]]; mentioned_person: [[objektai/asmenys/Fotijus|Fotijus]]'
   pagrindžia:
     - c-173187
 
@@ -63,6 +68,7 @@ Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė 
     jų vardu, Agapijo mokymo sekėjų, nušviesdamas ereziją pa­
     gal Fotijaus aprašymą, plačiai svarsto apie tą sektą.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

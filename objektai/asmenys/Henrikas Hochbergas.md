@@ -33,6 +33,19 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
 - t-001
   global_id: t-186209
   teiginys: "Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Patrikas (kunigaikštis, XIV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas Hochbergas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas Hochbergas\" parinktas kaip owner_note_path. Targetas \"Patrikas (kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169570
 
@@ -112,6 +125,7 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
     smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
   citata_rodoma: "Kęstutį, kuris ban­\ndė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­\nką irstančioje rikiuotėje, galingais kalavijo smūgiais\natremdamas kiekvieną narsų priešą, nubloškė nuo žir­\ngo Henrikas Ekersbergas, riteris paauksuotais šarvais,\nkuris smogė arkliui ietimi iš šono; netrukus apsuptas\nsubėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui\ngresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­\ntas (jis buvo tauraus būdo ir\nS ū n au s\nm eilė\ntė v u i\nlabai mylėjo tėvą) pavarė\nir karių  m e ilė v a d u i\nžirgą link susigrūdusių prie­\nšų, norėdamas pagelbėti tė­\nvui; aklai kalaviju skindamasis kelią prie tėvo, jis\nsusilaukė bemaž tokio pat likimo: kryžiuotis Henri­\nkas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­\nkutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo\nįveikti galybės priešų; tuo metu keli lietuvių būriai,\nsmogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­\n244\n\n## Puslapis 243\n\ngaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš\nrikiuotės."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

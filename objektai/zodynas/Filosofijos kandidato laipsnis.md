@@ -56,6 +56,10 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
 - t-001
   global_id: t-195457
   teiginys: "A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177878
 - susijęs iš [[objektai/zodynas/Filosofijos licenciato laipsnis.md#claim-t-195614|Filosofijos licenciato laipsnis]]: A. R. Niemi 1899 m. gavo fil. licenciato laipsnį.
@@ -78,6 +82,7 @@ Terminas šiame šaltinyje siejamas su 1891 m. gautu akademiniu laipsniu.
     fil.
   citata_rodoma: "Filosofijos kandidato laipsnį gavo 1891 m"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

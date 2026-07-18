@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja, kad žemaičių moterys dirbo laukų ir namų darbus, o vyrai rūpinosi žirgais ir ginklais, laikytais svarbiausiu turtu.
+Vyriškieji vienais žirgais terūpinos, kuriuos jau namuose, jau medėse augindami karėn skudri no; visas turtas senųjų žemaičių buvo žirgas ir gink las, kuriuo jie džiaugės ir didžiavos, ką šiandien dar Lietuvos ir Žemaičių dainės tebstigavoja, ku riose žirgas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,19 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201470"></a>
+<a id="claim-t-201389"></a>
 - t-001
-  global_id: t-201470
-  teiginys: "Daukantas vaizduoja, kad žemaičių moterys dirbo laukų ir namų darbus, o vyrai rūpinosi žirgais ir ginklais, laikytais svarbiausiu turtu."
+  global_id: t-201389
+  teiginys: "Vyriškieji vienais žirgais terūpinos, kuriuos jau namuose, jau medėse augindami karėn skudri no; visas turtas senųjų žemaičių buvo žirgas ir gink las, kuriuo jie džiaugės ir didžiavos, ką šiandien dar Lietuvos ir Žemaičių dainės tebstigavoja, ku riose žirgas."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184820
+    - c-184739
 
 ## Citatos
 
-- id: c-184820
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 605"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 605."
+- id: c-184739
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gal sakyti, girios ir medės buvo jų namais ir
     trobomis, kaipogi, išėję į girią medžioti, tris ketu­
@@ -75,8 +80,9 @@ Nenurodyta
     riose žirgas ir karda kaipo visų didžiausios lietos
     žemaičio yra garbinamos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201470
+    - t-201389

@@ -54,6 +54,23 @@ Nenurodyta
 - t-001
   global_id: t-185930
   teiginys: "Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kaunas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje kryžiuočiai apibūdinami kaip užgriuvę Kauną, todėl palaikomas puolimo ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Kaunas (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1362 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys suprantamas, bet perteklinis ir su nereikalinga autorine formule."
   pagrindžia:
     - c-169291
 
@@ -61,6 +78,13 @@ Nenurodyta
 - t-002
   global_id: t-193370
   teiginys: "Pasak Kojelavičiaus, Kauno pilies įgulą sudarė trys tūkstančiai rinktinių karių, apie kurių mirtį liepsnose žmonės tebegiedojo raudas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169291
 
@@ -68,6 +92,13 @@ Nenurodyta
 - t-003
   global_id: t-196311
   teiginys: "Po ilgos Kauno pilies apsiausties kryžiuočiai Didįjį šeštadienį padegė pastatus, palaužė gynėjų pasipriešinimą ir užėmė pilį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169291
 
@@ -94,6 +125,7 @@ Nenurodyta
     das.
   citata_rodoma: "Pirmiausia jie užgriuvo Kauną; pilį\npuolė pasitelkę visokiausių\n1362 m e ta i\nprietaisų, pasiryžę nugalėti,\nypač po to, kai Algirdas, at-\n246\n\n## Puslapis 245\n\nvykęs su kariuomene pralaužti apsupimo žiedo, nieko\nnelaimėjo ir buvo atstumtas. Galop po ilgos apsiaus­\nties didįjį šeštadienį, pasikasę po sienomis ir svaido­\nma ugnimi padegę pastatus,\nK ry žiu o č ia i u žim a ir\nkryžiuočiai palaužė atkaklų\nišg ria u n a  K au n ą\ngynėjų priešinimąsi ir už­\nėmė pilį. Nemaža jų žuvo,\nkai, veržiantis prie įtvirtinimų, juos užgriuvo pakasta\ngynybinė siena, tačiau kur kas daugiau nuostolių pa­\ntyrė lietuviai. Pilies įgulą sudarė trys tūkstančiai rink­\ntinių karių, apie kurių graudžią mirtį degančios pilies\nliepsnose paprasti žmonės dar ir dabar tebegieda rau­\ndas. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­\ntučio sūnumi, gyvi pakliuvo į nelaisvę."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

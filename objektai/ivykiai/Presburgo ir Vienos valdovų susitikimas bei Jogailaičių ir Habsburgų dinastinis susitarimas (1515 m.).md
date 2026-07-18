@@ -53,6 +53,12 @@ Nenurodyta
 - t-001
   global_id: t-193473
   teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176174
 
@@ -60,6 +66,13 @@ Nenurodyta
 - t-002
   global_id: t-196245
   teiginys: "Konstantinas Ostrogiškis, grįžęs į Vilnių, pastatė Nedalomosios Trejybės vienuolyną vienuoliams, kurie laikėsi rusų apeigų ir pakluso Romos popiežiui."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178594
 
@@ -87,6 +100,7 @@ Nenurodyta
     lima matyti nebent per romėnų triumfo eisenas.
   citata_rodoma: "Penki tūkstančiai raitijos palydėjo karalius\nligi miesto, o kiti raiteliai bei pėstininkai liko saugoti\npalapinių. Nesinori smulkiai pasakoti, ką valdovai nu­\ntarė šiame suvažiavime. Dėl Lietuvos reikalų susitarta\nšitaip: imperatorius arba nutrauksiąs draugystę su mas-\nkvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­\ntinsiąs savo autoritetu prašyti taikos ir taikytis."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +128,7 @@ Nenurodyta
     mos popiežiui kaip dovaną keturiolika į nelaisvę pa­
     imtų maskvėnų — pačių žymiausiųjų didikų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

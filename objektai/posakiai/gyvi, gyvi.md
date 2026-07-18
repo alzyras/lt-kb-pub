@@ -51,6 +51,10 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
 - t-001
   global_id: t-195412
   teiginys: "Pempės krikštaudavo trumpa formule „gyvi, gyvi“."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177833
 
@@ -74,6 +78,7 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
     nės, būdavo po kregždės lizdą.
   citata_rodoma: "einant ganyklomis ir pievomis, pempės perdėm apie jį sukinėdavo krikštaudamos ,,gyvi, gyvi“ ;"
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

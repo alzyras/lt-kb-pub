@@ -33,6 +33,13 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
 - t-001
   global_id: t-190505
   teiginys: "Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas buvo suprantamas kaip apsivalymas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173388
 
@@ -78,6 +85,7 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
     gyveno herulai.
   citata_rodoma: "Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą\npusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­\nje yra pasakyta: Habuerunt autem baptismum per ignem, scili-\ncet purificationem (O krikštas jiems buvo ugnis, tai yra ele­\nmentarusis apsivalymas). Šis ugnies krikštas, arba apsivalymas\npanaudojant ugnį, turėjo būti plaukų pakirpimas (apie jį pa­\nsakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­\ngas nuo apsivalomojo šokinėjimo per ugnį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

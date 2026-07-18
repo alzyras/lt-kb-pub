@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Svendas 1048 m. perkalbėjo žuvėdų prekiautoją Žemaičių pajūryje įkurti koplyčią ir laikyti kunigą.
+Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201304"></a>
 - t-001
   global_id: t-201304
-  teiginys: "Daukanto pasakojime Svendas 1048 m. perkalbėjo žuvėdų prekiautoją Žemaičių pajūryje įkurti koplyčią ir laikyti kunigą."
+  teiginys: "Paskesniai rašo, jog S vendas, saulėlydinių žuvėdų (danų) viešpats, norėdamas Žemaičių jūroj pa ką jų įgyti, metuose 1048 perkalbėjęs vieną žuvėdų prekiotoją, idant jis toj vietoj, kurioj žiemavodavęs •Žemaičių pajūryj, koplyčią įkurtų ir tenai kunigą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184654
 
 ## Citatos
 
 - id: c-184654
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 140"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 140."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Paskesniai rašo, jog S vendas, saulėlydinių žu-
     vėdų (danų) viešpats, norėdamas Žemaičių jūroj pa­
@@ -77,6 +82,7 @@ Nenurodyta
     būk buvusi pajūryj bažnyčėlė, kurios vietoj, sako,
     šiandien Liepojoj katalikų bažnyčia esanti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

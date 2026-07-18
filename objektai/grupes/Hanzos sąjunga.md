@@ -39,6 +39,18 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
 - t-001
   global_id: t-198563
   teiginys: "Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Vokietija; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas; mentioned_place: Švedija"
+  temporaliniai_duomenys: "įvykio data: po 1412 m.; įvykio data: 1412 m.; įvykio data: 1459 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-180630
 
@@ -59,6 +71,7 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
     jungai priklausančius Vokietijos miestus.
   citata_rodoma: "• Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­\nraliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— \n1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­\nkusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­\njungai priklausančius Vokietijos miestus."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

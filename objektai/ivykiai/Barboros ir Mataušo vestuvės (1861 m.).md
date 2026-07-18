@@ -77,6 +77,10 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 - t-001
   global_id: t-195295
   teiginys: "Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas."
+  atnaujinta: "2026-07-12 01:22"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177659
 
@@ -84,6 +88,10 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 - t-002
   global_id: t-195296
   teiginys: "1861 m. pasakotojo namuose buvo keliamos vestuvės."
+  atnaujinta: "2026-07-12 01:22"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177660
 
@@ -91,6 +99,10 @@ Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 - t-003
   global_id: t-195297
   teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
+  atnaujinta: "2026-07-12 01:22"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177661
 
@@ -125,6 +137,7 @@ Vieta: pasakotojo namai.
     kaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų.
   citata_rodoma: "Atėjo griežtasis pirmadienis, vestuvių pradžia. \nVakare \nsusiėjo \nkaimo jaunimas, atėjo kviesti ir nekviesti, net iš kitų kaimų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,6 +158,7 @@ Vieta: pasakotojo namai.
     aprašyti.
   citata_rodoma: "Ženkime metus atgal, būtent, į 1861 metus. \nTais metais \nbuvo \nkeliamos mūsų namuose vestuvės, kurias bandysiu \naprašyti."
   statusas: verified
+  atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,6 +175,7 @@ Vieta: pasakotojo namai.
     Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės.
   citata_rodoma: "Nuo pirmo užsako dienos ligi vestuvių lygiai trys savaitės."
   statusas: verified
+  atnaujinta: "2026-07-12 01:22"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

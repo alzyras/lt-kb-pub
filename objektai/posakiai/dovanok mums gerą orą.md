@@ -53,6 +53,10 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
 - t-001
   global_id: t-195415
   teiginys: "Vietoje „laimingą rasą“ giedojime sakydavo „dovanok mums gerą orą“."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177836
 
@@ -76,6 +80,7 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
     gą rasą“ sako „dovanok mums gerą orą“ .
   citata_rodoma: "Jei tą laiką per daug lietaus, o stinga giedros, tai vietoje „laimingą rasą“ sako „dovanok mums gerą orą“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

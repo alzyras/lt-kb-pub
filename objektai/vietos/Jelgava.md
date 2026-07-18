@@ -43,6 +43,19 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - t-001
   global_id: t-43651
   teiginys: "Iš Kuršo ir Žiemgalos sudaryta kunigaikštystė turėjo sostinę Jelgavoje, dar vadintoje Mintauja."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata teigia, kad Livonija pasidavė Lietuvos didžiajam kunigaikščiui; kaip objektas kandidatuose yra Lietuva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Livonija priklausė Lietuva (0.62)"
+  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1561 m.; įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-47055
 
@@ -50,22 +63,34 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - t-002
   global_id: t-43652
   teiginys: "Jelgavoje jėzuitai buvo įkūrę vieną iš mažesnių savo mokyklų."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jelgava: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jelgava\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-47056
 
 <a id="claim-t-201063"></a>
 - t-003
   global_id: t-201063
-  teiginys: "Daukanto pasakojime mistras, siekdamas sudrausminti žemgalius, užėmė Jelgavą, joje įkūrė pilį ir pavadino ją Mitau."
+  teiginys: "Tas pats mistras ateinantį metą, norėdamas žem galius sudrausti, užėmė jiems Jelgavą ir tenai sau pilį įkūrė ir Mitau pramanė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184413
-- susijęs iš [[objektai/asmenys/Svelgotė (kunigaikštis, XX a.).md#claim-t-201403|Svelgotė (kunigaikštis, XX a.)]]: Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
-- susijęs iš [[objektai/asmenys/Svelgotė (kunigaikštis, XX a.).md#claim-t-201403|Svelgotė (kunigaikštis, XX a.)]]: Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
-- susijęs iš Heiligenburgas (vieta): Daukanto pasakojime Šauerburgas netoli Jelgavos, ant vadinamo švento kalno, įkūrė Heiligenburgo pilį, joje apgyvendino 300 vyrų ir pasirūpino maistu bei ginklais.
 - susijęs iš Piltenė: Piltene vadintos buvusios Kuršo vyskupystės žemės.
 - susijęs iš Ryga: 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
 - susijęs iš Saremos: Danams atiteko Saremos, arba Eželio, vyskupystė.
-- susijęs iš Tauriavietė (vieta): Daukanto pasakojime kalavijonys, pasitelkę danus, per Jelgavą žygiavo į Tauriavietės pilį, niokojo apygardas, naikino javus ir degino kaimus.
 ## Citatos
 
 - id: c-47055
@@ -85,6 +110,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
   citata_rodoma: "Visai Livonijai bu-\nvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir\nplati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta ku-\nnigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pa-\nvesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo giminė.\nŠitos sutarties nepripažino tik Rygos miestas; jis liko nepri-\nklausomos iki 1582 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +131,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
   citata_rodoma: "Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —\nVarniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,\nAlūkstoje, Daugpily, Jelgavoj ir kitur."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,9 +139,8 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     - t-43652
 
 - id: c-184413
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 427"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 427."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Parsibastęs mistras į Rygą nusiuntė ži­
     nią į Kuršą kalavijonims, idant saugotųsi ir nenu-
@@ -128,6 +154,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     ma kelią ir tiltus taisydamas, antra dalis, užpakaly
     eidama, grobį virdė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

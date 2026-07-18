@@ -34,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas. Daukanto pasakojime kryžėjų rėdytojas Gerhardas Hircbergas mėgino lengvinti perkrikštų priespaudą ir įsakė broliams su jais elgtis maloniai, taikiai bei žmoniškai.
+1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas. Noris Gerhardas Hircbergas, rėdytojas kryžėjų, kaip įmanąs buvo pra dėjęs taupyti ir lengvinti tuos sluogavimus jau vai šindamas dirbėjus, vildamos bene nulyžins tuomi.
 
 ## Teiginiai
 
@@ -42,13 +42,36 @@ media_all_json: |-
 - t-001
   global_id: t-191403
   teiginys: "1258 m. vicemagistro Gerardo Hircbergo sutartyje nurodyti Ordino ir Sambijos vyskupo žemės valdų plotai bei pasiskirstymas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Natangija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gerardas Hircbergas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Natangija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gerardas Hircbergas\" parinktas kaip owner_note_path. Targetas \"Natangija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1258 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Gerardą Hircbergą, sutarties datą ir jos turinį. Jame nėra neatributuotų vertinimų ar papildomų teiginių."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174285
 
 <a id="claim-t-200989"></a>
 - t-002
   global_id: t-200989
-  teiginys: "Daukanto pasakojime kryžėjų rėdytojas Gerhardas Hircbergas mėgino lengvinti perkrikštų priespaudą ir įsakė broliams su jais elgtis maloniai, taikiai bei žmoniškai."
+  teiginys: "Noris Gerhardas Hircbergas, rėdytojas kryžėjų, kaip įmanąs buvo pra dėjęs taupyti ir lengvinti tuos sluogavimus jau vai šindamas dirbėjus, vildamos bene nulyžins tuomi."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184339
 
@@ -69,6 +92,7 @@ media_all_json: |-
     jusios ir kurias reikėjo matuoti, buvo nerija ir Vitland-
     sorto žemės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,9 +100,8 @@ media_all_json: |-
     - t-191403
 
 - id: c-184339
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 370"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 370."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rūstybė ir įbingimas perkrikštų rodės aiškiai
     kas dieną visame Parusny. Noris Gerhardas Hirc-
@@ -99,6 +122,7 @@ media_all_json: |-
     privalumus, bet žvėrių, turėjo, nuo tų, kurie atkak­
     lybę už išmintį, smarkybę už teisybę turėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,16 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
 - t-001
   global_id: t-78081
   teiginys: "Benjamin W. Dwightas „Moderniojoje filologijoje“ aukštino lietuvių kalbos grožį ir maloninių bei mažybinių žodžių gausą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Benjamin W. Dwight: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Benjamin W. Dwight\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75385
 - susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101616|„Iš visų Europos kalbų lietuvių kalba...“]]: Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.
@@ -70,6 +80,7 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
     kys tik Vokietijos intriga.
   citata_rodoma: "IV s k y r i u s\nLIETUVOS VALSTYBĖS  \nATKŪRIMAS \n„Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių \nmaloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų \nkalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant  \njuos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie \nbūdvardžių ir daiktavardžių. Jeigu tautos vertė, imant visą  \nžmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų \nužimti pirmą vietą tarp Europos tautų“ \nBenjamin W. Dwight  \nIš jo „Modern Philology“ („Modernioji filologija“)\nX\nX a."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

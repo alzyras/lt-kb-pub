@@ -42,6 +42,19 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 - t-001
   global_id: t-40271
   teiginys: "Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Suchodolskis: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karolis Jastržembskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Suchodolskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Karolio Jastržembskio vadovaujamas būrys susikovė su Suchodolskio daliniu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karolis Jastržembskis kariavo prieš Suchodolskis (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44415
 
@@ -64,6 +77,7 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
     30 sukilėlių ir pats būrio vadas.
   citata_rodoma: "sukilėlių vėliava\n\n200 sukilėlių būrys, vadovaujamas dimisi-\njos karininko Karolio Jastržembskio, susi-\nkovė su gen. mjr. Suchodolskio kavalerijos\ndaliniu. Rusams pavyko atkirsti sukilėlius,\nbesitraukiančius miško link ir priversti\nkautis nepatogioje vietovėje. Žuvo apie\n\n30 sukilėlių ir pats būrio vadas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

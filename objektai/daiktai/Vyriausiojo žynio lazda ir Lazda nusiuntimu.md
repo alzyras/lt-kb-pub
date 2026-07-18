@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189667
   teiginys: "Narbutas rašo, kad priešais didiesiems aukų atnašavimams vadovaujantį vyriausiąjį žynį buvo nešiojama lazda su trimis užlenkimais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyriausiojo žynio lazda ir Lazda nusiuntimu: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo žynio lazda ir Lazda nusiuntimu\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172550
 
@@ -55,6 +69,13 @@ Nenurodyta
 - t-002
   global_id: t-189668
   teiginys: "Narbutas spėjo, kad senovės lietuvių pasiuntinys nešdavosi ženklintą lazdą, vadintą Lazda nusiuntimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172551
 
@@ -62,6 +83,12 @@ Nenurodyta
 - t-003
   global_id: t-197246
   teiginys: "Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at siųsdavo lazdą su dviem užlenkimais."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179084
 
@@ -119,6 +146,7 @@ Nenurodyta
     dūs visi žemesnieji kunigai.
   citata_rodoma: "Kai tik kas numirdavęs, to\nšešėlis praslinkdavęs pro vyriausiojo žynio namą, jeigu nesiti­\nkėdavęs patekti su žemesniojo krivio duotu leidimu į laimės\nprieglobstį, paruoštą jam po mirties. Vyriausiasis žynys vado­\nvaudavo didiesiems aukų atnašavimams. Priešais jį buvo ne­\nšiojama vyriausiojo žynio lazda su trimis užlenkimais."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,6 +170,7 @@ Nenurodyta
     kitokia.
   citata_rodoma: "Reikia manyti, kad senovės lietuvių pasiuntinys, siunčia­\nmas kokio asmens ar bendruomenės, nešdavosi lazdą su tam\nI ikru ženklu, į kurią būdavo įrėžti ženklai, garantuojantys pa­\nsiuntinio patikimumą. Šitokia lazda vadinosi Lazda nusiunti­\nmu. Tokius žmones visur gerbdavo, nors jie būtų atsiųsti di­\ndžiausio priešo ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,6 +190,7 @@ Nenurodyta
     Rinkti krivį priklausė vaidiloms, o Krivių Krivaitis jam at­
     siųsdavo lazdą su dviem užlenkimais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

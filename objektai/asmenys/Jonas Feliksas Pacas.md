@@ -40,6 +40,20 @@ Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, 
 - t-001
   global_id: t-200869
   teiginys: "Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, o jo herbas bei devizai puošė bažnyčios fasadą."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Jonas Feliksas Pacas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Jonas Feliksas Pacas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Įvardis „jo“ tiesiogiai sieja herbą su Jonu Feliksu Pacu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184214
 
@@ -59,6 +73,7 @@ Jonas Feliksas Pacas buvo Šv. Kotrynos bažnyčios sumanytojas ir fundatorius, 
     labai garsus tuo metu Vilniaus architektorius Jonas Kristupas Glaubicas. —
     Iš pietų pusės šv.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

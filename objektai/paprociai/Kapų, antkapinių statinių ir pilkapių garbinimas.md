@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-189919
   teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o protėvių ar ypatingomis dorybėmis pasižymėjusių asmenų kapams buvo meldžiamasi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172802
 
@@ -55,6 +62,12 @@ Nenurodyta
 - t-002
   global_id: t-197255
   teiginys: "Aplink visą pilkapį ratu eina didokų akmenų eilės, kurios sudarė tarytum viso statinio aptvarą; sta tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme nų eilės, nukreiptos nuo viršūnės tiesiai į apačią."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179088
 
@@ -77,6 +90,7 @@ Nenurodyta
     kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
     dorybių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,6 +109,7 @@ Nenurodyta
     tinys buvo žvaigždės pavidalo, jos spindulius vaizduoja akme­
     nų eilės, nukreiptos nuo viršūnės tiesiai į apačią.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

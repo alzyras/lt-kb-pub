@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas perpasakoja, kad Žemaičiuose lavonai buvę deginami, o jų ilgą negedimą aiškina žemaičiams priskirtu mokėjimu užšaldyti alų ar vandenį.
+Yra doba Žemaičiuose, tolesniai sako, visus lavo nus deginti, jei kokį numirėlį nedegintą rastų, tada didžiai sunkiai kankinami buvo tie, kurie turėjo jį deginti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201392"></a>
 - t-001
   global_id: t-201392
-  teiginys: "Daukantas perpasakoja, kad Žemaičiuose lavonai buvę deginami, o jų ilgą negedimą aiškina žemaičiams priskirtu mokėjimu užšaldyti alų ar vandenį."
+  teiginys: "Yra doba Žemaičiuose, tolesniai sako, visus lavo nus deginti, jei kokį numirėlį nedegintą rastų, tada didžiai sunkiai kankinami buvo tie, kurie turėjo jį deginti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184742
 
 ## Citatos
 
 - id: c-184742
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 50"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 50."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ir taip ko nepragėrė jo gentys budėdami, tuo-
     mi svetimi pasidalijo.
@@ -65,6 +70,7 @@ Nenurodyta
     alaus ar vandens lygia dalia žiemą ir vasarą mokėjo
     užšaldyti1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

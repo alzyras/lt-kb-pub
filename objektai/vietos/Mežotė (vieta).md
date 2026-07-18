@@ -27,30 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Žemgaliai, susivieniję su lietuviais ir žemaičiais, sutvirtino Mežotės pilį, puolė Bažnyčios salą ir nuniokojo kraštą.
+Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo.
 
 ## Teiginiai
 
 <a id="claim-t-201147"></a>
 - t-001
   global_id: t-201147
-  teiginys: "Žemgaliai, susivieniję su lietuviais ir žemaičiais, sutvirtino Mežotės pilį, puolė Bažnyčios salą ir nuniokojo kraštą."
+  teiginys: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184497
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200962|Albertas (vyskupas, XII–XIII a.)]]: Albertas su kalavijuočiais, perkrikštais ir maldininkais, turėdamas pilims griauti skirtų įrenginių, žygiavo į Mežotės pilį su daugiau kaip 10 000 karių.
-- susijęs iš [[objektai/zodynas/Perkrikštai (sąvoka).md#claim-t-201200|Perkrikštai (sąvoka)]]: Daukanto pasakojime Albertas prieš žemgalius sutelkė kalavijonius, perkrikštus ir meldžionis, o į Mežotę žygiavo su daugiau kaip 10 000 karių.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-200953|meldžionys]]: Daukanto pasakojime persikrikštiję žemgaliai, susivieniję su lietuviais ir žemaičiais, kovojo su meldžionimis, aptvėrė Mežotės pilį ir nusiaubė Bažnyčios salą.
-- susijęs iš [[objektai/zodynas/Perkrikštai (sąvoka).md#claim-t-201200|Perkrikštai (sąvoka)]]: Daukanto pasakojime Albertas prieš žemgalius sutelkė kalavijonius, perkrikštus ir meldžionis, o į Mežotę žygiavo su daugiau kaip 10 000 karių.
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200962|Albertas (vyskupas, XII–XIII a.)]]: Albertas su kalavijuočiais, perkrikštais ir maldininkais, turėdamas pilims griauti skirtų įrenginių, žygiavo į Mežotės pilį su daugiau kaip 10 000 karių.
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200962|Albertas (vyskupas, XII–XIII a.)]]: Albertas su kalavijuočiais, perkrikštais ir maldininkais, turėdamas pilims griauti skirtų įrenginių, žygiavo į Mežotės pilį su daugiau kaip 10 000 karių.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-200953|meldžionys]]: Daukanto pasakojime persikrikštiję žemgaliai, susivieniję su lietuviais ir žemaičiais, kovojo su meldžionimis, aptvėrė Mežotės pilį ir nusiaubė Bažnyčios salą.
-- susijęs iš [[objektai/zodynas/Perkrikštai (sąvoka).md#claim-t-201200|Perkrikštai (sąvoka)]]: Daukanto pasakojime Albertas prieš žemgalius sutelkė kalavijonius, perkrikštus ir meldžionis, o į Mežotę žygiavo su daugiau kaip 10 000 karių.
+
 ## Citatos
 
 - id: c-184497
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 229"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -64,6 +62,7 @@ media_all_json: |-
     naktį, ryto metą kariauną skurdino pamūšy, paskui
     sukos į papilį, kurį nuteriojęs, pačią pilį apgulė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -56,6 +56,18 @@ Nenurodyta
 - t-001
   global_id: t-192018
   teiginys: "Šeštojo dešimtmečio viduryje T. Narbutui kilo mintis dalį per penkiolika metų sukauptos medžiagos išleisti atskira knygele."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174899
 
@@ -63,6 +75,20 @@ Nenurodyta
 - t-002
   global_id: t-192019
   teiginys: "1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1856 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau aiškiai sieja 1856 m. leidybą su „Mažesniaisiais istoriniais raštais“. Jame neperžengiama citatos informacija."
   pagrindžia:
     - c-174899
     - c-174900
@@ -95,6 +121,7 @@ Nenurodyta
     spausdinu šiame rinkinyje“1.
   citata_rodoma: "Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam\nnors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­\nkaupta per penkiolika metų, išleisti atskira knygele. Tai\nbuvo tam tikras kompromisas, išeitis, juolab kad rasti\nleidėją, kuris išleistų istorinius veikalus, darėsi vis sun­\nkiau. Be to, tuo metu T. Narbutas jau turėjo karčią pa­\ntirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­\nvimo programą. Taigi 1856 metais Teofilio Gliuksbergo\nspaustuvėje atsirado galimybė išleisti dalį to, kas turėjo\npapildyti antrąjį LTI leidimą. Taip gimė „Mažesnieji is­\ntoriniai raštai“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,6 +150,7 @@ Nenurodyta
     spausdinu šiame rinkinyje“1.
   citata_rodoma: "Taip gimė „Mažesnieji is­\ntoriniai raštai“, kurių pratarmėje (beje, datuotoje 1852\nmetais) istorikas rašė; „Pildant mano paskelbtos „Lietu­\nvių tautos istorijos“ puslapius naujais pastebėjimais, kri­\ntiškai vertinant įvairius trūkumus bei klaidas, galbūt net\nturint vilties, jog pasirodys antrasis leidimas, ir anks­\nčiau, ir dabar pasitaikė dalykų, kuriuos vertėtų atminti ir\nišsaugoti nuo pražūties, arba tokių smulkmenų, kurių\nvisų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir\nspausdinu šiame rinkinyje“1."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

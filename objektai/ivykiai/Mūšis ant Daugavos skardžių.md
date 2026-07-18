@@ -1,16 +1,12 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mūšis ant Daugavos skardžių (mūšis, XII a.)'
+pavadinimas: 'Mūšis ant Daugavos skardžių'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 datos:
   - '1182 m.'
 date_start: '1182'
 date_end: ''
-variantai:
-  - 'Mūšis ant Daugavos skardžių'
-aliases:
-  - 'Mūšis ant Daugavos skardžių'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -28,11 +24,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Mūšis ant Daugavos skardžių (mūšis, XII a.)
+# Mūšis ant Daugavos skardžių
 
 ## Santrauka
 
-Daukanto pasakojime po karvedžio netekties gudai traukėsi, o lietuvių vyresnieji jų bėglius sugrūdo į Daugavos verpetus. Daukantas aprašo, kad lietuviai ir žemaičiai, sutelkę kariuomenę, žygiavo išvaryti gudų, ugnimi ir kalaviju niokojusių Padaugavį.
+Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius. Nustoję gudai taip kantraus savo karvedžio tuojau kurs kaip beįmanė tas muko šalin, bet lietuvių vyresnieji taip bukliai buvo savo kareivius sustatę, jog skriejan čius gudus visus į verpetus Daugavos sugrūdo, kuri būk burgėjusi per kamšą kūnų it per purvyną.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -48,26 +44,58 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201296"></a>
+<a id="claim-t-201295"></a>
 - t-001
+  global_id: t-201295
+  teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184645
+
+<a id="claim-t-201296"></a>
+- t-002
   global_id: t-201296
-  teiginys: "Daukanto pasakojime po karvedžio netekties gudai traukėsi, o lietuvių vyresnieji jų bėglius sugrūdo į Daugavos verpetus."
+  teiginys: "Nustoję gudai taip kantraus savo karvedžio tuojau kurs kaip beįmanė tas muko šalin, bet lietuvių vyresnieji taip bukliai buvo savo kareivius sustatę, jog skriejan čius gudus visus į verpetus Daugavos sugrūdo, kuri būk burgėjusi per kamšą kūnų it per purvyną."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184646
 
-<a id="claim-t-201465"></a>
-- t-002
-  global_id: t-201465
-  teiginys: "Daukantas aprašo, kad lietuviai ir žemaičiai, sutelkę kariuomenę, žygiavo išvaryti gudų, ugnimi ir kalaviju niokojusių Padaugavį."
-  pagrindžia:
-    - c-184815
-
 ## Citatos
 
+- id: c-184645
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Darin
+    lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182
+    jus, ėjo gudų tremti, kurie jau ugnia ir karda te-
+    riojo padaugavius. Abi šąli su visų didžiausia aitra
+    ir narsybe susigrūmė ant skardžių Daugavos. Izias­
+    lavas garbingas drąsybe ir narsybe, sako, pats eila-
+    vęs savo gudus į mūšą. Lietuvius bei žemaičius būk
+    taip pat rėdęs vyras protu ir kantrybe galįs, kurio
+    vardo vienok skaugė raštuose neįrašė.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:31"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201295
+
 - id: c-184646
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 166"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 166."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nustoję
     gudai taip kantraus savo karvedžio tuojau kurs kaip
@@ -89,29 +117,9 @@ Nenurodyta
     greitų žirgų pasirodė, tenai akmuo ir vanduo paliko
     betyruojąs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-201296
-
-- id: c-184815
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 165"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 165."
-  citata_originali: |
-    Darin
-    lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182
-    jus, ėjo gudų tremti, kurie jau ugnia ir karda te-
-    riojo padaugavius. Abi šąli su visų didžiausia aitra
-    ir narsybe susigrūmė ant skardžių Daugavos. Izias­
-    lavas garbingas drąsybe ir narsybe, sako, pats eila-
-    vęs savo gudus į mūšą. Lietuvius bei žemaičius būk
-    taip pat rėdęs vyras protu ir kantrybe galįs, kurio
-    vardo vienok skaugė raštuose neįrašė.
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-201465

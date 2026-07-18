@@ -55,6 +55,20 @@ Nenurodyta
 - t-001
   global_id: t-189768
   teiginys: "Narbutas metinę sumestinę auką aprašo kaip metų pabaigos švenčių apeigą, per kurią keli kaimai surinkdavo gėrybių jaučiui ir ožiui pirkti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Duona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Metinė sumestinė auka ir ožio jaučio aukojimo apeiga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Metinė sumestinė auka ir ožio jaučio aukojimo apeiga\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172651
 
@@ -62,6 +76,23 @@ Nenurodyta
 - t-002
   global_id: t-189770
   teiginys: "Narbutas nurodo, kad apie 1520 m. kroniką rašęs Grunau prūsų kaimiečių apeigas pasakojo kaip savo akimis matęs liudytojas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Metinė sumestinė auka ir ožio jaučio aukojimo apeiga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Metinė sumestinė auka ir ožio jaučio aukojimo apeiga\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1520 m.; įvykio data: apie 1520 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Kronikinis liudijimas ir religinės apeigos paliktos su Narbuto atribucija. Nepridėta vaidilos kalbų ir ožio apeigos detalių."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172653
 
@@ -69,6 +100,12 @@ Nenurodyta
 - t-004
   global_id: t-197261
   teiginys: "Žinome, kad per panašias apeigas skam bėdavo lietuviška muzika."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179091
 
@@ -76,6 +113,9 @@ Nenurodyta
 - t-003
   global_id: t-194626
   teiginys: 'Paskui viršaitis, jų žynys, stabmeldžių papratimu už sidėjęs ant galvos vainiką, uždeda ranką ant ožio arba jaučio ir prašo visų dievų, kiekvieno atskirai, kuriuos pirmiau išvar dijau, idant maloningai teiktųsi priimti tos šventės apeigą li auką.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-177025
 
@@ -100,8 +140,8 @@ Nenurodyta
     tį, papjauna jį, o kraujo neišlaisto ant žemės, bet nuleistą į
     indą semia ąsotėliu arba taure.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,6 +163,7 @@ Nenurodyta
     žmonos supila kvietinius ir grikių miltus, iš kurių pridaro pa­
     plotėlių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +185,7 @@ Nenurodyta
     buvo dedamos rankos ant ožio galvos, ir toliau apeigos vykda­
     vo taip, kaip Strijkovskio aprašyta.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,6 +205,7 @@ Nenurodyta
     mitų, ragų, dūdelių; apie tas aukas galime tik spėlioti, nes duo­
     menų apie jas neišliko.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

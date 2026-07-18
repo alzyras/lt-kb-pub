@@ -33,6 +33,13 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
 - t-001
   global_id: t-194765
   teiginys: "Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka pis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177161
 
@@ -51,6 +58,7 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
     pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
     tus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,17 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - t-001
   global_id: t-52464
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Padauguvis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Padauguvis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini vokiečių atsikraustymą į Padauguvį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Vokiečiai keliavo į Padauguvis (0.90)"
   pagrindžia:
     - c-46415
 
@@ -48,6 +59,17 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - t-002
   global_id: t-52465
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Padauguvis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Padauguvis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad dalis vokiečių atsikraustė į Padauguvį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Vokiečiai keliavo į Padauguvis (0.90)"
   pagrindžia:
     - c-46415
 
@@ -66,6 +88,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
   citata_rodoma: "Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-\nsidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-\nnavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.\nXIII amž."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

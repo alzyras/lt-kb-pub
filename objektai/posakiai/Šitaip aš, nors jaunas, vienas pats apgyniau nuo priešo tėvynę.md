@@ -48,6 +48,13 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
 - t-001
   global_id: t-199234
   teiginys: "A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikia aiškesnio asmens, veiksmo ir atribucijos, nepridedant neparemtų detalių."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-181752
 
@@ -73,6 +80,7 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
     vos valstybei.
   citata_rodoma: "Kaip Bychovco kronikoje Jonas Goštau­\ntas vaizduojamas Kazimiero Jogailaičio gelbėtoju, taip \nmemoriale Albertas Goštautas iškyla kaip Lietuvos \nvalstybės gelbėtojas, valdant Kazimiero sūnui Žygi­\nmantui II. („Šitaip aš, nors jaunas, vienas pats apgy­\nniau nuo priešo [M. Glinskio] tėvynę, nesant ne tik \nvaldovo, mano šviesiausiojo karaliaus, bet ir visų jį \npavaduojančių pareigūnų.\")6 0\nNeabejotiną A. Goštauto memorialo ryšį su By­\nchovco kronika rodo toji memorialo vieta, kur A. Goš­\ntautas trumpai išdėsto savo protėvių nuopelnus Lietu­\nvos valstybei."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

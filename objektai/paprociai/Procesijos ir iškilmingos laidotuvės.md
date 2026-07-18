@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-67189
   teiginys: "Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67201
 
@@ -60,6 +64,10 @@ Nenurodyta
 - t-002
   global_id: t-67190
   teiginys: "Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
   pagrindžia:
     - c-67200
 
@@ -80,6 +88,7 @@ Nenurodyta
     dotuves.
   citata_rodoma: "Dažniausiai muštynių atsitikdavo švenčių metu, per\nprocesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip\npat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-\ndotuves."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +111,7 @@ Nenurodyta
     ir artimaisiais jų patarėjais.
   citata_rodoma: "Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmin-\ngomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Pa-\nmažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo\npilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais\nir artimaisiais jų patarėjais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

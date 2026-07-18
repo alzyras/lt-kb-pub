@@ -32,6 +32,21 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-001
   global_id: t-192920
   teiginys: "Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Prūsai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Semba: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė „prūsų Sembos“ rodo Sembos priskyrimą prūsams, nors tai išreikšta būdvardžiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Semba priklausė Prūsai (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175690
 
@@ -39,6 +54,20 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-002
   global_id: t-192921
   teiginys: "Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gintaras: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gintaras\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175691
 
@@ -46,6 +75,12 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-003
   global_id: t-194902
   teiginys: "Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-177298
 
@@ -104,6 +139,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
     skirtos nuo medžių žievės1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +166,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
     dai ir kinai; pas mus jis dedamas į lakus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,6 +193,7 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     studijuoti šį dalyką.
   citata_rodoma: "148\n\n## Puslapis 146\n\nprototipą atitinkanti prasmė išliko Pirėnų baskų ir Žemu­\ntinės Bretanės kalbose1. Lietuvių kalboje jis išliko žodyje\nStiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų\nreciprocum, se, sanskrito sieti2, lenkų się; be to, lietuviš­\nkas žodis Stiklas reiškia spindintį daiktą, žodyje glūdi\nG los s pradas.\n150\nKocebus teisingai vadina gintarą saulės akmeniu, se­\nnovėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią\ngaubia sunkiai atskleidžiamos uždangos4."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

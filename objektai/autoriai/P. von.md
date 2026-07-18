@@ -41,6 +41,18 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
 - t-001
   global_id: t-30913
   teiginys: "P. von Osten-Sackenas 1910 m. paskelbė darbą apie Livonijos ir Rusios santykius Vytauto valdymo laikotarpiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "P. von: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. von\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1910 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33098
 - susijęs iš [[objektai/autoriai/Osten-Sacken, P. von.md#claim-t-30890|Osten-Sacken, P. von]]: P. von Osten-Sackenas rašė apie Livonijos ir Rusios santykius Lietuvos didžiojo kunigaikščio Vytauto valdymo laikotarpiu.
@@ -65,6 +77,7 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
     p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką).
   citata_rodoma: "— Osten-Sacken,\nP. von : _Livländisch-russische Beziehungen während der Regierungszeit\ndes Grossfürsten Witowt von Litauen_ ( _1392-1430_ ), MiLG, t. 20, 1910, 169-\n294 p. — Paszkiewicz, H. : PaJM. — Petkun’, P. : _Schidnia meža Ve-\nlykoho Knjazistva Lytovskoho v 30-ach rokach XV storiččja,_ Juvilejnyj\nzbirnik pošanu akademyka M."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

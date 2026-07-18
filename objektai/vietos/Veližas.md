@@ -45,6 +45,22 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - t-002
   global_id: t-199954
   teiginys: "Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys aiškus, konkretus ir paremtas citata."
+  susije_objektai: "mentioned_place: Krasnyj Gorod; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Toropecas"
+  ryšio_patikimumas: "susije_su -> Krasnyj Gorod: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Veližas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krasnyj Gorod: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Veližas\" parinktas kaip owner_note_path. Targetas \"Krasnyj Gorod\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-182944
 
@@ -52,6 +68,13 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - t-001
   global_id: t-199955
   teiginys: "Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata leidžia pateikti aiškesnį veiksmą ir tikslą."
+  susije_objektai: "llm_object: Veližas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Toropecas; llm_object: Rusija"
+  semantiniai_rysiai: "[[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]] keliavo į Veližas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
   pagrindžia:
     - c-182943
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
@@ -114,6 +137,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     teritoriją.
   citata_rodoma: "Batoro planą Lietuvos lauko etmo-\nnas Kristupas Radvila Perkūnas, iki pagrin-\ndinėms pajėgoms pradedant žygį į Pskovą,\nturėjo saugoti pasienį su Rusija ir imituoti\nįsiveržimą į Rusijos teritoriją tarp Veližo\nir Smolensko ir kuo ilgiau išlaikyti įtampą\nšiame ruože. Jis turėjo žygiuoti Veližo link,\niš ten pulti Toropeco ir Bialos pilių apy-\nlinkes, kai pagrindinės pajėgos įsiverš\nį Rusijos teritoriją šiauriau."
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +173,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     gelis karių dėl tų duobių labai nukentėjo.
   citata_rodoma: "Didysis kunigaikštis Vytautas, sutelkęs visas savo \npajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis \nmėnesius prie Porchovo miesto3  ir, nepaėmęs miesto, \nnuėjo per Naugardo ir Pskovo žemę niokodamas, de­\ngindamas ir imdamas nelaisvėn * .\nSekančiais metais didysis kunigaikštis Vytautas išsi­\nrengė prieš Pskovo miestą5  ir paėmė Pskovo miestus \nVeližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami, \nkad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­\nnius pas didįjį kunigaikštį Vytautą, kad jis būtų jų \nvaldovu, žadėjo jo klausyti ir kasmet mokėti jam duok­\nlę bei įsileisti jo vietininką, ir didysis kunigaikštis\n(07\n\n## Puslapis 103\n\npasodino pas juos vietininku Pinsko kunigaikštį Juri­\njų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­\nžygiavo prieš Naugardą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

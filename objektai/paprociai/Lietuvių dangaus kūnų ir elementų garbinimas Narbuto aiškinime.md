@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-189961
   teiginys: 'Narbutas teigė, kad seniausioji lietuvių religija buvusi azijinė indiška, o dangaus kūnai, ugnis, vanduo ir žemė garbinti pagal budistų ir persų taisykles.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinės kilmės teorija suformuluota kaip Narbuto teiginys. Nepridėta vėlesnio romėnų, gotų ar skandinavų poveikio, nors citata jį mini.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Persai|Persai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_person: [[objektai/asmenys/Zoroastras|Zoroastras]]'
   pagrindžia:
     - c-172844
 
@@ -77,6 +82,7 @@ Nenurodyta
     kankamai ryškūs -  tiek, kad senesnieji istorikai visą tą mitolo­
     giją kildina iš skandinavų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

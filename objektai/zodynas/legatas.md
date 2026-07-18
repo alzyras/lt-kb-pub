@@ -39,6 +39,12 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-001
   global_id: t-185345
   teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168706
 
@@ -46,6 +52,12 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-002
   global_id: t-185346
   teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168707
 
@@ -53,6 +65,12 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-003
   global_id: t-193459
   teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168707
 
@@ -60,6 +78,13 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-004
   global_id: t-196376
   teiginys: "Kojelavičiaus pasakojime senatoriai aiškino, kad Maskvos didikai, pasiuntę didžiojo kunigaikščio legatą pas karalių, galėtų sustabdyti kraujo praliejimą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178652
 
@@ -85,6 +110,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     lygomis.
   citata_rodoma: "Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei\napygardos valdytoją Dorpato vyskupą ir visą dvasinin­\nkų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­\nbiai pasiuntęs žygūną, paragino savo legatus pasikal­\nbėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų. Tuo\ntarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­\nradęs saiko jausmą, nei pats paisė teisingumo, nei lega­\ntams leido ką siūlyti dėl Livonijos ir net dėl taikos su\nLietuva."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,6 +139,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     stoti jungtinės abiejų tautų jėgos, be
   citata_rodoma: "Tuo\ntarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­\nradęs saiko jausmą, nei pats paisė teisingumo, nei lega­\ntams leido ką siūlyti dėl Livonijos ir net dėl taikos su\nLietuva. Legatams reikalaujant Seversko ir Smolensko,\nMaskvos didikai atsakė, kad nesą kunigaikščio įgalioti\ntartis dėl užimtų žemių sugrąžinimo.\nEsą taikos\n1558 m e ta i\nM a s k v o s\nv a ld o v a s\nįsiv e ržia\nį\nL ivo n iją ,\nk a raliau s le g a tu s iš ­\nsiu n čia  a tg a l n e d a v ę s\nv iltie s  s u sita ik y ti\n701\n\n## Puslapis 700\n\nsusitarimą galima būsią sudaryti tik tada, kai šie pasi­\ntrauksią iš likusios Rusios dalies, kuri dabar lietuvių ir\nlenkų rankose."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,6 +172,7 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     lių didžiojo k u n ig aik ščio legatą, su stab d y ti k ra u jo p ra ­
     liejim ą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

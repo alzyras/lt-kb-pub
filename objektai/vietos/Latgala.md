@@ -35,6 +35,17 @@ media_all_json: |-
 - t-001
   global_id: t-02535
   teiginys: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Švedija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ryga liko Švedijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Ryga priklausė Švedija (0.88); Latgala priklausė Lietuva (0.82); Latgala priklausė Lenkija (0.82)"
   pagrindžia:
     - c-02773
 
@@ -42,6 +53,12 @@ media_all_json: |-
 - t-002
   global_id: t-197888
   teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179381
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
@@ -60,6 +77,7 @@ media_all_json: |-
     tebuvo atgauta tik viena Latgala.
   citata_rodoma: "Tik labai suma-\nžėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji\njos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)\ntebuvo atgauta tik viena Latgala."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,6 +100,7 @@ media_all_json: |-
     žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
     se — Toloma; rytinėje dalyje — tikroji Latgala1.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

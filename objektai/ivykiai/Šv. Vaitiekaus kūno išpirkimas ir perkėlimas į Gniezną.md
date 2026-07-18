@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus žūtį, pasiuntė į Parusnį pasiuntinius, kad šie kuo brangiausiai atpirktų jo kūną.
+Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201272"></a>
 - t-001
   global_id: t-201272
-  teiginys: "Daukanto pasakojime lenkų karalius Boleslovas, sužinojęs apie Vaitiekaus žūtį, pasiuntė į Parusnį pasiuntinius, kad šie kuo brangiausiai atpirktų jo kūną."
+  teiginys: "Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184622
 
 ## Citatos
 
 - id: c-184622
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 139"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 139."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Netikėliai tarės tuomi savo apjuoktas šventeny­
     bes nuo krikščionų nugerbę ir užrūstintus savo die­
@@ -63,6 +68,7 @@ Nenurodyta
     tinius į Parusnį. Bet netikėliai norėjo pagal smagu­
     mą kūno sidabro gauti lygų luitą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

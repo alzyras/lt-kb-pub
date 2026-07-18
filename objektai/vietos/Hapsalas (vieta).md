@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Hapsalo pilėje vikionys apgulė vyskupą Hermaną su diduomene.
+Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė.
 
 ## Teiginiai
 
 <a id="claim-t-201163"></a>
 - t-001
   global_id: t-201163
-  teiginys: "Hapsalo pilėje vikionys apgulė vyskupą Hermaną su diduomene."
+  teiginys: "Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184513
 
 ## Citatos
 
 - id: c-184513
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 586"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 586."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuojau
     susirinkę 10 000 igumių pakėlė sau karvedį ir danų
@@ -52,6 +57,7 @@ Hapsalo pilėje vikionys apgulė vyskupą Hermaną su diduomene.
     loj apgulė. Lygia dalia ezelionys (rasi insalionys)
     šv.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

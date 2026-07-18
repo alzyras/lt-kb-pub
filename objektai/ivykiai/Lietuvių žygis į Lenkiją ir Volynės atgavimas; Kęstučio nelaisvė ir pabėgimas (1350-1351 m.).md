@@ -52,6 +52,19 @@ Nenurodyta
 - t-001
   global_id: t-185610
   teiginys: "Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168971
 
@@ -59,6 +72,19 @@ Nenurodyta
 - t-002
   global_id: t-185611
   teiginys: "Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168972
 
@@ -154,6 +180,7 @@ Nenurodyta
     niokojo kalaviju bei ugnimi.
   citata_rodoma: "Kai ėmė silpti maras, beveik\nporą metų baisiai siaubęs\nLenkiją, lietuvių kariuomenė\nįsiveržė į Sandomiro vaiva­\ndiją\nir,\nsumušusi\nlenkus,\nbandžiusius ginkluota kova\nužkirsti kelią grobikams, ją\nvisą nuniokojo kalaviju bei ugnimi. Po to pasukę į\nRusią, netruko atgauti neseniai iš jų atimtas pilis bei\nmiestus, vienus — užgrobdami jėga, kitus — prikalbin­\ndami pasiduoti. Nepuolė tik Lvovo, nes jį, sutvirtintą\nnaujomis sienomis ir ginamą stiprios įgulos, vargu ar\nįmanoma būtų užimti, užtat visas Lvovo apylinkes nu­\nniokojo kalaviju bei ugnimi."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,6 +214,7 @@ Nenurodyta
     V o ly n ė s
   citata_rodoma: "Mat nuo to laiko, kai Vengrijos kunigaikštis\nKolomanas valdė Galičą ir Vladimirą, vengrai skel­\nbėsi esą gretimų Rusios žemių valdovai, nors, po tei­\nsybei, ne tik jų niekad nevaldė, bet nė vilčių neturėjo\nvaldyti. Išsiruošęs į žygį, Kazimieras nuniokojo Vla­\ndimiro apygardą ir užėmė krašto sostinę. Kovėsi jis\nir su vienu lietuvių pulku, užpuolusiu karaliaus sto­\nvyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis\nL en kai,\nsu m u šę\nlie ­\ntu v iu s, atg a u n a  d a lį\nV o ly n ė s\n238\n\n## Puslapis 237\n\nKęstutis gyvas pakliuvo į priešų rankas."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

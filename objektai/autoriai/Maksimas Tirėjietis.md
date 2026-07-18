@@ -33,6 +33,21 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
 - t-001
   global_id: t-190439
   teiginys: "Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Romovė: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Perkūno stabai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Romovė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Perkūno stabas stovėjo Romovės šventykloje, todėl objektas siejamas su Romove kaip priklausantis jos šventyklai."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Perkūno stabai priklausė Romovė (0.68)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173322
 
@@ -56,6 +71,7 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
     stabų - Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
     skirose nišose - kitų dievų stabai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

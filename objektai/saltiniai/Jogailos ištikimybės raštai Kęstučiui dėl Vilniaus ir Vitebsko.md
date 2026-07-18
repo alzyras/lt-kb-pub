@@ -33,6 +33,13 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
 - t-001
   global_id: t-194166
   teiginys: "Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas atėmęs tėviškes iš laiško autoriaus draugų, Tautvilos ir Jono."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176779
 
@@ -40,6 +47,13 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
 - t-002
   global_id: t-196802
   teiginys: "Jogailos ištikimybės raštuose Kęstučiui teigiama, kad kunigaikštis Jogaila atėmė tėviškes iš dar likusių laiško autoriaus draugų."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-176779
 
@@ -61,6 +75,7 @@ Jogailos ištikimybės raštuose Kęstučiui kunigaikštis Jogaila vaizduojamas 
     tėviškės niekuomet neatims. Už tai kunigaikštis Jonas
     jam davė auksinį diržą per mano rankas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

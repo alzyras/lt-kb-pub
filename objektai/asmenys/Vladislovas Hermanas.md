@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Vladislovui Hermanui gavus valdžią, pamezonys, gudai ir pamariai nebeklausė lenkų ir nebemokėjo duoklės.
+Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė.
 
 ## Teiginiai
 
 <a id="claim-t-201426"></a>
 - t-001
   global_id: t-201426
-  teiginys: "Vladislovui Hermanui gavus valdžią, pamezonys, gudai ir pamariai nebeklausė lenkų ir nebemokėjo duoklės."
+  teiginys: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184776
-- susijęs iš [[objektai/ivykiai/Vladislovo Hermano žygiai prieš pamarionis.md#claim-t-201352|Vladislovo Hermano žygiai prieš pamarionis]]: Vladislovas Hermanas rugpjūčio 15 d. prie Racionžo pilies nugalėjo pamarionis ir jų lietuvių talkininkus.
+
 ## Citatos
 
 - id: c-184776
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 150"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 150."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įėjusiu į Juodgirė-
     nus (šiandien Baltaisiais Gudais vadinamus) pasis-
@@ -52,6 +57,7 @@ Vladislovui Hermanui gavus valdžią, pamezonys, gudai ir pamariai nebeklausė l
     Šiaurėj vienok lietuvių giminės, užvis žemaičiai,
     рака j aus neturėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

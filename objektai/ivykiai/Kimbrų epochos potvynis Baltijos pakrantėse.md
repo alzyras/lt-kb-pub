@@ -50,6 +50,20 @@ Nenurodyta
 - t-001
   global_id: t-191024
   teiginys: "Narbutas, remdamasis Hartknochu, kimbrų epochos potvynį sieja su dideliais Baltijos jūros krantų reljefo ir pavidalo pokyčiais Prūsijoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimbrų epochos potvynis Baltijos pakrantėse: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=42"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrų epochos potvynis Baltijos pakrantėse\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173906
 
@@ -57,6 +71,21 @@ Nenurodyta
 - t-002
   global_id: t-191025
   teiginys: "Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Baltija: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini kimbrų pasitraukimą nuo Baltijos jūros pakrančių, bet kryptis yra iš Baltijos, ne į ją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Kimbrai keliavo į Baltija (0.62)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-173907
 
@@ -64,6 +93,12 @@ Nenurodyta
 - t-003
   global_id: t-197544
   teiginys: "Hartknochas, remdamasis vietos pa davimais ir tiesioginiais vietovės tyrinėjimais, visiškai įsitikinęs šio atsitikimo tikrumu; jis ne sykį mini, jog smarkių ir ilgalaikių šiaurinių vėjų sukelti dideli jūros potvyniai išilgai visos Prūsijos padarė nemažai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179239
 
@@ -71,6 +106,12 @@ Nenurodyta
 - t-004
   global_id: t-197545
   teiginys: "Tačiau esama sunku mų nustatant datą, kada tai galėjo įvykti: kalbėdamas apie dalykus, susijusius su įvykiais, galėjusiais įvykti daugiau negu šimtmetis prieš naują erą, jis mini 1190 metus ir kalba apie tą potvynį, kuris, anot jo pasakoji mų, turėjęs būti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173906
 
@@ -102,6 +143,7 @@ Nenurodyta
     tes ir neatpažįstamai pakeitė jų vaizdą: pradingo netoli
     1 Plutarchus; Sirabo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,6 +174,7 @@ Nenurodyta
     tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
     mėnais; tai įvyko 190 metais prieš Kristaus gimimą4.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,6 +205,7 @@ Nenurodyta
     metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
     mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

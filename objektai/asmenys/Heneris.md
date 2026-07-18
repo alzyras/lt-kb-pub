@@ -32,6 +32,21 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
 - t-001
   global_id: t-191413
   teiginys: "Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Baltarusija: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heneris: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Baltarusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Heneris ilgą laiką gyveno Baltarusijoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Heneris gyveno Baltarusija (0.96)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174295
 
@@ -85,6 +100,7 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
   citata_rodoma: "Tačiau tuos, kurie ką nors\nrasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­\njimas laikomas pavojingu dalyku, todėl nežinomas nė\nvienas, kuris būtų laikęs ką nors panašaus savo rankose.\nKai aš ten buvau, dar buvo gyvas Senojo Bychovo\napskrities gydytojas ponas Heneris, labai apsišvietęs žmo­\ngus ir smalsus istorinių dalykų tyrinėtojas, išgyvenęs\nBaltarusijoje per keturiasdešimt metų. Jis pateikė man\ndaug paaiškinimų apie šiuos dalykus, be to, rodė nuora­\nšą trumpo išrašo iš kažkokios senos kronikos; XIV am­\nžiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;\npirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

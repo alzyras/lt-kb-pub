@@ -33,37 +33,54 @@ media_all_json: |-
 
 ## Santrauka
 
-Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, susijungęs su jo kariauna, užėmė Onedos, arba Baigos, pilį Parusnyje. Kalavijonų mistras Zangerhauzenas Daukanto pasakojime, nujausdamas samionų neramumus, telkė stiprią kariauną ir su Klaipėdos įgula traukė į Samiją kopomis. Daukanto pasakojime kalavijonų mistras Andriejus Vestfalenas, siekdamas atkeršyti žemaičiams už ankstesnį pralaimėjimą, surengė žygį, tačiau žemaičiai jį, 20 brolių ir daug karių nukovė stovykloje.
+Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta. Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis. Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę.
 
 ## Teiginiai
 
 <a id="claim-t-201197"></a>
 - t-001
   global_id: t-201197
-  teiginys: "Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, susijungęs su jo kariauna, užėmė Onedos, arba Baigos, pilį Parusnyje."
+  teiginys: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184547
 
 <a id="claim-t-201198"></a>
 - t-002
   global_id: t-201198
-  teiginys: "Kalavijonų mistras Zangerhauzenas Daukanto pasakojime, nujausdamas samionų neramumus, telkė stiprią kariauną ir su Klaipėdos įgula traukė į Samiją kopomis."
+  teiginys: "Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184548
 
 <a id="claim-t-201199"></a>
 - t-003
   global_id: t-201199
-  teiginys: "Daukanto pasakojime kalavijonų mistras Andriejus Vestfalenas, siekdamas atkeršyti žemaičiams už ankstesnį pralaimėjimą, surengė žygį, tačiau žemaičiai jį, 20 brolių ir daug karių nukovė stovykloje."
+  teiginys: "Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184549
 
 ## Citatos
 
 - id: c-184547
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 359"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 359."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą, kaip buvo sakyta, Otokaras, ka­
     ralius Čekų, atkeliavo į Parusnį netikėlių lietuvių
@@ -78,6 +95,7 @@ Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, s
     kaip jam regis, ar gal jis su tokia galybe nuveikti
     samioms.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,9 +103,8 @@ Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, s
     - t-201197
 
 - id: c-184548
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 365"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 365."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuojau irklavo didi daugė sami anų lai­
     vų pajūriais, gandindami įgulę Klaipėdos ir dan­
@@ -111,6 +128,7 @@ Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, s
     didžias pylas, arba Šančius, užpylę ir zomatais stip­
     riai užtverę.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,9 +136,8 @@ Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, s
     - t-201198
 
 - id: c-184549
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 428"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 428."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai ne vien toj mūšoj savo grobį
     paturėjo, bet dar visą abažą kalavijonų įgiję pa­
@@ -133,6 +150,7 @@ Mistras Daukanto pasakojime iškilmingai priėmė Čekų karalių Otokarą ir, s
     daugybę meldžionų karvietėj išklojo.
     Pasibengė metai 1270 baisių ir kruvinų karių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

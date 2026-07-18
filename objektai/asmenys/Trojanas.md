@@ -33,6 +33,20 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
 - t-001
   global_id: t-191479
   teiginys: "Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trojanas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trojanas\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174361
 
@@ -102,6 +116,7 @@ Narbutas rašo, kad imperatoriaus Trojano laikais toliau nuo jūros gyvenę liet
     tuose2.
   citata_rodoma: "Juk buvo kariaujama su skandina­\nvais, gentys įvairiais būdais patirdavo tų užjūrio kai­\nmynų įtaką, nes didėjo prekių apyvarta ir plėtėsi santy­\nkiai su Rytais dėl to, kad į tuos kraštus patraukė dau­\ngelis genčių. Lietuviai, gyvenę toliau nuo jūros, dalyva­\nvo įvairiuose sarmatų maištuose, būdavo įtraukiami į\njuos net kaimyninių tautų, ne kartą kariavo ir su romė­\nnais, ypač imperatorių Trojano, Decijaus, Galo, Hosti-\nliano ir kitų laikais buvo germanų barbarišikumo sąjun­\ngininkai.\nEsama\nneabejotinų įrodymų, nes,\nvaldant\nimperatoriui\nGalui, apie 253 metus\njungtiniai finų,\ngalindų ir venedų būriai kariavo su imperatorium Valuzia-\nnu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo­\nvino kaip vandalų, finų, galindų ir venedų nugalėto­\nją."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

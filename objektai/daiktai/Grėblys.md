@@ -55,6 +55,10 @@ Nenurodyta
 - t-001
   global_id: t-195309
   teiginys: "Grėblys pateikiamas kaip šieno grėbimo, nešimo ir stūmimo įrankis šienapjūtėje."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177684
     - c-177685
@@ -79,6 +83,7 @@ Nenurodyta
     arklius, turi šieną grėbti.
   citata_rodoma: "Mergaitės grebia, pusbernis arklius daboja, bet ir jam yra grėblys, ir jis, bedabodamas arklius, turi šieną grėbti."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +103,7 @@ Nenurodyta
     žemės.
   citata_rodoma: "..., grėbliu stumdama."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

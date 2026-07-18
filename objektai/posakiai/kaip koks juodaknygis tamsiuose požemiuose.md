@@ -39,6 +39,21 @@ media_all_json: |-
 - t-001
   global_id: t-200676
   teiginys: "1754 m. Jonas Dominykas Lopacinskis Antano Mykolo Paco slaptą knygų skaitymą palygino su juodaknygiu tamsiuose požemiuose."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/03_normalize_titles_and_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> juodaknygis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "kaip koks juodaknygis tamsiuose požemiuose: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "juodaknygis: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kaip koks juodaknygis tamsiuose požemiuose\" parinktas kaip owner_note_path. Targetas \"juodaknygis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1754 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas palyginimo objektas - Antano Mykolo Paco knygų skaitymas pasislėpus. Palikta humoristinė laiško situacija, bet nepridėta neparemtų reikšmių apie žodžio kilmę."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184031
 - susijęs iš [[objektai/daiktai/Slapta skaitomos knygos.md#claim-t-200671|Slapta skaitomos knygos]]: 1754 m. Jonas Dominykas Lopacinskis su humoru rašė, kad Antanas Mykolas Pacas knygas skaitė pasislėpęs tamsiuose požemiuose.
@@ -60,6 +75,7 @@ media_all_json: |-
     koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų.
   citata_rodoma: "1754 m. J. D. Lopacinskis su humoru rašė, kad LDK raštininkas Antanas Mykolas Pacas Tribunolo metu iš Varšuvos gavo daug įvairių knygų, bet jas skaitė pasislėpęs kaip koks juodaknygis tamsiuose požemiuose, kad niekas nepastebėtų."
   statusas: verified
+  atnaujinta: "2026-07-14 11:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

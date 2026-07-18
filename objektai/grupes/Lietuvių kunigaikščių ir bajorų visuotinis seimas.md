@@ -33,6 +33,17 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 - t-001
   global_id: t-86802
   teiginys: "Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvių kunigaikščių ir bajorų visuotinis seimas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos kontekste seimas sušauktas Vilniuje, nors vieta išreikšta per sostinę ir ankstesnį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lietuvių kunigaikščių ir bajorų visuotinis seimas gyveno Vilnius (0.66)"
   pagrindžia:
     - c-82781
 
@@ -61,6 +72,7 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
     po apeigų žmonėms išdalyti balti lininiai marškiniai.
   citata_rodoma: "11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis- \nrašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa- \nakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- \n[tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,\nĮ1O\n\n## Puslapis 127\n\nIl KNYGA\nSu tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­\ntaus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­\nnigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­\nsirinkusiems žmonėms apie didelį ir esminį religijos pokytį. \nVisi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o \npo apeigų žmonėms išdalyti balti lininiai marškiniai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,16 @@ Vilniaus miesto amatininkų cechas.
 - t-001
   global_id: t-55091
   teiginys: "Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Cechas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus miesto auksakalių cechas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Cechas: mention_match, thing, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto auksakalių cechas\" parinktas kaip owner_note_path. Targetas \"Cechas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55902
 
@@ -56,6 +66,16 @@ Vilniaus miesto amatininkų cechas.
 - t-002
   global_id: t-55092
   teiginys: "Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Cechas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus miesto auksakalių cechas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Cechas: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto auksakalių cechas\" parinktas kaip owner_note_path. Targetas \"Cechas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55902
 
@@ -63,6 +83,16 @@ Vilniaus miesto amatininkų cechas.
 - t-003
   global_id: t-55093
   teiginys: "Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> Albertas Skvemevita: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus miesto auksakalių cechas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Albertas Skvemevita: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto auksakalių cechas\" parinktas kaip owner_note_path. Targetas \"Albertas Skvemevita\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55903
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54806|Cechas]]: Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių.
@@ -91,6 +121,7 @@ Vilniaus miesto amatininkų cechas.
     teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
     rams numatytos bausmės.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,6 +148,7 @@ Vilniaus miesto amatininkų cechas.
     jų privilegijoje bausmę, pripažinti civilinę teisę ir auksaka­
     lių cechą ir laikytis paklusnumo minėtam cechui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

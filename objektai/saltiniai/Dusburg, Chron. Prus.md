@@ -22,29 +22,35 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas, remdamasis „Dusburg, Chron. Prus“, aprašė, kaip vaidila prie visuomet žaliuojančio ąžuolo kalbėjosi su dievais.
+Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron.
 
 ## Teiginiai
 
 <a id="claim-t-201437"></a>
 - t-001
   global_id: t-201437
-  teiginys: "Daukantas, remdamasis „Dusburg, Chron. Prus“, aprašė, kaip vaidila prie visuomet žaliuojančio ąžuolo kalbėjosi su dievais."
+  teiginys: "Norėdamas kuomet tenai norą dievų tautai apreikšti, visų pirma ties visuomet žaliuojančiu ąžuolu palipęs ant malkos su dievais pasibylojo, 1 D u s b u r g , Chron."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184787
 
 ## Citatos
 
 - id: c-184787
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 92"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 92."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Norėdamas kuomet tenai norą dievų tautai
     apreikšti, visų pirma ties visuomet žaliuojančiu
     ąžuolu palipęs ant malkos su dievais pasibylojo,
     1 D u s b u r g , Chron. Prus., par. II, c. 5.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -56,6 +56,10 @@ Terminas siejamas su pirmąja pavasario diena.
 - t-001
   global_id: t-195466
   teiginys: "Pelenija šiame šaltinyje siejama su pirmąja pavasario diena."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177887
 
@@ -75,6 +79,7 @@ Terminas siejamas su pirmąja pavasario diena.
     Pelenijai išaušus sveikiname pirmąją pavasario dieną.
   citata_rodoma: "Pelenijai išaušus sveikiname pirmąją pavasario dieną"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,21 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
 - t-001
   global_id: t-186040
   teiginys: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.90)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-169401
 
@@ -66,6 +81,7 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
     vaikus bei senelius.
   citata_rodoma: "Tiesa, tą karą jie pradėjo nei paskatinti, nei\nįsakyti valdovo, kuris, nė devynerių metų nesulaukęs,\nvisai nesirūpino valstybės reikalais; juos sukurstė žiau­\nrių žiauriausias žmogus Fiodoras Ovčina. Šis, kaip\nesu minėjęs, sudorojo Mykolą Glinskį bei kitus didikus\nir, caro globėju pasivadinęs, užgrobė visą valdžią, pa­\nlikdamas gyviesiems Glinskio šalininkams Kolyčevui\nbei Šuiskiui tuščius globėjų vardus. Negalėdamas tai­\nkos sąlygomis deramai sutvirtinti savo padėties, jis ir\nsukurstė klastingomis kalbomis karą prieš Lietuvą. Su\nšešiasdešimt tūkstančių karių netikėtai patraukę į Lie­\ntuvą, maskvėnai ją nusiaubė, žudydami ir moteris, ir\nvaikus bei senelius."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,6 +40,21 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 - t-001
   global_id: t-41815
   teiginys: "1348 m. kovo mėn. Livonijos ordinas puolė Šiaurės Žemaitiją ir sunaikino Kulių (Jurgaičių), Dubysos (Bubių) bei kitas pilis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulių (Jurgaičių) pilys: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kulių (Jurgaičių) pilys: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kulių pilys nurodytos kaip Livonijos ordino puolimo ir naikinimo objektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonijos ordinas puolė Kulių (Jurgaičių) pilys (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta ir sutelkta į Kulių (Jurgaičių) pilių sunaikinimą."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-45155
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
@@ -62,6 +77,7 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
     Ariogalos kraštą.
   citata_rodoma: "“\n\nPo mūšio\n1348 m. kovo mėn. Livonijos ordinas vėl\npuolė Šiaurės Žemaitiją, sunaikino Kulių\n(Jurgaičių), Dubysos (Bubių) ir kažku-\nrias kitas pilis, o Prūsijos ordinas maršalo\nvadovaujamas vėlesniais mėnesiais siaubė\nAriogalos kraštą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

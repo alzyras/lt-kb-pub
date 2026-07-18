@@ -39,6 +39,16 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
 - t-001
   global_id: t-32088
   teiginys: "Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bonn: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonn\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33809
 - susijęs iš [[objektai/autoriai/H. Useser.md#claim-t-30632|H. Useser]]: H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.
@@ -59,6 +69,7 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
     mikrofilmų, reikalingų xeroxų ir šiaip jau talkinę.
   citata_rodoma: "Didelę dalį\nknygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos\nistorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju\nšio seminaro bendradarbiams. Lygiai taip pat nuoširdi autoriaus\npadėka kolegoms ir artimiems prieteliams, kurie jam yra parūpinę\nmikrofilmų, reikalingų xeroxų ir šiaip jau talkinę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

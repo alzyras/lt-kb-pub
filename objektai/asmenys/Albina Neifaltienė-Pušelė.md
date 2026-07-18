@@ -34,9 +34,12 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 - t-001
   global_id: t-39994
   teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44260
-    - c-167112
 
 ## Citatos
 
@@ -55,6 +58,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     patikimesnė 35 šovinių lenkta dėtuvė.
   citata_rodoma: "Mūšyje narsiai kovėsi ir junginio vado\nžmona Albina Neifaltienė-Pušelė, kuri taik-\nlia rankinio kulkosvaidžio ugnimi padarė\npriešui daug nuostolių, tačiau ir pati buvo\npriešo kulkos pakirsta.\n\nŠovinys -7,62x25mm TT."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,6 +83,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 
     Šovinys -7,62x25mm TT.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

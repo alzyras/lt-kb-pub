@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas nurodo, kad Joachimo Lelewelio veikaluose liaudis laikoma istorijos subjektu, tačiau juose nėra tokio griežto demokratinio tautos apibrėžimo.
+Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukanto profesorių, nei tuometiniuose Joachimo Lelewelio veikaluose, kuriuose liaudis taip pat laikoma istorijos subjektu.
 
 ## Teiginiai
 
 <a id="claim-t-201430"></a>
 - t-001
   global_id: t-201430
-  teiginys: "Daukantas nurodo, kad Joachimo Lelewelio veikaluose liaudis laikoma istorijos subjektu, tačiau juose nėra tokio griežto demokratinio tautos apibrėžimo."
+  teiginys: "Tokio griežto demokratinio tautos apibrėžimo nerasime nei minėtųjų Daukanto profesorių, nei tuometiniuose Joachimo Lelewelio veikaluose, kuriuose liaudis taip pat laikoma istorijos subjektu."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184780
 
 ## Citatos
 
 - id: c-184780
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 10"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 10."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Diduomenė, nutautusi bajorija, kuri bo­
     disi gimtosios ir savosios liaudies, valstiečių, Dau­
@@ -52,6 +57,7 @@ Daukantas nurodo, kad Joachimo Lelewelio veikaluose liaudis laikoma istorijos su
     sukurta valstybė turinti apsaugoti žmogaus nuosa­
     vybę ir pilietines laisves.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,12 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
 - t-001
   global_id: t-188930
   teiginys: "Stowko о bogach Litewskich // Biblioteka Warszawska."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171819
 
@@ -76,6 +82,7 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
     iš tiesų reikia vertinti lietuvių mitologiją.
   citata_rodoma: "25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-\nzawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

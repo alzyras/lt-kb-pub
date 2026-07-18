@@ -34,6 +34,10 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
 - t-001
   global_id: t-193953
   teiginys: 'Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimantas Trakų pilyje buvo nužudytas greičiausiai jo nurodymu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Kaltinimas suformuluotas kaip Daugirdo pozicija metraštyje, o ne neutralus faktas. Paliktas Leliušo vaidmuo ir nepridėta papildomų sąmokslo detalių.'
   pagrindžia:
     - c-176578
 
@@ -63,6 +67,7 @@ Lietuvos metraštyje Daugirdas kaltina Trakų vaivadą Leliušą, kad Žygimanta
     gailos vietininkus išvarė ir išsirinko seniūnu Dauman­
     tą, Kantauto giminaitįI S .
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

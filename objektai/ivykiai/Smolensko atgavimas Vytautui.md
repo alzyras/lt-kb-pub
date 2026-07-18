@@ -51,6 +51,9 @@ Nenurodyta
 - t-001
   global_id: t-186592
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Sakinys sutvirtintas citatoje esančia kariuomenių detale.'
+  susije_objektai: 'llm_object: Smolenskas; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Riazanė'
   pagrindžia:
     - c-169889
 
@@ -58,6 +61,9 @@ Nenurodyta
 - t-002
   global_id: t-186593
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas išvijo Jurijų Svetoslavovičių ir Riazanės kunigaikštį Olegą iš Smolensko.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Įvardytas veikėjas, kad sakinys būtų aiškesnis ir tiesiogiai sietųsi su įvykiu.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-169889
 
@@ -65,6 +71,9 @@ Nenurodyta
 - t-003
   global_id: t-186594
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas atgavo Smolensko miestą ir visą žemę, sutvirtino Smolensko žmones ir grįžo į Lietuvą.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Patikslinta, kad citata kalba apie žmonių sutvirtinimą, o ne aiškiai apie valdžią.'
+  susije_objektai: 'llm_object: Lietuva; llm_object: Smolenskas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Riazanė'
   pagrindžia:
     - c-169889
 
@@ -72,6 +81,10 @@ Nenurodyta
 - t-004
   global_id: t-193858
   teiginys: 'Lietuvos metraščio pasakojime Vytautas su Vladislovu Jogaila rudenį atvyko į Smolenską, išvijo Jurijų Svetoslavovičių ir Olegą bei atgavo miestą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleisti veikėjai, vieta ir rezultatas, pataisyti laužyti žodžiai. Metraščio karinis pasakojimas pateiktas su atribucija, be papildomų interpretacijų.'
   pagrindžia:
     - c-169889
 
@@ -95,6 +108,7 @@ Nenurodyta
     34.
   citata_rodoma: "Didysis kunigaikštis Vytautas, tai išgirdęs, susijun­\ngė su savo broliu, Lenkijos karaliumi Vladislovu Jogai­\nla 4 0 , ir tą patį rudenį su visomis savo kariuomenėmis \natvyko į Smolenską1 1 , išvijo kunigaikščius Jurijų Sve- \ntoslavovičių ir Riazanės kunigaikštį Olegą iš Smolensko \nir atgavo Smolensko miestą 1 2  bei visą žemę. Ir, patvir­\ntinę bei sustiprinę Smolenske visus žmones, išvyko at­\ngal į Lietuvą,"
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -8,14 +8,14 @@ datos:
   - '1314 m.'
 date_start: '1314'
 date_end: ''
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - pareigybė
   - sąvoka
   - socialinis-terminas
-amziai:
-  - 'XIV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,37 +50,45 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07656
   teiginys: "Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "marčelga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"marčelga\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09588
 
 <a id="claim-t-200951"></a>
 - t-002
   global_id: t-200951
-  teiginys: "Daukanto pasakojime kryžėjų marčelga Botelis, siekdamas gelbėti kariauną, ėmė tartis su lietuviais."
+  teiginys: "Tą matydamas, Botelis, marčelga kryžėjų, norėjo savo kariauną gelbėti, dariu ėmė su lietuviais sandarauti."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184301
 
 <a id="claim-t-200952"></a>
 - t-003
   global_id: t-200952
-  teiginys: "Kryžėjų marčelga Plockė, kaip vaizduoja Daukantas, žiemos viduryje įsiveržė į Žemaitiją, nusiaubė Varnių apygardas ir sustojo į abažą, arba taborį."
+  teiginys: "Ateinantį metą žiemos vidų marčelga kryžėjų Plockė, įpuolęs į Žemaičius, apygardas Varnių nuteriojo, vienok, nestengdamas į pačią pilį įsigriau ti, sustojo į abažą, arba taborių."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184302
-- susijęs iš [[objektai/zodynas/Kamendotas (sąvoka).md#claim-t-201183|Kamendotas (sąvoka)]]: Daukanto pasakojime Baigos, arba Onedos, kamendotas atsisakė lietuviams išduoti marčelgą ir tris brostvius, nes laikė geriau stoti į mūšį.
-- susijęs iš [[objektai/zodynas/brostvis (sąvoka).md#claim-t-201209|brostvis (sąvoka)]]: Daukantas „brostviais“ vadina marčelgos Berlevino bendražygius, kuriuos Sviatopelko kariauna su lietuviais ir žemaičiais paklojo karvietėje.
-- susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-200970|Berlevinas]]: Marčelga Berlevinas iš Kulmo tą pačią naktį skubiai žygiavo prieš Sviatopelko stovyklą prie Redino pilies ir ją užpuolė.
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-200992|Glapas]]: Daukanto pasakojime, gavęs žinią, kad pilis tuščia, Glapas ją užėmė, sudegino trobesius, išgrobė turtą ir apgulė joje likusius kryžėjus.
-- susijęs iš [[objektai/daiktai/Šv. Barboros galva.md#claim-t-201370|Šv. Barboros galva]]: Užėmęs Cartovicos pilį, Bernheimas į Kulmiją pargabeno Sviatopelko turtus, tarp jų sidabru aptaisytą šv. Barboros galvą.
-- susijęs iš [[objektai/ivykiai/Baigos pilies apgultis.md#claim-t-201313|Baigos pilies apgultis]]: Daukanto pasakojimu, 1239 m. kryžėjų maršalka Bernheimas apgulė Baigos, arba Onedos, pilį, tačiau įgula išpuolė, susirėmė su kryžėjais ir vėl užsidarė pilyje.
-- susijęs iš [[objektai/ivykiai/Cartovicos pilies užėmimas.md#claim-t-201317|Cartovicos pilies užėmimas]]: Kryžiuočių maršalka Bernheimas užėmė Cartovicos pilį, iškirto ginkluotus gynėjus ir joje paliko savo įgulą.
-- susijęs iš [[objektai/ivykiai/Dahenfeldo žygis į Žemaičius.md#claim-t-201499|Dahenfeldo žygis į Žemaičius]]: Daukanto pasakojime Dahenfeldas su kariuomene įžengė į Žemaitiją ir penkias dienas niokojo Medininkus prie Varnių.
-- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
-- susijęs iš Cartovica (vieta): Daukanto pasakojime Bernheimas puolė Cartovicos pilį, įsiveržė į ją, iškirto ginkluotus gynėjus ir įkurdino savo įgulą.
-- susijęs iš Natangija: Daukanto pasakojime Kartinos kamendotas Dovydas, keršydamas kryžėjams, su 800 raitelių įsiveržė į Natangiją, nuniokojo kraštą, daug gyventojų iškirto ir išvarė į vergiją.
-- susijęs iš Pagraudenis (vieta): Daukanto pasakojime Pagraudenio gyventojai, nujautę kryžėjų antpuolį, užsirakino Gedimino pilyje ir atlaikė Ragainės komtūro Libencelio puolimą.
-- susijęs iš Parusnis (vieta): Daukanto pasakojimu, rudenį į Parusnį atėjusią naują kryžininkų pagalbą atvedė Essų viešpats Otas.
-- susijęs iš Varniai: Žiemos viduryje kryžiuočių maršalas Plockė įsiveržė į Žemaičius, nusiaubė Varnių apygardas, bet neįstengė įsiveržti į pilį.
-- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201194|abažas (sąvoka)]]: Daukanto pasakojime kryžėjų marčelga Plockė, nusiaubęs Varnių apygardas ir neįstengęs įsiveržti į pilį, sustojo į abažą, arba taborį.
+
 ## Citatos
 
 - id: c-09588
@@ -96,6 +104,7 @@ Papildomos aiškios formos neišskirtos.
         ūkvaizdžius pergerti.
   citata_rodoma: "Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir prietelius, tarp kurių vienas buvo jų vyresniuoju, arba gaspadorium, vadinamas marčelga, nuo to, jog marčią martavo^441."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,9 +112,8 @@ Papildomos aiškios formos neišskirtos.
     - t-07656
 
 - id: c-184301
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 339"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 339."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu kariauna lietuvių kas dieną di­
     dinos, o kryžėjų stipdama mažinos. Tą matydamas,
@@ -117,6 +125,7 @@ Papildomos aiškios formos neišskirtos.
     mūšą stoti su neprieteliais ir dūksaujant pas Dievą
     sau kelią skinti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,9 +133,8 @@ Papildomos aiškios formos neišskirtos.
     - t-200951
 
 - id: c-184302
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 511"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujau­
     tęs tą, Vytenis steigė, jog ne vien kryžėjus nuo pi­
@@ -148,6 +156,7 @@ Papildomos aiškios formos neišskirtos.
     1314
     17.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

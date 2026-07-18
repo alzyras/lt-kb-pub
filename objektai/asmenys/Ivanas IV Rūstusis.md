@@ -43,6 +43,20 @@ media_all_json: |-
 - t-001
   global_id: t-40147
   teiginys: "Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Rusija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Riurikaičių dinastija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Riurikaičių dinastija valdė Rusiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Riurikaičių dinastija valdė Rusija (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai susietas su asmeniu."
   pagrindžia:
     - c-44353
 
@@ -67,6 +81,7 @@ media_all_json: |-
     riuomenė šios sumaišties metu 1610 m. su-
   citata_rodoma: "Proga atsiimti Smolenską atsirado\nXVII a. pradžioje, kai mirus abiems Iva-\nno IV (Rūsčiojo) palikuonims Fiodorui\nir mažamečiui Dmitrijui, nutrūko Rusiją\n\nvaldžiusių Riurikaičių dinastija ir šią šalį\ništiko gili krizė. Dėl valdžios ėmė kovoti\nAbiejų Tautų valdovo Zigmanto Vazos re-\nmiami išgyvenusiu Dmitrijumi apsimetę\npretendentai į Rusijos sostą ir kai kurių\nrusų bojarinų giminių atstovai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

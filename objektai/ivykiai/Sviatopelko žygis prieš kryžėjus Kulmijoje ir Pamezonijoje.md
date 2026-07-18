@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje.
+To dar nebuvo gana; Sviatopelkas, su visa savo kariauna persikėlęs per Yslą, tuo pačiu laiku antpuolė kryžėjus Kulmijoj ir Pamezonijoj, kurie, re gėdami aiškiai sau pragarą, lūgojo v.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201344"></a>
 - t-001
   global_id: t-201344
-  teiginys: "Sviatopelkas su visa savo kariuomene persikėlė per Vyslą ir tuo pačiu metu užpuolė kryžėjus Kulmijoje bei Pamezonijoje."
+  teiginys: "To dar nebuvo gana; Sviatopelkas, su visa savo kariauna persikėlęs per Yslą, tuo pačiu laiku antpuolė kryžėjus Kulmijoj ir Pamezonijoj, kurie, re gėdami aiškiai sau pragarą, lūgojo v."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184694
 
 ## Citatos
 
 - id: c-184694
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 313"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 313."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Elbingo ir Baigos, arba One-
     dos, pilėse, kur buvo likusieji vokyčiai užsirakinę,
@@ -62,6 +67,7 @@ Nenurodyta
     gėdami aiškiai sau pragarą, lūgojo v. Vilhelmo,
     siuntinio popiežiaus, darytis tarpėju ir juos taikinti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

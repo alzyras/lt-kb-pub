@@ -81,10 +81,10 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-174975
@@ -111,6 +111,7 @@ Nenurodyta
     wydanem.
   citata_rodoma: "Mongolai labai garbino namų slenksčius: tas, kuris praeidamas pa-\nliesdpvo juos koja, būdavo baudžiamas. Už tokį neatsargumą jų\nkrašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis\nir net grasinama mirtimi. Grafas Jonas Potockis tokį garbinimą\npastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),\nbet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės\nlietuvius1."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -135,6 +136,7 @@ Nenurodyta
     wydanem.
   citata_rodoma: "Senovės slavai specialiai darydavo žemas duris, kad\nateinantysis arba išeinantysis nusilenktų slenksčiui2."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

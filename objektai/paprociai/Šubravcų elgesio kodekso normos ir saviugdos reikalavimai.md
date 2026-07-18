@@ -57,6 +57,16 @@ Nenurodyta
 - t-001
   global_id: t-54737
   teiginys: "Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką."
+  atnaujinta: "2026-05-27 06:43"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų elgesio kodekso normos ir saviugdos reikalavimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų elgesio kodekso normos ir saviugdos reikalavimai\" parinktas kaip owner_note_path. Targetas \"Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55729
 
@@ -64,6 +74,16 @@ Nenurodyta
 - t-002
   global_id: t-54738
   teiginys: "Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "gap::customs"
+  ryšio_patikimumas: "susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šubravcų elgesio kodekso normos ir saviugdos reikalavimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų elgesio kodekso normos ir saviugdos reikalavimai\" parinktas kaip owner_note_path. Targetas \"Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55729
 
@@ -85,6 +105,7 @@ Nenurodyta
     suotinumą ir universalumą3.
   citata_rodoma: "Šubravcų draugijos kodekse suformuluotos narių elgesio \nir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės nor­\nmų. Girtavimo, azartinių žaidimų smerkimas, kova prieš asme­\nnines bei visuomenines ydas rodė ryškų šios organizacijos švie­\ntėjiškos veiklos pobūdį. Pavyzdžiui, XII šubravcų kodekso \nstraipsnis reikalavo, kad draugijos narys kauptų nuosavą bib­\nlioteką, kurioje būtinai turi būti visuotinės istorijos ir geografi­\njos veikalų; tai rodo esminius švietėjiško ugdymo bruožus - vi­\nsuotinumą ir universalumą3."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

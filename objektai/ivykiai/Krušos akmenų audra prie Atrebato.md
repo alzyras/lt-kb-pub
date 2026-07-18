@@ -48,6 +48,10 @@ Nenurodyta
 - t-001
   global_id: t-62345
   teiginys: "Liepos mėnesį prie Atrebato kilusi smarki audra krušos akmenimis visiškai išmušė pasėlius, vynuogynus ir miškelius."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62917
 
@@ -65,6 +69,7 @@ Nenurodyta
     cit.).
   citata_rodoma: "Apie didžiulius krušos akmenis\n\n   Prie Atrebato liepos mėnesį kilo be galo smarki audra, o iš dangaus krito tokie dideli\nakmenys, kad visiškai išmušė pasėlius, vynuogynus ir miškelius (Ptol. loc. cit.; Mart. loc.\ncit.)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

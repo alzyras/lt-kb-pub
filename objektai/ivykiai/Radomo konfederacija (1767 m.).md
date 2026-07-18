@@ -51,6 +51,18 @@ Nenurodyta
 - t-001
   global_id: t-01784
   teiginys: "Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Radomas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Radomas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo rusų kariuomenės apsuptus konfederatus Radome."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Rusai apgulė Radomas (0.90)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-02022
 
@@ -83,6 +95,7 @@ Nenurodyta
     keista.
   citata_rodoma: "Tačiau ir jis ir visi kon-\nfederatai labai apsivylė: Rado-\nme rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-\nderacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-\nlių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti\npareigą\" saugoti Respublikos konstituciją, arba, kaip ją tada\nvadino, kardinalines teises; be to, iš Rusijos buvo\npaprašyta garantijos, kad nė viena iš tų teisių nebus pa-\nkeista."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,20 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
 - t-001
   global_id: t-187559
   teiginys: "Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, o lietuvių didikai liko pagonys."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "rusų tikėjimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"rusų tikėjimas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170509
 
@@ -91,6 +105,7 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
     į Maskvą3.
   citata_rodoma: "76\n\n## Puslapis 72\n\n22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ, \nPIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ \nPRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE\nKunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­\ntę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą, \no visi lietuvių didikai pasiliko pagonys. Didysis kuni­\ngaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­\nvertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien \nrusų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,6 +55,10 @@ Nenurodyta
 - t-001
   global_id: t-08350
   teiginys: "Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10304
 
@@ -62,6 +66,17 @@ Nenurodyta
 - t-002
   global_id: t-08351
   teiginys: "Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti."
+  atnaujinta: "2026-05-30 12:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyženos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyženos\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-56402
 
@@ -83,6 +98,7 @@ Nenurodyta
         marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
   citata_rodoma: "Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar\nmarškonais autais vyturo savo kojas, o motriškosios su žekėmis^337."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +120,7 @@ Nenurodyta
         reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
   citata_rodoma: "Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus\npo marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,\nplunksnas plėšė ar vyženas vyžo didiesiems, nesgi už visų didžiausią gėdą sau turėjo vaikelis\nšešergis ar septynergis nemokėti vyženų vyžti, aparų vyti ir tinklų megzti, virvių sukti, pynų^390\npinti, mezginių megzti, nerti, mazginių mazgoti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,21 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
 - t-001
   global_id: t-191412
   teiginys: "Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Helgė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jarmerikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Helgė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Jarmerikas buvo pakviestas į pagalbą Helgei, todėl ryšys nusako paramą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jarmerikas rėmė Helgė (0.86)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
   pagrindžia:
     - c-174294
 
@@ -40,6 +55,12 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
 - t-002
   global_id: t-197742
   teiginys: "Helgė įsakė pririšti 40 slavų belaisvių prie laukinių vilkų ir išvyti juos į mišką baisiai mirčiai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179321
 - susijęs iš [[objektai/asmenys/Jarmerikas.md#claim-t-191184|Jarmerikas]]: Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką.
@@ -90,6 +111,7 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
     galo juos engdamas.
   citata_rodoma: "234\n\n## Puslapis 245\n\nsu slavais, buvo paimtas nelaisvėn, iš kur pabėgęs užpuo­\nlė švedų karalių Otarą ar Gotarą, kurį nugalėjo ir paėmė\njo sostą. Tuomet ir danų karalius Helgė kariavo su sla­\nvais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­\nbą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti\nuž savo nelaisvę ar norėdamas turėti naudos."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,6 +131,7 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

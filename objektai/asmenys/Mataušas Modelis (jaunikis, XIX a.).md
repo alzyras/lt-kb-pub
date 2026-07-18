@@ -52,6 +52,10 @@ Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasi
 - t-001
   global_id: t-195558
   teiginys: "Mataušas Modelis jaunajai Barborai atsiuntė rūtų vainiką ir prašė jos kito neieškoti."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177975
 - susijęs iš Komarų miškai: Pasakojime sakoma, kad Belazaro skalikai ežį nusivijo per laukus į Komarų miškus.
@@ -71,6 +75,7 @@ Mataušas Modelis Barboros vedybų pasakojime rodomas kaip numanomas jos liktasi
     Eiduliukei šį rūtų vainiką ir prašo tą daboti, kito neieškoti.
   citata_rodoma: "— Štai jaunikaitis Mataušas Modelis atsiuntė jaunajai Barborai Eiduliukei šį rūtų vainiką ir prašo tą daboti, kito neieškoti."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

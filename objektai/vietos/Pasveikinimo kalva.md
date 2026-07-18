@@ -32,6 +32,14 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
 - t-001
   global_id: t-199659
   teiginys: "Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos."
+  atnaujinta: "2026-07-12 23:03"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Valdovo titulas ir kronikinis pasakojimas reikalauja atribucijos."
+  susije_objektai: "llm_object: Maskva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas; llm_object: Pasveikinimo kalva"
+  semantiniai_rysiai: "[[objektai/asmenys/Algirdas|Algirdas]] keliavo į Pasveikinimo kalva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182502
 
@@ -64,6 +72,7 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
     liavas, pasirodė ant Pasveikinimo kalvos.
   citata_rodoma: "Ir didysis kunigaikštis Algirdas ištrau­\nkė iš maišiuko kempinę bei titnagą ir, uždegęs kem­\npinę, padavė pasiuntiniui, šitaip bylodamas: „Perduok \ntai valdovui ir pasakyk jam, kad mes, lietuviai, ugnies \nturime; o kadangi jis man grasina, įžengsiąs į mano \nžemę po skaistaus pavasario ir po tykios vasaros, tai \naš, jei dievas duos, būsiu pas jį per Velykas ir pabu­\nčiuosiu jį raudonu kiaušiniu, per skydą ietimi, o die­\nvo padedamas, atremsiu savo ietį į jo Maskvos krem­\nliaus sieną, nes ne tas karys, kuris kariauja patogiu \nmetu, o tas, kuris nepatogiu kariauti metu atskleidžia \npriešininkui savo karingą nusistatymą.\"\nIr, atleidęs pasiuntinį, sušaukė visą savo lietuvių \nbei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai \nį Maskvą3 . Patį Velykų rytą4 , po prisikėlimo pamal­\ndų, didysis Maskvos kunigaikštis su bajorais ir su ku­\nnigaikščiais išeina iš cerkvės, o didysis kunigaikštis Al­\ngirdas su visomis savo pajėgomis, išskleidęs savo vė­\nliavas, pasirodė ant Pasveikinimo kalvos."
   statusas: verified
+  atnaujinta: "2026-07-12 23:03"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,6 +42,20 @@ Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir viena
 - t-001
   global_id: t-60283
   teiginys: "Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Saksonija: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gebhardas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Saksonija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Gebhardo kilmę iš Saksonijos; tai artimiausia gimimo ar kilmės vietos relacija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gebhardas gimė Saksonija (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1243 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas faktinis sakinys apie Gebhardą ir atitinka citatą."
   pagrindžia:
     - c-60915
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
@@ -70,6 +84,7 @@ Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir viena
     smūgio nekrito tučtuojau žemėn, o tol bėgo be galvos kurį laiką drauge su kitais tuo
     pat keliu, kol sukniubo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

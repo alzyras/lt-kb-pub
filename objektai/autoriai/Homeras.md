@@ -31,9 +31,23 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 ## Teiginiai
 
 <a id="claim-t-190353"></a>
-- t-001
+- t-002
   global_id: t-190353
   teiginys: "Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Homeras: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Homeras\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173236
 
@@ -41,6 +55,13 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 - t-004
   global_id: t-190725
   teiginys: "Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173607
 
@@ -48,11 +69,114 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
 - t-005
   global_id: t-197605
   teiginys: "Nei Homero, nei Herodoto žemėlapiai, kurie niekad nebuvo tikslūs astronominiai-geografiniai, bet apskritai mitologiniai, kosmografiniai, genealoginiai ir istoriniai, nesutampa su mūsų žemėlapiais, kuriems būdingos tiks lios matematinės projekcijos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173607
+
+<a id="claim-t-190352"></a>
+- t-001
+  global_id: t-190352
+  teiginys: 'Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys suformuluotas apie Homero teksto naudojimą Narbuto tome, nes citata yra epigrafo fragmentas. Pavadinimo ir autorystės vartosena palikta su Narbuto atribucija.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvių mitologija|Lietuvių mitologija]]; mentioned_object: [[objektai/zodynas/Pramžimas|Pramžimas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  pagrindžia:
+    - c-173235
+
+<a id="claim-t-190724"></a>
+- t-003
+  global_id: t-190724
+  teiginys: 'Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Homero kūriniuose aptinkamą Okeano vaizdinį. Nepridėta Narbuto interpretacija apie Baltijos jūros tapatinimą su Eridanu.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Eridanas'
+  pagrindžia:
+    - c-173606
 - susijęs iš [[objektai/autoriai/Heinė.md#claim-t-190425|Heinė (poetas)]]: Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo graikams Trojos karo metu žinomą žmogėdrystę.
 - susijęs iš [[objektai/paprociai/Milžinkapių ir pilkapių pylimas žymiems mirusiesiems.md#claim-t-189891|Milžinkapių ir pilkapių pylimas žymiems mirusiesiems]]: Narbutas pilkapių pylimą ant žymių žmonių pelenų sieja su daugeliui antikinių tautų pažįstamu milžinkapių pylimo papročiu.
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą apie geresnio patarimo radimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    / U X , t r  «t ^
+    ^“r zU^'J^
+    i
+    7 r i
+    ---------
+    ~~Z+*į* *
+    ___
+    '<ty
+    Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,
+    rengdamas antrąjį leidimą
+    Šio tomo devizas:
+    Bodaj by się kto na coš lepszego zdobyb
+    Stary czy mlody, niezaplonię się dan mu oddač.
+    Haslo Agamemnoną u Homerą
+    (Lai kas iš jūsų dabar patarimą geresnį suranda,
+    Ar kas jaunesnis, arsenas, aš vien pasidžiaugti galėsiu.
+    Homeras. Agamemnono šūkis)*
+
+    ## Puslapis 88
+
+    LIETUVIŲ TAUTOS
+    ISTORIJA*
+    Pirmoji knyga
+    LIETUVIŲ MITOLOGIJA
+    * * ^
+    I skyrius
+    D ID IEJI DIEVAI
+    Pramžimas (Pinui žinių s)
+    Pirmasis ir visuotinai paplitęs Senojo pasaulio dievas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Homero kūriniuose Okeanas vadinamas upe, skalaujančia pasaulį.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    155
+
+    ## Puslapis 153
+
+    kalingos, nes turime senovės ¡padavimą, kuris kalba ką
+    kita: Ovidijus Eridaną vadina didžiausia upe; Hesiodas
+    mini, kad Eridanas buvęs Okeano ir Tetidės sūnus, kuris
+    teka gilia ir šniokščiančia vaga; Vergilijus, taip pat vadi­
+    na jį didžiausia upe, upių karaliene, kuri turi dvi šakas;
+    Dionyzas Perigetas* dar vaizdingiau vadina Eridaną gė­
+    lėtąja jūra. Visus šiuos padavimus ¡sujungę į vieną, įsiti­
+    kinsime, jog pirmiausia Baltijos jūra buvo žinoma Erida-
+    no vardu; klaidingos tų vietų geografijos žinios upėmis
+    laikydavo net ir didesnius vandens telkinius; Homero kū­
+    riniuose aptinkame, kad Okeanas vadinamas upe, skalau­
+    jančia pasaulį. Be kita ko, Baltijos jūra siejama su Okea­
+    nu, ji laikoma pačia didžiausia upe arba gali būti vadi­
+    nama upių karaliene, kuri turi dvi šakas, laikant Suomių
+    ir Botnijos įlankas šakomis, turinčiomis gintaringus
+    krantus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
 - c-004
   santrauka: 'Teodoro Narbuto vertinimu, Homero žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -74,8 +198,8 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     nesutampa su mūsų žemėlapiais, kuriems būdingos tiks­
     lios matematinės projekcijos.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,6 +223,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     ros, bet tiesiogiai vaizduoja žmogėdrystę, kuri graikams Tro­
     jos karo metu buvo žinoma.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +256,7 @@ Narbutas pirmojo tomo devizu pateikė Homero „Agamemnono šūkio“ vertimą a
     gana daug.
   citata_rodoma: "Taigi naujų laikų gabumams nebūdin­\ngas praėjusių amžių tikėjimas, kuris buvo mokslinis, \nžmogiškas ir dieviškas taip, jog šiandien, žvelgdami į \npraeities veidrodį, suvokiame mūsų labai matematiškai \nribotą žvilgsni, kuris pastebi tik išorinius paviršius, vos \nįžiūri užtemdytus klonius, bet jokiu būdu negali nei jų \nišmatuoti, nei geriau pažinti. Būtent ši priežastis daro \nmus visiškai bejėgius spręsti apie tikrą reikšmę praėju­\nsių laikų, jei jie patys savęs nepaaiškina; kalbant kitais \nžodžiais, galėtume būti pajėgūs istoriškumą padidinti fi­\nlosofiškai arba kritiškai, nes kritika — filosofijos šaka.\nNei Homero, nei Herodoto žemėlapiai, kurie niekad \nnebuvo tikslūs astronominiai-geografiniai, bet apskritai \nmitologiniai, kosmografiniai, genealoginiai ir istoriniai, \nnesutampa su mūsų žemėlapiais, kuriems būdingos tiks­\nlios matematinės projekcijos."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

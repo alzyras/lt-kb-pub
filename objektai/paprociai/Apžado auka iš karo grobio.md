@@ -56,6 +56,17 @@ Nenurodyta
 - t-001
   global_id: t-187992
   teiginys: "Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Apžado auka iš karo grobio: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apžado auka iš karo grobio\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171002
 
@@ -63,6 +74,10 @@ Nenurodyta
 - t-002
   global_id: t-187993
   teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-171001
 
@@ -127,6 +142,7 @@ Nenurodyta
     vo lazda.
   citata_rodoma: "15. Apžado auka. Kartais žygiuojant į svetimą žemę gro­\nbio, būrio vadas duodavo apžadą, kad gražiausią grobį paau­\n318\n\n## Puslapis 318\n\nI\nkos dievams. Tokiu atveju, jeigu į rankas patekdavo itin graži\nmergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­\nžis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­\nkus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +167,7 @@ Nenurodyta
     kitokių pamokymų.
   citata_rodoma: "Kro­\nnikos tyli, ar sudegindavo gyvą, ar pirma užmušdavo. Tikra tik\ntai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­\nniais drabužiais ir atlikdavo įprastines aukojimo apeigas16."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

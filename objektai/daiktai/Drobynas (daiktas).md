@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Gardino pilies apgulties metu kova prasidėjo vos drobynui pasiekus pilies mūrus.
+Vos buvo atkolęs drobynas į mūrus, tuojau visų baisiausia kova prasidėjo.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,18 +49,21 @@ Nenurodyta
 <a id="claim-t-201365"></a>
 - t-001
   global_id: t-201365
-  teiginys: "Gardino pilies apgulties metu kova prasidėjo vos drobynui pasiekus pilies mūrus."
+  teiginys: "Vos buvo atkolęs drobynas į mūrus, tuojau visų baisiausia kova prasidėjo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184715
-- susijęs iš [[objektai/ivykiai/Gardino pilies apgultis ir sudeginimas.md#claim-t-201308|Gardino pilies apgultis ir sudeginimas]]: Skomantas, persikėlęs per Nemuną, apgulė Gardino pilį, įsiveržė pro silpnesnius mūrus, iškirto įgulę ir pilį sudegino.
-- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
-- susijęs iš Gardino pilis (pilis): Kryžėjų mistras, pasak Daukanto, vasarop persikėlė per Nemuną, įžengė į Lietuvą ir apgulė dešiniajame Nemuno krante esančią Gardino pilį.
+
 ## Citatos
 
 - id: c-184715
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 465"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vasarop
     persikėlęs per Nemuną, įsigrūdo staiga į Lietuvą ir
@@ -71,6 +74,7 @@ Nenurodyta
     lius rąstus ir akmenis nuo mūrų laidė ir, šimtais jų
     žeisdama, jau kaudama, kūlvertiniais grūdo žemyn.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

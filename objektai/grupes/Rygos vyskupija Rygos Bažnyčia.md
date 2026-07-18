@@ -33,6 +33,17 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - t-001
   global_id: t-86783
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rygos vyskupija Rygos Bažnyčia: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygos vyskupija Rygos Bažnyčia: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sprendime įsakyta ordino riteriams nebepuldinėti Rygos Bažnyčios."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Rygos vyskupija Rygos Bažnyčia (0.70)"
   pagrindžia:
     - c-82763
 
@@ -63,6 +74,7 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     nekuriami.
   citata_rodoma: "Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­\nka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali \nbūti pateisinti, o kai kurie priekaištai suvis prasimanyti33.\nPopiežius po atskiro pasitarimo su kardinolais visuoti­\nniame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­\ndino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai \natiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­\nmas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­\ntų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­\ngali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti \npas popiežių; visos sąjungos ir susimokiusiųjų sambūriai, \ngresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje \nnekuriami."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,20 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
 - t-001
   global_id: t-191609
   teiginys: "Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykščių genčių kalba turėjęs reikšti sukrešėjusią arba užšąlančią jūrą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skitija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hekatėjas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Skitija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hekatėjas\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174491
 
@@ -77,6 +91,7 @@ Hekatėjas, Narbuto pasakojimu, jūrą vadino Amalchium, o šis vardas tenykšč
     jai, Rubenkų.
   citata_rodoma: "Senovės\nautoriai vadino ją taip įvairiai, jog nėra Žemėje kitos,\nkuriai būtų suteikta tiek įvairiausių vardų. Hekatėjas va­\ndino ją Amalchium, o tai tenykščių genčių kalba turėjo\nreikšti sukrešėjusią, užšąlančią jūrą, į kurią įteka per\nvisą Skitiją sruvenanti Puropamiso upė. Kuriai upei rei­\nkia priskirti šį pavadinimą, išsiaiškinti nepavyko."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

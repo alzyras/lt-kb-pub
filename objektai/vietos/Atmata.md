@@ -33,6 +33,10 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 - t-001
   global_id: t-58682
   teiginys: "Atlanto vandenynas Atmata, u."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59314
 
@@ -74,6 +78,7 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
     Christburgas, dab.
   citata_rodoma: "Atlanto vandenynas\nAtmata, u.\nAtrebatas (dab."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

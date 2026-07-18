@@ -43,6 +43,20 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 - t-001
   global_id: t-87817
   teiginys: "1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Paulius Bochenas: 0.65"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Paulius Bochenas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Bochenas pardavė mūrinį namą, tad tekstas palaiko, kad namas buvo jo disponuojamas turtas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Paulius Bochenas (0.65)"
+  temporaliniai_duomenys: "prekybos laikotarpis: 1677 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą."
   pagrindžia:
     - c-83796
 - susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
@@ -73,6 +87,7 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
     remontuoti stovėjo.
   citata_rodoma: "1677. Akademijos Rektorius t. Paulius Bochenas, neturė­\ndamas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­\nnardinų gatvėje Vilniaus kanauninkui maloningajam kuni­\ngui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos \n750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­\nkupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­\nsiais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­\nlygindami Collegium rektoriai, prie funduotos 4 000 auksinų \nsumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­\nję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono \nmūrinis namas buvo likęs, o kai pastarasis 1737 metais per \nmiesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­\nremontuoti stovėjo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

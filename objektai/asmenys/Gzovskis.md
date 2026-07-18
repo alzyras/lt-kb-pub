@@ -32,6 +32,16 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
 - t-001
   global_id: t-87907
   teiginys: "Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gzovskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gzovskis\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83886
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
@@ -75,6 +85,7 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
     kokiais kitais, kuriuos po mūsų ras.
   citata_rodoma: "Tik po to, kas iš sumos atliks, tegu lygiomis dalimis \nsu jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­\nne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­\nvo nuosavą iš motinos paveldėtą turtą.\nVisus mūsų apdarus, drabužius, esančius mūsų sau­\ngyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės\n343\n\n## Puslapis 360\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nkaralienės Barboros apdarus, kuriuos Gzovskis saugoja, o \nvėliau ir kur kitur ir pas ką tik ras, su visais bet kaip vadina­\nmais jos didenybės drabužiais, nė vieno daikto neišskiriant, \ndovanojame jos didenybei karalaitei Onai, dvidešimt pratė­\ngiui pakinkytų vežimų, jau priskaičiuojant ir tuos, kurie yra \npas jos didenybę ir kuriuos sau iš tų, stovinčių arklidėse, \nįsakys pasirinkti, atiduodame, kad būtų gerai ir deramai pa­\nkinkyti su visa apranga, įranga, vadžiomis, pakinktais, taip \npat puskarietės, karietas, ekipažus ir kitas panašias priemo­\nnes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­\npuošimais, tiek auksu lietais, aksominiais, purpuriniais ir \nkokiais kitais, kuriuos po mūsų ras."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

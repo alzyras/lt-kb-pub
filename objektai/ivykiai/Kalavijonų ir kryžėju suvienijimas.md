@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kalavijonų ir kryžėjų suvienijimą lydėjo ginčas dėl Revelio pilies bei Valdemaro pareigos grąžinti kraštus kalavijonims. 1237 m. gegužės 14 d. bulė paskelbė kalavijonų suvienijimą su kryžėjais ir nurodė Padaugavės brostviams klausyti Rygos vyskupų.
+Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs. Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,23 +47,34 @@ Nenurodyta
 <a id="claim-t-201309"></a>
 - t-001
   global_id: t-201309
-  teiginys: "Kalavijonų ir kryžėjų suvienijimą lydėjo ginčas dėl Revelio pilies bei Valdemaro pareigos grąžinti kraštus kalavijonims."
+  teiginys: "Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184659
 
 <a id="claim-t-201310"></a>
 - t-002
   global_id: t-201310
-  teiginys: "1237 m. gegužės 14 d. bulė paskelbė kalavijonų suvienijimą su kryžėjais ir nurodė Padaugavės brostviams klausyti Rygos vyskupų."
+  teiginys: "Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184660
 
 ## Citatos
 
 - id: c-184659
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 282"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 282."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Strasburgo ir popiežiaus rū­
     mų vyro jonitų brostvio Hermano didysis mistras
@@ -84,6 +95,7 @@ Nenurodyta
     vienas tarp jų supykęs pasakė: „Jei tas būt pirma
     nutikęs, dievži niekada nebūtumėm susinėrę".
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,9 +103,8 @@ Nenurodyta
     - t-201309
 
 - id: c-184660
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 283"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 283."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žinoma buvo, kaip
     vir siaus minavo jau, jog vyskupai Rygos pradžioj
@@ -110,6 +121,7 @@ Nenurodyta
     prigulėti kryžeiviams, kurių vienok, kaipo turtų
     bažnyčios, negalėjo nė vienam perleisti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

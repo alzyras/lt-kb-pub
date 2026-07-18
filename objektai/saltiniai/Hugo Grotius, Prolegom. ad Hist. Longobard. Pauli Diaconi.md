@@ -32,6 +32,13 @@ Hugo Grotius.
 - t-001
   global_id: t-194896
   teiginys: "Hugo Grotius."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177292
 
@@ -61,6 +68,7 @@ Hugo Grotius.
     je — su Salavija.
   citata_rodoma: "3 Hugo Grotius. Prolegom. ad Hist. Longobard. Pauli Diaconi."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

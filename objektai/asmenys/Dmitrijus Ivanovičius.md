@@ -42,9 +42,22 @@ media_all_json: |-
 - t-001
   global_id: t-40085
   teiginys: "Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Tverė: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dmitrijus Ivanovičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dmitrijus Ivanovičius puolė Tverė (0.94); Dmitrijus Ivanovičius buvo valdovas Maskva (0.86)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1368 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių."
   pagrindžia:
     - c-44318
-    - c-167122
 
 ## Citatos
 
@@ -68,6 +81,7 @@ media_all_json: |-
     1368 m. rudenį ryžosi smogti Maskvai.
   citata_rodoma: "Žygių išvakarėse\n\nMaskvos didysis kunigaikštis Dmitrijus\nIvanovičius, siekdamas plėsti savo valdžią,\nremiamas Ordos, puolė Tverę. Jos kuni-\ngaikštis Michailas Aleksandrovičius pa-\nbėgo į Lietuvą ir Lietuvos valdovo Algirdo\n(jo žmona Julijona Tverietė) prašė „pagal-\nbos ir apginti“, kvietė žygiuoti į Maskvą.\nSiekdamas neprarasti pozicijų rytuose\n(nors tuo metu vyko sunki kova su kry-\nžiuočiais prie Nemuno vidupio), Algirdas\n1368 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +110,7 @@ media_all_json: |-
     (jo žmona Julijona Tverietė) prašė „pagal-
     bos ir apginti“, kvietė žygiuoti į Maskvą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

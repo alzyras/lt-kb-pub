@@ -55,6 +55,10 @@ Vestuvinė atsisveikinimo formulė su mergystės simboliais ir jaunomis dienomis
 - t-001
   global_id: t-195437
   teiginys: "Jaunamartė atsisveikina su rūta, mėta, lelijėle ir jaunomis dienomis."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177858
 
@@ -73,6 +77,7 @@ Vestuvinė atsisveikinimo formulė su mergystės simboliais ir jaunomis dienomis
     Gana manęs vienos į vargą įpuolus“ .
   citata_rodoma: "„Sudiev, rūta, sudiev, mėta, sudiev, lelijėle, sudiev mano jaunos dienos!\nŠokit, šokėjėliai, griežkit griežėjėliai!\nGana manęs vienos į vargą įpuolus“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

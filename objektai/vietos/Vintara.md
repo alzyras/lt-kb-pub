@@ -34,6 +34,16 @@ media_all_json: |-
 - t-001
   global_id: t-42305
   teiginys: "Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pabaiskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vintara: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Pabaiskas: mention_match, place, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vintara\" parinktas kaip owner_note_path. Targetas \"Pabaiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-45426
 
@@ -57,6 +67,7 @@ media_all_json: |-
     (kaip teigiama istoriografijoje), nėra aišku.
   citata_rodoma: "Šią kariuomenių išsidėstymo\nsituaciją natūroje atitinka ne Žirnajos (kaip\nįprasta istoriografijoje), bet jos dešiniojo\nintako Vintaros, tekančios per dabartinį\nPabaisko miestelį, padėtis.\n\nKokiose pozicijose buvo sustojusi kelyje\nGelvonų link Švitrigailos - Ordino ka-\nriuomenė, ar buvo perėjusi Žirnajos upę\n(kaip teigiama istoriografijoje), nėra aišku."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

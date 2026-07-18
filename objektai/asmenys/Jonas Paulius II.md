@@ -43,6 +43,21 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - t-001
   global_id: t-71296
   teiginys: "Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Paulius II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vizitas į Lietuvą tiesiogiai rodo kelionę į Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Jonas Paulius II keliavo į Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia pilną Algirdo Brazausko pareigų pavadinimą, todėl teiginys patikslintas."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-21751
 
@@ -50,6 +65,20 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 - t-002
   global_id: t-71297
   teiginys: "Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kryžių kalnas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Paulius II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžių kalnas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Aplankymas tiesiogiai reiškia kelionę į Kryžių kalną."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Jonas Paulius II keliavo į Kryžių kalnas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1961 m.; įvykio data: 1993 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-21750
 
@@ -70,6 +99,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     Golgota.
   citata_rodoma: "Taip Kryžių kalnas (jį 1993 m. \naplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška \nGolgota."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +126,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     metropolitas Audrys Juozas Bačkis.
   citata_rodoma: "Pir-\nminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo \nsėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.\nPopiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos \nRespublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas \nmetropolitas Audrys Juozas Bačkis."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,17 @@ Domininkas Burba yra šio straipsnio autorius.
 - t-001
   global_id: t-200432
   teiginys: "Domininkas Burba yra šio straipsnio autorius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Domininkas Burba: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Domininkas Burba\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183822
     - c-183823
@@ -71,6 +82,7 @@ Domininkas Burba yra šio straipsnio autorius.
     Anotacija.
   citata_rodoma: "Bajorų gyvenimo peripetijos XVIII amžiaus \nvidurio Lietuvos Didžiosios Kunigaikštystės \nsostinėje pagal Vilniaus kanauninko \nJono Dominyko Lopacinskio asmeninę \nkorespondenciją\nBurba Domininkas"
   statusas: verified
+  atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +111,7 @@ Domininkas Burba yra šio straipsnio autorius.
     (sejmiks) of Vilnius, Smolensk, Starodub taking place in the capital.
   citata_rodoma: "The Twists and Turns of the Life of the Nobility in the \nCapital of the Grand Duchy of Lithuania of the Mid-18th \nCentury according to Personal Correspondence of the \nCanon of Vilnius Jan Dominik Łopaciński\nDomininkas Burba"
   statusas: verified
+  atnaujinta: "2026-07-14 02:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

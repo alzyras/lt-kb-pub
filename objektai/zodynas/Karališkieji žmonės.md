@@ -56,6 +56,10 @@ Terminas vartojamas 1862 m. kaimo gyvenimo aprašymo rėmuose.
 - t-001
   global_id: t-195452
   teiginys: "Karališkieji žmonės priešpriešinami baudžiauninkams."
+  atnaujinta: "2026-07-12 03:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177873
 
@@ -78,6 +82,7 @@ Terminas vartojamas 1862 m. kaimo gyvenimo aprašymo rėmuose.
     1862 metų.
   citata_rodoma: "Kad kultūringumo laipsnis įvairių Lietuvos vietų yra įvairus, tai \nsurašyti vaizdai liečia ne baudžiauninkus, \ntik \nkarališkius žmones, \n1862 metų"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,6 +44,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-001
   global_id: t-195231
   teiginys: "1920 m. A. R. Niemio „Medžiaga Lietuvos mokyklų reformai“ išleista Kaune."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177597
 
@@ -51,6 +55,10 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 - t-002
   global_id: t-195232
   teiginys: "Šio leidinio vokiška santrauka paskelbta Tilžėje, „Litauische Warte“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177598
 
@@ -66,6 +74,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     1920 L. Medžiaga Lietuvos mokyklų reformai. Kaunas.
   citata_rodoma: "1920 L. Medžiaga Lietuvos mokyklų reformai. Kaunas."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,6 +91,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     Tilžė. Litauische Warte.
   citata_rodoma: "L. Šito leidinio santrauka vokiškai. \nTilžė. Litauische Warte."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-200650
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "paskyre -> Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad seimelyje Povilas Vladislovas Košycas buvo išrinktas vėliavininku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išlaiko citatos faktų struktūrą apie pareigybes ir asmenis. Neaiški iždininko alternatyva palikta kaip šaltinyje."
   pagrindžia:
     - c-183983
 
@@ -48,6 +62,21 @@ media_all_json: |-
 - t-002
   global_id: t-200651
   teiginys: "1749 m. įvyko Smolensko pavieto seimelis."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Smolenskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pavadinimas tiesiogiai sieja seimelį su Smolensko pavietu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  semantiniai_rysiai: "Smolensko pavieto seimelis priklausė Smolenskas (0.90)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Smolensko pavieto seimelis priklausė Smolenskas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai remiamas citata. Daugiau rinkimų detalių nepridėta."
   pagrindžia:
     - c-183983
 
@@ -55,6 +84,20 @@ media_all_json: |-
 - t-003
   global_id: t-200652
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "paskyre -> Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.): 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad seimelyje Povilas Vladislovas Košycas buvo išrinktas vėliavininku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai išvardija citatoje nurodytus 1749 m. seimelio pareigūnus. Nepakeista alternatyva dėl iždininko."
   pagrindžia:
     - c-183983
 
@@ -62,6 +105,20 @@ media_all_json: |-
 - t-004
   global_id: t-200653
   teiginys: "1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Smolenskas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Smolensko seimelio pavadinimas tiesiogiai sieja šį seimelį su Smolensku."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1752 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Lopacinskio minimus būsimus seimelius. Citata palaiko tiek datą, tiek objektus."
   pagrindžia:
     - c-184019
 
@@ -82,6 +139,7 @@ media_all_json: |-
     Karolis Piotrovskis (Karol Piotrowski) [9].
   citata_rodoma: "1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavininku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc / Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku – Karolis Piotrovskis (Karol Piotrowski) [9]."
   statusas: verified
+  atnaujinta: "2026-07-14 12:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,6 +161,7 @@ media_all_json: |-
     kintas Vilniaus seimelio rezultatais [29].
   citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks\nVilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti\nper seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius\n[28]."
   statusas: verified
+  atnaujinta: "2026-07-14 09:40"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

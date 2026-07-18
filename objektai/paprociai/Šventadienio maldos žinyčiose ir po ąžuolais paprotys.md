@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja, kad per šventes lietuvių giminės susirinkdavo žinyčiose ar po ąžuolais ir nuoširdžiai melsdavosi savo dievams, vengdamos palaido elgesio.
+Atėjus šventėms, ne tabalavo per kiemus, ne kūlės nepriderančiai, ne gėrė, ne merginėjo, bet žinyčiose ar po ąžuolais giminės doba širdingai meldės pas savo dievus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,19 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201469"></a>
+<a id="claim-t-201388"></a>
 - t-001
-  global_id: t-201469
-  teiginys: "Daukantas vaizduoja, kad per šventes lietuvių giminės susirinkdavo žinyčiose ar po ąžuolais ir nuoširdžiai melsdavosi savo dievams, vengdamos palaido elgesio."
+  global_id: t-201388
+  teiginys: "Atėjus šventėms, ne tabalavo per kiemus, ne kūlės nepriderančiai, ne gėrė, ne merginėjo, bet žinyčiose ar po ąžuolais giminės doba širdingai meldės pas savo dievus."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184819
+    - c-184738
 
 ## Citatos
 
-- id: c-184819
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 78"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 78."
+- id: c-184738
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Iš medės pargrįžę ne miegpūdavo, bet vieni vir­
     ves* suko, kiti tinklus mezgė, kiti lunkus mižojo, vy­
@@ -67,8 +72,9 @@ Nenurodyta
     savo dievus. Tėvų ir senųjų sakomi klausė, kuriuos
     karšinantis viežlybai bei padoriai gerbė ir kaipo j o.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201469
+    - t-201388

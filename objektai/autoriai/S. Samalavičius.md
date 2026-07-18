@@ -42,6 +42,16 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
 - t-001
   global_id: t-30971
   teiginys: "S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> S. Matulaitytė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "S. Samalavičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "S. Matulaitytė: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Samalavičius\" parinktas kaip owner_note_path. Targetas \"S. Matulaitytė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33134
 
@@ -62,6 +72,7 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
     1965, 169-183 p.).
   citata_rodoma: "Apie Vilniaus amatų pramonę, dar­\nbininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.\npradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­\nvičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,\n1965, 169-183 p.)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

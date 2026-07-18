@@ -46,6 +46,13 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-001
   global_id: t-195205
   teiginys: "Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie statybos pradžią ir paskirtį."
+  susije_objektai: "llm_object: Šv. Onos bažnyčia Vilniuje; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]"
+  semantiniai_rysiai: "[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Šv. Onos bažnyčia Vilniuje"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177570
 
@@ -53,6 +60,12 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-002
   global_id: t-195206
   teiginys: "Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata pagrindžia fundacijos ir aprūpinimo turinį."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177569
 
@@ -60,6 +73,12 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-003
   global_id: t-195207
   teiginys: "Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą paskyrimą."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177572
 
@@ -67,6 +86,12 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-004
   global_id: t-195208
   teiginys: "Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata kalba apie autoriaus prielaidas dėl Šv. Onos bažnyčios atsiradimo ir nukreipia į konkretų puslapį."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177569
 
@@ -74,6 +99,12 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-005
   global_id: t-195209
   teiginys: "Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata leidžia suformuluoti pilną faktą apie prašymą ir siektą rezultatą."
+  susije_objektai: "mentioned_place: Šv. Onos bažnyčia; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/mansionieriai|mansionieriai]]; mentioned_person: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177574
 
@@ -81,9 +112,18 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 - t-006
   global_id: t-195210
   teiginys: "Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Šv. Onos bažnyčia; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
-    - c-177571
     - c-177573
+    - c-177571
 
 ## Citatos
 
@@ -104,6 +144,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     tą].
   citata_rodoma: "O už tai jų dideny­\nbes įpareigojame, kad mylimo Dievo garbei ir šlovei fun- \nduotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­\njoje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip \nreikiant, pagal savo nuomonę, priderančiomis pajamomis \nbei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo \nDievo tarnystei prie anos bažnyčios pasiliktų. Taip pat, kad \njiems prie tos pačios Šv. Onos bažnyčios įsakytų pastatyti \ntrylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­\ntą]."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +168,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     serims36.
   citata_rodoma: "Taip pat savo lėšomis pilies teritori­\njoje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo \nfunduoti dar ir kleboniją, o prie jos namus mansionieriams, \nnaują šventovę skirdamas palaidoti savo žmonoms - Elžbie­\ntai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. Ta­\nčiau, karaliui esant gyvam, pastatų užbaigti nepavyko, ir \nvisų su šia bažnyčia susijusių savo sumanymų įgyvendini­\nmą Žygimantas Augustas testamentu rūpestingai pavedė se­\nserims36."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,6 +190,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     268 p.
   citata_rodoma: "Patartume peri­\nodinių leidinių leidėjams rūpestin­\ngiau peržiūrėti jiems pateikiamus\nrašinius, susijusius su Lietuvos isto­\nrija, nes ji, deja, iki šiol mažiausiai \nžinoma. Apie mūsų prielaidas dėl \nŠv. Onos bažnyčios atsiradimo žr. \n268 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,6 +218,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     pono mūsų tėvo švento atminimo karaliaus kūnas.
   citata_rodoma: "Šiai bažnyčiai visą bažnytinį auksą, \nsidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, \nkuris prie mūsų visada būna mišioms ir kas tik yra pas Zales- \nkį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa- \ncifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius, \ntaip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši- \nžinkas, korporalus, absoliučiai visas puošmenas, drabužius ir \nindus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų \ntai minėtai Šv. Onos bažnyčiai Vilniuje išduoti, išskyrus auk­\nsinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­\nžiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­\nskiriame, kad šis kryžius su Šv. Kryžiaus medžiu būtų \npaliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės \npono mūsų tėvo švento atminimo karaliaus kūnas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -199,6 +243,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     ropejskiej, vert.
   citata_rodoma: "Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­\nčios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus \npilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties \nvardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo \nužbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 \nmetais, tad gal būtų galima manyti, jog Žemutinės pilies te­\nritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv. \nOnos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę\n35 36\nG w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą. \nropejskiej, vert."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,6 +269,7 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     noti ir aprūpinti būtų.
   citata_rodoma: "Kad klebonija ir \nmansionieriai būtų aprūpinti gera ir garbinga fundacija, kad \nbūtų jiems pastatytas namas ir kad visa tai būtų įgyvendin­\nta, kaip aukščiau ir žemiau savo valią pareiškėme, turi būti \npadaryta, dėl to jų didenybes mūsų seseris arba tuos, kurie \nvaldys Respubliką, įpareigojame sąžine, garbe ir tikėjimu. \nO ypač jos didenybę karalaitę Oną, jeigu čia, mūsų valsty­\nbėse, pasiliktų, prašome, kad jos didenybė visu tuo su aukš­\nčiau paminėtais vykdytojais pati uoliai prisidėtų ir kad mū­\nsų valią įgyvendinti stengtųsi, ypač kad toji Šv. Onos bažnyčia \nbūtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­\nnoti ir aprūpinti būtų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,9 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 - t-001
   global_id: t-58680
   teiginys: "Angetetos pilis buvo tapatinama su Engelšteinu, dabartiniu Vengelštinu į šiaurės vakarus nuo Mamrų ežero."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-59312
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
@@ -78,6 +81,7 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
     žirgo bei ginklų ir dėl jo mergelės garbės.
   citata_rodoma: "337 D.— Angetete, Jer.— Angetêtin. Pilis buvo tapatinama su gerokai į pietryčius nuo\nUnzatrapio žemės buvusiu Engelšteinu (dab. Vengelštinas, Węgielsztyn, į šiaurės vakarus\nnuo Mamrų ežero), kur išliko piliakalnis (VBK; CV, t. 32, d. 2, p. 306— 307). Angetetos\n(Auktetos) ieškota Unzatrapio teritorijoje (GAO, p. 10), manyta, kad Angetete — tai\nAngarben-Englau (Ewald A. L., Die Eroberung.., 3, p. 36), tapatinta ji su piliakalniu prie\nGross Engelau, bet jo pėdsakų kol kas nerasta (CV, t."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

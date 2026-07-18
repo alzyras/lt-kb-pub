@@ -40,6 +40,23 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
 - t-001
   global_id: t-191832
   teiginys: "Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojamas kaip 1758, 1759 ir 1764 m. Vilniuje leista šaltinių publikacija."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dogiel, Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dogiel, Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1764 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas bibliografinis sakinys apie šaltinį. Papildomų faktų nepridėta, o citata tiesiogiai remia leidimo metus ir vietą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174714
 
@@ -56,6 +73,7 @@ Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus
     et Magni Ducatus Lituaniae... Vilna, 1758,
     1759, 1764).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

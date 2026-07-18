@@ -60,6 +60,19 @@ Nenurodyta
 - t-001
   global_id: t-75191
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos pirmininkavimas Europos Sąjungai (2013 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir gramatiškai neužbaigtas."
   pagrindžia:
     - c-73069
 
@@ -67,6 +80,19 @@ Nenurodyta
 - t-002
   global_id: t-75192
   teiginys: "Lietuvos pirmininkavimas ES vertintas kaip galimybė priminti pasauliui Lietuvos praeitį ir jos vietą Europoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos pirmininkavimas Europos Sąjungai (2013 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=101"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir fragmentiška formuluotė."
   pagrindžia:
     - c-73068
 
@@ -74,6 +100,19 @@ Nenurodyta
 - t-003
   global_id: t-75193
   teiginys: "2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos pirmininkavimas Europos Sąjungai (2013 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=35"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citatoje kalbama apie būsimą pareigą, todėl teiginys patikslintas pagal šaltinio formuluotę."
   pagrindžia:
     - c-73070
 - susijęs iš [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai.md#claim-t-54363|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]: 2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.
@@ -105,6 +144,7 @@ Nenurodyta
     sateise Europos Sąjungos nare 2004 m.
   citata_rodoma: "Tai iš-\nskirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį, \nbet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai \nir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti \nir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.   \nRengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio \nreikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus \nuniversiteto Tarptautinių santykių ir politikos mokslų instituto moks-\nlininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-\nfesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus), \nprašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-\njais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui, \nvisų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti \nilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-\nlią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per \nskirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos \nnepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo \npaminėjimo vienoje iš Europos kronikų 1009 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +173,7 @@ Nenurodyta
     jais grįstą Lietuvos istorijos veikalą.
   citata_rodoma: "reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,6 +196,7 @@ Nenurodyta
     ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
   citata_rodoma: "skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

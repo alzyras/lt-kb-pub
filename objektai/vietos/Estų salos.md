@@ -49,6 +49,10 @@ Estų salos šiame šaltinyje yra salų regionas.
 - t-001
   global_id: t-195491
   teiginys: "1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177914
 - susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
@@ -85,6 +89,7 @@ Estų salos šiame šaltinyje yra salų regionas.
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
   citata_rodoma: "1899 m. vasarą padarė kelionę į Estų salas (Eželį), kur rinko estų liaudies dainas;"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

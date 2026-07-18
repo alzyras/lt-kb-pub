@@ -40,6 +40,21 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
 - t-001
   global_id: t-200485
   teiginys: "Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "reme -> Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Žodis „protegavo“ tiesiogiai reiškia Antano Tado Pšezdeckio paramą Stanislovui Pšezdeckiui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1756 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardis pakeistas note objekto vardu ir pridėtas seimelio kontekstas. Nepridėtas protekcijos rezultatas, nes citata jo nepateikia."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183854
 
@@ -47,6 +62,17 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
 - t-002
   global_id: t-200486
   teiginys: "Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183854
 
@@ -66,6 +92,7 @@ Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendori
     protegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki).
   citata_rodoma: "1756 m. kanauninkas pasakojo apie Starodubo seimelio eigą. Jis teigė, kad seimelio metu labai stengėsi tarnauti pakanclerio\nMykolo Antano Sapiegos ir adresato Adomo Chmaros interesams. Jis rėmė Smolensko\npateisėjininkaitį, o tai buvo J. D. Lopacinskio draugystės su LDK referendoriumi Antanu\nTadu Pšezdeckiu (Antoni Tadeusz Przezdiecki) nenaudai. Seimelio metu referendorius\nprotegavo Smolensko pilies teisėją Stanislovą Pšezdeckį (Stanisław Przezdiecki)."
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

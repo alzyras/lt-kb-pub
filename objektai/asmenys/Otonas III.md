@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Otonas III ir Brandenburgo margrafas Jonas I buvo sutikti Griuningeno kelionėje po Teutoniją, kai Griuningenas telkė pagalbą kryžėjams.
+Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III.
 
 ## Teiginiai
 
-<a id="claim-t-201422"></a>
+<a id="claim-t-201421"></a>
 - t-001
-  global_id: t-201422
-  teiginys: "Otonas III ir Brandenburgo margrafas Jonas I buvo sutikti Griuningeno kelionėje po Teutoniją, kai Griuningenas telkė pagalbą kryžėjams."
+  global_id: t-201421
+  teiginys: "Patsai rėdytojas kryžėjų ir kalavijonų Griuningenas iškeliavo į Teutoniją tenai meldžionų į karę telkti, bekeliaudamas jau užteikė margrafus Brandenburgijos Joną I ir Otoną III."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184772
+    - c-184771
 
 ## Citatos
 
-- id: c-184772
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 335"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 335."
+- id: c-184771
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kazimierą, pats brolis Sviatopelko taikinėjo kry-
     žėjams, be to dar, kas vien ginklą pakėlė tarp vo­
@@ -52,8 +57,9 @@ Otonas III ir Brandenburgo margrafas Jonas I buvo sutikti Griuningeno kelionėje
     kariauna, persikėlęs per Yslą, ties Toninę antpuolė
     pasalu kryžėjų kariauną ties Golubu padrevency.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201422
+    - t-201421

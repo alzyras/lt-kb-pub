@@ -40,6 +40,17 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 - t-001
   global_id: t-86823
   teiginys: "Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Savickiai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Savickiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad namas atiteko Savickiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Savickiai (0.94)"
   pagrindžia:
     - c-82802
 - susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
@@ -63,6 +74,7 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
     1583. Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
     atiteko Neliubovičiams.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

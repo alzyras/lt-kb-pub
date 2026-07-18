@@ -33,6 +33,20 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
 - t-001
   global_id: t-188979
   teiginys: "Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo Tautų sambūriu vadintus rūmus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Katinai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ašagardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Katinai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašagardas\" parinktas kaip owner_note_path. Targetas \"Katinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171868
 - susijęs iš [[objektai/zodynas/Murgai.md#claim-t-189315|Murgai]]: Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Milda mūšio lauke dalydavosi su Odinu.
@@ -75,6 +89,7 @@ Narbutas Ašagardą vadina šiaurės Olimpu ir pasakoja, kad jame deivė turėjo
     dodavo laisvės deivės simboliu.
   citata_rodoma: "Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­\ndalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas\nmurgais (murgi). Ašagarde (Assagard), arba šiaurės Olimpe,\nji turėjo prabangius rūmus, vadintus Tautų sambūriu (Zgro-\nmadzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę\nriterių vėlės. Jos karietą traukdavo dvejetas katinų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

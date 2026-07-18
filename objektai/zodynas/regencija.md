@@ -33,6 +33,9 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - t-001
   global_id: t-70301
   teiginys: "Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žiauriajam, buvo sudaryta regencija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69353
 
@@ -40,6 +43,9 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - t-002
   global_id: t-70302
   teiginys: "Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-69352
 
@@ -60,6 +66,7 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     pavojus.
   citata_rodoma: "Su ja Maskvos kuni-\ngaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė-\njosi pasinaudoti, — juo labiau, kad Zigmantas buvo pa-\ntraukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet\nmokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės\npavojus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,6 +85,7 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     dar mažas, tai buvo sudaryta regencija.
   citata_rodoma: "Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo\ndar mažas, tai buvo sudaryta regencija."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

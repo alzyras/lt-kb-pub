@@ -61,6 +61,17 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 - t-001
   global_id: t-176226
   teiginys: "Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas."
+  atnaujinta: "2026-06-13 17:24"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kęstutis tiesiogiai pasiūlė Ordinui paliaubas ir belaisvių apsikeitimą, tai sutartinio santykio forma."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.86); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.82); Kryžiuočių ordinas kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.82)"
   pagrindžia:
     - c-14483
 
@@ -68,6 +79,17 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 - t-002
   global_id: t-176227
   teiginys: "Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo nuolatinį karinį konfliktą tarp Kęstučio ir Ordino pusės."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.82); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.82)"
   pagrindžia:
     - c-14483
 
@@ -89,6 +111,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     pukares, vienas kitą riteriškai pavaišinti.
   citata_rodoma: "Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­\ngaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti\npaliaubas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

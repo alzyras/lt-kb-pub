@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Natango, vienas iš Vitevudo sūnų, įgijo kraštą, kurį nuo savo vardo pavadino Natangais.
+Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo kraštus, kuriuos nuo savo vardo praminė.
 
 ## Teiginiai
 
 <a id="claim-t-201236"></a>
 - t-001
   global_id: t-201236
-  teiginys: "Daukanto pasakojime Natango, vienas iš Vitevudo sūnų, įgijo kraštą, kurį nuo savo vardo pavadino Natangais."
+  teiginys: "Lygia dalia kiti Vitevudo sūnūs: Šalavo, Natango, Barto, Galindo, Varmo, Ogo, Pomezo, Kulmo, visi įgijo kraštus, kuriuos nuo savo vardo praminė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184586
-- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
+
 ## Citatos
 
 - id: c-184586
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 70"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 70."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ketvirtajam sūnui teko kraštas tarp upių Ska­
     ros, Boiko ir Kurteno, kursai įkūręs tenai pilį Stain-
@@ -54,6 +59,7 @@ Daukanto pasakojime Natango, vienas iš Vitevudo sūnų, įgijo kraštą, kurį 
     paskui vadinos Šalau j ai, Natangai, Bartai, Galindai,
     Varmiai, Ogoniai, Pamezonys, Kulmionys.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

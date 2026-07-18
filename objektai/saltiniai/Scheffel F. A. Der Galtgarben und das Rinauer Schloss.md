@@ -38,6 +38,12 @@ Dusburgietis teigia, kad scheffel F.
 - t-001
   global_id: t-61285
   teiginys: "F. A. Scheffelio Der Galtgarben und das Rinauer Schloss paskelbtas 1934 m. leidinio Mitteilungen des Vereins für die Geschichte von Ost- u. Westpr. 9 tome."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1934 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas perrašytas į pilną lietuvišką sakinį."
   pagrindžia:
     - c-61917
 
@@ -51,6 +57,7 @@ Dusburgietis teigia, kad scheffel F.
     Scheffel F. A. Der Galtgarben und das Rinauer Schloss.— Mitteilungen des Vereins für
     die Geschichte von Ost- u. West-pr.,  1934, Bd. 9, S. 8—11.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,21 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
 - t-001
   global_id: t-192855
   teiginys: "Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai buvo įsikūrę greta į rytus, Dono ir Doneco tarpupyje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Starobelsko apskritis: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gelonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Starobelsko apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai nurodoma gelonų gyvenamoji vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gelonai gyveno Starobelsko apskritis (0.98); Budinai gyveno Voluika (0.90); Budinai gyveno Bogončavas (0.90); Budinai gyveno Donas (0.82); Budinai gyveno Donecas (0.82)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175625
 
@@ -58,6 +73,7 @@ Pasak Baturlino, gelonai gyveno dabartinėje Starobelsko apskrityje, o budinai b
     Tisos, arba Tibiskos, upės, įtekančios į Dunojų ir dėl to
     taip vadinamos3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

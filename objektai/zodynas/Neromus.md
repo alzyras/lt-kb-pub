@@ -50,6 +50,18 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 - t-001
   global_id: t-192227
   teiginys: "Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Neroma: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Neromus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Neroma: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neromus\" parinktas kaip owner_note_path. Targetas \"Neroma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175076
 
@@ -57,6 +69,12 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 - t-002
   global_id: t-197697
   teiginys: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera mus, ir priešingo būdvardžiui Romus, ramus3."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175076
 
@@ -78,6 +96,7 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
     rusų variagų4.
   citata_rodoma: "Taip pat yra antra išvada apie šio pavadinimo kilmę iš lietuviško žodžio Neromus, nera­\nmus, ir priešingo būdvardžiui Romus, ramus3."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

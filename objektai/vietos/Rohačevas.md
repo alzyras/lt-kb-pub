@@ -39,6 +39,9 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
 - t-001
   global_id: t-187309
   teiginys: 'Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra aiškus lokalizacijos sakinys ir tiesiogiai paremtas citata.'
+  susije_objektai: 'mentioned_place: Chlepenis; mentioned_place: Rževas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Kaluga; mentioned_place: Mosalskas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-170345
 
@@ -46,6 +49,13 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
 - t-002
   global_id: t-187310
   teiginys: 'Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Rohačevą ir tiksliai remiasi redakcine pastaba. Nepridėta papildomos informacijos apie kitus miestus.'
+  susije_objektai: 'llm_object: Rohačevas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Kaluga; mentioned_place: Mosalskas; mentioned_place: Rževas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Rohačevas'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Rohačevą ir tiksliai remiasi redakcine pastaba. Nepridėta papildomos informacijos apie kitus miestus.'
   pagrindžia:
     - c-170345
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
@@ -69,6 +79,7 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
     tus nuo Rževo).
   citata_rodoma: "Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio \nmiestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27 \nrašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie \n100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­\ntus nuo Rževo)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,19 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
 - t-001
   global_id: t-78126
   teiginys: "1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=50"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"F. Ruzvelto įsakymas dėl Baltijos valstybių lėšų įšaldymo (1940 m. liepos 15 d.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1940-1983; įvykio data: 1948 m.; įvykio data: 1983 m.; įvykio data: 1983-1991"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą apie įsakymo turinį."
   pagrindžia:
     - c-75433
 
@@ -68,6 +81,7 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
     Antanas Bačkis (1983–1991 m.).
   citata_rodoma: "LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento \nLietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)  \nrenkasi dalijamus drabužius, 1948 m.\n\nL I E T U V O S  I S T O R I J A\n226\nF. Ruzvelto išleistas įsakymas, kuriuo įšaldy-\ntos JAV bankuose laikytos Baltijos valstybių \nlėšos. Šie pinigai suteikė galimybę LDT išlai-\nkyti savo pasiuntinybes ir personalą iki pat \ndiplomatinio darbo pabaigos. \nLDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

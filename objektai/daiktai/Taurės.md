@@ -61,6 +61,9 @@ Nenurodyta
 - t-001
   global_id: t-195333
   teiginys: "Varinė taurelė minima prie bažnyčios vaišių ir kaip atlygio gėrimo indas."
+  atnaujinta: "2026-07-12 14:04"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177729
     - c-177732
@@ -69,9 +72,25 @@ Nenurodyta
 - t-002
   global_id: t-195334
   teiginys: "Kitoje istorijoje taurė aprašoma kaip stora stiklinė, tyčia daužoma į duris ir aslos akmenį."
+  atnaujinta: "2026-07-12 14:04"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177730
     - c-177731
+
+<a id="claim-t-200943"></a>
+- t-003
+  global_id: t-200943
+  teiginys: "Paskui vie ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū davo ir tokių, kurie gerdavo iš paauksytų kaukolių savo neprietelių, karėj pergalėtų 2."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184293
 - susijęs iš [[objektai/autoriai/Hubertas Vautrinas.md#claim-t-200743|Hubertas Vautrinas]]: Hubertas Vautrinas (1742–1822), apie 1770 m. keliavęs po Abiejų Tautų Respubliką, aprašė vengriško vyno gėrimą iš vienos taurės.
 - susijęs iš [[objektai/autoriai/Jędrzej Kitowicz.md#claim-t-200745|Jędrzej Kitowicz]]: Jędrzejus Kitowiczius aprašė gėrimą iš vienos taurės ar stiklinėlės, kai geriama vienas po kito ir nesibjaurima į taurę krintančiais lašais.
 - susijęs iš [[objektai/paprociai/Gėrimas iš vienos taurės.md#claim-t-200734|Gėrimas iš vienos taurės]]: Rimvydas Laužikas europinio gėrimo iš vienos taurės papročio formavimą sieja su antikos kultūra, krikščionybe ir Šiaurės barbarikumu.
@@ -107,6 +126,7 @@ Nenurodyta
     ir varinė taurelė.
   citata_rodoma: "Prie to raguolis ragaišio,\ngabalas mėsos\nir varinė taurelė."
   statusas: verified
+  atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +150,7 @@ Nenurodyta
     daužyti taurelę.
   citata_rodoma: "Kai visą išgėrė, sumanė sudaužyti taurelę."
   statusas: verified
+  atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,6 +168,7 @@ Nenurodyta
     Čia vargšei šonas nudužo.
   citata_rodoma: "O taurė stora, kaip koks stiklo burbulas. Paskui ir sumanė duoti į aslos akmenį. Čia vargšei šonas nudužo."
   statusas: verified
+  atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,8 +188,33 @@ Nenurodyta
     Taip užkandžiavo šventoriuje.
   citata_rodoma: "Atėjus elgetai padėkoti už ragaišį, ji gaudavo iš­\ngerti po taurelę „ant abiejų kojų.“"
   statusas: verified
+  atnaujinta: "2026-07-12 14:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195333
+
+- id: c-184293
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
+  citata_originali: |
+    Susirinkę į gėrynes, visų pirma savo dievus pa­
+    garbino, kaipogi nė vienas pirma negėrė iki nenu-
+    liejęs truputėlį ant garbės aukščiausioms galybėms,
+    nuo kurių meilaudami skalsos tuos žodžius sakė:
+    „Jei mūsų dievaliai palinkėjo linksmą valandėlę, tai
+    neužmirškim jų kaip mūsų užtarytojų". Paskui vie­
+    ni siurbė midų bei alų iš tauragių, kiti iš kaušų, bū­
+    davo ir tokių, kurie gerdavo iš paauksytų kaukolių
+    savo neprietelių, karėj pergalėtų* 2. Ant galo, apvarę
+    keletą kartų kaušą, tauragę, pakarčiui pradėjo vieni
+    dainiuodami garbinti kantrybę ir narsybę savo bočių,
+    kiti pasakoti karžygius giminės.
+  statusas: verified
+  atnaujinta: "2026-07-16 14:30"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200943

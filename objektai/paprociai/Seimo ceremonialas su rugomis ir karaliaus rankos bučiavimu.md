@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-67199
   teiginys: "Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67211
 
@@ -60,6 +63,9 @@ Nenurodyta
 - t-002
   global_id: t-67200
   teiginys: "Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67213
 
@@ -67,6 +73,9 @@ Nenurodyta
 - t-003
   global_id: t-67201
   teiginys: "Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67212
 
@@ -93,6 +102,7 @@ Nenurodyta
     čiuodavo jam ranką.
   citata_rodoma: "Pagaliau sei-\nmas būdavo baigiamas\natsisveikinimu su kara-\nlium, — ir vėl visi bu-\nčiuodavo jam ranką."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +124,7 @@ Nenurodyta
     praneštus svarstyti klausimus.
   citata_rodoma: "Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui\nrankos, o po to kancleris arba vicekancleris pareikšdavo kara-\nliaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams\npraneštus svarstyti klausimus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,6 +142,7 @@ Nenurodyta
     vadinama r u g o m i s.
   citata_rodoma: "Toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

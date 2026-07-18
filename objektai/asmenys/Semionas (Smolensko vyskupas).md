@@ -34,6 +34,10 @@ Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais i
 - t-001
   global_id: t-194143
   teiginys: 'Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais ir prastaisiais žmonėmis prisiekė laikyti Andrių Smolensko vaivada.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys perrašytas į gramatišką sakinį apie Semiono veiksmą ir priesaikos turinį. Palikti tik citatoje aiškiai nurodyti asmenys, grupės ir pareigos.'
   pagrindžia:
     - c-176756
 
@@ -65,6 +69,7 @@ Smolensko vyskupas Semionas kartu su kunigaikščiais, bajorais, miestiečiais i
     ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
     skambinti varpu.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

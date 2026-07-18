@@ -42,6 +42,20 @@ Nenurodyta
 - t-001
   global_id: t-200880
   teiginys: "J. Miklašis, grįždamas į Maskoliją, buvo sulaikytas pasienyje po skundo, kad esąs neištikimas lenkiškiems politiniams idealams."
+  atnaujinta: "2026-07-15 12:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Miklašio sulaikymas ir persekiojimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=94"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Miklašio sulaikymas ir persekiojimas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lenkai Lietuvoje Dr. J. Basanavičius"
+  vertinimo_atnaujinta: "2026-07-15T02:58:13Z"
   pagrindžia:
     - c-184225
 
@@ -74,6 +88,7 @@ Nenurodyta
     persikelt vidun Maskolijos.
   citata_rodoma: "Vienas jaunas lietuvis*, išsimo­\nkinęs tulą šaką techniškos chemijos speciališkuose \ninstitutuos Vokietijos, Prancuzijos ir Anglijos, \nLietuvon sugrįżo, geisdam as u żsiimt labai naudin­\ngu tu lam kraštui fabrikišku veiklumu. B et jau uż- \nrubeżēje, susitikdam as su tulos patriotiškos spalvos \nlenkais, jis buvo użsitraukęs ant savęs nuotartį, buk\n* J. Miklašis\n\njis lenkiškiemsiems politiškiems idealams neištiki­\nm as esąs ir iš prieżasties melagingo skundo jau ant \nrubeżiaus, Maskolijon grįżtant, sulaikytas tapo. \nReikalas, żinoma, išsiaiškino, bet nuo to lengviaus \nnepasidarē. \nKada jis użsimanē pritraukt prie sa­\nvo użmanymo kelis turtingesnius ukininkus, ant jo \npadaryta svarbią denunciaciją, buk jis „prieš val­\ndżią maištan traukia ukininkus.” \nPateko po poli­\ncijos prieżiura — tu lam laikui praējus vēl reikalas \nišsiaiškino, bet persekiojimai iš lenkų pusēs bei \nsmulkios intrigos nesiliovē ir jis priverstas buvo \npersikelt vidun Maskolijos."
   statusas: verified
+  atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

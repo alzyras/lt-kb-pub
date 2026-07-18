@@ -45,6 +45,12 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-003
   global_id: t-199237
   teiginys: "Pagal rusų metraščius ir Henriko Latvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko patekimo Lietuvos valdžion XIII a."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-181758
 
@@ -52,6 +58,19 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-002
   global_id: t-199238
   teiginys: "HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m."
+  atnaujinta: "2026-07-12 23:02"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_author: [[objektai/autoriai/L. Arbusow|L. Arbusow]]"
+  temporaliniai_duomenys: "įvykio data: 1955 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  ryšio_patikimumas: "susije_su -> L. Arbusow: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heinrici Chronicon Livoniae: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "L. Arbusow: mention_match, author, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heinrici Chronicon Livoniae\" parinktas kaip owner_note_path. Targetas \"L. Arbusow\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-03535
 
@@ -82,6 +101,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     HChL = Heinrici Chronicon Livoniae, išl. L. Arbusow ir Alb. Bauer
     (MGH SS) Hannover 1955.
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,6 +126,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
     dakcijos nuorašų tekstais.
   citata_rodoma: "1 9  Žinia, kad, mirus Ginvilos palikuoniui Glebu!, nebeliko Po­\nlocko kunigaikščių, nepagrįsta. Pagal rusų metraščius ir Henriko \nLatvio Kronikų Polocko kunigaikščių eilė nenutrūksta ligi Polocko \npatekimo Lietuvos valdžion XIII a. viduryje."
   statusas: verified
+  atnaujinta: "2026-07-12 23:02"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

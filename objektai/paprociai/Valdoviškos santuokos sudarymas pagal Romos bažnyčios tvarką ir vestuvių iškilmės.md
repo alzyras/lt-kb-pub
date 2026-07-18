@@ -49,6 +49,19 @@ Nenurodyta
 - t-001
   global_id: t-185862
   teiginys: "Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169223
 
@@ -56,6 +69,19 @@ Nenurodyta
 - t-002
   global_id: t-185863
   teiginys: "Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jonas Kropidlas (vyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jonas Kropidlas (vyskupas): mention_match, person, gap=38"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės\" parinktas kaip owner_note_path. Targetas \"Jonas Kropidlas (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169224
 
@@ -105,6 +131,7 @@ Nenurodyta
     gus, nes niekas neabejojo, kad ir dangus smerkė tai,
     ką atmetė lyg susitarę žmonės.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +164,7 @@ Nenurodyta
     šėnų kunigaikščio Algimantaičio dukra.
   citata_rodoma: "Galbūt atkakliu ne­\npritarimu ir būtų privertęs\nV y ta u ta s  v e d a\nVytautą atsisakyti šio suma­\nnymo, jeigu nebūtų parėmęs\nJonas Kropidlas, Kujavijos vyskupas, su karaliumi at­\nvykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus\npagal valdovo norus, jis pareiškė, jog santuoka būsian­\nti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-\n3 9 6\n\n## Puslapis 395\n\nmos bažnyčia. Pasibaigus vestuvių iškilmėms, valdovai\niš visų jėgų įniko rengtis karui su kryžiuočiais."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

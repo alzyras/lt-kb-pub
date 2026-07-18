@@ -47,6 +47,20 @@ Nenurodyta
 - t-001
   global_id: t-189685
   teiginys: "Narbutas kilnojamosios šventovės audeklo uždangą aprašė kaip šešių dalių ir aštuonių uolekčių aukščio aptvarą aplink dievams malonų medį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kilnojamosios šventovės audeklo uždanga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kilnojamosios šventovės audeklo uždanga\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172568
 
@@ -88,6 +102,7 @@ Nenurodyta
     peikiamas.
   citata_rodoma: "Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­\nvių, kurios priklausė ugnies šventovėms piratėjoms. Apie to­\nkią turime istorinę žinią, išlikusią Prūsijos kronikose21 2 23. Jos ap­\nrašymas būtų toks. Parinkus kokį nors dievams malonų medį,\naplink jį būdavo išvyniojama astuonių uolekčių aukščio au­\ndeklo uždanga iš šešių atskirų gabalų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -56,6 +56,10 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
 - t-001
   global_id: t-195628
   teiginys: "Kraičvežiai šiame šaltinyje juokais vadinasi plunksnų pirkliais."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178030
 
@@ -76,6 +80,7 @@ Terminas vartojamas kraičvežių kalboje ir vaidmeniniame vestuvių juoke.
     perką kur geras plunksnas ir pūkus.
   citata_rodoma: "Tam panaši ir jų kalba: esą plunksnų pirkliai, perką kur geras plunksnas ir pūkus."
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

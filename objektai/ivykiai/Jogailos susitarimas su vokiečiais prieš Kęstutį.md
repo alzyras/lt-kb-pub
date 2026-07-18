@@ -50,6 +50,10 @@ Nenurodyta
 - t-001
   global_id: t-194063
   teiginys: 'Lietuvos metraštis pasakoja, kad po Algirdo mirties Jogaila išaukštino Vaidilą ir ištekino už jo savo seserį Mariją, kas supykdė Kęstutį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis į Vaidilą ir palikta kronikos pasakojimo atribucija. Nepridėta daugiau apie Jogailos susitarimą su vokiečiais, nes citata to dar nepateikia.'
   pagrindžia:
     - c-176676
 
@@ -75,6 +79,7 @@ Nenurodyta
     sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
     delę galią pas didįjį kunigaikštį Jogailą.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

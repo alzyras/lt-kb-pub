@@ -26,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų. Pasak Daukanto pasakojimo, Vladimiras iš Mečislovo, kurį autorius vadina lenkų viešpačiu, atėmė Červenės ir Peremyšlio pilis.
+Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų. Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose.
 
 ## Teiginiai
 
@@ -34,13 +34,33 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 - t-001
   global_id: t-192596
   teiginys: "Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mečislovas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mečislovas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175367
 
 <a id="claim-t-201014"></a>
 - t-002
   global_id: t-201014
-  teiginys: "Pasak Daukanto pasakojimo, Vladimiras iš Mečislovo, kurį autorius vadina lenkų viešpačiu, atėmė Červenės ir Peremyšlio pilis."
+  teiginys: "Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184364
 
@@ -59,6 +79,7 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
     Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
     valdęs nuo 964 iki 999 metų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -66,9 +87,8 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
     - t-192596
 
 - id: c-184364
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 59"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 59."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kas moka aiškiai* Lietuvos ir
     gudų kalbą, tas gal tą aiškiai regėti, kaipogi šios
@@ -86,6 +106,7 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
     Vladimirui, patrakę, kuriuos vienok jis sudraudęs
     laimingai ir apent duoklę sau šilti prisuokęs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

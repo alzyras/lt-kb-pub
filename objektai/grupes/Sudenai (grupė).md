@@ -33,25 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas sudenus mini tarp tautų, kurios, jo perteikiamu pasakojimu, gyveno prie Yslos, Nemuno, Ventos, Daugavos ir Gaujos upių.
+Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai.
 
 ## Teiginiai
 
 <a id="claim-t-201254"></a>
 - t-001
   global_id: t-201254
-  teiginys: "Daukantas sudenus mini tarp tautų, kurios, jo perteikiamu pasakojimu, gyveno prie Yslos, Nemuno, Ventos, Daugavos ir Gaujos upių."
+  teiginys: "Tautos ant tų upių, pasakoja, tos gyvenusios: venedai, galindai, sudenai, kareotai, saliai, osai, veltai, penai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184604
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-201459|Venedai]]: Daukanto pateiktame pasakojime prie Vyslos, Nemuno, Ventos, Dauguvos ir Gaujos gyveno venedai, galindai, sudenai, kareotai, saliai, osai, veltai ir penai.
-- susijęs iš [[objektai/grupes/Galindai.md#claim-t-200918|Galindai]]: Daukantas pasakoja, kad galindai ir kitos tautos gyveno prie Vyslos, Nemuno, Ventos, Daugavos ir Gaujos.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-197527|Venedai]]: Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros.
+
 ## Citatos
 
 - id: c-184604
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 37"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 37."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Upis tenai didesniąsias minavoja,
     Ysla (Vistula), Nemunu (Kronas), Venta (Rubonas),
@@ -62,6 +65,7 @@ Daukantas sudenus mini tarp tautų, kurios, jo perteikiamu pasakojimu, gyveno pr
     lingos tautos galindų ir sudenų dėl to, jog jas 1000
     metų buvus tebras toj pačioj vietoj begyvenančias1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

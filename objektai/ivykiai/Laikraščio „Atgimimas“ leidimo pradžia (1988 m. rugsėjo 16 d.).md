@@ -55,6 +55,16 @@ Nenurodyta
 - t-001
   global_id: t-26395
   teiginys: "Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Romualdas Ozolas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Romualdas Ozolas: mention_match, person, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)\" parinktas kaip owner_note_path. Targetas \"Romualdas Ozolas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-26620
 
@@ -78,6 +88,7 @@ Nenurodyta
     ciatyvinės grupės nariai.
   citata_rodoma: "LPS tapo dar populiaresnis, \nkai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti \nlaikraštis „Atgimimas“ (red. Romualdas Ozolas).\nLPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi \niniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-\nciatyvinės grupės nariai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

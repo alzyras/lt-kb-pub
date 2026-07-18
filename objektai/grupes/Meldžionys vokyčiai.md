@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad meldžionys vokiečiai, įveikę padaugavionis, norėjo toliau plėsti valdžią ir traukė į Žemgalius užimti Celonės pilies.
+Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v.
 
 ## Teiginiai
 
 <a id="claim-t-201251"></a>
 - t-001
   global_id: t-201251
-  teiginys: "Daukantas rašo, kad meldžionys vokiečiai, įveikę padaugavionis, norėjo toliau plėsti valdžią ir traukė į Žemgalius užimti Celonės pilies."
+  teiginys: "Meldžionys vokyčiai, nuveikę, kaip minavojau, padaugavionis, norėjo dar tolesniai savo valdžią platinti, todėl v."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184601
-- susijęs iš [[objektai/posakiai/pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim.md#claim-t-201260|pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim]]: Daukantas posakį „pirma gelžis į vašką, vanduo į plieną pavirs“ pateikia kaip laiško patikinimą, kad duotas žodis nebus laužomas.
+
 ## Citatos
 
 - id: c-184601
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 207"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 207."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau buvo Kolomanas Mstislavą nuveikiąs, bet
     tuo tarpu lietuviai, antpuolę Kolomaną iš užpakalio,
@@ -52,6 +57,7 @@ Daukantas rašo, kad meldžionys vokiečiai, įveikę padaugavionis, norėjo tol
     žemaičiai, traukdami į igumių žemę ir nuo tenai
     pargrįždami, gaspadijos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

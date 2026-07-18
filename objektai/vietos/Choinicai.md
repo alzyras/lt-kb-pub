@@ -39,6 +39,16 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
 - t-001
   global_id: t-185261
   teiginys: "Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1467 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę."
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168622
 - susijęs iš [[objektai/ivykiai/Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.).md#claim-t-185558|Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)]]: Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.
@@ -68,6 +78,7 @@ Lenkai užėmė Choinicus per Prūsijoje pasibaigusį karą.
     lenkai užėmė Choinicus.
   citata_rodoma: "Po to, beveik netrukdomi pasi­\nrengę lemiamam antpuoliui, iš arti visa jėga užgriuvo\ntvirtovės sienas. Pilies gynėjai, iš visų pusių apsupti,\nmėgino prasiveržti, tačiau juos sumušė ir atstūmė; kai\nnuo padegamųjų strėlių daugelyje vietų suliepsnojo\nnamai, jie, praradę bet kokią viltį, pasiūlius Ulrichui,\nįgulos viršininkui, pasidavė\n1467 m e ta i\nkaraliui. Choinicams kritus,\nG im sta\nk u n ig a ik štis\npopiežiaus pasiuntinys\nRu-\nZ y g im a n ta s\ndolfas pasistengė, kad būtų\nsudaryta taika."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

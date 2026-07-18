@@ -32,6 +32,13 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
 - t-001
   global_id: t-196361
   teiginys: "Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei Ivanas juos įspėtų neskriausti kitų."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169666
 
@@ -58,6 +65,7 @@ Stepono laiške Ivanui teigta, kad valachai ir skitai galėtų būti ramūs, jei
     aplankė Vilniuje sūnų Alek­
     sandrą bei marčią Eleną.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

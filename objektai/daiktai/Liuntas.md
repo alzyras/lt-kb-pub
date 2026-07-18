@@ -55,9 +55,13 @@ Nenurodyta
 - t-001
   global_id: t-195325
   teiginys: "Liuntas aprašomas kaip vyžų medžiaga ir minkštos virvės pavidalas."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177712
     - c-177713
+    - c-177712
     - c-177714
 
 ## Reikšmingi paminėjimai
@@ -79,6 +83,7 @@ Nenurodyta
     dėvėto milo skudurą ar kitą kokį suvalkiotą skurlį.
   citata_rodoma: "Vietoje liunto po vyžos padu prisiuva seno nudėvėto milo skudurą ar kitą kokį suvalkiotą skurlį."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +104,7 @@ Nenurodyta
     po padu, kad jis ilgiau laikytų.
   citata_rodoma: "Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,6 +128,7 @@ Nenurodyta
     virvę, mažiuko žmogaus piršto storumo, kuri buvo vadinama liuntu.
   citata_rodoma: "Iš pakulų vijo bet kokią minkštą, dviejų šakų virvę, mažiuko žmogaus piršto storumo, kuri buvo vadinama liuntu."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

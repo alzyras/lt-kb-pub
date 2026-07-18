@@ -55,6 +55,20 @@ Nenurodyta
 - t-001
   global_id: t-34553
   teiginys: "1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai surengė šį žygį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas surengė žygį į Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo) (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-35778
 
@@ -73,6 +87,7 @@ Nenurodyta
     paėmė ją ir sudegino. Grįžo į Prūsus vedini keletu šimtų be­
     laisvių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

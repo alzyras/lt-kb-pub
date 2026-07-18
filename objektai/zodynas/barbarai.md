@@ -34,6 +34,12 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 - t-001
   global_id: t-185366
   teiginys: "Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168727
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
@@ -100,6 +106,7 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
     galė.
   citata_rodoma: "Ten greitosiomis įrengę stovyklą,\nsustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­\nletą būrių gurguolėms saugoti, o patys su visomis jė­\ngomis patraukė link priešo, kuris, pasak kalbų, taip\npat buvo įsitvirtinęs stovykloje. Barbarai, per žvalgus\ngavę žinių apie priešo jėgas ir ketinimus, bijojo pirmo\ngerai ginkluotų karių puolimo, ypač dėl to, kad jų\npačių ir apsiginklavimas, ir kariavimo būdas buvo\nmenkoki. Štai todėl jie nutarė kokia nors nedidele\npergale atimti priešui iš pat pradžių progą džiaugsmui\nir įbauginti atšiaurias širdis: puolimas būsiąs silpnes­\nnis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks\nlabiau turį bijoti, negu drąsą rodyti."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

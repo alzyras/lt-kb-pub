@@ -39,6 +39,14 @@ Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valst
 - t-001
   global_id: t-188956
   teiginys: 'Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valstiečių maišto nuslopinimas minimas kaip atpildo Rimvydui pagrindas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Fragmentas sutvarkytas į sakinį apie Merkinės valsčių ir privilegijos turinį. Motyvų bei simbolikos aiškinimai neplėsti.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimvydas|Rimvydas]]; mentioned_place: Merkinė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Upės (Oppen) kaimas; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1483 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Fragmentas sutvarkytas į sakinį apie Merkinės valsčių ir privilegijos turinį. Motyvų bei simbolikos aiškinimai neplėsti.'
   pagrindžia:
     - c-171845
 
@@ -68,6 +76,7 @@ Narbutas nurodė, kad 1483 m. Kazimiero privilegijoje Merkinės valsčiaus valst
     suvaržymo ir norėdama išsivaduoti iš priespaudos, pasinau­
     dodavo laisvės deivės simboliu.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

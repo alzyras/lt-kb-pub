@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-193013
   teiginys: "Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175783
 
@@ -55,6 +62,12 @@ Nenurodyta
 - t-002
   global_id: t-197565
   teiginys: "Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-175783
 
@@ -75,6 +88,7 @@ Nenurodyta
     liją šiandien vilkėdamas paprastus kailinius, o netrukus
     kitiems dalysi brangius apdarus ir dovanas“3.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

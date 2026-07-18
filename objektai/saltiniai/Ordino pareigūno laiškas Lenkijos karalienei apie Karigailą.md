@@ -38,6 +38,16 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
 - t-001
   global_id: t-88460
   teiginys: "Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=56"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84439
 
@@ -81,6 +91,7 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
     gailalauvęs nukirsdintas.
   citata_rodoma: "Tą \nliudija Ordino pareigūno vienas laiš­\nkas (įdėtas F o i g t o, V, 546) Lenki­\njos karalienei 1391 metų pradžioje, \nkuriame taip pasakyta: „Iš jūsų laiš­\nko mums aišku, kad Jūsų Karališko­\nsios Didenybės vadai, kurie dalyva­\nvo įvykiuose prie Vilniaus, praneša \nJums apie Karigailos, turinčio krikš­\nčionišką Kazimiero vardą, nukirsdi- \nuimą; atsakome: kas J. K. Didenybei \ntaip kalbėjo, nežinojo ir nežino, kaip \nbuvo iš tikrųjų. Kadangi girdėjome\niš vyriausiojo maršalo ir iš kitų gar­\nbingų žmonių, ponų riterių, ginkla­\nnešių, jog kunigaikštis Karigaila, ka­\nreivių neatpažintas buvęs nukautas, \nir kad tik penktą dieną iš lietuvių, \npabėgusių iš Aukštutinės pilies, bu­\nvo sužinota, jog kunigaikštis žuvęs/' \nVisi tuometiniai kryžiuočių prane­\nšimai panašiai užginčija, kad Kari- \ngailalauvęs nukirsdintas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

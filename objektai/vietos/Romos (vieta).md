@@ -42,6 +42,20 @@ media_all_json: |-
 - t-001
   global_id: t-200808
   teiginys: "Šv. Kazimiero bažnyčia, pradėta 1604 m. ir baigta 1615 m., pakartojo Romos pavyzdžio planą ir bendrą kompoziciją."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romos (vieta): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romos (vieta)\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184153
 - susijęs iš [[objektai/daiktai/Vilniaus Katedros renesansinis perstatymas.md#claim-t-200850|Vilniaus Katedros renesansinis perstatymas]]: Vilniaus Katedra antrajame XVI amžiaus trečdalyje buvo renesansiškai perstatyta dalyvaujant Romos ir Sienos architektoriams.
@@ -65,6 +79,7 @@ media_all_json: |-
     tais (per dvidešimt metų nuo II Gesu užbaigos) ir užbaigta 1615 metais,
     tiksliai pakartoja Romos pavyzdžio planą ir bendrą kompoziciją.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas dorybės ir nedorybės priešpriešą pasitelkė pamokomoms išvadoms, kaip buvo įprasta didaktinėje literatūroje.
+Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešinimas, per kurį tuomet popu liarioje didaktinėje literatūroje buvo einama prie pamokomų išvadų.
 
 ## Teiginiai
 
 <a id="claim-t-201215"></a>
 - t-001
   global_id: t-201215
-  teiginys: "Daukantas dorybės ir nedorybės priešpriešą pasitelkė pamokomoms išvadoms, kaip buvo įprasta didaktinėje literatūroje."
+  teiginys: "Dorybė ir nedorybė, liuosybė ir vergybė — tai gėrio ir blogio supriešinimas, per kurį tuomet popu liarioje didaktinėje literatūroje buvo einama prie pamokomų išvadų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184565
 
 ## Citatos
 
 - id: c-184565
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 11"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 11."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Be­
     je, kaip pastebėjo Vytautas Kavolis, laisvė šiam
@@ -56,6 +61,7 @@ Daukantas dorybės ir nedorybės priešpriešą pasitelkė pamokomoms išvadoms,
     pamokomų išvadų. Pamokomų išvadų siekė ir Dau­
     kantas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

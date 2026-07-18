@@ -35,23 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime didysis mistras Zangerhuzenas 1261 m. rudenį Teutonijoje sutelkė meldžionų būrius ir išsiuntė juos į Parusnį.
+Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė.
 
 ## Teiginiai
 
 <a id="claim-t-201411"></a>
 - t-001
   global_id: t-201411
-  teiginys: "Daukanto pasakojime didysis mistras Zangerhuzenas 1261 m. rudenį Teutonijoje sutelkė meldžionų būrius ir išsiuntė juos į Parusnį."
+  teiginys: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184761
 
 ## Citatos
 
 - id: c-184761
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 387"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 387."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu paties Rymo rūmuose nusigaudė gar­
     sas nuokryčio kryžėjų ties Durbike, lygia dalia vi­
@@ -63,6 +68,7 @@ Daukanto pasakojime didysis mistras Zangerhuzenas 1261 m. rudenį Teutonijoje su
     rius meldžionų, tenai išsiuntė. Popiežius pats nety­
     lėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

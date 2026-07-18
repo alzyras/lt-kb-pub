@@ -33,6 +33,9 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 - t-001
   global_id: t-80743
   teiginys: "Karininko Sangino vadovaujama antroji šešiolikos vyrų grupė turėjo pulti dvaro klojimą, kuriame miegojo dvi bolševikų kuopos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42214
 
@@ -47,6 +50,7 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
     jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls
     dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. [...].
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

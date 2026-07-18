@@ -33,6 +33,12 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - t-001
   global_id: t-186079
   teiginys: "Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169440
 
@@ -88,6 +94,7 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
     ką.
   citata_rodoma: "Tokių kalbų paskatinti\nryžtingesni vyrai viešai pareikalavo, kad įgulos virši­\nninkas priimtinomis sąlygomis perduotų pilį Glinskiui.\nKiek galėdamas šitokiems siūlymams priešinosi Solo-\ngubas; visaip įrodinėdamas ir įtikinėdamas, jis mal­\ndaute maldavo vardan visų šventųjų, kad, skubotai\npasiduodami, neterštų šlovės, kurią įsigijo, garbingai\ndvylika metų gindami pilį. Mat neilgai trukus į pa­\ngalbą atskubėsiąs karalius, kuris šiuo metu jau prie\nMinsko: šitai ne gandai, bet tikros žinios."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

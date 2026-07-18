@@ -27,25 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Danielius Idumėjoje apkrikštijo daug letgalių ir Ropoje įkūrė jiems bažnyčią.
+Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj bažnyčią jiems įkūrė.
 
 ## Teiginiai
 
 <a id="claim-t-201155"></a>
 - t-001
   global_id: t-201155
-  teiginys: "Danielius Idumėjoje apkrikštijo daug letgalių ir Ropoje įkūrė jiems bažnyčią."
+  teiginys: "Paskui nukeliavo į Idumėją ir tenai daug letgalių apkrikštijo ir Ropoj bažnyčią jiems įkūrė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184505
-- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-200976|Danielius (kunigas, XIII a.)]]: Daukanto pasakojime Danielius Turaidoje ir Dabrelio pilyje krikštijo vietos gyventojus, o iš ten nuėjo į Kesės pilį krikštyti žmonių.
-- susijęs iš Kesės pilis (pilis): Danielius, pakrikštijęs žmones Turaidoje ir Dabrelio pilyje, nuėjo į Kesės pilį krikštyti.
-- susijęs iš Ropoj (vieta): Danielius Idumėjoje apkrikštijo daug letgalių ir Ropoj įkūrė jiems bažnyčią.
+
 ## Citatos
 
 - id: c-184505
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 200"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­
@@ -58,6 +61,7 @@ Danielius Idumėjoje apkrikštijo daug letgalių ir Ropoje įkūrė jiems bažny
     patartų, netaikose teisybę darytų ir nuo abydų juos
     gintų pagal jų ūkės būdą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-187983
   teiginys: "Narbutas Pokliaus ženklą apibūdina kaip tris kaukoles: žmogaus, jaučio ir arklio."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170990
 - susijęs iš [[objektai/zodynas/Kriukis Jagaubis.md#claim-t-189227|Kriukis Jagaubis]]: Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir jo vardą kildina iš „kriugos“ – kriukio, kablio.
@@ -96,6 +100,7 @@ Nenurodyta
     goma, ko reikėjo gyvoms būtybėms išsimaitinti.
   citata_rodoma: "Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir\narklio."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,21 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
 - t-001
   global_id: t-190563
   teiginys: "Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Seversko žemės: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Triznų giminė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Seversko žemės: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Triznų giminės kilmę iš Seversko žemės; leistina artimiausia vietos semantika yra gyveno."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Triznų giminė gyveno Seversko žemės (0.78)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173446
 
@@ -66,6 +81,7 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
     piai, supilti ant žymių žmonių pelenų.
   citata_rodoma: "Net buvo ap­\n23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-\nrožytnej Polski. -  T. II)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

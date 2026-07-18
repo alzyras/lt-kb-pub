@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas šį posakį pateikia kaip Gedimino atsakymą karaliui, kuris per pasiuntinius prašė grįžti ir kartu grasinti kryžiuočiams.
+Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodamas jį, idant grįžtų ir vienkartu kryžėjus grės tų.
 
 ## Teiginiai
 
 <a id="claim-t-201263"></a>
 - t-001
   global_id: t-201263
-  teiginys: "Daukantas šį posakį pateikia kaip Gedimino atsakymą karaliui, kuris per pasiuntinius prašė grįžti ir kartu grasinti kryžiuočiams."
+  teiginys: "Kaipogi karalius, jutęs Gediminą paėjus, buvo išleidęs siuntinius, lūgodamas jį, idant grįžtų ir vienkartu kryžėjus grės tų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184613
 
 ## Citatos
 
 - id: c-184613
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 562"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 562."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi karalius,
     jutęs Gediminą paėjus, buvo išleidęs siuntinius, lū-
@@ -50,6 +55,7 @@ Daukantas šį posakį pateikia kaip Gedimino atsakymą karaliui, kuris per pasi
     būt tavo vylium vokyčių vergu tapęs; dabar aš pa­
     žįstu mano vylėją".
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

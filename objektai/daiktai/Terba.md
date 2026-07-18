@@ -67,14 +67,22 @@ Nenurodyta
 - t-001
   global_id: t-195300
   teiginys: "Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177667
     - c-177668
+    - c-177667
 
 <a id="claim-t-195301"></a>
 - t-002
   global_id: t-195301
   teiginys: "Terba minima kaip fizinis nešimo daiktas vėžiams parnešti."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177671
 
@@ -82,6 +90,10 @@ Nenurodyta
 - t-003
   global_id: t-195302
   teiginys: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177670
 
@@ -89,6 +101,10 @@ Nenurodyta
 - t-004
   global_id: t-195303
   teiginys: "Šienapjūtėje terbos vartojamos maistui vežti į pievas."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177673
 
@@ -96,10 +112,14 @@ Nenurodyta
 - t-005
   global_id: t-195304
   teiginys: "Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
+    - c-177672
     - c-177666
     - c-177669
-    - c-177672
     - c-177674
 - susijęs iš [[objektai/paprociai/Moterų vėžiavimas.md#claim-t-195357|Moterų vėžiavimas]]: Vėžiavimas buvo moterų žvejybos būdas, kai į Šešupę eidavusios moterys parnešdavo terbą vėžių.
 - susijęs iš [[objektai/daiktai/Naginės.md#claim-t-195349|Naginės]]: Elgetos apavas.
@@ -141,6 +161,7 @@ Nenurodyta
     ba pilna.
   citata_rodoma: "Kelis kiemus pereini — jau ter­\nba pilna."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +181,7 @@ Nenurodyta
     mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“ .
   citata_rodoma: "Piemuo, suvalgęs be duonos ir be druskos kiaušinį, apsičiaupstė ir, atsigręžęs į mane pasakė: „Jau kiaušinis man nerūpės ir terboje nekrutės“."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +201,7 @@ Nenurodyta
     ką ten šeimininkė įdėjo.
   citata_rodoma: "Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė. Vienas piemuo užlipo ant kalno. Jam parūpo pakratyti savo terbą, pažiūrėti ką ten šeimininkė įdėjo."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -197,6 +220,7 @@ Nenurodyta
     gino verstis poterėliais ir terbele.
   citata_rodoma: "Taigi pamė­\ngino verstis poterėliais ir terbele."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -216,6 +240,7 @@ Nenurodyta
     nunešiotais miestiečio užvalkčiais.
   citata_rodoma: "ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -235,6 +260,7 @@ Nenurodyta
     tą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra.
   citata_rodoma: "Vėžiavimas \nbūdavo moterų žvejyba: nueidavo boba į Šešupę, palandydavo po šil­\ntą vandenį ir parnešdavo terbą vėžių. Dabar ir tokių bobų nėra."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -252,6 +278,7 @@ Nenurodyta
     nius pavirsta.
   citata_rodoma: "Ta duonelė bėralinė, terboje susitrina, į trupi­\nnius pavirsta."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -274,6 +301,7 @@ Nenurodyta
     atveža valgyti pusryčių ir pietų ąsočiuose ir terbose.
   citata_rodoma: "Pusryčių metu atvažiuoja mergaitės su pusberniu ir piemeniuku ir atveža valgyti pusryčių ir pietų ąsočiuose ir terbose."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -292,6 +320,7 @@ Nenurodyta
     jetą didesnių vaikų.
   citata_rodoma: "Terbelė ne ant pečių, kaip elgetų, bet rankose; vedasi su savimi dve­\njetą didesnių vaikų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

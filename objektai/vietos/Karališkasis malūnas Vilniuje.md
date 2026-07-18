@@ -63,6 +63,15 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-001
   global_id: t-55248
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
+  susije_objektai: "mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177469
 
@@ -70,6 +79,13 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-002
   global_id: t-55249
   teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius; llm_object: Vilnius"
+  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-177469
 
@@ -77,6 +93,12 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-003
   global_id: t-195086
   teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55849
 
@@ -84,6 +106,12 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-004
   global_id: t-195087
   teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
+  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55849
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
@@ -106,6 +134,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     niaus malūnas].
   citata_rodoma: "Iš Lietuvos Metrikos. Knyga, apimanti \nMetrikos archyvo sąrašą. Raidė S. \nAntraštė: Molendinum Vilnense [Vil­\nniaus malūnas]."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,6 +165,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     malūnas.
   citata_rodoma: "40), matyti,\n266\n\n## Puslapis 283\n\nIV KNYGA\nVisi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei \nir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­\ngai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­\ntas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius \n1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui \nir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­\nmis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­\nlių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir \nžemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus \nmalūnas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

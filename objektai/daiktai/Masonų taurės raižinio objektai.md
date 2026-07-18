@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189730
   teiginys: 'Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas taurės raižinio objektų sąrašas ir pašalintas OCR triukšmas. Nepridėta simbolinių reikšmių, nes teiginiui pakanka vaizdo aprašo.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akacijos šakelė|Akacijos šakelė]]; mentioned_object: [[objektai/daiktai/Kampainis|Kampainis]]; mentioned_object: [[objektai/daiktai/Skriestuvas|Skriestuvas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-172613
 
@@ -74,6 +79,7 @@ Nenurodyta
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
     čiausiąjį protą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

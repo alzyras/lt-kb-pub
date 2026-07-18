@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1276 m. šalaujų tėvūnai sueimoje nutarė kariauti prieš kryžėjus ir išsiuntė kelis šimtus rinktinės raitijos užimti Labguvos pilį, kurią kariai naktį užėmė.
+Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201328"></a>
 - t-001
   global_id: t-201328
-  teiginys: "1276 m. šalaujų tėvūnai sueimoje nutarė kariauti prieš kryžėjus ir išsiuntė kelis šimtus rinktinės raitijos užimti Labguvos pilį, kurią kariai naktį užėmė."
+  teiginys: "Įbimgę tėvūnai šalaujų susirinko į sueimą tei rautis, kaip apmaudą nugiežti ant kryžėjų už tiek 1276 nelaimų, sau pridarytų; sutarė valodoj genaus ka riauti nekaip vergauti; to dėjęsi, tuojau išsiuntė keletą šimtų rinktinės joties pilį kryžėjų Labguvą užimti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184678
 
 ## Citatos
 
 - id: c-184678
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 444"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 444."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tam pavykus, Lidelau ap-'
     sidrąsinęs persikėlė į antrą pusę Nemuno ir tenai
@@ -72,6 +77,7 @@ Nenurodyta
     kyčius nugalavo, o jų vaikus ir motriškąsias į ver­
     gus išvarė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

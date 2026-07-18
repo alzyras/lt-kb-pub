@@ -44,6 +44,21 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - t-001
   global_id: t-190235
   teiginys: "Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Ostapas Kropotkovas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Ostapas Kropotkovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Herbas tiesiogiai nurodytas kaip duotas Ostapui Kropotkovui."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Herbas priklausė Ostapas Kropotkovas (0.90); Podbužo dvaras priklausė Ostapas Kropotkovas (0.82); Ostapas Kropotkovas kariavo prieš Totoriai (0.72)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173118
 
@@ -51,6 +66,24 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - t-002
   global_id: t-191967
   teiginys: "Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Ostapas Kropotkovas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herbas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Ostapas Kropotkovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad herbas buvo duotas Ostapui Kropotkovui."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herbas priklausė Ostapas Kropotkovas (0.90); Podbužo dvaras priklausė Voluinė (0.90); Podbužo dvaras priklausė Ostapas Kropotkovas (0.86); Ostapas Kropotkovas kariavo prieš Totoriai (0.80)"
+  temporaliniai_duomenys: "mūšio data: 1354 m.; priklausymo laikotarpis: 1354 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ostapas Kropotkovas kariavo prieš Totoriai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Herbas priklausė Ostapas Kropotkovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Podbužo dvaras priklausė Ostapas Kropotkovas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas asmens vardas, data, vieta ir suteikimo objektai. „Už nuopelnus“ palikta su Narbuto atribucija, nepridedant privilegijoje neminimų aplinkybių."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174849
 
@@ -58,6 +91,12 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
 - t-003
   global_id: t-197787
   teiginys: "Ostapas Kropotkovas buvo skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir herbo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179338
 
@@ -78,6 +117,7 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +140,7 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
     Vilniuje 1354 metų rugpjūčio 7 dieną.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +160,7 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     skirtas — vėliavai ar herbui, nes jis užrašytas tarp vėliavos ir
     herbo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

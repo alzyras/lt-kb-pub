@@ -32,6 +32,20 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
 - t-001
   global_id: t-191786
   teiginys: "Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkinyje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kasiodoro laiškų rinkinys: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=55"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kasiodoro laiškų rinkinys\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174668
 
@@ -74,6 +88,7 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
     bėjo pabėgdamas iš krašto.
   citata_rodoma: "Ostrogaias reiškia rytų galą.\n3 Šie dokumentai yra Kasiodoro laiškų rinkinyje.\n\n## Puslapis 319\n\nTokių santykių norėjo Odoakras, kuris nesiekė nieko\nkito, o tik stengėsi padidinti gerovę savo naujos valsty­\nbės, kur jis išsaugojo senus įstatymus, institucijas ir\nkitą civilinę tvarką."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

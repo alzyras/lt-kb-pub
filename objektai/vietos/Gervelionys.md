@@ -32,6 +32,13 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - t-001
   global_id: t-188948
   teiginys: "Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-171837
 
@@ -75,6 +82,7 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
     las.
   citata_rodoma: "Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­\nnyti, kad ji galinti turėti įtakos vaisingumui.\nVINKŠNA, Winkszna. Netoli nuo mano kaimo, Gervelio-\nnių (Gerwielancy) akalicoje, vieno bajoro sode tebėra labai\nsenos vinkšnos kelmas; jo skersmuo apačioje siekia penkias\nuolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­\natmenamų laikų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

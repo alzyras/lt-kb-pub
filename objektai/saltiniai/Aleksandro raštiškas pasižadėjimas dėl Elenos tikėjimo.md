@@ -33,6 +33,19 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - t-001
   global_id: t-186306
   teiginys: "Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): mention_match, person, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo\" parinktas kaip owner_note_path. Targetas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169667
 
@@ -40,6 +53,19 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - t-002
   global_id: t-186307
   teiginys: "Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): mention_match, person, gap=109"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo\" parinktas kaip owner_note_path. Targetas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169668
 
@@ -47,6 +73,13 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
 - t-003
   global_id: t-196344
   teiginys: "Kojelavičius perteikia nuogąstavimą, kad rusė Elena lietuviams neatneš daugiau laimės, negu graikė Elena atnešė trojėnams."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169668
 
@@ -72,6 +105,7 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
     graikė trojėnams.
   citata_rodoma: "su\ni s *\n547\n\n## Puslapis 546\n\nMaskvos didikais iš pradžių dėl taikos, o paskui — dėl\nsantuokos sąlygų, Dėl taikos jie šitaip susitarė: Alek-\nį kunigaikščių Vorotinskių valdas. Kai tarėsi dėl san­\ntuokos, pats Ivanas kuo atkakliausiai pareikalavo iš\nAleksandro raštiško pasižadėjimo, kad jo sužadėtinė\nliksianti rusų tikėjimo ir kad jis niekada jos neversiąs\npereiti į Romos tikėjimą. Kadangi pasiuntiniai sutiko\nsu šia sąlyga, iškilmingai buvo atšvęstos sužadėtuvės,\nper kurias, beje, Trakų vaivadai nebuvo leista atsto­\nvauti Aleksandrui, nes jau buvo vedęs antrą žmoną,\ntodėl Goštautas atliko šį vaidmenį."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +134,7 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
     nei tarp jų tėvų, karaliaus Kazimiero bei kunigaikščio
     Vasilijaus, ir patvarkė, kad pasiuntiniai derėtus!
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

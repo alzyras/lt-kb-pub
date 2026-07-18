@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime per žygį į Žemaičius kariauna prie Nemuno rado 610 valčių ir turėjo skintis kelią per raistus bei tankias girias.
+Niekados nebuvo taip didi kariauna į Žemaičius traukusi, kaip šiuo žygiu, darin negalėjo išsigauti per raistas, lūžas ir tank mes girių, per kurias kelios tūkstantės svieto tu rėjo pirma eidamos naują kelią skinti ir ertinti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201273"></a>
 - t-001
   global_id: t-201273
-  teiginys: "Daukanto pasakojime per žygį į Žemaičius kariauna prie Nemuno rado 610 valčių ir turėjo skintis kelią per raistus bei tankias girias."
+  teiginys: "Niekados nebuvo taip didi kariauna į Žemaičius traukusi, kaip šiuo žygiu, darin negalėjo išsigauti per raistas, lūžas ir tank mes girių, per kurias kelios tūkstantės svieto tu rėjo pirma eidamos naują kelią skinti ir ertinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184623
 
 ## Citatos
 
 - id: c-184623
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 657"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 657."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėję pas Nemuną, rado 610 valčių pa­
     tiektų dėl persikėlimo. Niekados nebuvo taip didi
@@ -63,6 +68,7 @@ Nenurodyta
     staigaus neprieteliaus, buvo susirinkęs linksmin­
     tis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

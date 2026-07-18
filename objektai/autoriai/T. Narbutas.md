@@ -24,13 +24,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATeodorNa
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}
+  {"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Interior of Church of St. Johns in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-self","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
+  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Interior of Church of St. Johns in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-self","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
+  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Interior of Church of St. Johns in Vilnius","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-self","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Taken with Sony DSC-W55","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Teodor Narbutt","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
 ---
 # Teodoras Narbutas
 
@@ -44,6 +44,13 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-001
   global_id: t-188477
   teiginys: "T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkretindavo ir papildydavo tuo, kas, jo manymu, galėjo būti pasakyta."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171367
 
@@ -51,6 +58,13 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-002
   global_id: t-188478
   teiginys: "T. Narbutas daug vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171368
 
@@ -58,6 +72,23 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-003
   global_id: t-188479
   teiginys: "1830 m. T. Narbutas išleido „Čigonų liaudies istorijos bruožus“ ir buvo parengęs darbą apie linų bei kanapių auginimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1826 m.; įvykio data: 1830 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atsisakyta vertinimo apie darbštumą ir palikti konkretūs publikuoti ar parengti darbai. Nepridėti vertimų pavadinimai, nes citatoje jie pateikti tik bendrais bruožais."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171369
 
@@ -65,6 +96,20 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-005
   global_id: t-188481
   teiginys: "T. Narbutas korespondencijoje minėjo neįvardytą Lydos mokytoją, vertusį LTI į rusų kalbą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171371
 
@@ -72,6 +117,13 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-006
   global_id: t-188482
   teiginys: "Narbutui priskiriama ypač didelė, net aistra vadinama, dėmesio koncentracija į lietuvių mitologijos tyrinėjimus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171372
 
@@ -79,6 +131,20 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-007
   global_id: t-188483
   teiginys: "Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-171373
 
@@ -86,6 +152,20 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-008
   global_id: t-190808
   teiginys: "Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173690
 
@@ -93,6 +173,20 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-009
   global_id: t-190810
   teiginys: "Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173692
 
@@ -100,6 +194,23 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-010
   global_id: t-190811
   teiginys: "1828 m. Varšuvoje išleistas T. Święckio veikalas „Opis starožytnej Polski“ buvo Teodoro Narbuto bibliotekoje."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Varšuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1828 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys išvalytas nuo išnašos triukšmo ir išlaikytas bibliografinis faktas apie Narbuto biblioteką. Nepridėta duomenų už leidimo vietą, metus ir buvimo faktą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173693
 
@@ -107,6 +218,20 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-011
   global_id: t-191907
   teiginys: "Teodoras Narbutas svarstė, kad ašarinėse esantis skystis žemėje galėjo tapti dujiškai nepatvarus ir išgaruoti per stiklą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174789
 
@@ -114,6 +239,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-012
   global_id: t-193589
   teiginys: "Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo inžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos Lietuvos istorijai iki Liublino."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176264
 
@@ -121,6 +252,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-013
   global_id: t-193880
   teiginys: "Narbutas nuo 1838 m. pradėjo rūpintis Bychovco kronikos išspaus dinimu."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176507
 
@@ -128,6 +265,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-014
   global_id: t-194207
   teiginys: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176810
 
@@ -135,6 +278,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-015
   global_id: t-194208
   teiginys: "Narbutas susilaukė rūsčios jo kritikos."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176811
 
@@ -142,6 +291,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-016
   global_id: t-197342
   teiginys: "Narbutas ne tik išlaikė nepaki tusią struktūrą, bet ir ilgą vaizdingą pratarmę, neatsisakė ir nė vieno jos teiginio."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179140
 
@@ -149,6 +304,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-017
   global_id: t-197343
   teiginys: "Teodoras Narbutas buvo tikra istoriko požiūrio į praeities tyrinėjimus deklaracija, jo aspiracijų išraiška) buvo pakoreguota tik įrašant vieną nedidelę papildomą pataisą, tuo tarpu pats knygos tekstas mirgėjo nuo korektyvų."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179141
 
@@ -156,6 +317,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-018
   global_id: t-197650
   teiginys: "Per 400 metų nė vienas lietuvis, išskyrus Kojalavičių, Mykolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeitimi."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179280
 
@@ -163,6 +330,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-019
   global_id: t-197651
   teiginys: "Narbuto korespondencijos, istorikas daugelį metų ieškojo galimybės išspausdinti šio tomo vertimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179281
 
@@ -170,6 +343,12 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-020
   global_id: t-197652
   teiginys: "Narbuto darbiniame LTI egzemp lioriuje, visose devyniose dalyse, atsirado daugybė pa taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179282
 
@@ -177,6 +356,11 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
 - t-004
   global_id: t-188480
   teiginys: 'Trečiojo dešimtmečio pabaigoje T. Narbutas jau buvo sukaupęs šaltinių seniausiai Lietuvos istorijai rekonstruoti.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas, paliekant laiką, veikėją ir šaltinių paskirtį. Nepridėta citatoje minimų rankraščių ir kalbų sąrašo.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-171370
 - susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187895|Anicetas Renjė]]: Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu.
@@ -349,8 +533,8 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     turėjo sukaupęs pakankamą kiekį šaltinių, kuriais remdama­
     sis galėjo ryžtis rekonstruoti seniausią Lietuvos istoriją.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -372,6 +556,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     mais“, „rankraščiais“. Tačiau vargu ar tai buvo sąmoninga fal­
     sifikacija.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -389,6 +574,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     į archeologinius kasinėjimus, rinko ir užrašinėjo tautosaką. Vi­
     suomenės akyse jis tapo LTI autoriumi.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -407,6 +593,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     teto konkursui pateiktas darbas apie linų ir kanapių augini­
     mą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -425,6 +612,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     rodė), kuris LTI vertė į rusų kalbą. Istorikas vertėjo darbu bu­
     vo labai nepatenkintas, tikriausiai ne vieną kartą taisė tekstą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -447,6 +635,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     55 Žr. šio leidinio p. 80.
   citata_rodoma: "Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­\nlogijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­\ngu galima būtų manyti detaliau jų nepažinus. Nedvejojant ga­\nlima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­\nmesio, kurį galbūt net būtų galima pavadinti aistra."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -466,6 +655,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     informacija iš minėto T. Volianskio laiško (ten pat).
   citata_rodoma: "P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-\ntentycznego, objašnil, tlómaczenie polskie doląc-\nzyt i do druku podal Teodor Narbutt // MAB RS. -\nE 22. -  B. 54)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -495,6 +685,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     ir plėšikiška tauta.
   citata_rodoma: "Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­\nti dar su Renesanso laikotarpiu, buvo puikiai žinomos\nLTI autoriui: tiek Jono Dlugošo užrašyta romėniškoji,\ntiek Erazmo Stelos propaguota gotiškoji, tiek jau vėliau\natsiradusi heruiiškoji lietuvių tautos genezės teorija —\ndviejų pirmųjų junginys. T. Narbutas buvo skaitęs ir\nXVIII amžiaus pabaigos vokiečių publicisto ir istoriko\nAugusto Liudviko fon Slėcerio tyrinėjimus, žinojo ir jo\nnuomonę, jog lietuviai iki pat jų valstybės sukūrimo bu­\nvo didelė, galinga, bet barbariška tauta, o Palemonas —\nišgalvota asmenybė. Šio teiginio šalininkai buvo ir Ksa­\nveras Bogušas, ir Jokimas Lelevelis, bet istorikas sten­\n1 Saurai?"
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -516,6 +707,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     sisakyti mums primestų stereotipų.
   citata_rodoma: "Sumanymas. „Aš nerašau lietuvių tautos istorijos\n< ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­\nracija T. Narbutas pradėjo laišką bičiuliui ir mokytojui\nIgnui Onacevičiui."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -534,6 +726,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     veikalo ledimas buvo T. Narbuto bibliotekoje (ĮNarbutt T.] Spi­
     sanie Muzeum w Szawrach. L. 14. Nr. 146—147).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -558,6 +751,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     stiklą.
   citata_rodoma: "Ten, kur jis nukrito, mes nepastebė­\njome nė jokio drėgmės pėdsako, neužuodėme nė jokio\nkvapo. Tikriausiai, iškasus iš žemės, tasai rutuliuko vi­\nduje buvęs skystis dingsta — kaip ir mano lietuviškų se­\nnienų rinkinyje, nors stiklas ir nulakuotas. Taigi gali bū­\nti, jog, amžiams bėgant, ašarinėse esantis skystis žemėje\nįgauna tiek dujinio nepatvarumo, kad išgaruoja ir per\nstiklą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -576,6 +770,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
     kultūrinio pobūdžio žurnalą „Atheneum“.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -601,6 +796,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     laitės vedybas, paimtą iš kito šaltinio.
   citata_rodoma: "Baigdamas „Lietuvos istoriją\", T. Narbutas nuo \n1838 m. pradėjo rūpintis Bychovco kronikos išspaus­\ndinimu. 1844.11.23 jis išsiuntė rankraštį į Vilnių savo \nartimiausiam bičiuliui gydytojui A. Renjerui, prašyda­\nmas perduoti jį giminaičiui V. Narbutui * , kuris vėliau \ntvarkė spausdinimo reikalus ir skaitė korektūras. *\n* J ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -620,6 +816,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
     metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -641,6 +838,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     duotėje daugybę pagoniškų dievų Lietuvai, kurių ji niekada ne­
     turėjo...
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -662,6 +860,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     vieno jos teiginio. 1848 metų rankraštyje pratarmė buvo per­
     rašyta iš esmės.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -685,6 +884,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     S. Daukantui apie šį naują savo darbą jis neparašė, nors jam
     paprastai entuziastingai išsakydavo visus savo planus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -704,6 +904,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     lei apie Abisiniją, arabus, mongolus ir samojedus daugiau
     darbų parašyta nei apie Lietuvą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -724,6 +925,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     nės T. Narbuto korespondencijos, istorikas daugelį metų
     ieškojo galimybės išspausdinti šio tomo vertimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -745,6 +947,7 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
     lioriuje, visose devyniose dalyse, atsirado daugybė pa­
     taisų, įklijų — visa tai ir turėjo papildyti antrąjį leidimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

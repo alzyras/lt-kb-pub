@@ -51,10 +51,14 @@ Nenurodyta
 - t-001
   global_id: t-195327
   teiginys: "Atskiras javų valymo įrankis, aprašytas per medžiagą ir veikimą."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177716
-    - c-177717
     - c-177718
+    - c-177717
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -76,6 +80,7 @@ Nenurodyta
     sulinktų nuo grūdų.
   citata_rodoma: "Klastymui parinkta beržinė šluota su plonais lankšČiais ražiukais, kad tie ražiukai varytų varpas, o patys sulinktų nuo grūdų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,6 +102,7 @@ Nenurodyta
     niukus irgi su klastykle suvaro į krūvą.
   citata_rodoma: "Pralėkusius pro grūdus sunkiuosius daiktus ir akmeniukus irgi su klastykle suvaro į krūvą."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,6 +124,7 @@ Nenurodyta
     nereikalinga.
   citata_rodoma: "Su klastykle nuvaro į šalį viską, kas grūduose nereikalinga."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

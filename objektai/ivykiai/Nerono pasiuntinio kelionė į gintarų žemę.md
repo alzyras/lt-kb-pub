@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Neronas pasiuntė savo rūmų kavalierių į gintarų žemę pirkti gintaro, o šis po metų pargabeno į Romą 13 000 svarų gintaro.
+Neronas, rymionų viešpats, paskendęs lepume ir goslume, geisdamąs dar didžiuotis Rymo akivaizdoj įvairia puikybe bei turtais, liepė eržilui savo rūmų, arba kavalieriui, keliauti į gintarų žemę ir jų tenai pirkti kiek gaunant.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201297"></a>
 - t-001
   global_id: t-201297
-  teiginys: "Neronas pasiuntė savo rūmų kavalierių į gintarų žemę pirkti gintaro, o šis po metų pargabeno į Romą 13 000 svarų gintaro."
+  teiginys: "Neronas, rymionų viešpats, paskendęs lepume ir goslume, geisdamąs dar didžiuotis Rymo akivaizdoj įvairia puikybe bei turtais, liepė eržilui savo rūmų, arba kavalieriui, keliauti į gintarų žemę ir jų tenai pirkti kiek gaunant."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184647
 
 ## Citatos
 
 - id: c-184647
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 32"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 32."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug aiškesnę žinią turi tie patys rymionys apie
     tuos kraštus antroj pradžioj pirmojo amžiaus. Nero-
@@ -67,6 +72,7 @@ Nenurodyta
     čiose žibėjo; užvis alvieną stebėdino vienas luitas,
     13 svarų sveriąs1 2.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -67,6 +67,9 @@ Nenurodyta
 - t-001
   global_id: t-55055
   teiginys: "Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55721
 
@@ -74,6 +77,9 @@ Nenurodyta
 - t-002
   global_id: t-55056
   teiginys: "Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157226
 
@@ -81,6 +87,9 @@ Nenurodyta
 - t-003
   global_id: t-55057
   teiginys: "Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų."
+  atnaujinta: "2026-05-31 14:13"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55723
 
@@ -88,6 +97,16 @@ Nenurodyta
 - t-004
   global_id: t-172859
   teiginys: "Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157228
 
@@ -95,6 +114,12 @@ Nenurodyta
 - t-005
   global_id: t-172862
   teiginys: "1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1780 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis."
   pagrindžia:
     - c-157226
 
@@ -102,6 +127,16 @@ Nenurodyta
 - t-006
   global_id: t-172863
   teiginys: "Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-157227
 - susijęs iš [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė.md#claim-t-87043|Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]: Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.
@@ -157,6 +192,7 @@ Nenurodyta
     tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
     707 auksinais ir 12 grašių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,6 +210,7 @@ Nenurodyta
     Collegio sergantiems asmenims, kuriuos vaistininkams rei­
     kia tenebantur be užmokesčio gydyti ir duoti vaistų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +241,7 @@ Nenurodyta
     vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
     sorte krito.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -240,6 +278,7 @@ Nenurodyta
     diena, 2 indiktas.
   citata_rodoma: "A liteho\n236\n\n## Puslapis 253\n\nIII KNYGA\ngaliau Aleksandro laikais Vilnius pirmą kartą pažino gydy­\ntoją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­\nme vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­\njos istorija mums išsaugojo įdomią žinią apie tai, kad \nVytautas 1426 metais, susirūpinęs savo žmonos Julijonos \nliga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­\nti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro \nPauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.\nserebra do mina/ pryszlo 20 tysiacz hry- \nwien i 6 sot hrywien i 50 i osm hryzvien \ni dwa skotcy [Vilniuje, birželio 9-ta \ndiena, 2 indiktas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -265,6 +304,7 @@ Nenurodyta
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
     nebuvo matyti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

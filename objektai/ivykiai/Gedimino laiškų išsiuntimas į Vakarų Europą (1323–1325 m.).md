@@ -56,6 +56,17 @@ Nenurodyta
 - t-001
   global_id: t-05290
   teiginys: "Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Europa: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Gedimino vardu laiškai buvo išsiuntinėti į Vakarų Europą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas siuntė į Europa (0.82)"
   pagrindžia:
     - c-04982
 
@@ -63,6 +74,17 @@ Nenurodyta
 - t-002
   global_id: t-05291
   teiginys: "Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Gedimino siekį sudaryti taiką su Ordinu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas sudarė sutartį su Kryžiuočių ordinas (0.76)"
   pagrindžia:
     - c-04983
 
@@ -70,6 +92,17 @@ Nenurodyta
 - t-003
   global_id: t-05292
   teiginys: "Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas sako, kad Gediminas kvietė amatininkus ir pirklius į Lietuvą; tinkamų kviečiamų grupių kandidatų nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas keliavo į Lietuva (0.62)"
   pagrindžia:
     - c-04984
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
@@ -119,6 +152,7 @@ Nenurodyta
     įvairiems adresatams.
   citata_rodoma: "Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia\nkardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę\nšeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą\nįvairiems adresatams."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +172,7 @@ Nenurodyta
     popiežiaus tarpininkavimo.
   citata_rodoma: "Laiškų pagrindinė\nmintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­\ntetą, žadėjo krikštytis. Tur būt, Gediminas nebuvo tiek daug\nketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.\nGediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė\npopiežiaus tarpininkavimo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +193,7 @@ Nenurodyta
     tytos katalikų bažnyčios.
   citata_rodoma: "Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­\nsius amatininkus, pirklius, paminėdamas ir riterius su valstiečiais.\nKolonistams žadėjo jis daug lengvatų bei privilegijų ir per 10 metų\nnereikalauti iš jų jokių mokesčių. Rašydamas Saksų pranciškonams\nir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,\npažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­\ntytos katalikų bažnyčios."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

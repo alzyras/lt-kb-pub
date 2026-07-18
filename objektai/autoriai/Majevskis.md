@@ -40,6 +40,23 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
 - t-001
   global_id: t-190438
   teiginys: "Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą 1827 m. Varšuvos rinkinyje „Zbior rozpraw“."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Majevskis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Majevskis\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1827 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė išnaša paversta pilnu sakiniu apie Majevskį. Nepridėta turinio, kurio citata nepateikia."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173321
 - susijęs iš Majevskio studija apie Indijos budinų hierarchiją: Narbutas skaitytoją nukreipia į Majevskio studiją apie Indijos budinų hierarchiją, išspausdintą „Zbior rozpraw“ 1827 m.
@@ -76,6 +93,7 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
     jų visiškai negalima pripažinti teisingais.
   citata_rodoma: "5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją\n(Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

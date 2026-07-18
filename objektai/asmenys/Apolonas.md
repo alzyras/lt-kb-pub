@@ -33,6 +33,10 @@ Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo 
 - t-001
   global_id: t-194128
   teiginys: 'Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo su Palemono būriu, pasiėmęs turtą ir penkis šimtus Romos patricijų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Išskleistas Apolono vaidmuo Palemono pasakojime. Kunigaikščio titulas ir legendinis pabėgimas palikti su metraščio atribucija.'
   pagrindžia:
     - c-176741
 
@@ -55,6 +59,7 @@ Lietuvos metraštis Apoloną vadina kunigaikščiu ir pasakoja, kad jis pabėgo 
     Ir išplaukė jis Viduržemio jūra, pasiėmęs su savi­
     mi vieną astronomą, kuris nusivokė apie žvaigždes.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

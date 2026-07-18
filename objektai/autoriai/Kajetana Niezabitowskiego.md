@@ -40,6 +40,16 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 - t-001
   global_id: t-190433
   teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1823 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas sutrumpintas iki rišlaus teiginio apie straipsnį ir autorių. Nepridėta straipsnio turinio, kurio citata nepateikia."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173316
 - susijęs iš [[objektai/autoriai/Kajetonas Niezabitowskis.md#claim-t-190434|Kajetonas Niezabitowskis]]: Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetono Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.
@@ -58,6 +68,7 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
     przez Kajetana Niezabitowskiego H Dziennik Wi-
     lenski. - 1823. - T. II. - S. 157-161.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

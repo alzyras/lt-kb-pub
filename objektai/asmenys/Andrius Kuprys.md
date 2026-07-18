@@ -33,6 +33,13 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
 - t-001
   global_id: t-194105
   teiginys: "Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176718
 
@@ -55,6 +62,7 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
     mums ženklas *8.
   citata_rodoma: "Ir didysis kunigaikštis Kęstutis vėl ėmė verk­\ndamas skųstis savo sūnui, didžiajam kunigaikščiui Vy­\ntautui, dėl kunigaikščio Jogailos: ,,Jis anksčiau mane \ndidžiausiai įskaudino, išleisdamas už vergo mano gimi­\nnaitę, o savo seserį, o dabar — aš žinau — su vokie­\nčiais bičiuliaujasi, sudarė prieš mus sandėrį. Mes štai \njau trečią kartą kariaujame su vokiečiais, o jis su \njais puola Polocką, kuris priklauso mano sūnui, o tavo \nbroliui Andriui Kupriui. Tai jau antras jo priešiškumo \nmums ženklas * 8 ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

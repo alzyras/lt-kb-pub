@@ -51,6 +51,10 @@ Nenurodyta
 - t-001
   global_id: t-194062
   teiginys: 'Lietuvos metraštis pasakoja, kad pas Vytautą viešėjo Zigmantas, Jogaila, Danijos karalius, Perekopo chanas, Riazanės ir Maskvos didieji kunigaikščiai bei kiti svečiai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, o svečių sąrašas sutrauktas į vieną sakinį apie Lucko suvažiavimą. Valdovų titulų vartosena palikta su Lietuvos metraščio atribucija.'
   pagrindžia:
     - c-176675
 
@@ -86,6 +90,7 @@ Nenurodyta
     po šimtą briedžių, neskaitant įvairios kitos žvėrienos
     ir daugelio kitų mėsiškų ir naminių patiekalų2 0 .
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

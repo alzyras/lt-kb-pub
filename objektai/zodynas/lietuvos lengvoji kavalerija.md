@@ -33,6 +33,12 @@ media_all_json: |-
 - t-001
   global_id: t-193810
   teiginys: "115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1- XVIII a., p. 150-151."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176455
 
@@ -50,6 +56,7 @@ media_all_json: |-
     P. 115, „LIETUVOS LENGVOJI KAVALERIJA“, Lietuvos kariuomenė svetimšalių akimis xv1-
     XVIII a., p. 150-151.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189934
   teiginys: 'Narbutas žmonių pagausėjimą ir bendruomenių skaidymąsi laikė svarbiausiomis prigimtinės religijos žlugimo priežastimis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinė interpretacija palikta su Narbuto atribucija. Nepridėta platesnio apeigų sąrašo, nors citata jį mini.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Aurea prima sata ėst aetas|Aurea prima sata ėst aetas]]'
   pagrindžia:
     - c-172817
 
@@ -78,6 +83,7 @@ Nenurodyta
     miantis pradiniais principais, kuriuos filosofai vadino elemen­
     tą mundi -  pasaulio elementais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

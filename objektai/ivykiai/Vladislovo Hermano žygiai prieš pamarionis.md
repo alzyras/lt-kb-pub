@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vladislovas Hermanas rugpjūčio 15 d. prie Racionžo pilies nugalėjo pamarionis ir jų lietuvių talkininkus.
+Pamarionys, mažėdamos savo galybe, patelkė lietuvių gimines.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201352"></a>
 - t-001
   global_id: t-201352
-  teiginys: "Vladislovas Hermanas rugpjūčio 15 d. prie Racionžo pilies nugalėjo pamarionis ir jų lietuvių talkininkus."
+  teiginys: "Pamarionys, mažėdamos savo galybe, patelkė lietuvių gimines."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184702
 
 ## Citatos
 
 - id: c-184702
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 153"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 153."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pamarionys, mažėdamos
     savo galybe, patelkė lietuvių gimines. Susigrūmė
@@ -62,6 +67,7 @@ Nenurodyta
     mies atsiturėti, vėl nusižemino ir Vladislovo pasi­
     ėmė klausyti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

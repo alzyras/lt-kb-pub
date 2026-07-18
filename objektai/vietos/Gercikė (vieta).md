@@ -27,24 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš Visvaldį, žinodami, kad joje dar yra daug gėrybių.
+Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikėj daug gėrybių dar esant, kurių gobėdamos kamendotas Kuoknesės Meinhardas traukė vėl į Gercikę ant Visvaldžio kuni gaikščio, kursai, tą išgirdęs, patelkė lietuvius ir že maičius.
 
 ## Teiginiai
 
 <a id="claim-t-201136"></a>
 - t-001
   global_id: t-201136
-  teiginys: "Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš Visvaldį, žinodami, kad joje dar yra daug gėrybių."
+  teiginys: "Tuo Gercikps grobiu meldžionys nekakinos, kai pogi žinodami vietovėj Gercikėj daug gėrybių dar esant, kurių gobėdamos kamendotas Kuoknesės Meinhardas traukė vėl į Gercikę ant Visvaldžio kuni gaikščio, kursai, tą išgirdęs, patelkė lietuvius ir že maičius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184486
-- susijęs iš [[objektai/ivykiai/Gercikės puolimas ir Visvaldžio palaužimas.md#claim-t-201284|Gercikės puolimas ir Visvaldžio palaužimas]]: Albertas surengė staigų Gercikės puolimą, kurio metu buvo paimta Visvaldžio buveinė, sugauta Dangerutė, o pati pilis sudeginta.
-- susijęs iš [[objektai/ivykiai/Gercikės puolimas ir Visvaldžio palaužimas.md#claim-t-201284|Gercikės puolimas ir Visvaldžio palaužimas]]: Albertas surengė staigų Gercikės puolimą, kurio metu buvo paimta Visvaldžio buveinė, sugauta Dangerutė, o pati pilis sudeginta.
+
 ## Citatos
 
 - id: c-184486
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 223"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 223."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kitoj pusėj meldžionys kariavo su igumiais, kru­
     vinose ir baisiose karėse pjaudamos iki paskuojo.
@@ -58,6 +62,7 @@ Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš 
     nežinodamas, užėmė Gercikę, kurioje sugriejęs di­
     džią daugybę žirgų ir kitų gyvolių, grįžo Rygon.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

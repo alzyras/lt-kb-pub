@@ -40,6 +40,22 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
 - t-001
   global_id: t-186333
   teiginys: "Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Manvydas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Manvydas: mention_match, person, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą\" parinktas kaip owner_note_path. Targetas \"Manvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1412 m.; įvykio data: 1413 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir pašalina citatos OCR triukšmą."
   pagrindžia:
     - c-169694
 
@@ -114,6 +130,7 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
     skatinti nesantaiką.
   citata_rodoma: "Tuo\ntarpu žodiškai pasiuntiniams įsakė kurstyti Vytautą vi­\nsokiausiais pažadais, su kuriais, kaip neabejotinai jų\npadėtyje be galo žalingais, nesutiks lenkai, ir tuo būdu\nskatinti nesantaiką. Po šiai dienai išliko raštiškas to\nklastingumo įrodymas, karalystės archyve saugomas\ndokumentas, patvirtintas paties Vytauto, Vilniaus vys­\nkupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo ­\nno Nemyros parašais.\n1412 m e ta i\nC im b a rk a ,\nV y ta u to\nseserėčia ,\nište k a\nuž\nA u s tr ijo s  e rch erco g o\n3 83\n\n## Puslapis 382\n\n1413 m e ta l\nŠi aplinkybė ir paskatino\nJogailą kitais metais sušaukti\nK araliu s J o g a ila  su-\nabiejų tautų seimą Horodlės\ntik kunigaikščių bei didikų,\nbet ir šiaip bajorų."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

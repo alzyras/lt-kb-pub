@@ -45,6 +45,20 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 - t-001
   global_id: t-42443
   teiginys: "Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazys Ladyga: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Kazio Ladygos judėjimą į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kazys Ladyga keliavo į Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, kuriame demobilizacija aiškiai susieta su Ladygos veikla."
   pagrindžia:
     - c-45509
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės).md#claim-t-20312|Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]: Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.
@@ -79,6 +93,7 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
     1919 m. gegužę paskirtas Ukmergės grupės vadu.
   citata_rodoma: "Paveiksle pavaizduoti\nRadviliškį atakuojantys 1-ojo pėstininkų pulko kariai,\nginkluoti Mosin-Nagant šautuvais\n\n## Puslapis 195\n\nKazys Ladyga (1893-1941)\n\n1914 m. baigė Vilniaus karo mokyklą, dalyvavo\nPirmajame pasauliniame kare, buvo du kartus su-\nžeistas. Baigiantis pasauliniam karui turėjo Rusijos\nkariuomenės kapitono laipsnį. Po demobilizacijos\ngrįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-\nriuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |\nninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |\n1919 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

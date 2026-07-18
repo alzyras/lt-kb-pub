@@ -54,6 +54,11 @@ Nenurodyta
 - t-001
   global_id: t-189922
   teiginys: 'Narbutas spėjo, kad Kovo statulėlė karo metu būdavo nešama ant ieties kariuomenės priešakyje, o taikos metais stovėdavo šventykloje.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys suformuluotas iš Narbuto spėjimo apie statulėlės naudojimą. Neutraliu faktu jo nepateikiau, nes citatoje vartojama tikimybinė interpretacija.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-172805
 
@@ -81,6 +86,7 @@ Nenurodyta
     metu šis stabas būdavo nešamas iškeltas ant ieties smaigalio ka­
     riuomenės priešakyje, o taikos metais stovėdavo šventykloje.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -59,6 +59,16 @@ Nenurodyta
 - t-001
   global_id: t-75278
   teiginys: "Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Sibiras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.): owner_note_path, event"
+  ryšio_targeto_parinkimas: "Sibiras: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)\" parinktas kaip owner_note_path. Targetas \"Sibiras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-23218
 
@@ -66,6 +76,16 @@ Nenurodyta
 - t-002
   global_id: t-75279
   teiginys: "Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> MGB-KGB agentai smogikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.): owner_note_path, event"
+  ryšio_targeto_parinkimas: "MGB-KGB agentai smogikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)\" parinktas kaip owner_note_path. Targetas \"MGB-KGB agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-73109
 
@@ -73,6 +93,23 @@ Nenurodyta
 - t-003
   global_id: t-183275
   teiginys: "Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1944-1954; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1954 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinta vieta, nes citata kalba apie NKVD kariuomenę Lietuvoje."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-166664
 
@@ -102,6 +139,7 @@ Nenurodyta
     čia užkasdavo pelkėse ar šiukšlynuose.
   citata_rodoma: "Represinės instituci-\njos, slopindamos parti-\nzaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių\nšeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę\nprievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse\nmiestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-\nčia užkasdavo pelkėse ar šiukšlynuose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +166,7 @@ Nenurodyta
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -150,6 +189,7 @@ Nenurodyta
     (tarp jų 16 tūkst. lietuvių), nes jie atleisti nuo tarnybos Raudonojoje armi-
     joje, gaudavo algą, aprangą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

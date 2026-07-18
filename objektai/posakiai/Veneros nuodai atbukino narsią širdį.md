@@ -39,6 +39,12 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
 - t-001
   global_id: t-193472
   teiginys: "Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės nė nepajuto, kad Veneros nuodai atbukino narsią širdį, neleisdami pastebėti šitokio negando."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-176173
 
@@ -116,6 +122,7 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
     pasiekti ankstesnio didingumo.
   citata_rodoma: "Tuo tarpu garsusis skitų\nemyras Edigejus, su didžiule kariauna nelauktai įsiver­\nžęs į Rusią, smarkiai nusiaubė\n1416 m eta i\nvisas žemes, kuriomis praėjo,\nbe to, Rusios sostinę Kijevą,\nbe galo turtingą ir garsų viešaisiais pastatais miestą,\ntaip nuniokojo, kad jis vėliau niekada jau nebegalėjo\npasiekti ankstesnio didingumo. Rodėsi, kad karalius Jo­\ngaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės\nnė nepajuto, kad Veneros nuodai atbukino narsią širdį,\nneleisdami pastebėti šitokio negando. Po Onos mirties į\nžmonas jis išsirinko Elžbietą iš Pilčos, bajoro Grano vskio\nnašlę, kuri jau ir anksčiau buvo su juo susieta dvasinės\ngiminystės, nes jos motina krikštijo Jogailą šventuoju\nvandeniu; taigi svajodamas apie naują santuoką, jis\n394\n\n## Puslapis 393\n\nniekuo kitu, rodos, nė ne-\nK araliu s rūpinasi ves-\nsirūpino."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

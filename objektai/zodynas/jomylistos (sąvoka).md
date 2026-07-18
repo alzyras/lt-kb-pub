@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Aldonai keliaujant iš Vilniaus į Krokuvą, lenkų jomylistos jojo priekyje kaip vedliai.
+Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys.
 
 ## Teiginiai
 
-<a id="claim-t-201484"></a>
+<a id="claim-t-201223"></a>
 - t-001
-  global_id: t-201484
-  teiginys: "Aldonai keliaujant iš Vilniaus į Krokuvą, lenkų jomylistos jojo priekyje kaip vedliai."
+  global_id: t-201223
+  teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184834
+    - c-184573
 
 ## Citatos
 
-- id: c-184834
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 553"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
+- id: c-184573
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėjus svodbai, kas gal tą iškilmę aprašyti, su
     kuria Aldona, didžioji kunigaikštaitė Lietuvos, ap­
@@ -54,8 +59,9 @@ Aldonai keliaujant iš Vilniaus į Krokuvą, lenkų jomylistos jojo priekyje kai
     žibantys. Paskui Aldona apmartuota tarp kilties
     žmonų ir mergaičių lenkių ir lietuvių keliavo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201484
+    - t-201223

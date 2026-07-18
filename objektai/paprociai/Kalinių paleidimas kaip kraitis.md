@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Gediminas paleido namo 24 000 arba 40 000 lenkų kalinių kaip savo dukters kraitį.
+Tuos sekė pagal vienus 40 000, pagal kitus raštus 24 000 lenkų kalinių, kuriuos Gediminas namo paleido kai po kraitį savo dukters 1.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -52,16 +52,21 @@ Nenurodyta
 <a id="claim-t-201375"></a>
 - t-001
   global_id: t-201375
-  teiginys: "Daukanto pasakojime Gediminas paleido namo 24 000 arba 40 000 lenkų kalinių kaip savo dukters kraitį."
+  teiginys: "Tuos sekė pagal vienus 40 000, pagal kitus raštus 24 000 lenkų kalinių, kuriuos Gediminas namo paleido kai po kraitį savo dukters 1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184725
 
 ## Citatos
 
 - id: c-184725
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 553"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 553."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Po
     motriškųjų Lietuvos diduomenė jojo, kurios skais­
@@ -80,6 +85,7 @@ Nenurodyta
     kų žemėj rados, kas per džiaugsmas kalinių namo
     keliaujančių!
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

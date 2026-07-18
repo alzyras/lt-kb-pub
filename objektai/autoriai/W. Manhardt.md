@@ -42,6 +42,11 @@ Manhardt, W.
 - t-001
   global_id: t-31070
   teiginys: "W. Manhardt 1936 m. Rygoje išleido „Letto-Preussische Götterlehre“, kuriame buvo surinkti beveik visi šaltiniai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33199
 
@@ -58,6 +63,7 @@ Manhardt, W.
     plg. papild. Z. Ivinskis, rec. LP, I, 1, 1940, 319-322 p.).
   citata_rodoma: "— Manhardt, W. :\n_Letto-Preussische Götterlehre,_ Riga 1936 (surinkti beveik visi šaltiniai;\nplg. papild. Z. Ivinskis, rec. LP, I, 1, 1940, 319-322 p.)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

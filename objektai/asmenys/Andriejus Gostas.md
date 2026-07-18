@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas pasakoja, kad Andriejus Gostas, nužudytos mozūrės jaunikis, prisiekė atkeršyti Lietuvos karvedžiui.
+Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti.
 
 ## Teiginiai
 
-<a id="claim-t-201407"></a>
+<a id="claim-t-201406"></a>
 - t-001
-  global_id: t-201407
-  teiginys: "Daukantas pasakoja, kad Andriejus Gostas, nužudytos mozūrės jaunikis, prisiekė atkeršyti Lietuvos karvedžiui."
+  global_id: t-201406
+  teiginys: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184757
+    - c-184756
 
 ## Citatos
 
-- id: c-184757
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 556"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 556."
+- id: c-184756
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tenai belėbaujant lie­
     tuviams, du vyresniuoju susivaržė didžiai gražia
@@ -53,8 +58,9 @@ Daukantas pasakoja, kad Andriejus Gostas, nužudytos mozūrės jaunikis, prisiek
     lietuvių tardamas norįs jiems algauti ir jų rindose
     kariauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201407
+    - t-201406

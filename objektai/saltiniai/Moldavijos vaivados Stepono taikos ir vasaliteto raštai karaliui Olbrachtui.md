@@ -33,6 +33,13 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 - t-002
   global_id: t-196803
   teiginys: "Lietuvos metraštis pasakoja, kad po Briansko pilies sudegimo maskvėnai užėmė Briansko miestą ir visą kraštą."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178920
 
@@ -40,6 +47,13 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 - t-003
   global_id: t-196804
   teiginys: "Lietuvos metraštis pasakoja, kad Semionas Ivanovičius ir Vasilijus Semiačičius prie Kontovto upės prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-178921
 
@@ -47,6 +61,10 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 - t-001
   global_id: t-194156
   teiginys: 'Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kalnus ir sunkiai pereinamus miškus Lenkijos sienos link.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sutvarkytas nutrūkęs sakinys ir aiškiai įvardytas Olbrachto judėjimas po sutarties. Nepakartotas citatos moralinis Stepono vertinimas, nes šiam teiginiui jo nereikia.'
   pagrindžia:
     - c-176769
 
@@ -77,8 +95,8 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
 
     savo žmonėmis — raiteliais ir pėstininkais.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +126,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
     ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
     Didžiosios Kunigaikštystės valdiniais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,6 +166,7 @@ Sudaręs sutartį karalius Olbrachtas iš Moldavijos traukė per Bukoviną, kaln
     taurą Chreptavičių l6, ir daugelį kitų savo kunigaikščių,
     ir ponų, ir dvarionių, ir bajorų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

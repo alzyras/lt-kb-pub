@@ -49,6 +49,17 @@ Nenurodyta
 - t-001
   global_id: t-62548
   teiginys: "Buvo kanonizuoti šventieji Edmundas, Kenterberio arkivyskupas, Stanislovas iš Krokuvos ir pamokslininkų ordino kankinys Petras."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventųjų Edmundo, Stanislovo ir Petro kanonizavimas: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventųjų Edmundo, Stanislovo ir Petro kanonizavimas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63253
 
@@ -66,6 +77,7 @@ Nenurodyta
     (Ptol. 22,4; Mart. p. 409).
   citata_rodoma: "31. Apie šventųjų Edmundo, Stanislovo ir Petro kanonizavimą\n\n   Taip pat kanonizavo šventą Edmundą, Kenterberio arkivyskupą, šventą Stanislovą,\nKrokuvos, neteisingai valdovo nužudytą, ir šventą Petrą, pamokslininkų ordino kankinį\n(Ptol. 22,4; Mart. p. 409)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,6 +43,20 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - t-001
   global_id: t-87458
   teiginys: "Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Sabina: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus vaito pareigos susijusios su miesto valdymu, bet formuluotė yra pareiginė, todėl pasitikėjimas vidutinis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Stanislovas Sabina valdė miestą Vilnius (0.60)"
+  temporaliniai_duomenys: "įvykio data: 1542 m.; įvykio data: 1584 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per fragmentiškas, o citata palaiko aiškesnį sakinį apie pareigas ir datą."
   pagrindžia:
     - c-83438
 
@@ -50,6 +64,20 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - t-002
   global_id: t-87459
   teiginys: "1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Stanislovas Sabina: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Stanislovas Sabina: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Apskundimas dėl privilegijų pažeidimo rodo aiškų konfliktą tarp Vilniaus pirklių ir Sabinos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus pirkliai buvo priešas Stanislovas Sabina (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą skundą dėl privilegijų pažeidimo."
   pagrindžia:
     - c-83437
 
@@ -100,6 +128,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
     nį, o vaitas atvyko pats.
   citata_rodoma: "149 ir 150, \ndar miesto archyve yra reliacinis ka­\nraliaus Stepono sprendimas: Decre­\ntum relationum Stephani Regis Polo- \nniae inter nonnullos mercatores \nvilnenses et advocatum Vilnensem ex \nseriis partium controversiis anno 1586 \ndie 11 Julii latum, quo festa solemnia \njuxta novum calendarium ab omnibus \nincolis civitatis vilnensis in ea qua par \nest reverentia haberi demandantur [Re­\nliacinis Lenkijos karaliaus Stepono \nsprendimas dėl tarp kai kurių Vil­\nniaus pirklių ir Vilniaus vaito šalių \nrimtų prieštaravimų, išleistas 1586 \nmetų liepos 11 dieną, kuriuo įpras­\ntas šventes pagal naują kalendorių \nįsakoma visiems Vilniaus gyvento­\njams su lygiai tokia pačia pagarba \nšvęsti]; jo turinys yra toks. Graikų ti­\nkėjimo Vilniaus pirkliai apskundė \nkaraliui Stanislovą Sabiną (Sabinus), \ndaktarą ir Vilniaus vaitą, dėl to, kad \njis, pažeisdamas pirkliams skirtas\nprivilegijas, balandžio 7 dieną, pir­\nmadienį, išsiuntė miesto sargybos \nviršininką (Praefectum Lictorum Civi­\ntatis Vilnensis) Jurgį Vižikovskį su \npadėjėjais į mėsines, kur nuo seno \npardavinėdavo įvairias prekes, be \npriežasties sužalojo pirklius ir atėmė \ndaug prekių. Pirkliai reikalą išdėstė \nper įgaliotinius: Eustachijų Sidoro- \nvičių ir Grigalių Čiškovičių, statyti­\nnį, o vaitas atvyko pats."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +149,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
     8.
   citata_rodoma: "Povilas Mieleskis, jo sūnus.\nb) Po Unijos\n7. Stanislovas Sabina, medicinos daktaras, valdė - 1584 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

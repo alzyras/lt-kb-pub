@@ -41,6 +41,20 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 - t-001
   global_id: t-78068
   teiginys: "Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Ėrichas Liudendorfas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Paulius fon Hindenburgas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ėrichas Liudendorfas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Abu generolai kartu vadovavo Oberostui, todėl tiesiogiai palaikomas bendro veikimo ryšys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Paulius fon Hindenburgas buvo sąjungininkas su Ėrichas Liudendorfas (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1915 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį."
   pagrindžia:
     - c-75373
 - susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
@@ -65,6 +79,7 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
     tijos kariuomenės reikalams.
   citata_rodoma: "Vokiečiai Lietuvą laikė \nRusijos okupuota teritorija, tad, 1915 m. frontui stabilizavusis, sudarė \nkarinę administraciją ir pavadino ją Oberostu (nuo Oberbefehlshaber \nOst – Vyriausioji Rytų kariuomenės vadovybė). Jai formaliai vadovavo \ngenerolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas \nLiudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-\ntijos kariuomenės reikalams."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,19 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
 - t-001
   global_id: t-186238
   teiginys: "Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Ivanovičių ir įsakė jį paskandinti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Michaila Ivanovičius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Michaila Ivanovičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Boleslovas paėmė Michailą Ivanovičių į nelaisvę ir įsakė jį paskandinti, todėl tai tiesioginis priešiškas veiksmas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169599
 
@@ -53,6 +66,7 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
     au k što skardžio į ap ačio je te-
     S im onaitį A lšėniškį, šios žem ės v ietin in k ą.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

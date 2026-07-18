@@ -61,6 +61,9 @@ Nenurodyta
 - t-001
   global_id: t-186646
   teiginys: 'Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Patikslintas veiksnys ir kelionės kryptis pagal citatą.'
+  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/dijokas|dijokas]]; mentioned_place: Breslauja; mentioned_place: Gardinas; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-169910
 
@@ -94,6 +97,7 @@ Nenurodyta
     Vasilijus Kulešinas2 3 .
   citata_rodoma: "Paskui atėjo septyni tūkstančiai tretieji metai nuo \npasaulio sutvėrimo, o nuo Kristaus gimimo tūkstantis \nketuri šimtai devyniasdešimt penktieji. Lietuvos didy­\nsis kunigaikštis Aleksandras nusiuntė į Maskvą, pas \ndidįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­\nvežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­\nlioną, Gardino vietininką kunigaikštį Aleksandrą Jur- \njevičių2 0 , Trakų kaštelioną, Polocko vietininką poną \nJurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­\nno\n\n## Puslapis 145\n\nną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­\ntoją poną Fedkų Hrihorovičių.\nJie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­\nną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­\nsiųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano \nVasiljevičiaus: kunigaikštis, vardu Semionas Riapo- \nlovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas \nVasilijus Kulešinas2 3 ."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

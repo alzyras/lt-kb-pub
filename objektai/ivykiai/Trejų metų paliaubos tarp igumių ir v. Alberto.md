@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Igumiai, Daukanto pasakojime vaizduojami iš visų pusių spaudžiami karo, sudarė trejų metų paliaubas su vyskupu Albertu ir sutiko krikštytis.
+Tokioms nelaimoms spaudžiant igumius, Mstisla vas, kunigaikštis Naugardo, įėjo nuo antros pusės su 15 000 kareivių vokyčiams padėti netikėlių ka riauti, kursai, nuteriojęs kraštą igumių, kurio voky čiai nebuvo prigavę, apgulė pilį Varbolę, nuo ku rios įgulės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201347"></a>
 - t-001
   global_id: t-201347
-  teiginys: "Igumiai, Daukanto pasakojime vaizduojami iš visų pusių spaudžiami karo, sudarė trejų metų paliaubas su vyskupu Albertu ir sutiko krikštytis."
+  teiginys: "Tokioms nelaimoms spaudžiant igumius, Mstisla vas, kunigaikštis Naugardo, įėjo nuo antros pusės su 15 000 kareivių vokyčiams padėti netikėlių ka riauti, kursai, nuteriojęs kraštą igumių, kurio voky čiai nebuvo prigavę, apgulė pilį Varbolę, nuo ku rios įgulės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184697
 
 ## Citatos
 
 - id: c-184697
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 219"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 219."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tokioms nelaimoms spaudžiant igumius, Mstisla­
     vas, kunigaikštis Naugardo, įėjo nuo antros pusės
@@ -62,6 +67,7 @@ Nenurodyta
     padarė paliaubas ant trejų metų su v. Albertu ir
     pasiėmė krikštytis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

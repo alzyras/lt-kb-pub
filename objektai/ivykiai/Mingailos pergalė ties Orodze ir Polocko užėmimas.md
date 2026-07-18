@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Mingaila ties Orodze nugalėjo polockiečius, visą dieną vijosi juos iki Polocko ir netrukus paėmė miestą į savo valdžią.
+Susirėmęs tenai Mingaila su po.- lockionimis pergalėjo juos ir vijo mušdamas visą dieną iki paties Polocko, kurį netrukdamas įgijo į savo valdžią.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201293"></a>
 - t-001
   global_id: t-201293
-  teiginys: "Mingaila ties Orodze nugalėjo polockiečius, visą dieną vijosi juos iki Polocko ir netrukus paėmė miestą į savo valdžią."
+  teiginys: "Susirėmęs tenai Mingaila su po.- lockionimis pergalėjo juos ir vijo mušdamas visą dieną iki paties Polocko, kurį netrukdamas įgijo į savo valdžią."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184643
 
 ## Citatos
 
 - id: c-184643
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 231"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 231."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Susirėmęs tenai Mingaila su po.-
     lockionimis pergalėjo juos ir vijo mušdamas visą
@@ -58,6 +63,7 @@ Nenurodyta
     savo valdžią. Taip pasibengė rėdą ūkės polockionų,
     vienok lyčiaus tos karės raštuose nėra randama.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -32,6 +32,13 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
 - t-001
   global_id: t-191611
   teiginys: "Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma „Niesecki Kasper“."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174493
 
@@ -77,6 +84,7 @@ Narbuto teksto išnašoje cituojamas Kasparo Neseckio veikalas, įvardytas forma
     pitibus seu primatibus Russiae cum S. Sede Apost.
   citata_rodoma: "Išnaša, kuria autorius papildė tekstą, rengdamas antrąjį LTI lei­\ndimą (PEĮ. L. 273;'291). Cituojamas Kasparo Neseckio veikalas:\n499\n\n## Puslapis 509\n\nNiesecki Kasper."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

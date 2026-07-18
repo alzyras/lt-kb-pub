@@ -32,6 +32,21 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
 - t-001
   global_id: t-192955
   teiginys: "Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakrančių gyventojais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lygai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lygai apibūdinti kaip Baltijos jūros pietryčių pakrančių gyventojai, todėl galima atsargi gyvenimo vietos sąsaja su Baltija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Lygai gyveno Baltija (0.75)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175725
 - susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
@@ -51,6 +66,7 @@ Teodoras Narbutas lygus siejo su senovės Baltijos jūros pietryčių pakranči�
     1 Lygai apskritai laikomi senovės amžių Baltijos jūros pietryčių
     pakrančių gyventojais (Lelemel. Bad. Geogr. S. 522).
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

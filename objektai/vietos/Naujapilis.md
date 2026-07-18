@@ -43,23 +43,34 @@ media_all_json: |-
 - t-001
   global_id: t-33800
   teiginys: "Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Naujapilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naujapilis\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1380-1381; įvykio data: 1381 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti neaiškų pradžios kontekstą ir paversti teiginį savarankišku sakiniu."
   pagrindžia:
     - c-35029
 
 <a id="claim-t-201088"></a>
 - t-002
   global_id: t-201088
-  teiginys: "Daukanto pasakojime po niokojančio žygio likę gyventojai pasitraukė į Lietuvą ir apsigyveno Naujapilio apygardose."
+  teiginys: "Likusieji, regėda mi netversią, palikini iras ir plėnis savo namų rūs tiems kraugeriams išsidangino į Lietuvą ir Naujapilio apygardose apsigyveno."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184438
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-201027|Skirmantas]]: Po kunigaikščio Mingailos mirties Skirmantas, Daukanto teigimu, buvo paliktas Naujapilio rėdytoju.
-- susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-201016|Mingaila]]: Daukantas rašo, kad netrukus miręs kunigaikštis Mingaila savo sūnus Ginvilą ir Skirmantą paliko atitinkamai Polocko ir Naujapilio valdytojais.
-- susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-201027|Skirmantas]]: Po kunigaikščio Mingailos mirties Skirmantas, Daukanto teigimu, buvo paliktas Naujapilio rėdytoju.
-- susijęs iš [[objektai/asmenys/Treniota.md#claim-t-201039|Treniota]]: Treniota, kurį Daukantas vadina Naujapilio urėdu, sutelkė brolius ir kitus kunigaikščius prieš totorius bei prie Okniaukos puolė Kurdos stovyklą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-200924|Lietuviai]]: Daukantas rašo, kad likusieji, nebegalėdami atsilaikyti, išsidangino į Lietuvą ir apsigyveno Naujapilio apygardose.
-- susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-200995|Heidenreichas (vyskupas, XIII–XIV a.)]]: Daukanto pasakojimu Kulmo vyskupas Heidenreichas vyko į Lietuvą pas Mindaugą ir karūnavimo iškilmėje patepė jį aliejumi.
-- susijęs iš [[objektai/asmenys/Stuklandas (kunigaikštis, XIII a.).md#claim-t-201401|Stuklandas (kunigaikštis, XIII a.)]]: Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną karūną Mintautui, o kitą jo žmonai Martai.
-- susijęs iš [[objektai/grupes/Dominikonai (grupė).md#claim-t-201237|Dominikonai (grupė)]]: Daukanto pasakojime Naujapilyje dominikonams statyta bažnyčia turėjo leisti atėjūnams garbinti Dievą pagal savo paprotį.
 - susijęs iš Ragainė: Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.
 ## Citatos
 
@@ -74,6 +85,7 @@ media_all_json: |-
     3000 žmonių. Tuose kruvinuose 1380—81 metų susirėmimuo­
     se Kęstutis neteko per 4000 žmonių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,9 +93,8 @@ media_all_json: |-
     - t-33800
 
 - id: c-184438
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 446"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 446."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To­
     dėl tą patį rudenį su stipresne kariauna įėjęs antrą
@@ -96,6 +107,7 @@ media_all_json: |-
     Tuo tarpu lietuviai vokyčiams, Kulmijoj gyve­
     nantiems, rūstą dieną darė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

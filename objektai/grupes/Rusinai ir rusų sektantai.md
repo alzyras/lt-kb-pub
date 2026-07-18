@@ -33,6 +33,20 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
 - t-001
   global_id: t-189440
   teiginys: "Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekiojami rusų sentikiai, nepritarę patriarcho Nikono pataisoms."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rusinai ir rusų sektantai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo rusų sentikių persikėlimą į Lietuvą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172327
 
@@ -78,6 +92,7 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
     kėjimą.
   citata_rodoma: "Nuo\namžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas\nmus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš\ntų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos\npatriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu\nbūriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­\nma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­\nrių rusų sektantų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

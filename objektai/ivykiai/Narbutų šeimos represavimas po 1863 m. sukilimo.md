@@ -63,6 +63,21 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
 - t-001
   global_id: t-187970
   teiginys: "Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Šaurų dvaras: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narbutai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šaurų dvaras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claimas nurodo Narbutų šeimos turtą po Šaurų dvaro sekvestravimo; ryšys su dvaru remiamas kontekstu, bet pats priklausymas pasakytas netiesiogiai."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Narbutai priklausė Šaurų dvaras (0.62)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narbutai priklausė Šaurų dvaras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Narbutų šeimos represavimo pasekmes. Citata tiesiogiai patvirtina knygų, archyvų ir muziejaus eksponatų suvežimą į Vilniaus bažnyčią."
   pagrindžia:
     - c-170972
 
@@ -87,6 +102,7 @@ Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T
     ir rankraščius išgabenti.
   citata_rodoma: "Sukilimo slopintojas Michailas Muravjovas norėjo ištrem­\nti į Sibirą visą Narbutų šeimą, bet duktė Teodora ir sūnus Pran­\nciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­\nrėjas 1864 m. lapkričio 26 d. mirė Vilniuje. Rusijos valdžia\nSaurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­\nnatus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­\nma, už rublio mokestį sargas leisdavo ten saugomą biblioteką\nir rankraščius išgabenti."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

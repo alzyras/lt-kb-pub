@@ -45,6 +45,21 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - t-001
   global_id: t-65908
   teiginys: "1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Gulbiniškiai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "MGB: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Gulbiniškiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "MGB operatyvinė karinė grupė apsupo sodybą Gulbiniškių kaime."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "MGB apgulė Gulbiniškiai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1948 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-42862
 
@@ -52,6 +67,19 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - t-002
   global_id: t-65910
   teiginys: "V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dainava: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "MGB: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Dainava: mention_match, place, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MGB\" parinktas kaip owner_note_path. Targetas \"Dainava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė."
   pagrindžia:
     - c-42861
 
@@ -59,6 +87,12 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - t-003
   global_id: t-193557
   teiginys: "Visuotinį šio karo mastą rodo okupantų baudžiamųjų akcijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių."
+  atnaujinta: "2026-07-06 12:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176237
 
@@ -74,6 +108,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     Varnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę.
   citata_rodoma: "V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-\nVarnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,6 +126,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     grupė apsupo kaimo gyventojo sodybą, kurioje slėpėsi 3 partizanai. Negalėdami
     prasiveržti, jie nusišovė. Žuvo ir Antanas Baltūsis-Žvejys (Tauro apygardos vadas).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +146,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     tuvų, 31 minosvaidį, 3 002 kulkosvaidžius, 40 000 automatų, šautuvų ir
     pistoletų, 557 rašomąsias mašinėles ir dauginimo aparatus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

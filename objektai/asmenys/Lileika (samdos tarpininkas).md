@@ -51,6 +51,10 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
 - t-001
   global_id: t-195540
   teiginys: "Lileika pats nebesamdo ir nesipersisamdo, todėl samdymo vakare veikia kaip laisvas tarpininkas."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177957
 
@@ -58,6 +62,10 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
 - t-002
   global_id: t-195541
   teiginys: "Lileika pažadėjo pripiršti Grigorą Jokūbui ir pats nuvedė Grigorą į derybas."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177958
 
@@ -65,6 +73,10 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
 - t-003
   global_id: t-195542
   teiginys: "Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177956
 - susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195546|Jokūbas (samdytojas, XIX a.)]]: Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą.
@@ -85,6 +97,7 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     burnos, atsiprašant, kažin ką.
   citata_rodoma: "O tu, Grigorai, sutikęs, davęs žodį, laikykis, nedaryk iš savo burnos, atsiprašant, kažin ką."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +117,7 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     to rūpesčio.
   citata_rodoma: "Kitas žmogus, Lileika, jis nei samdo nei persisamdo, jis laisvas nuo to rūpesčio."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,6 +137,7 @@ Lileika Kūčių ir šeimynos samdymo scenoje veikia kaip tarpininkas tarp Grigo
     — Aš tave papiršiu Jokūbui, gerai?
   citata_rodoma: "Lileika mato Grigorą ir supranta jo troškulį — tad prieina prie jo ir sako: „Aš tave papiršiu Jokūbui, gerai?“"
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

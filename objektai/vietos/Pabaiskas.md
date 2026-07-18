@@ -47,6 +47,19 @@ media_all_json: |-
 - t-001
   global_id: t-171924
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "mūšio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą mūšio datą ir vietą."
   pagrindžia:
     - c-156384
 
@@ -54,6 +67,16 @@ media_all_json: |-
 - t-002
   global_id: t-171926
   teiginys: "Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-156380
 
@@ -61,6 +84,17 @@ media_all_json: |-
 - t-003
   global_id: t-171927
   teiginys: "Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vaclovas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vaclovas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Vaclovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-156381
 
@@ -68,6 +102,16 @@ media_all_json: |-
 - t-004
   global_id: t-171929
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Pabaiskas: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste statytojas yra Žygimantas, o Pabaiskas yra leidžiamas vietos kandidatas, nors pati bažnyčia nėra atskiras kandidatas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-156379
 
@@ -75,6 +119,16 @@ media_all_json: |-
 - t-005
   global_id: t-171930
   teiginys: "Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kščeniškiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kščeniškiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Kščeniškiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-156380
 
@@ -82,6 +136,16 @@ media_all_json: |-
 - t-006
   global_id: t-171933
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Pabaiskas: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Leidžiamuose kandidatuose nėra bažnyčios objekto; Pabaiskas yra vieta, kurioje Žygimantas pastatė bažnyčią."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-156379
 
@@ -89,6 +153,12 @@ media_all_json: |-
 - t-007
   global_id: t-193778
   teiginys: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176431
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114108|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią.
@@ -118,6 +188,7 @@ media_all_json: |-
     likimui.
   citata_rodoma: "Žygimantas, no­\nrėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus\nnarsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio\nlauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­\ntorija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi\nPabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­\nvos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos\nlikimui."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +220,7 @@ media_all_json: |-
     mylios už Kščeniškių.
   citata_rodoma: "Pabaisko vietovė \nkalvota, tačiau atvira, o ten, kur da­\nbar iškilusi nauja mūrinė bažnyčia, \nnetgi gana graži. Žemė derlinga, \nViktorijos upelis, nors mažas, bet \nvertas gražaus vardo. Pabaiskas yra \nparapijos kaimas, priklausantis vie­\ntiniam klebonui ir nutolęs nuo iš Vil­\nniaus į Ukmergę einančio pašto trak­\nto į kairę per 2 varstus, per pusę \nmylios už Kščeniškių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +251,7 @@ media_all_json: |-
     netgi gana graži.
   citata_rodoma: "22\nPraėjusiais metais aplankę Pabaiską,\nįsitikinome, kad žmonėse dar gyvi\nprisiminimai apie šioje vietoje vyku­\nsį garsų mūšį ir apie ten žuvusį kaž­\nkokį priešų kunigaikštį ar riterį. Kai\nkurie gyventojai, kad gimtosioms\napylinkėms suteiktų daugiau soli­\ndumo, dargi įrodinėja, neišmanyda­\nmi istorijos, kad anuomet ties Pa­\nbaisku galvą padėjęs čekų karalius\nVaclovas ir pan."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,6 +277,7 @@ media_all_json: |-
     stovi Pabaisko parapijos bažnyčia. Kautynės prasidėjo prie
     mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -227,6 +301,7 @@ media_all_json: |-
     riuomenė, ar buvo perėjusi Žirnajos upę
     (kaip teigiama istoriografijoje), nėra aišku.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

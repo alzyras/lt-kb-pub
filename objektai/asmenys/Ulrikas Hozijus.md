@@ -43,6 +43,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-001
   global_id: t-87362
   teiginys: "Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jonas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Jonas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83342
 
@@ -50,6 +60,19 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-002
   global_id: t-87363
   teiginys: "Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citatos sakiniu."
   pagrindžia:
     - c-83346
 
@@ -57,6 +80,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-003
   global_id: t-87364
   teiginys: "Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=43"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83347
 
@@ -64,6 +97,19 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-004
   global_id: t-87365
   teiginys: "1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Iki gyvos galvos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Iki gyvos galvos: mention_match, thing, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Iki gyvos galvos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis."
   pagrindžia:
     - c-83345
 
@@ -71,6 +117,19 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-005
   global_id: t-87366
   teiginys: "1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=66"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas privilegijos antrašte citatoje."
   pagrindžia:
     - c-83341
 
@@ -78,6 +137,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-006
   global_id: t-87367
   teiginys: "Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83344
 
@@ -85,6 +154,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-007
   global_id: t-87368
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilniaus monetų kalykla: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilniaus monetų kalykla: mention_match, place, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulrikas Hozijus\" parinktas kaip owner_note_path. Targetas \"Vilniaus monetų kalykla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83343
 
@@ -92,6 +171,12 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - t-008
   global_id: t-194242
   teiginys: "Tas pats Ulrikas visą laiką iki pat mirties buvo Vil niaus monetų kalyklos prižiūrėtojas."
+  atnaujinta: "2026-07-06 13:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83346
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
@@ -138,6 +223,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     Viešpaties vardu Amen.
   citata_rodoma: "Dalyvaujant \ndidžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­\nkupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­\nniesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos \nDidžiosios Kunigaikštystės rūmų bei kariuomenės maršal­\nkai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­\nlai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­\nvadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios \nKunigaikštystės iždininkui Ivanui Homostajui ir daugeliui \nkitų liudininkų.\nKaralius ŽYGIMANTAS\n\n## Puslapis 402\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO \nPRIVILEGIJA\nDĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU \nPER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA  \nULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS  \nPRIEGLAUDAI (ŠPITOLEI),\nIŠLEISTA\" 1536 METŲ RUGPJŪČIO 6 DIENĄ \nLOTYNŲ KALBA\n(Išrašo iš magistrato knygų vertimas)\nViešpaties vardu Amen."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,6 +244,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties
     statybą užbaigė jo sūnus Jonas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,6 +267,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     tuvos Metrikoje, V knygoje, prie
     1505 metų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,6 +297,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     gant laikui išskaičiavo ir susigrąžino.
   citata_rodoma: "Dvasios bažnyčios, \nkur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­\nti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,\n387\n\n## Puslapis 404\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npatenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą \nVilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir \nišlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam \namžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­\nkestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas, \nnuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­\ngant laikui išskaičiavo ir susigrąžino."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,6 +326,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -303,6 +393,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
     gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -353,6 +444,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: "Kai mes ankstesniais metais svarstėme mūsų LDK val­\ndinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, \nkuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto \npatirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­\nmąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­\ntogumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko \nmus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-\n----• ----\n386\n\n## Puslapis 403\n\nIV KNYGA\nniaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­\nkalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­\ndami ir deramai įvertindami šio garbingo Ulriko Hozijaus \ndorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per \nVilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų, \nkiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­\nmis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles, \nbūtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­\nžiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­\nčiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai \nir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių \nžemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar \nšiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų, \nkuriuos kas nors vežtų parduoti vienu arkliu - denaras arba \nobolas; nuo vieno saiko arba statinės druskos - vienas obo- \nlas, nuo vieno prikrauto prekių vežimo, traukiamo arklio, - \n3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto \nprekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir \nkarvės, kaip ir nuo viso to, kas už upės būtų vedamas ar \nvaromas parduoti, - vienas denaras arba obolas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

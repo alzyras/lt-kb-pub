@@ -40,6 +40,19 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - t-001
   global_id: t-86476
   teiginys: "1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Monetos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "lietuviška moneta ir lenkiški pinigai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Monetos: mention_match, thing, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lietuviška moneta ir lenkiški pinigai\" parinktas kaip owner_note_path. Targetas \"Monetos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo mišrus lotyniškas ir lietuviškas apskaitos fragmentas su OCR triukšmu."
   pagrindžia:
     - c-82457
 
@@ -47,6 +60,19 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - t-002
   global_id: t-86477
   teiginys: "1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "lietuviška moneta ir lenkiški pinigai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lietuviška moneta ir lenkiški pinigai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1570 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie sąrašą ir jo objektą; pašalintas antraščių triukšmas."
   pagrindžia:
     - c-82456
 
@@ -54,6 +80,16 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - t-003
   global_id: t-86478
   teiginys: "Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "lietuviška moneta ir lenkiški pinigai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"lietuviška moneta ir lenkiški pinigai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82455
 
@@ -89,6 +125,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     gale plačiau atlikta ir garantuota.
   citata_rodoma: "—  369-\n(Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)\nŽygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­\nnam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, \npasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­\nvaldinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­\nje vietinėse mūsų Karalystės valstybėse iki šio laiko turėjo, \nmūsų Lietuvos ir Lenkijos ponų tarybų patarimu, įsakėme \npaskelbti, kaip visiems mūsų Karalystės pavaldiniams ben­\ndrai įsakome, kad lietuvišką monetą, su mūsų ir mūsų pro­\ntėvių tikslais nukaldintą jų nuosava ir senąja kaina, tai yra, \ndu lietuvišku grašiu, imtų už pustrečio lenkiško grašio, ta­\nčiau dėl to šį perspėjimą ir sąlygą skelbiame visiems, kad, \nkai šiame seime, pagal bendras Lenkijos karalystės ir Lietu­\nvos Didžiosios Kunigaikštystės privilegijas patvirtinsime, \nvienodai nauja kalykla kaldintų, tuomet tik ta viena kalykla \npinigus kals, visas, kad ir kokios būtų lietuviškos monetos, \nnukaldintos penkiasdešimtais aštuntais iki šešiasdešimt \npenktųjų, dėl jos ir turės veikti šis ediktas, bus laisvai lei­\ndžiama mūsų kalyklai pagal tą pačią kainą pakeisti, tą mo­\nnetą jau mūsų kalėjai pagal tą aprašytą paprotį imti ir naują \nuž ją duoti privalės, kaip visa tai per konstituciją šio seimo \ngale plačiau atlikta ir garantuota."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +156,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
     šius.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,6 +178,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     priedo suma ir išlaidos lietuviškais pin. 144 kapų 54 gr. ir 8
     [den.] sudaro lenkiškais pinigais 362 zl., 12 gr. 2 liet. den.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

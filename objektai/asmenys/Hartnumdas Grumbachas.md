@@ -33,6 +33,11 @@ Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet 
 - t-001
   global_id: t-191277
   teiginys: 'Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet kartu toliaregiškas ir išmintingas žmogus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Hartnumdą Grumbachą ir aiškiai atribuuoja moralinį apibūdinimą Narbutui. Tolimesnės politinės derybos nepridėtos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Kujavija; mentioned_place: Mazovija'
   pagrindžia:
     - c-174159
 
@@ -52,6 +57,7 @@ Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet 
     ru, pagaliau po ilgo delsimo sudarė taikos sutartį su
     Mazovijos Ziemovitu.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

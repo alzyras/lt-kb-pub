@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Brunas, sekęs Vaitiejumi, tapo mūčelnyku, o karalius Boleslovas jo kūną liepė išpirkti Parusnyje ir parvežti į Lenkus.
+Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdamas kūną mūčelnyko atpirkti dėl pajautimo savo namų ir į Lenkus parvežti.
 
 ## Teiginiai
 
 <a id="claim-t-201220"></a>
 - t-001
   global_id: t-201220
-  teiginys: "Daukanto pasakojime Brunas, sekęs Vaitiejumi, tapo mūčelnyku, o karalius Boleslovas jo kūną liepė išpirkti Parusnyje ir parvežti į Lenkus."
+  teiginys: "Išgirdęs tą, vėl Boleslovas karalius siuntė į Parusnį siuntinius, liepdamas kūną mūčelnyko atpirkti dėl pajautimo savo namų ir į Lenkus parvežti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184570
 
 ## Citatos
 
 - id: c-184570
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 140"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 140."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išgirdęs tą, vėl Boleslovas karalius
     siuntė į Parusnį siuntinius, liepdamas kūną mūčel-
@@ -65,6 +70,7 @@ Daukanto pasakojime Brunas, sekęs Vaitiejumi, tapo mūčelnyku, o karalius Bole
     galėtų juos ilgainiui į mokslą Kristaus gudinti ir
     jaukinti, bene liausis tuomi nuo jūros karių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

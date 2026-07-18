@@ -52,6 +52,10 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
 - t-001
   global_id: t-195446
   teiginys: "Pasninko diena nusako ir atitinkamą valgį."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177867
 
@@ -69,6 +73,7 @@ Taisyklės formos formulė apie dienos ir valgio atitikmenį.
     gis.
   citata_rodoma: "Sakoma: kokia diena, toks ir valgis."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

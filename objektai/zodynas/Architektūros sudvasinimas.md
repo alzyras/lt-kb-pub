@@ -30,6 +30,13 @@ Vorobjovas architektūros sudvasinimą šiame portale siejo su vartų architekt�
 - t-001
   global_id: t-200818
   teiginys: "Vorobjovas architektūros sudvasinimą šiame portale siejo su vartų architektūros nudaiktinimu ir sugyvastinimu."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184163
 
@@ -51,6 +58,7 @@ Vorobjovas architektūros sudvasinimą šiame portale siejo su vartų architekt�
     tinės architektūros charakterio: apie vartų paskirtį užsimena nebent tiktai
     glaistytinis šv.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

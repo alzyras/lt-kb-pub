@@ -45,6 +45,19 @@ Nenurodyta
 - t-001
   global_id: t-185825
   teiginys: "Brandenburgo markgrafas su Namiuro ir Henenbergo grafais bei kryžiuočių riteriais apsupo Punios pilį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Punios pilies apgultis ir gynėjų savižūties pasakojimas (pilis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Punios pilies apgultis ir gynėjų savižūties pasakojimas (pilis)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169186
 
@@ -104,6 +117,7 @@ Nenurodyta
     gynėjų skaičiui, ėmė blėsti viltis apginti pilį, ypač dėl
   citata_rodoma: "Brandenburgo markgra­\nfas su Namiuro ir Henenbergo grafais bei kryžiuočių\nriteriais, sutelkę didžiules jėgas, nusiaubė viską, kas\npakeliui pasitaikė, ir apsupo Pulės, arba, teisingiau sa­\nkant, Punios pilį. Joje buvo keturi tūkstančiai karių,\nsubėgusių ten vos išgirdus apie priešą su savo šeimy­\nnomis iš aplinkinių kaimų. Gynėjai ilgai kamavo prie­\nšą, kaudamiesi ne tik prie\nK ry žiu o č ia i\na p su p a\ngynybinio pylimo, bet sėk-\nP u n ios p ilį L ìetu vo -\nmingai išsiverždami pro at-\nje\nvirus vartus ir užpuldami su­\npančiuosius."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

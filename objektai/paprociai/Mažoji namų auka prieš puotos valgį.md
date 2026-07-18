@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-189808
   teiginys: "Narbutas mažąją namų auką aprašo kaip apeigą, kurią prieš kiekvieną puotos valgį atlikdavo namų šeimininkas, šeimos tėvas arba vyriausias dalyvis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172691
 
@@ -88,6 +95,7 @@ Nenurodyta
     indą semia ąsotėliu arba taure.
   citata_rodoma: "1.\nM ažoji auka, kurią atnašaudavo namų šeimininkas, šei­\nmos tėvas arba vyriausiasis iš posėdžio dalyvių. Būdavo atlie­\nkama prieš kiekvieną puotos valgį. Vaišių dalyviams susirin­\nkus prie stalo, aukos atnašautojas atsistodavo pirmojoje vie­\ntoje, tai yra per stalo vidurį, priešais lauko durų slenkstį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

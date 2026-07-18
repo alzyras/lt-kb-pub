@@ -44,6 +44,20 @@ Krašto padalinimas į pavietus ir vaivadijas.
 - t-001
   global_id: t-69428
   teiginys: "Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.52"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nevėžis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje teigiama, kad aptariama sritis buvo Lietuvos dalis, tačiau subjektas nėra visiškai tiksliai Nevėžis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Nevėžis priklausė Lietuva (0.52)"
+  temporaliniai_duomenys: "įvykio data: 1420 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs, bet citata remia aiškų faktą apie vaivadiją."
   pagrindžia:
     - c-32477
 
@@ -66,6 +80,7 @@ Krašto padalinimas į pavietus ir vaivadijas.
     tačiau ir XIII amž. buvo Lietuvos dalis.
   citata_rodoma: "Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį\nŽemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau\ntapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir\nŽemaičių seniūnijos, ilgai išsaugojusios savo politines privilegijas.\nNors Žemaičių kunigaikščiai — dėl savo ypatingos geografinės pa­\ndėties — jau Mindaugo laikais politiškai rodė savarankiškumo,\ntačiau ir XIII amž."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

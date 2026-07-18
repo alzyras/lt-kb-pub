@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1237 m. balandį įvykęs Kalavijonų ir kryžėjų ordinų suvienijimas, pasak Daukanto, kalavijonams nepatiko, nes popiežius Revelį atidavė Danijos valdovui. 1237 m. gegužės 14 d. paskelbta bulė nustatė, kad Padaugavy gyvenantys kalavijonų broliai turi klausyti Rygos vyskupų, o kalavijonų valsčiai turėjo priklausyti kryžėjams.
+Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs. Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,23 +47,34 @@ Nenurodyta
 <a id="claim-t-201269"></a>
 - t-001
   global_id: t-201269
-  teiginys: "1237 m. balandį įvykęs Kalavijonų ir kryžėjų ordinų suvienijimas, pasak Daukanto, kalavijonams nepatiko, nes popiežius Revelį atidavė Danijos valdovui."
+  teiginys: "Grįžtantiems namo kalavijo ninis paskelbė rūmuose ciesoriaus, jog popiežius pi lį Revelio atdavė viešpačiui danų, bet visus kraš tus, iki nuveikiant netikėlius, turi Valdemaras su grąžinti kalavijonims; tas jiems didžiai netiko, ir vienas tarp jų supykęs."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184619
 
 <a id="claim-t-201270"></a>
 - t-002
   global_id: t-201270
-  teiginys: "1237 m. gegužės 14 d. paskelbta bulė nustatė, kad Padaugavy gyvenantys kalavijonų broliai turi klausyti Rygos vyskupų, o kalavijonų valsčiai turėjo priklausyti kryžėjams."
+  teiginys: "Žinoma buvo, kaip vir siaus minavo jau, jog vyskupai Rygos pradžioj kalavijonų brostvą įkūrė, darin visuomet jų valdymierais darės ir nuo paties popiežiaus daug kartų patvirtintais."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184620
 
 ## Citatos
 
 - id: c-184619
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 282"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 282."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip sunėrė du zokanu vokyčių, kuri dingstis
     pervertė visą šiaurę. Grįžtantiems namo kalavijo­
@@ -86,6 +97,7 @@ Nenurodyta
     žėjų, idant tenai pasiteirautų apie reikalus savo zo­
     kano.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,9 +105,8 @@ Nenurodyta
     - t-201269
 
 - id: c-184620
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 283"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 283."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žinoma buvo, kaip
     vir siaus minavo jau, jog vyskupai Rygos pradžioj
@@ -112,6 +123,7 @@ Nenurodyta
     prigulėti kryžeiviams, kurių vienok, kaipo turtų
     bažnyčios, negalėjo nė vienam perleisti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,6 +46,17 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - t-001
   global_id: t-87596
   teiginys: "Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Tverė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) valdė Tverė (0.87)"
   pagrindžia:
     - c-83575
 
@@ -53,6 +64,20 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - t-002
   global_id: t-87597
   teiginys: "1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Tverė: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Titulas tiesiogiai sieja Borisą su Tverės valdymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) valdė Tverė (0.87)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1430 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas."
   pagrindžia:
     - c-83576
 
@@ -60,6 +85,13 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - t-004
   global_id: t-193900
   teiginys: "Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176525
 
@@ -67,6 +99,10 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
 - t-003
   global_id: t-193899
   teiginys: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys sutelktas į Borisą kaip Marijos tėvą ir pašalinti OCR triukšmai. Nepridėta nieko už vedybų, tikėjimo pakeitimo ir vardo suteikimo ribų.'
   pagrindžia:
     - c-176524
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
@@ -98,8 +134,8 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     Polotos upės, pusę mylios aukščiau pilies; trečią —
     Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,6 +176,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: "Tai, ką mūsų kronikininkai kal­\nba apie Švitrigailos žmonos sugavi­\nmą Ašmenoje, esą jis neįstengęs iš­\nsivežti kartu - tai nėra tikslu, nes tais \npat 1432 metais lapkričio 30 dieną \nŠvitrigaila, rašydamas Livonijos ma­\ngistrui, užsimena, kad žmona jam \npagimdžiusi sūnų. Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto \ngalion; nes popiežius Eugenijus IV \nužtarė ją laiške Žygimantui Kęstu- \ntaičiui, rašytame iš Florencijos 1434 \nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių \nmiestiečių17."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,6 +205,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     apdovanojęs ir atsisveikinęs, Didži­
     ąją Kunigaikštystę valdęs 37 metus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -194,6 +232,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     Didžiajame Naugarde ir Pskove.
   citata_rodoma: "Savo įpėdiniu Polocke paliko savo sūnų Borisą\", \nir šis kunigaikštis Borisas prie Berezinos upės įkūrė \nsavo vardo miestą ir pavadino jį Borisovu l2 . Būda­\nmas rusų tikėjimo, buvo labai pamaldus ir pastatydino \nPolocke mūrinę šventosios Sofijos cerkvę l3; antrą —  \nšventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie \nPolotos upės, pusę mylios aukščiau pilies; trečią — \nBoriso ir Glebo cerkvę Belčičių vienuolyne l6 .\nValdydamas Polocką, jis buvo maloningas savo val­\ndiniams ir jiems, savo valdiniams, dovanojo laisvių\n\n## Puslapis 46\n\nbei teisę šaukti viečę, skambinti varpu ir valdytis, kaip \nDidžiajame Naugarde ir Pskove."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

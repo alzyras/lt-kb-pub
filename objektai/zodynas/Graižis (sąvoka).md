@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas graižį aiškino kaip lietuvišką pinigų pavadinimą ir siejo jį su sidabro luito atkapotu gabalu.
+Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skatikas, nauda, manta, arba pi ningai, kiekvienas regi, jog žodžiai nauda, graižis, muštinis, skatikas yra ne svetimi, bet lietuviški.
 
 ## Teiginiai
 
 <a id="claim-t-201216"></a>
 - t-001
   global_id: t-201216
-  teiginys: "Daukantas graižį aiškino kaip lietuvišką pinigų pavadinimą ir siejo jį su sidabro luito atkapotu gabalu."
+  teiginys: "Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skatikas, nauda, manta, arba pi ningai, kiekvienas regi, jog žodžiai nauda, graižis, muštinis, skatikas yra ne svetimi, bet lietuviški."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184566
 
 ## Citatos
 
 - id: c-184566
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 126"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 126."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veizint į žodžius Lietuvos kalbos: graižis, arba
     graižinys, muštinis, skatikas, nauda, manta, arba pi­
@@ -59,6 +64,7 @@ Daukantas graižį aiškino kaip lietuvišką pinigų pavadinimą ir siejo jį s
     paskui pusę svaro. Tas graižis buvo įkapotas, nuo
     ko skaitės tiek ir tiek kapų graižinių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-189794
   teiginys: "Narbutas aukojimo paprotį apibūdina kaip labai įsišaknijusį tarp senovės lietuvių ir susijusį su bendromis dalyvių vaišėmis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172677
 
@@ -67,6 +74,7 @@ Nenurodyta
     vių, tik nežinoma, ar todėl, kad jame dalyvavo visa tauta, ar
     todėl, jog jis buvo savotiškas visuotinis pasilinksminimas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

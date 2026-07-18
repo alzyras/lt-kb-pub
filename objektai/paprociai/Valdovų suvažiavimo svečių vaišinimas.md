@@ -49,6 +49,12 @@ Nenurodyta
 - t-001
   global_id: t-194078
   teiginys: "M Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke savo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta 300 statinių midaus, pagal PS — jau 500 statinių, o BK — net 700 statinių."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176691
 
@@ -92,6 +98,7 @@ Nenurodyta
     (Cervonogradą, Skalą.
   citata_rodoma: "Kiti Lietuvos m etraščių nuorašai ne­\nmini nei Mazovijos kunigaikščio, nei jo atstovų dalyvavimo Lucke.\nM  Gėrimų ir valgių kiekiai, kuriuos Vytautas suvaišino Lucke \nsavo svečiams, Lietuvos metraščiuose vis didinami: pagal TS išgerta \n300 statinių midaus, pagal PS — jau 500 statinių, o  BK — net 700 \nstatinių. Panašiai padidinamas Lucko suvažiavime suvalgytų telyčių, \navinų ir paršų skaičius."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

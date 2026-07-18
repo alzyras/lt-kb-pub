@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Cezario ir Antonijaus valdymo laikais Romos senatoriai pavedė Ksenodokui, Teodotui ir Poliklitui išmatuoti pasaulį; šis darbas, Daukanto pasakojime, truko 32 metus, 1 mėnesį ir 10 dienų.
+Rėdant rymionų ūkę Cezariui bei Antonijui, tė vūnai, arba senatoriai, liepė visą pasaulį numieruoti trims matematikams Ksenodokui, Teodotui ir Poliklitui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201341"></a>
 - t-001
   global_id: t-201341
-  teiginys: "Cezario ir Antonijaus valdymo laikais Romos senatoriai pavedė Ksenodokui, Teodotui ir Poliklitui išmatuoti pasaulį; šis darbas, Daukanto pasakojime, truko 32 metus, 1 mėnesį ir 10 dienų."
+  teiginys: "Rėdant rymionų ūkę Cezariui bei Antonijui, tė vūnai, arba senatoriai, liepė visą pasaulį numieruoti trims matematikams Ksenodokui, Teodotui ir Poliklitui."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184691
 
 ## Citatos
 
 - id: c-184691
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 31"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 31."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rėdant rymionų ūkę Cezariui bei Antonijui, tė­
     vūnai, arba senatoriai, liepė visą pasaulį numieruoti
@@ -60,6 +65,7 @@ Nenurodyta
     ma yra, mieravę, jį 32 metus 1 mėnesį ir 10 dienų;
     raštus to numieravimo sudėję tėvūnai raštinėj.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

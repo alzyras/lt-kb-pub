@@ -41,6 +41,20 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
 - t-001
   global_id: t-191642
   teiginys: "Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la lanąue russe“, išleistą Sankt Peterburge 1811 metais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frid. Adelung: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=102"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frid. Adelung\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174524
 
@@ -83,6 +97,7 @@ Frid. Adelungas parašė veikalą „Rapport entre la lanąue sanscrite et la la
     žvilgsnio reikšti kaimą.
   citata_rodoma: "Sanskrite yra panašus ir panašią reikšmę\nturintis žodis1; jis nesvetimas ir lietuvių kalbai, kurioje\n1\nRapport entre la lanąue sanscrite et la lanąue russe par Frid.\nAdelung.\nS.\nPetersb.,\n1811."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

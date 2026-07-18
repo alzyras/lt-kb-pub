@@ -64,6 +64,20 @@ Nenurodyta
 - t-002
   global_id: t-187516
   teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "gap::items"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Lenkai (0.88); Lietuviai kariavo prieš Lenkai (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-170466
 
@@ -71,6 +85,12 @@ Nenurodyta
 - t-001
   global_id: t-187515
   teiginys: 'Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Severskas; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
   pagrindžia:
     - c-170467
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
@@ -302,8 +322,8 @@ Nenurodyta
     įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
     gininko.
   citata_rodoma: ''
-  statusas: not_found
   teiginio_tipas: faktas
+  statusas: not_found
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,6 +351,7 @@ Nenurodyta
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   citata_rodoma: "L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų \nSąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį \nželigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos \nkariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie \nŠirvintų ir Giedraičių. \nLietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

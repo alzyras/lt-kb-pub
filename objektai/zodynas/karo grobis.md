@@ -34,6 +34,13 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 - t-001
   global_id: t-193808
   teiginys: "Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
   pagrindžia:
     - c-176453
 
@@ -50,6 +57,7 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
     grobį. Dauguma Ordino karių ir jų svečių,
     samdinių žuvo, tik menka dalis paspruko.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

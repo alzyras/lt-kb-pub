@@ -40,6 +40,20 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
 - t-001
   global_id: t-19957
   teiginys: "Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Nepriklausomų Valstybių Sandrauga: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Nepriklausomų Valstybių Sandrauga: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo lietuviškų prekių kryptį į NVS, tai atitinka prekybos ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuva prekiavo su Nepriklausomų Valstybių Sandrauga (0.82); Lietuva prekiavo su Rusija (0.78)"
+  temporaliniai_duomenys: "kelionės data: 1998 m.; kelionės data: 1998-1999; kelionės data: 1999 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata."
   pagrindžia:
     - c-22688
 
@@ -59,6 +73,7 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
     metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
   citata_rodoma: "į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

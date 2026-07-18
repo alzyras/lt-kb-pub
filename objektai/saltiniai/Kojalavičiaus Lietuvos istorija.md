@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad Kojalavičius „Lietuvos istorijoje“ nuo Traidžio iki Gedimino mini vieną Vytenį, o teutonų ir gudų rašytojai nurodo tris kunigaikščius: Vytį, Puteverą ir Vytenį.
+126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris.
 
 ## Teiginiai
 
 <a id="claim-t-201438"></a>
 - t-001
   global_id: t-201438
-  teiginys: "Daukantas rašo, kad Kojalavičius „Lietuvos istorijoje“ nuo Traidžio iki Gedimino mini vieną Vytenį, o teutonų ir gudų rašytojai nurodo tris kunigaikščius: Vytį, Puteverą ir Vytenį."
+  teiginys: "126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184788
 
 ## Citatos
 
 - id: c-184788
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 475"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 475."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     126.)
     Reikia žinoti,- jog yra didis su j augimas vardų
@@ -53,6 +58,7 @@ Daukantas rašo, kad Kojalavičius „Lietuvos istorijoje“ nuo Traidžio iki G
     jo minavojamo daugesniai; bet kokiu smerčiu —
     to nėra žinoma.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

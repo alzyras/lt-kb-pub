@@ -32,6 +32,21 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - t-001
   global_id: t-191631
   teiginys: "Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Uralas: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hunai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Uralas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "„Jų“ tekste nurodo hunus, o lopšys lokalizuojamas Uralo kalnuose."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Hunai gyveno Uralas (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174513
 
@@ -75,6 +90,7 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
     mė; o prie tokių, žinoma, priklauso hunai.
   citata_rodoma: "Turbūt hu­\nnai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­\ndoto vadintos agripėjais; jų lopšys buvo Uralo kalnai.\nKlysta senovės tyrinėtojai, kurie, remdamiesi Priskumi,\nkildina juos iš skitų1. Neva Atilos rūmuose girdėtos gies­\nmės buvusios skitiškos; tai neįrodo, kad hunai buvo\nskitų palikuonys, nes tie Siaurės Azijos vaikai galėjo\nlinksmintis ir dainuodami svetimšalių giesmes taip pat,\nkaip tai daro ir kiti."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

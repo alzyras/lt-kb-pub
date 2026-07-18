@@ -51,6 +51,10 @@ Trumpa juokaujanti formulė apie mėsos valgymą.
 - t-001
   global_id: t-195420
   teiginys: "Į kvietimą prie mėsos atsakoma formule „Prie mėsos reik drąsos“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177841
 
@@ -67,6 +71,7 @@ Trumpa juokaujanti formulė apie mėsos valgymą.
     — Prie mėsos reik drąsos, — sumetė Praniukas.
   citata_rodoma: "— Prašom eit prie mėsos, — pasakė statydama.\n— Prie mėsos reik drąsos, — sumetė Praniukas."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,12 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - t-001
   global_id: t-41203
   teiginys: "1948 m. Alfonsas Smetona-Žygaudas tapo Vyčio apygardos vadu po Jono Krištaponio ir Danieliaus Vitelio-Briedžio žūties."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1944 m.; įvykio data: 1944 m.; įvykio data: 1948 m.; įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą."
   pagrindžia:
     - c-42983
 
@@ -52,6 +58,18 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - t-002
   global_id: t-41204
   teiginys: "1950 m. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Algimanto apygarda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyčio apygarda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Algimanto apygarda: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyčio apygarda\" parinktas kaip owner_note_path. Targetas \"Algimanto apygarda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44873
 
@@ -75,6 +93,7 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
     viams susprogdinus bunkerį žuvo jame
     buvęs Alfonsas Smetona-Žygaudas.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,6 +114,7 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
     rinktinės kovotojai - į Vyčio apygardas.
   citata_rodoma: "1950 m. lapkričio 25 d. srities vado įsakymu\nAlgimanto apygarda buvo panaikinta. Likę\nŠarūno ir Kunigaikščio Margio rinktinių\nkovotojai sujungti į vieną - Tumo Vaižganto\nrinktinę ir įtraukti į Vytauto, o Žaliosios\nrinktinės kovotojai - į Vyčio apygardas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

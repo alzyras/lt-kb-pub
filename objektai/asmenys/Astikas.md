@@ -33,6 +33,20 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - t-001
   global_id: t-186182
   teiginys: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Manvydas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Astikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Astikas sudarė sutartį su Manvydas (0.78)"
   pagrindžia:
     - c-169543
 - susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
@@ -69,6 +83,7 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
     apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
     nosi karaliaus kandidatūrai.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,6 +42,16 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-001
   global_id: t-31046
   teiginys: "V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. T. Pašuto: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. T. Pašuto\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33180
 
@@ -49,6 +59,16 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-002
   global_id: t-31047
   teiginys: "V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. T. Pašuto: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. T. Pašuto\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33181
 - susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
@@ -76,6 +96,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs.
   citata_rodoma: "— Pašuto, V. : _Cho-\nziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq. —\nRadzvilovaitė, E."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +121,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     (^136) **N. I. Daškevič :** **_Političeskije zamyśli Vitovta,_** **Kiivskije Universitets-**
   citata_rodoma: "**\n(^135) **V. T. Pašuto :** **_Obrazovanie litovskogo gosudarstva_** **(išl. Akad. Nauk),\nMaskva 1959, 532 p., su 2 žemei. ; liet. vertimas :** **_Lietuvos valstybės susida­\nrymas,_** **Vilnius 1971, 424 p.; Pašuto su I. Štal parengė knygą** **_Gedimino\nlaiškai,_** **Vilnius 1966 ; žr. P. Rabikauskas :** **_Gedimino laiškai,_** **Aidai, 1968,\n69-71 p.**\n(^136) **N."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

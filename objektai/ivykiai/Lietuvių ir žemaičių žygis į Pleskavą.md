@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime lietuviai ir žemaičiai, pasitelkę Polocko kunigaikštį, puolė Pleskavo apygardas, sudegino Velikije Lūki priemiesčius ir grįžo su grobiu.
+Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191 do, regėdamas, jog su lietuviais nebebus doros, at sidėjęs iš visos galios ketėjo su jais kariauti; kaipogi, susitaręs su kitais gudų kunigaikščiais, traukė ne į Lietuvą, bet į Žemgalius, kurių visą kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201329"></a>
 - t-001
   global_id: t-201329
-  teiginys: "Daukanto pasakojime lietuviai ir žemaičiai, pasitelkę Polocko kunigaikštį, puolė Pleskavo apygardas, sudegino Velikije Lūki priemiesčius ir grįžo su grobiu."
+  teiginys: "Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191 do, regėdamas, jog su lietuviais nebebus doros, at sidėjęs iš visos galios ketėjo su jais kariauti; kaipogi, susitaręs su kitais gudų kunigaikščiais, traukė ne į Lietuvą, bet į Žemgalius, kurių visą kraštą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184679
 
 ## Citatos
 
 - id: c-184679
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 167"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 167."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191
     do, regėdamas, jog su lietuviais nebebus doros, at­
@@ -76,6 +81,7 @@ Nenurodyta
     sukėlęs kareivius žemaičių ir lietuvių, traukė vėl
     į Baltuosius Gudus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

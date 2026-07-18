@@ -41,6 +41,24 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
 - t-001
   global_id: t-190231
   teiginys: "Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, kurią sudarė Trakų pavieto bajorai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Jonas Lenartaitis Kęsgaila: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antspaudas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Jonas Lenartaitis Kęsgaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Antspaudo prispaudimas prie sutarties rodo jo priklausymą Jonui Lenartaičiui Kęsgailai."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Antspaudas priklausė Jonas Lenartaitis Kęsgaila (0.70)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1490 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Antspaudas priklausė Jonas Lenartaitis Kęsgaila“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisytas linksnis ir pašalintas perteklinis antspaudo aprašymas. Nepridėta spėjimo apie Kęsgailų fetišą, nes jis nėra būtinas faktui apie asmenį."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173114
 - susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
@@ -59,6 +77,7 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
     Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
     ziowan, kurį Lasickis priskiria Kęsgailų giminei.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

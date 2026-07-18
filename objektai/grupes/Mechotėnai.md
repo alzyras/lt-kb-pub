@@ -33,6 +33,21 @@ Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje i
 - t-001
   global_id: t-192988
   teiginys: "Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Mituva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mechotėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mituva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo mechotėnų gyvenamą vietą Mituvos apskrities rytinėje dalyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Mechotėnai gyveno Mituva (0.86); Mechotėnai priklausė Žemgaliai (0.86)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-175758
 
@@ -52,6 +67,7 @@ Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje i
     durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
     Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

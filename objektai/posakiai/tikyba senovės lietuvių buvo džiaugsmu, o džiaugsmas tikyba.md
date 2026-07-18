@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas, aptardamas senovės lietuvių šventes, teigė, kad jų tikyba buvo susijusi su džiaugsmu, o džiaugsmas – su tikyba.
+Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsmu, o džiaugsmas tikyba.
 
 ## Teiginiai
 
-<a id="claim-t-201506"></a>
+<a id="claim-t-201261"></a>
 - t-001
-  global_id: t-201506
-  teiginys: "Daukantas, aptardamas senovės lietuvių šventes, teigė, kad jų tikyba buvo susijusi su džiaugsmu, o džiaugsmas – su tikyba."
+  global_id: t-201261
+  teiginys: "Teisingai taria išmintingas vyras, jog tikyba senovės lietuvių buvo džiaugsmu, o džiaugsmas tikyba."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184856
-- susijęs iš [[objektai/paprociai/Senovės lietuvių dievų šventės pagal metų laikus.md#claim-t-201468|Senovės lietuvių dievų šventės pagal metų laikus]]: Daukantas vaizduoja, kad lietuviai, kalnėnai ir žemaičiai nuo neatmenamų laikų garbino savo dievus, o jų šventės buvo susietos su metų laikais ir linksmybėmis.
+    - c-184611
+
 ## Citatos
 
-- id: c-184856
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 141"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 141."
+- id: c-184611
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pačios šven­
     tės tų dievų buvo su metų laikais ir jų linksmybė­
@@ -55,8 +60,9 @@ Daukantas, aptardamas senovės lietuvių šventes, teigė, kad jų tikyba buvo s
     svieto, kursai, pagal nuomonę netikėlių, savęs ro­
     dęsis jiems negalėjęs apginti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201506
+    - t-201261

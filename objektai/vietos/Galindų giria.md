@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Grįžtančius lietuvius Galindų girioje pasivijo Kulmo komtūras Sakas, atėmė grobį ir išblaškė jų būrį.
+Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė.
 
 ## Teiginiai
 
 <a id="claim-t-201159"></a>
 - t-001
   global_id: t-201159
-  teiginys: "Grįžtančius lietuvius Galindų girioje pasivijo Kulmo komtūras Sakas, atėmė grobį ir išblaškė jų būrį."
+  teiginys: "Vienok grįžtant lietuviams kamendo-tas Kulmo Sak, panokęs juos Galindų girioj, ne vien grobį iškratė, bet ir pačius išblaškė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184509
 
 ## Citatos
 
 - id: c-184509
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 492"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 492."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienok tuo žygiu maž
     ką kryžėjai telaimėjo, kaipogi minavotas kamendo-
@@ -52,6 +57,7 @@ Grįžtančius lietuvius Galindų girioje pasivijo Kulmo komtūras Sakas, atėm�
     mendo-tas Kulmo Sak, panokęs juos Galindų girioj,
     ne vien grobį iškratė, bet ir pačius išblaškė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

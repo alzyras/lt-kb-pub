@@ -34,6 +34,13 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
 - t-001
   global_id: t-194767
   teiginys: "Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką: lai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko miestas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177163
 
@@ -84,6 +91,7 @@ Prie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu je, reikia prid�
     do, nieko naujo nepasako.
   citata_rodoma: "II priedas\nApie N erčios upę\nPapildymas apie ypatumą visų kraštų vandenų pavadini­\nmo, kurio etimologiją išreiškia skiemuo N  ar, Nėr, Nor, Nur.\nPrie to, ką pasakėme anksčiau, pirmajame šios knygos skyriu­\nje, reikia pridėti dar vieną, pastebėtą jau išspausdinus lanką:\nlai Nerčia (Nercz), Rytų Sibiro upė, prie kurios yra Nerčinsko\nmiestas. Taigi dabar jau neliko nė vienos žinomo pasaulio da­\nlies, kurioje nebūtų upėvardžio, turinčio panašią etimologiją."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

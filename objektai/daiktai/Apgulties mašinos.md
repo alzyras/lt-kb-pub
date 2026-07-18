@@ -64,6 +64,20 @@ Nenurodyta
 - t-001
   global_id: t-179463
   teiginys: "1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Daugpilis: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Traidenis (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Daugpilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo nesėkmingą Traidenio Daugpilio apgulimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Traidenis (valdovas, XIII a.) apgulė Daugpilis (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1278 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė citata neatitinka pateikto teiginio, bet remia aiškų faktą apie apgulties mašinas."
   pagrindžia:
     - c-163160
 
@@ -82,6 +96,7 @@ Nenurodyta
     šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
   citata_rodoma: "Po nepasise­\nkusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­\nšinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

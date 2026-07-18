@@ -54,6 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-62237
   teiginys: "1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir OCR triukšmas; teiginys suformuluotas kaip pilnas faktas."
   pagrindžia:
     - c-62737
 
@@ -61,6 +68,12 @@ Nenurodyta
 - t-002
   global_id: t-194382
   teiginys: "Apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-62737
 
@@ -79,6 +92,7 @@ Nenurodyta
     29.
   citata_rodoma: "Apie didįjį saulės užtemimą\n\n  Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net\nžvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37).\n\n29."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

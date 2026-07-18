@@ -35,6 +35,16 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
 - t-001
   global_id: t-35060
   teiginys: "Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Enejas Silvijus Picolomini: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Enejas Silvijus Picolomini\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38009
 
@@ -56,6 +66,7 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
     o vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi.
   citata_rodoma: "Krašto viduje jis tapo absoliutišku\nvaldovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,\nkaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka\ntaip pat buvo didžiausia. Prieš jį drebėjo visi Europos rytai,\nMaskvos kunigaikštis titulavo jį savo globėju ir protektoriumi,\no vakarai su pagarba jį vadino čekų viešpačiu ir karaliumi."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

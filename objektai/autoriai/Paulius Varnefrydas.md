@@ -33,6 +33,13 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
 - t-001
   global_id: t-194845
   teiginys: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177241
 
@@ -52,6 +59,7 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
     drobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai,
     kaip liudija Petras Dusburgietis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

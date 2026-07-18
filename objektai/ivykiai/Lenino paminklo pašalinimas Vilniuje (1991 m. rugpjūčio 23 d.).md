@@ -55,6 +55,17 @@ Nenurodyta
 - t-001
   global_id: t-24531
   teiginys: "Vilniuje buvo pašalintas Lenino paminklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenino paminklas Vilniuje: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Paminklo buvimo ir pašalinimo vieta tiesiogiai nurodyta Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lenino paminklas Vilniuje priklausė Vilnius (0.70)"
   pagrindžia:
     - c-25401
 
@@ -76,6 +87,7 @@ Nenurodyta
     Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: "Pakviesti \nį tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug \nambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio \nentuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus \nVakarų diplomatų epitetą „Baltic Kindergarten“… \nVilniuje pašalinamas Lenino paminklas.  \n1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

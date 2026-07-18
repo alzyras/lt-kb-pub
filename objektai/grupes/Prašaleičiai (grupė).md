@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas priekaištauja prašaleičiams, kurie, jo aiškinimu, dėl Lietuvos kalbos neišmanymo kaltino lietuvius ir žemaičius perkūniją garbinus kaip Dievą.
+Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija.
 
 ## Teiginiai
 
 <a id="claim-t-201253"></a>
 - t-001
   global_id: t-201253
-  teiginys: "Daukantas priekaištauja prašaleičiams, kurie, jo aiškinimu, dėl Lietuvos kalbos neišmanymo kaltino lietuvius ir žemaičius perkūniją garbinus kaip Dievą."
+  teiginys: "Oi Titi, Titi!\" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184603
 
 ## Citatos
 
 - id: c-184603
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 100"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 100."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Oi Titi, Titi!"
     Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai
@@ -58,6 +63,7 @@ Daukantas priekaištauja prašaleičiams, kurie, jo aiškinimu, dėl Lietuvos ka
     se saldaus atilsio, o už nedorybę amžinos karonės
     pekloj vylės.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

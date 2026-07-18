@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-88027
   teiginys: "Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lindenblattas Joannes von der Pusilie: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=103"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lindenblattas Joannes von der Pusilie\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84008
 
@@ -40,6 +50,16 @@ media_all_json: |-
 - t-002
   global_id: t-88028
   teiginys: "Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lindenblattas Joannes von der Pusilie: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Augustinas: mention_match, person, gap=59"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lindenblattas Joannes von der Pusilie\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84007
 
@@ -47,6 +67,16 @@ media_all_json: |-
 - t-003
   global_id: t-88029
   teiginys: "Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lindenblattas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lindenblattas Joannes von der Pusilie: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lindenblattas: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lindenblattas Joannes von der Pusilie\" parinktas kaip owner_note_path. Targetas \"Lindenblattas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84006
 
@@ -63,6 +93,7 @@ media_all_json: |-
     id. ibid., p. 82 ir 76, tačiau tai kelia
     abejonių.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,6 +112,7 @@ media_all_json: |-
     yra, rugpjūčio 28-ą, o priartėta prie
     Vilniaus buvo rugsėjo 4-ą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,6 +150,7 @@ media_all_json: |-
     būtų nedvejoti.
   citata_rodoma: "Kryžiuočiai, Kauno keliu \npriėję slėnį, kuriame andai būta miesto, įsirengė stovyklą jo \ndegėsių vietoje, palei aukštą statinių tvorą, juosusią miestą - \nnetoli nuo Švč. Mergelės Marijos bažnyčios Smėlynėje ir pran­\nciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­\nsiruošusias tvirtoves, antra, numanydami, jog bus neįma-\n43\nLindenblatto kronikoje yra -\nBoparthen, pagal panašų skambėji­\nmą, regis, tarsi būtų Paparčiai (Po- \nporcie) - kaimas Trakų paviete, ta­\nčiau, atsižvelgus į kryžiuočių \nkariaunos žygiuotės kryptį ir į tai, \nką apie tai Lindeblattas kronikos pa­\nstabose kalba (Boparthen ist nach der \ngeographischen Lage (in Urkunden) das \njetszige Bobie, nordwestlich von Kow­\nno) p. 82, dėl to pavadinimo galima \nbūtų nedvejoti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

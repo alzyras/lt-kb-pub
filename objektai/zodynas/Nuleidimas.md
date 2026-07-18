@@ -33,6 +33,20 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
 - t-001
   global_id: t-189317
   teiginys: "Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjimo apeigas, kurias šeimininkas atlikdavo Ragutienės garbei."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nuleidimas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nuleidimas\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172204
 
@@ -85,6 +99,7 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
     pagal tos tautos apeigas vyko ir vestuvės.
   citata_rodoma: "347\n\n## Puslapis 347\n\nmyn, kaip tai darė kitos tautos amžininkės, o atgal. Vis dėlto\nLasickis mums paliko pirmos alaus statinės pradėjimo apeigų\naprašymą, nors nedaug vertą, bet praleisti jį, kaip senovės pa­\nminklą, nederėtų. Kai išvirtą alų pastatydavo rūsyje ir ketin­\ndavo pradėti jį gerti, namų šeimininkas, pritekinęs indą iš pir­\nmos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-\nmas), deivės Ragutienės garbei."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

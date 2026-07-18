@@ -32,6 +32,19 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
 - t-001
   global_id: t-186337
   teiginys: "Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ivanas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169698
 
@@ -86,6 +99,7 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
     tė visus maskvėnų sumanymus.
   citata_rodoma: "Maskvėnai dėl to pasijuto\nsmarkiai užgauti, ir Jakovas Zachariničius Ivano var­\ndu pareiškė skundą, į kurį laišku atsakė lietuvių se­\nnatas. Esą dėl to, kad pasiuntiniai nevykstą į Maskvą,\nniekas nekaltas — nei didysis kunigaikštis Aleksand­\nras, nei jie. Netikėtai mirus Lenkijos karaliui, Alek­\nsandras, kamuojamas visokiausių rūpesčių, nieku būdu\nnegalėjęs paisyti susitarimų. Kai užimsiąs brolio sostą,\ntikrai išleisiąs į kelią pasiuntinius, kurie vienaip ar\nkitaip susitarsią dėl pastovios taikos, tuo tarpu Ivanas\nturėtų nutraukti karo veiksmus, naujomis skriaudomis\nneužkirsdamas kelio galimam taikos susitarimui."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

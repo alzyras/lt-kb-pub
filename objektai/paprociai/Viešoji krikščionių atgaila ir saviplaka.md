@@ -53,6 +53,17 @@ Nenurodyta
 - t-001
   global_id: t-62724
   teiginys: "Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Geyseler: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viešoji krikščionių atgaila ir saviplaka: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Geyseler: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešoji krikščionių atgaila ir saviplaka\" parinktas kaip owner_note_path. Targetas \"Geyseler\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63488
     - c-63489
@@ -61,6 +72,17 @@ Nenurodyta
 - t-002
   global_id: t-62725
   teiginys: "Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Viešoji krikščionių atgaila ir saviplaka: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešoji krikščionių atgaila ir saviplaka\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-63490
 
@@ -81,6 +103,7 @@ Nenurodyta
                               5.
   citata_rodoma: "4. Apie viešąją krikščionių atgailą\n\n  To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o\nkadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].\n\n\n\n                          5."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +125,7 @@ Nenurodyta
     namų ordino vienuolio apsiaustą.
   citata_rodoma: "Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai\nsavo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis\nkiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną\nbei Ditrichą kamavo panašios mintys, nuėjo su jais basomis ir su ašutinėmis  į švento\nMikalojaus  koplyčią Gladbache, tikėdamasis, jog ten dievas  patarsiąs, ką  daryti.\nAukščiausiojo ten įkvėptas, su keliais iš savo šeimynos  jis kreipėsi  į jo šventenybę\npopiežių, kuriam ir išpažino visas savo nuodėmes. Popiežius jam paliepė užsivilkti Teutonų\nnamų ordino vienuolio apsiaustą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,6 +146,7 @@ Nenurodyta
     Šitaip brolis Konradas palinko į Teutonų namų ordiną.
   citata_rodoma: "Kai dar buvo pasaulietis, jis\nkartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė\natgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame\nmieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o\nrykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.\nVis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.\nŠitaip brolis Konradas palinko  į Teutonų namų ordiną."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

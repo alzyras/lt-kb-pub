@@ -27,30 +27,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristijono sumanymą Payslyje įkurti panašią bendriją naujai bažnyčiai ir Konrado ūkei gelbėti. Daukantas zokanyku kryžėju vadina kryžėją ir pasakoja, kad Aleksandras IV liepė iškeikti visus kryžėją skriaudusius ar užpuolusius asmenis.
+Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti. Nekakinos Aleksandras IV padauginęs jų skaitlių, bet dar norėjo juos pagodinti, iškeikdamas visus tuos, kurie drįstų zokanyką kryžėją abydyti ar už tikti.
 
 ## Teiginiai
 
 <a id="claim-t-201195"></a>
 - t-001
   global_id: t-201195
-  teiginys: "Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristijono sumanymą Payslyje įkurti panašią bendriją naujai bažnyčiai ir Konrado ūkei gelbėti."
+  teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184545
 
 <a id="claim-t-201196"></a>
 - t-002
   global_id: t-201196
-  teiginys: "Daukantas zokanyku kryžėju vadina kryžėją ir pasakoja, kad Aleksandras IV liepė iškeikti visus kryžėją skriaudusius ar užpuolusius asmenis."
+  teiginys: "Nekakinos Aleksandras IV padauginęs jų skaitlių, bet dar norėjo juos pagodinti, iškeikdamas visus tuos, kurie drįstų zokanyką kryžėją abydyti ar už tikti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184546
 
 ## Citatos
 
 - id: c-184545
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 249"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­
@@ -61,6 +72,7 @@ Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristij
     Konrado, kursai su didžiausiu džiaugsmu pasiėmė
     tokį jo ketėjimą steigti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,9 +80,8 @@ Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristij
     - t-201195
 
 - id: c-184546
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 368"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 368."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įstatė, jog kry-
     žėjai vienos valdžios savo mistro ir kapitulos te­
@@ -84,6 +95,7 @@ Daukantas žodį „zokanas“ gretina su „brostva“, rašydamas apie Kristij
     tuos, kurie nuo jų muito ar kito kokio mokesnio
     reikalautų1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

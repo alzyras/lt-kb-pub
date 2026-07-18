@@ -41,6 +41,12 @@ Dusburgietis teigia, kad miškinis A.
 - t-001
   global_id: t-61183
   teiginys: "A. Miškinio straipsnis „Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos“ paskelbtas 1979 m. „Architektūros paminkluose“."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1979 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia teigti publikavimo vietą ir metus."
   pagrindžia:
     - c-61815
 
@@ -54,6 +60,7 @@ Dusburgietis teigia, kad miškinis A.
     Miškinis A. Klaipėdos genezė ir urbanistinė raida iki XVII a. pabaigos.—Architektūros
     paminklai, V., 1979, 5, p. 19—36.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -55,6 +55,10 @@ Terminas vartojamas kaip laukiamas apeiginės situacijos pasakymas.
 - t-001
   global_id: t-195470
   teiginys: "Oracija šiame šaltinyje reiškia iškilmingą ar apeiginį sakymą."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177891
 
@@ -73,6 +77,7 @@ Terminas vartojamas kaip laukiamas apeiginės situacijos pasakymas.
     Tuo sykiu oracijos nebuvo.
   citata_rodoma: "Tuo sykiu oracijos nebuvo"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

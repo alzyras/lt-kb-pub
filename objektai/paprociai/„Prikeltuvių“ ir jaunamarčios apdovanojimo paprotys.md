@@ -64,6 +64,10 @@ Nenurodyta
 - t-001
   global_id: t-195384
   teiginys: "Per prikeltuves svočia perrengdavo jaunamarčią ištekėjusios moters aprėdu."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177801
 
@@ -71,6 +75,10 @@ Nenurodyta
 - t-002
   global_id: t-195385
   teiginys: "Per prikeltuves jaunamarčia turėdavo apdovanoti vyro šeimą, brolius, griežikus ir kitus dalyvius savo rankų gaminiais."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177804
 
@@ -78,6 +86,10 @@ Nenurodyta
 - t-003
   global_id: t-195386
   teiginys: "Tuo baigdavosi svočios pietūs."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177803
 
@@ -85,6 +97,10 @@ Nenurodyta
 - t-004
   global_id: t-195387
   teiginys: "Po prikeltuvių griežikai apeidavo užstalę, o svečiai jiems duodavo pinigų."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177802
 
@@ -110,6 +126,7 @@ Nenurodyta
     tais čipkaus kvoldeliais.
   citata_rodoma: "Kaip „anoje šalyje“ piršlys buvo pirmas, taip dabar čia svočia: turi suruošti vadinamas „prikeltuves“ . Svočia prašo į svirną jau- namarčią ir jos naujus šeimininkus, griežikai ir jaunimas patys atei- na. Ji aprėdo jaunamarčios galvą jau nebe kaspinu ir rūtų vainiku, bet ištekėjusios moters aprėdu. Veidas jos pusračiu apsuptas bal- tais čipkaus kvoldeliais."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,6 +150,7 @@ Nenurodyta
     neaplenkdami nė vieno.
   citata_rodoma: "Svodbininkai — jaunįmas, vyravęs „anoje šalyje“ , dabar užima prie stalo antraeilę vietą, toliau nuo kertės. Griežikai griežia „vinčavo- nę“ ; vadinasi, atsikėlę nuo suolų ir atsikreipdami skyrium į kiekvie- ną svečią, sėdintį už stalo, linktelėja galvą ir pagriežia bent pusę mi- nutės. Svečias duoda jam pinigą, gana kapeikos; didžiausias davinys — penkios kapeikos. Taip apeina visus svečius, sėdinčius užstalėje, neaplenkdami nė vieno."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,6 +170,7 @@ Nenurodyta
     piršlio korimas dėl melagystės.
   citata_rodoma: "Tuo baigiasi svočios pietūs. Lieka neprivalomas piršlio korimas dėl melagystės."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,6 +202,7 @@ Nenurodyta
     į paprotį, dovanoms.
   citata_rodoma: "Atėjo sunki valanda jaunamarčiai: ji turi apdovanoti daugelį žmonių savo rankų gaminiais. Ji apdovanoja anytą, vyro motiną, duodamą jai apsiaustą ir sijoną, vadinasi, aprėdo visą. Uošviui, vy- ro tėvui, duoda ar pasiūtą apsiaustą, ar tik medžiagą apsiaustui; mošėms, vyro seserims, ir dieveriams, vyro broliams, duoda po dro- bės stuomenį; du kraičvežiu jau apdovanoti. Šiandien visiems bro- liams ir griežikams tenka po rankšluostį, o piršliui stuomuo. Reikėjo būti ar turtingai, ar ilgai pamergavusiai, kad ištekti šioms, įėjusioms į paprotį, dovanoms."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

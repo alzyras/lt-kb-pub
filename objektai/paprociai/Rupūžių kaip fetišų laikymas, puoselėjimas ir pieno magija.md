@@ -49,6 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-189809
   teiginys: "Narbutas rupūžę vadino garsiu fetišu ir rašė, kad rupūžės laikytos prie šventyklų bei kai kuriuose namuose ypač gerbtos."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172692
 
@@ -66,6 +73,7 @@ Nenurodyta
     sakomą pasibjaurėjimą. Ji taip pat leidžiasi prijaukinama ir
     taip pripranta, kad ją galima išmokyti kai kurių judesių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

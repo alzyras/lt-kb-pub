@@ -33,6 +33,19 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 - t-001
   global_id: t-186262
   teiginys: "Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaitiekus Kiočka: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Kiočka\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169623
 
@@ -40,6 +53,12 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
 - t-002
   global_id: t-196614
   teiginys: "Vaitiekus Kiočka neįstengė sugrąžinti didikų atgal prie karaliaus."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169623
 
@@ -105,6 +124,7 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
     zmos, kurios atkakliai laikėsi Seversko didikai.
   citata_rodoma: "K as be ko, sunki bausmė, bet ir ji neįsten­\ngė sugrąžinti didikų atgal prie karaliaus. Įžeistos širdys \nvisur pradėjo matyti įžeidinėjimą ir godžiai klausytis \ntų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų \nLietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­\nm ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­\nmo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir \npradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­\ngai skųstis, jog, juos priimant, buvęs užgautas jų oru­\nmas."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

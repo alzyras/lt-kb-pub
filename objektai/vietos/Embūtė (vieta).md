@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Prie Embūtės pilies, kaip pasakoja Daukantas, Mintautas, surinkęs stiprią kariuomenę, susirėmė su kalavijoniais.
+Ištiko į aiškią mūšą ties pilė Embūte.
 
 ## Teiginiai
 
-<a id="claim-t-201512"></a>
+<a id="claim-t-201158"></a>
 - t-001
-  global_id: t-201512
-  teiginys: "Prie Embūtės pilies, kaip pasakoja Daukantas, Mintautas, surinkęs stiprią kariuomenę, susirėmė su kalavijoniais."
+  global_id: t-201158
+  teiginys: "Ištiko į aiškią mūšą ties pilė Embūte."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184862
+    - c-184508
 
 ## Citatos
 
-- id: c-184862
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 331"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 331."
+- id: c-184508
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mintautas, paklausęs siuntinių, sukėlė stiprią ka­
     riauną ir traukė ant kalavijonų, lėbaujančių Žem­
@@ -54,8 +59,9 @@ Prie Embūtės pilies, kaip pasakoja Daukantas, Mintautas, surinkęs stiprią ka
     šūsnys gulėjo, dar negalėjo žinoti, katrie katruos
     pergalės.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201512
+    - t-201158

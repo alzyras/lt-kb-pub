@@ -9,6 +9,8 @@ const markdown = `# Objektas
 - id: t-001
   global_id: t-00042
   teiginys: Testinis teiginys
+  atnaujinta: 2026-07-18 12:34
+  saltinio_vieta: 120-156; hash=technical-only; match=exact
   sudarymo_pagrindimas: Teiginys performuluotas taip, kad aiškiai įvardytų subjektą ir kontekstą.
   susije_objektai: subject: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; location: [[objektai/vietos/Trakai|Trakai]]
   semantiniai_rysiai: [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją [[objektai/vietos/Trakai|Trakai]]
@@ -70,7 +72,10 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /aria-controls="claim-evidence-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
-    assert.match(transformed, /data-citation-source-ids="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
+    assert.match(
+      transformed,
+      /data-citation-source-ids="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/,
+    )
     assert.match(transformed, /data-claim-detail="t-00042"/)
     assert.match(transformed, /id="claim-evidence-t-00042"/)
     assert.match(transformed, /data-claim-citation-id="c-001"/)
@@ -79,7 +84,10 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /<strong>Autorius:<\/strong> Zenonas Ivinskis/)
     assert.match(transformed, /<strong>Redaktorius:<\/strong> Test Redaktorius/)
     assert.match(transformed, /claim-citation-source/)
-    assert.match(transformed, /<strong>Šaltinis:<\/strong> Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties/)
+    assert.match(
+      transformed,
+      /<strong>Šaltinis:<\/strong> Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties/,
+    )
     assert.match(transformed, /data-claim-evidence-summary="true"/)
     assert.match(transformed, /Patikimumas/)
     assert.match(transformed, /claim-evidence-reliability-high/)
@@ -104,8 +112,10 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(claimDetailRegion, /claim-technical-audit/)
     assert.match(claimDetailRegion, /claim_technical_fields/)
     assert.match(transformed, /Teiginio sudarymas/)
-    assert.match(transformed, /Viešas ID/)
-    assert.match(transformed, /Originalus lokalus ID/)
+    assert.doesNotMatch(transformed, /Viešas ID|Originalus lokalus ID|Globalus ID/)
+    assert.doesNotMatch(transformed, /technical-only|quote_start|quote_end|saltinio_vieta/)
+    assert.match(transformed, /Paskutinis atnaujinimas/)
+    assert.match(transformed, /advanced-field-help/)
     assert.match(transformed, /Susiję objektai/)
     assert.match(transformed, /Ryšiai/)
     assert.match(transformed, /Laikotarpiai/)
@@ -186,7 +196,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ?? multiCitationMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ??
+        multiCitationMarkdown,
     )
 
     assert.match(transformed, /data-claim-citation-id="c-001"/)
@@ -242,7 +253,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ??
+        missingCitationMarkdown,
     )
 
     assert.match(transformed, /data-claim-detail="t-001-1"/)
@@ -279,7 +291,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ?? duplicateLocalIdMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateLocalIdMarkdown) ??
+        duplicateLocalIdMarkdown,
     )
 
     assert.match(transformed, /id="claim-t-111"/)
@@ -322,7 +335,8 @@ describe("AdvancedEvidence transformer", () => {
 `
 
     const transformed = inspectLazyClaimPayloads(
-      plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ?? duplicateGlobalIdMarkdown,
+      plugin.textTransform?.({ allSlugs: [] } as any, duplicateGlobalIdMarkdown) ??
+        duplicateGlobalIdMarkdown,
     )
 
     assert.match(transformed, /id="claim-evidence-t-333"/)
@@ -331,7 +345,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /aria-controls="claim-evidence-t-333-2"/)
     assert.equal((transformed.match(/id="claim-evidence-t-333"/g) ?? []).length, 1)
     assert.equal((transformed.match(/id="claim-evidence-t-333-2"/g) ?? []).length, 1)
-    assert.match(transformed, /Globalus ID/)
+    assert.doesNotMatch(transformed, /Globalus ID/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {

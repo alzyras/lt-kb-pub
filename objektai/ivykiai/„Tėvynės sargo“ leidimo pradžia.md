@@ -57,6 +57,19 @@ Nenurodyta
 - t-001
   global_id: t-26406
   teiginys: "Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Juozas Tumas (Vaižgantas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„Tėvynės sargo“ leidimo pradžia: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Juozas Tumas (Vaižgantas): mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Tėvynės sargo“ leidimo pradžia\" parinktas kaip owner_note_path. Targetas \"Juozas Tumas (Vaižgantas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1896 m.; įvykio data: 1896 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-26631
 
@@ -77,6 +90,7 @@ Nenurodyta
     jos ir geranoriškumo įsikūnijimas.
   citata_rodoma: "Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-\nsi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, \nužėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo \n1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-\nnas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-\njos ir geranoriškumo įsikūnijimas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

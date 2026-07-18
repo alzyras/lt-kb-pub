@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Po Volynijos nukariavimo Gediminas žygiavo prieš Lucko kunigaikštį Levą, be kovos įėjo į Lucką ir užėmė Drohičiną su Brestu.
+170.) Taip nukariavęs Gediminas Volyniją tuo pačiu žygiu traukė su savo rimtais pulkais amt Levo, ku nigaikščio Lucko, kursai, kariaujant Gediminui su kryžėjais, buvo užėmęs lietuviams pilis Drohičiną ir Brestą jotvežų, arba letvėžų, krašte, kaip minavojau.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201283"></a>
 - t-001
   global_id: t-201283
-  teiginys: "Po Volynijos nukariavimo Gediminas žygiavo prieš Lucko kunigaikštį Levą, be kovos įėjo į Lucką ir užėmė Drohičiną su Brestu."
+  teiginys: "170.) Taip nukariavęs Gediminas Volyniją tuo pačiu žygiu traukė su savo rimtais pulkais amt Levo, ku nigaikščio Lucko, kursai, kariaujant Gediminui su kryžėjais, buvo užėmęs lietuviams pilis Drohičiną ir Brestą jotvežų, arba letvėžų, krašte, kaip minavojau."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184633
 
 ## Citatos
 
 - id: c-184633
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 531"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 531."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     170.)
     Taip nukariavęs Gediminas Volyniją tuo pačiu
@@ -68,6 +73,7 @@ Nenurodyta
     davo, bet ir pačių Padaliju kraštus po didžiai kru­
     vinų karių su Lietuvos ūke sunėrė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

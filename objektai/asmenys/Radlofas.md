@@ -33,6 +33,13 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 - t-001
   global_id: t-191227
   teiginys: "Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės palydovų žuvimo fenomeną, siejamą su senaisiais padavimais."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174109
 
@@ -40,10 +47,69 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
 - t-003
   global_id: t-191974
   teiginys: "Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radlofas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radlofas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
   pagrindžia:
     - c-174856
 
+<a id="claim-t-191229"></a>
+- t-002
+  global_id: t-191229
+  teiginys: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys pilnas ir apie Radlofui priskirtą sudužusios planetos nuolaužų hipotezę. Spekuliatyvus aiškinimas paliktas su Teodoro Narbuto pasakojimo atribucija.'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pisanskis|Pisanskis]]; mentioned_place: Baltija; mentioned_place: Baltijos jūra; mentioned_place: Vargiai'
+  pagrindžia:
+    - c-174111
+
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    361
+
+    ## Puslapis 372
+
+    Okeanas skalavo žemę, kurios krantų kontūrai, susi­
+    formavę po šios katastrofos ir dėl įvairių atsitikimų, lai­
+    kui bėgant, neapsakomai kito, o mūsų jūra įvairiomis
+    kryptimis buvo užliejusi daug daugiau kraštų. Galop dėl
+    žemės gaisro ar kažkokio nepaprasto ir labai stipraus
+    sprogimo* ar kokios kitos išorinės priežasties, kurią mes
+    vargiai galime įsivaizduoti, ar gal, kaip mano ponas Rad-
+    lofas, nukritus sudužusios planetos nuolaužoms, žodžiu,
+    dėl to, kuo galima neabejoti, mūsų Lietuvos, Prūsijos,
+    Žemaitijos, Kuršo ir Livonijos žemės yra užpiltos jūros
+    vietoje, o mūsų Baltijos jūra yra neapsemtų Okeano gel­
+    mių liekana.
+    Padarę tokias prielaidas, galbūt sugebėsime suderin­
+    ti iš pirmo žvilgsnio priešingas, bet iš esmės patikrintas
+    nuomones apie šios jūros būklę; kažkada tai nagrinėjęs
+    mokslininkas Pisanskis bylinėjosi su savo sąžine, neži­
+    nodamas, kam gi vis dėlto atiduoti pirmenybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - c-003
   santrauka: 'Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -58,8 +124,8 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     padavimų į graikų poetų kūrinius. Dabar reikia tik pa­
     studijuoti Eridano upę.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,6 +151,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
     laikiai smarkūs-šiaurės vėjai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,6 +174,7 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     būti Germanų jūros šiaurinėje dalyje, prie Eridano žiočių3.
   citata_rodoma: "Čia ir Cignas, žilas seneliukas, lygų1 karalius ir di­\ndelis Fajetono bičiulis, iš sielvarto virto gulbinu ir, plau­\nkiodamas po Eridano ežerą, niūniavo gražias priešmirti­\nnes giesmes.\n157\nŠio mito turinys sutampa su pono Radlofo požiūriu,\nkurį anksčiau (§ 145) pateikėme; šios žinios pateko iš\npadavimų į graikų poetų kūrinius. Dabar reikia tik pa­\nstudijuoti Eridano upę."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-66763
   teiginys: "1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66906
 
@@ -64,6 +67,7 @@ Nenurodyta
     Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką
     pratęsti seimui laiko, ir seimai išsiskirstė.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

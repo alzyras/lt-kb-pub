@@ -38,6 +38,13 @@ Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religio
 - t-001
   global_id: t-200741
   teiginys: "Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religious Practices“ leidinyje „Archaeologia Baltica“."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184086
 
@@ -52,6 +59,7 @@ Daiva Vaitkevičienė 2011 m. paskelbė straipsnį „Libation in Baltic Religio
     Vaitkevičienė Daiva 2011. “Libation in Baltic Religious Practices”, Archaeologia Baltica, vol. 15 (1),
     p. 105–119.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

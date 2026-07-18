@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189803
   teiginys: "Narbutas išpažintį priskyrė apeigoms, atliekamoms per aukų atnašavimą, remdamasis Strijkovskio ir senųjų kronikininkų duomenimis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Išpažintis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Išpažintis per aukojimo apeigas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Išpažintis: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išpažintis per aukojimo apeigas\" parinktas kaip owner_note_path. Targetas \"Išpažintis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172686
 
@@ -55,6 +69,20 @@ Nenurodyta
 - t-002
   global_id: t-189804
   teiginys: "Grunau pasakojimu, per ožio aukojimą vyrai klaupėsi prieš vaidilą, išpažindavo nuodėmes ir gaudavo fizinę atgailą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Išpažintis per aukojimo apeigas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išpažintis per aukojimo apeigas\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172687
 
@@ -62,6 +90,20 @@ Nenurodyta
 - t-003
   global_id: t-189805
   teiginys: "Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Išpažintis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Išpažintis per aukojimo apeigas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Išpažintis: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išpažintis per aukojimo apeigas\" parinktas kaip owner_note_path. Targetas \"Išpažintis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172688
 
@@ -126,6 +168,7 @@ Nenurodyta
     žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
     ninkų pranešimais ir savo paties duomenimis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,6 +196,7 @@ Nenurodyta
     rublį grašiais, kurie buvo kepurėje.
   citata_rodoma: "Kronikininkas\nGrunau pasakoja, kad buvęs toje išpažintyje, kai atsitiktinai\npatekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­\nkūnui, kad tos apeigos neišduosiąs vyskupui. Tą išpažintį jis\ntaip aprašo: kiekvienas vyras atsiklaupdavo prieš sėdintį vai­\ndilą ir išpažindavo savo nuodėmes; vaidila atgailai vienus tampė\nuž plaukų, kitiems skaldė antausius, trečius gerokai apmušda­\nvo lazda. Pagaliau atgailautojai apmušė ir patį vaidilą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,6 +222,7 @@ Nenurodyta
     kestį paimdavo prisiekusioji pusė, dalį pinigų atidavusi teismui1*.
   citata_rodoma: "Į mote­\nris jis kreipėsi gražia kalba, ragindamas atlikti tik bendrą išpa­\nžintį, ir mokė, kaip elgtis, idant patiktų dievams, ir davė daug\nkitokių pamokymų. Iš to matyti, kad įvedus krikščionybę bu­\nvo pamėgdžiojama katalikų išpažintis, kurios apeigos kažkaip\nnuo seno susiklostė stabmeldystėje. Vaidilos priimdavo išpa­\nžintis kaimiečių, kurie slapčiomis dar laikėsi senojo tikėjimo.\nTačiau tikra turėtų būti ir tai, kad kažką panašaus lietuviai\n320\n\n## Puslapis 320\n\nturėjo ir pačioje stabmeldiškoje religijoje."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

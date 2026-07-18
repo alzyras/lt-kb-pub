@@ -45,6 +45,11 @@ media_all_json: |-
 - t-001
   global_id: t-31754
   teiginys: "„Bitwa pod Grunwaldem“ 1888 m. buvo paskelbta „Biblioteka Warszawska“ numeriuose 559–561."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1888 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33603
 
@@ -62,6 +67,7 @@ media_all_json: |-
     nr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.
   citata_rodoma: ": _Bitwa pod Grunwaldem,_ Biblioteka Warszawska,\nnr. 559-561, 1888. — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

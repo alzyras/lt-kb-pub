@@ -46,6 +46,19 @@ Nenurodyta
 - t-001
   global_id: t-185633
   teiginys: "Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Penkerių metų paliaubos tarp Lietuvos ir Maskvos: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Penkerių metų paliaubos tarp Lietuvos ir Maskvos\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168994
 
@@ -53,6 +66,13 @@ Nenurodyta
 - t-002
   global_id: t-193363
   teiginys: "Maskvos didikams atmetus siūlytas taikos sąlygas, Lietuvos legatai pradėjo derėtis dėl kitokių taikos formulių."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176090
 
@@ -83,6 +103,7 @@ Nenurodyta
     tie padėjo galvas, atskubėjus iš Lenkijos bei Lietuvos
     karaliaus pulkams.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,6 +133,7 @@ Nenurodyta
     susitarus dėl taikos, išvykti iš Maskvos.
   citata_rodoma: "Šie ilgai\naiškino kunigaikščiui Vasilijui, kad jeigu jam nuošir­\ndžiai rūpinti taika, turįs taikytis tomis sąlygomis, ku­\nriomis kitados buvusi sudaryta sutartis tarp jo senelio\nVasilijaus ir karaliaus Kazimiero, arba tomis, kurias\n6 4 9\n\n## Puslapis 648\n\nbuvo sutarę karalius Aleksandras ir jo tėvas Ivanas\nVasiljevičius. Kadangi Maskvos didikai atkirto, kad ne­\ngali būti nė kalbos apie šitokias sąlygas, pradėta derė­\ntis dėl kitokių taikos formulių. Vis dėlto ir šie legatai\ntiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­\ndangi maskvėnai nenorėjo grąžinti ne tik Smolensko\nžemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po\nilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­\nsusitarus dėl taikos, išvykti iš Maskvos."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194807
   teiginys: "Žmonėms pareikalavus, vienas iš die vų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni nių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti, bet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177203
 
@@ -97,6 +104,7 @@ Nenurodyta
     faktūra, iliuminuota gėlėmis.
   citata_rodoma: "211\n\n## Puslapis 211\n\nGandras\nAtsitiko taip, kad priviso daugybė šliužų, kurie žmonėms ėmė\ndarytis nebepakenčiami. Žmonėms pareikalavus, vienas iš die­\nvų surinko visus mūsų krašto šliužus ir, sukišęs į daugybę šikšni­\nnių maišų, įsakė žmonėms nešti juos prie jūros ir nuskandinti,\nbet su sąlyga, kad neatrištų maišų ir nepažiūrėtų, kas juose yra.\nTarp tų, kurie nešė maišus, buvo viena moteris, apsitaisiusi bal­\ntais marškiniais ir juodu sijonu (taip ir šiandien vasarą vilki lie­\ntuvaitės). Ji, negalėdama nugalėti smalsumo, atrišo maišą, ir iš\njo išsmukę šliužai vėl po pasaulį išsilakstė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,6 +34,16 @@ media_all_json: |-
 - t-001
   global_id: t-67360
   teiginys: "„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Lewickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Cod. ep. saec. XV: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "A. Lewickis: mention_match, author, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cod. ep. saec. XV\" parinktas kaip owner_note_path. Targetas \"A. Lewickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-03522
 
@@ -49,6 +59,7 @@ media_all_json: |-
     1876 ; t. 12, 1891 ; t. 14, 1894).
   citata_rodoma: "CeXV = Codex epistolaris saeculi decimi quinti, t. 1-3, išl. J. So-\nkołowski, J. Szujski ir A. Lewicki (rink. : MoMP, t. 2,\n1876 ; t. 12, 1891 ; t. 14, 1894)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

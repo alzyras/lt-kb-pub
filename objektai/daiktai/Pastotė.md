@@ -53,10 +53,14 @@ Nenurodyta
 - t-001
   global_id: t-195344
   teiginys: "Vestuvinė kraitvežių ir svodbininkų kelionės priemonė."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177746
-    - c-177747
     - c-177748
+    - c-177747
 - susijęs iš [[objektai/zodynas/Kraičvežiai.md#claim-t-195627|Kraičvežiai]]: Kraičvežiai šiame šaltinyje yra du su pastote atvykstantys kraičio vežėjai.
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -78,6 +82,7 @@ Nenurodyta
     tai kraičvežiai.
   citata_rodoma: "Trečiadienį prieš išvažiuojant į „aną šalį“ , pribūna jaunikio parūpinta pastotė su dviem žmonėm — tai kraičvežiai."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,6 +106,7 @@ Nenurodyta
     pastočių ir arklių negalima sutalpinti vienuose namuose.
   citata_rodoma: "Grįčioj buvę kaimynai išėjo paimti svodbininkų arklių; mat, visų pastočių ir arklių negalima sutalpinti vienuose namuose."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,6 +128,7 @@ Nenurodyta
     kartais ir daugiau; aprašomais laikais visada užtekdavo vienos.
   citata_rodoma: "Šiais laikais vienos pastotės negana, reikia dviejų, o kartais ir daugiau; aprašomais laikais visada užtekdavo vienos."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

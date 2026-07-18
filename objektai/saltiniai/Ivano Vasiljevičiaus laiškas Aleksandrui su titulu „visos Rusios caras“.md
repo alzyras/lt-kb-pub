@@ -32,6 +32,19 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
 - t-001
   global_id: t-186331
   teiginys: "Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios caru."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ivanas Vasiljevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ivanas Vasiljevičius: mention_match, person, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivano Vasiljevičiaus laiškas Aleksandrui su titulu „visos Rusios caras“\" parinktas kaip owner_note_path. Targetas \"Ivanas Vasiljevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169692
 
@@ -85,6 +98,7 @@ Laiške Aleksandrui Ivanas Vasiljevičius pirmą kartą pasivadino visos Rusios 
     dukters Elenos rankos.
   citata_rodoma: "Pastatęs Li-\np a siv a d in a  v is o s  Ru-\nvonijos pasienyje prie Nar­\nsios caru\nvos garsią pilį, nuo jo vardo\njusią būti savotišku raktu į Livoniją bei suomių žemes,\njis pradėjo svajoti apie viešpatavimą visoje Rusioje. Jo\nslaptus sumanymus išdavė neįprastinis titulas laiške\nAleksandrui. Jame jis pirmą kartą pasivadino visos Ru­\nsios caru."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

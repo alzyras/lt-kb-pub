@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-189887
   teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172770
 
@@ -55,6 +62,13 @@ Nenurodyta
 - t-002
   global_id: t-189888
   teiginys: "Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172771
 
@@ -97,6 +111,7 @@ Nenurodyta
     matęs žaliuojančius linų laukus .
   citata_rodoma: "Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius\n(Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­\ndimus kaimiečiai moka savo tarpe suvaidinti tam tikrą sceninę\npantomimą, kurioje dalyvauja vienas ar du asmenys. Tai yra ka­\nrikatūriški paukščių, gyvulių, žmonių, kuriuos nori išjuokti, pa­\nmėgdžiojimai, visuomet sukeliantys juoką; merginėjimas, pyk­\ntis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­\nsiai -  čia yra visa, ką gali mimo fantazija."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +135,7 @@ Nenurodyta
     šokinėja kartodami tai su didžiausiu įkarščiu ir juokinimu; tuo
     pasibaigia vaidinimas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

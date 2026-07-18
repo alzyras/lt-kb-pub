@@ -46,6 +46,18 @@ Vaitiekaus Jučo pareigoms nusakyti.
 - t-001
   global_id: t-192327
   teiginys: "Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Regentas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Regentas\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
     - c-175128
 - susijęs iš [[objektai/paprociai/Teisminių reikalų tvarkymas per advokatus ir regentus.md#claim-t-200558|Teisminių reikalų tvarkymas per advokatus ir regentus]]: 1751 m. Lopacinskis nurodė regentui Ščepanovskiui sumokėti advokatui Glindzičiui 15 auksinų.
@@ -72,6 +84,7 @@ Vaitiekaus Jučo pareigoms nusakyti.
     leidimą (PEĮ.
   citata_rodoma: "Šią statulėlę man dovanojo ponas Vaitiekus Jučas, buvęs Viln/iaus/ Vyriausiojo teismo departamento regentas, su tokiu aprašymu: „1840 metų rugsėjo mėnesį viešėdamas Platelių dvare, priklausančiame grafienei Choueseul, tą dievuką gavau iš kun/igo/ Kognovickio, Platelių klebonijos vikaro, kuris, būdamas kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko aplankyti savo brolį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

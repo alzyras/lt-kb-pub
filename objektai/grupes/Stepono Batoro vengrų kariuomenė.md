@@ -40,6 +40,17 @@ media_all_json: |-
 - t-001
   global_id: t-86827
   teiginys: "Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Velikije Lūki: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stepono Batoro vengrų kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Velikije Lūki: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vengrų kariuomenės riteriai veikė žygyje ties Velikije Lūki."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Stepono Batoro vengrų kariuomenė surengė žygį į Velikije Lūki (0.72)"
   pagrindžia:
     - c-82806
 
@@ -47,6 +58,17 @@ media_all_json: |-
 - t-002
   global_id: t-86828
   teiginys: "Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Abiejų Tautų Respublika: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad jis rėmė Respubliką savo lėšomis ir tarnyba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gabrielius Bekešas rėmė Abiejų Tautų Respublika (0.80)"
   pagrindžia:
     - c-82807
 
@@ -91,6 +113,7 @@ media_all_json: |-
     laikų nusižengimus jį nubaudus mirties bausme, pagal vi­
     suotinę teisę atiteko mums, valdovui.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +143,7 @@ media_all_json: |-
     vo sveikatos prie mūsų, savo valdovo, būdamas, su noru,
     ištikimai ir narsiai visada rėmė ir nesiliauja rėmęs.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

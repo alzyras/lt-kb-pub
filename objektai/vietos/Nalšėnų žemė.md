@@ -39,6 +39,21 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 - t-001
   global_id: t-32385
   teiginys: "Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Aukštaitija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Burundajus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Aukštaitija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Burundajų kaip Aukštaitijos nusiaubimo dalyvį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Burundajus puolė Aukštaitija (0.86); Burundajus keliavo į Nalšėnų žemė (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1259 m.; įvykio data: apie 1259 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį, kuriame įvardytas žygio veiksmas ir Nalšėnų žemės pasiekimas."
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
   pagrindžia:
     - c-33963
 
@@ -56,6 +71,7 @@ Jie buvo pasiekę Nalšėnų žemę^144.
     Jie buvo pasiekę Nalšėnų žemę^144.
   citata_rodoma: "Ipati­\njaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­\ndajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.\nJie buvo pasiekę Nalšėnų žemę^144."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

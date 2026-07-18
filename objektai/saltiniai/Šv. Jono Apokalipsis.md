@@ -28,23 +28,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad X a. pabaigoje ir XI a. pradžioje pasklido pasaka apie Šv. Jono Apokalipsyje pranašautą pasaulio pabaigą po 1000 metų.
+Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto.
 
 ## Teiginiai
 
 <a id="claim-t-201454"></a>
 - t-001
   global_id: t-201454
-  teiginys: "Daukantas rašo, kad X a. pabaigoje ir XI a. pradžioje pasklido pasaka apie Šv. Jono Apokalipsyje pranašautą pasaulio pabaigą po 1000 metų."
+  teiginys: "Jono Apokalipsis, 1000 metų sukakus, bus pabanga šio svieto."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184804
 
 ## Citatos
 
 - id: c-184804
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 176"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 176."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kiekvienas gal numanyti, jog keleiviai tokioj toli­
     moj kelionėj viso prityrę, tai yra: vargų, rūpesnių
@@ -55,6 +60,7 @@ Daukantas rašo, kad X a. pabaigoje ir XI a. pradžioje pasklido pasaka apie Šv
     Jono Apokalipsis, 1000 metų sukakus, bus pabanga
     šio svieto.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

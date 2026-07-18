@@ -42,6 +42,19 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - t-001
   global_id: t-86005
   teiginys: "1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Namas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bernardinų gatvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Namas: mention_match, thing, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinų gatvė\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "prekybos laikotarpis: 1677 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citatoje nurodyta pardavimo suma."
   pagrindžia:
     - c-81984
 
@@ -49,6 +62,19 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 - t-002
   global_id: t-86006
   teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Akademijos aikštė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bernardinų gatvė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos aikštė: mention_match, place, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinų gatvė\" parinktas kaip owner_note_path. Targetas \"Akademijos aikštė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1579 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie namą Bernardinų gatvėje."
   pagrindžia:
     - c-81985
 
@@ -78,6 +104,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     remontuoti stovėjo.
   citata_rodoma: "1677. Akademijos Rektorius t. Paulius Bochenas, neturė­\ndamas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­\nnardinų gatvėje Vilniaus kanauninkui maloningajam kuni­\ngui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos \n750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­\nkupų gatvėje; trečiasis mūrinis namas, in ruderibus [griuvė­\nsiais] virtęs, buvo prie pačios kolegijos priskirtas, o už jį at­\nlygindami Collegium rektoriai, prie funduotos 4 000 auksinų \nsumos (kuri anksčiau buvo minėta) iki 5 500 auksinų pridė­\nję, Vilniaus žydų kahale lokavo, ir jau tik vienas Valerijono \nmūrinis namas buvo likęs, o kai pastarasis 1737 metais per \nmiesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­\nremontuoti stovėjo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +125,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     lmo: kad keliems studentams, neturintiems už ką baigti
     mokslus, būtų duodamas valgis.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

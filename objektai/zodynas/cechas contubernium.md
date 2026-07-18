@@ -33,6 +33,9 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - t-001
   global_id: t-86461
   teiginys: "Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82440
 
@@ -40,6 +43,16 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - t-002
   global_id: t-86462
   teiginys: "Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas Genseris: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "cechas contubernium: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Steponas Genseris: mention_match, person, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"cechas contubernium\" parinktas kaip owner_note_path. Targetas \"Steponas Genseris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-82441
 
@@ -83,6 +96,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     tai mūsų šaukime į teismą aiškiau yra aprašyta.
   citata_rodoma: "perpetui Administratoris, \nDucis in Olika et Nieśwież, et in Livonia nostri Locum te­\nnentis, privilegia Serenissimi praedecessoris nostri, piae me­\nmoriae Wladislai Regis producente, nec non partem Civita­\ntis, iurisdictionis Episcopalis, ab omni obedientia, et iure Civili \nsaeculari exemptam esse, iusque suum et Magistratum babe- \nre allegante; ac etiam Constitutionem in Conventu generali \nBielscensi, in Anno Millesimo Quingentesimo Sexagesimo \nquarto factam, exhibente, qua mediante iura et privilegia, om- \nnesque libertates, Ecclesiis Romanae religionis, antiquitus con­\ncessa, approbata esse docuit circaque privilegia se conservari \npetiit. Nos cum Consiliariis nostris, lateri nostro tunc assi­\ndentibus, audita beneque examinata partium controversia,\n436\n\n## Puslapis 453\n\nIV KNYGA\npagal minėtos privilegijos nuostatus buvo įprasta laikytis, \nsavą auksakalystės meną atskirai nuo cecho narių neapgal­\nvotai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius, \nbe jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik \nnorėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė \nnegerbdamas privilegijų, leistų minėtam cechui, kaip visa \ntai mūsų šaukime į teismą aiškiau yra aprašyta."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +129,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     Senjoras gali reikšti kunigaikštį
     (vert.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

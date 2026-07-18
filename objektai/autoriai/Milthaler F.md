@@ -32,6 +32,9 @@ Dusburgietis teigia, kad 136 Milthaler F.
 - t-001
   global_id: t-60758
   teiginys: "Milthaler F. parašė darbą „Die Grossgebietiger“, cituojamą 59–69 puslapiuose."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61390
 
@@ -64,6 +67,7 @@ Dusburgietis teigia, kad 136 Milthaler F.
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
   citata_rodoma: "136 Milthaler F. Die Grossgebietiger..., S. 59—69."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

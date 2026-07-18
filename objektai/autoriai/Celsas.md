@@ -32,6 +32,10 @@ Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjim
 - t-001
   global_id: t-190419
   teiginys: 'Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjimą amžinomis bausmėmis po mirties.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Celsas įvardytas kaip sakinio subjektas, o Origenas paliktas kaip tarpinis šaltinis. Nepridėta platesnė Narbuto moralės ir paslapčių apeigų interpretacija.'
   pagrindžia:
     - c-173302
 - susijęs iš [[objektai/asmenys/Origenas.md#claim-t-190193|Origenas]]: Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius.
@@ -60,6 +64,7 @@ Narbutas, remdamasis Origenu, rašo, kad Celsas krikščionims prikišo tikėjim
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

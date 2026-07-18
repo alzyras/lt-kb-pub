@@ -33,6 +33,18 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
 - t-001
   global_id: t-42387
   teiginys: "Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Kėdainiai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad lietuvių pajėgos neleido užgrobti Kėdainių, todėl palaikomas gynimo ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai gynė Kėdainiai (0.72)"
+  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
   pagrindžia:
     - c-45477
 
@@ -56,6 +68,7 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
     svarbų punktą - Kėdainius.
   citata_rodoma: "Bolševikai tos pa-\nčios dienos vakare buvo priversi palikti\nKėdainių apylinkes ir atsitraukti į Šėtą.\nNedidelės ir prastai ginkluotos lietuvių\npajėgos, parodžiusios drąsą ir ištvermę,\nsugebėjo atlaikyti daug didesnių pajėgų\npuolimą ir neleido užgrobti bolševikų\nstrateginiuose planuose numatytą užimti\nsvarbų punktą - Kėdainius."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

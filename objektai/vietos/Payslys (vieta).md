@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Kristijonas Payslyje pasiūlė įkurti vienuolyną naujai bažnyčiai pastatyti ir Konrado ūkiui globoti, o Konradas šį sumanymą su džiaugsmu priėmė.
+Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti.
 
 ## Teiginiai
 
-<a id="claim-t-201513"></a>
+<a id="claim-t-201139"></a>
 - t-001
-  global_id: t-201513
-  teiginys: "Kristijonas Payslyje pasiūlė įkurti vienuolyną naujai bažnyčiai pastatyti ir Konrado ūkiui globoti, o Konradas šį sumanymą su džiaugsmu priėmė."
+  global_id: t-201139
+  teiginys: "Kristijonui į širdį pavėdų zokaną, arba brostvą, Paysly įkurti dėl už tarymo tenai naujos bažnyčios ir gelbėjimo ūkės Konrado, kursai su didžiausiu džiaugsmu pasiėmė tokį jo ketėjimą steigti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184863
+    - c-184489
 
 ## Citatos
 
-- id: c-184863
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 249"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 249."
+- id: c-184489
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas buvo sau įkūręs, kursai kas
     dieną platinos, noris per 20 metų tuointimpos ka­
@@ -54,8 +59,9 @@ Kristijonas Payslyje pasiūlė įkurti vienuolyną naujai bažnyčiai pastatyti 
     Konrado, kursai su didžiausiu džiaugsmu pasiėmė
     tokį jo ketėjimą steigti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201513
+    - t-201139

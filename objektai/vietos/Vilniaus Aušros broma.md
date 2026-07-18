@@ -43,6 +43,10 @@ Vilniaus Aušros broma šiame šaltinyje yra šventovė ar miesto vartai.
 - t-001
   global_id: t-195499
   teiginys: "Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177922
 
@@ -61,6 +65,7 @@ Vilniaus Aušros broma šiame šaltinyje yra šventovė ar miesto vartai.
     niaus Aušros bromos Dievo Motinos.
   citata_rodoma: "Parnešu palaiminimą iš šventų vietų: Čestakavo ir Vil­niaus Aušros bromos Dievo Motinos."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

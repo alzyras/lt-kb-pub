@@ -37,6 +37,18 @@ Rhode, G.
 - t-001
   global_id: t-30952
   teiginys: "G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> G. Rhode: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Rhode, G: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "G. Rhode: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rhode, G\" parinktas kaip owner_note_path. Targetas \"G. Rhode\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1410 m.; įvykio data: 1973 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33121
 
@@ -56,6 +68,7 @@ Rhode, G.
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss.
   citata_rodoma: "— Rhode, G. : _Polemiken um die Schlacht von\nTanneuberg 1410. Zu einem Buch von Stefan M. Kuczyński_ , ZfO, t. 22,\n1973, 475-486 p. — Stavenhagen, O. : _Livland und die Schlacht bei\nTanneuberg_ , Baltische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-\n381 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

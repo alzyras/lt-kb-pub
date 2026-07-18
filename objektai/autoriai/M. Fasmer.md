@@ -41,6 +41,9 @@ Fasmer : Otryvki V.
 - t-001
   global_id: t-30829
   teiginys: "M. Fasmeris su M. Priselkovu paskelbė darbą apie V. N. Beneševičiaus ištraukas Rusios XIV a. bažnyčios istorijai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-33050
 - susijęs iš [[objektai/autoriai/M. Priselkov.md#claim-t-30847|M. Priselkov]]: M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos.
@@ -58,6 +61,7 @@ Fasmer : Otryvki V.
     (^7) **LUB, II, 333 p.**
   citata_rodoma: "**\n(^6) **M. Priselkov, M. Fasmer :** **_Otryvki V. N. Beneševiča po istoriji russ-\nkoj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**\n(^7) **LUB, II, 333 p."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

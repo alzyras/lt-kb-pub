@@ -64,6 +64,10 @@ Nenurodyta
 - t-001
   global_id: t-195377
   teiginys: "Besėdninkai pokylio metu kalbėdavosi būreliais ir gerdavo alų."
+  atnaujinta: "2026-07-12 02:18"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177793
 
@@ -85,6 +89,7 @@ Nenurodyta
     sydami vilgino burną alumi.
   citata_rodoma: "Taip šnekėjo besėdninkai, būreliais susispietę; šnekėdami ir klau­sydami vilgino burną alumi."
   statusas: verified
+  atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

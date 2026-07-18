@@ -53,6 +53,18 @@ Nenurodyta
 - t-001
   global_id: t-192104
   teiginys: "Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pilkapių nelietimo iš pagarbos ir baimės paprotys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilkapių nelietimo iš pagarbos ir baimės paprotys\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174973
 
@@ -85,6 +97,7 @@ Nenurodyta
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
   citata_rodoma: "Vis dėlto pilkapius visuomet gaubė dabartinės mū-\nsų kraštiečių kartos pagarba. Šiandien kaimiečiai nors\nnelaiko jų savo tautos protėvių kapais, tačiau iš pagar-\nbos po jais besiilsinčios genties žmonių palaikams nieka-\nda nesiryžta paliesti jų nei noragu, nei kitais įrankiais,\no juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury\nlaukų, tarp pastatų ir gerokai trukdo, jie jų neliečia."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

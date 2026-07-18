@@ -58,6 +58,16 @@ Nenurodyta
 - t-001
   global_id: t-87079
   teiginys: "Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karaliaus Žygimanto Senojo knygos Vilniaus pilyje: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=76"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaus Žygimanto Senojo knygos Vilniaus pilyje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83059
 
@@ -65,6 +75,17 @@ Nenurodyta
 - t-002
   global_id: t-87080
   teiginys: "Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Žygimantas Senasis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karaliaus Žygimanto Senojo knygos Vilniaus pilyje: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė nurodo, kad sukauptos knygos buvo Žygimanto Senojo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Karaliaus Žygimanto Senojo knygos Vilniaus pilyje priklausė Žygimantas Senasis (0.82)"
   pagrindžia:
     - c-83058
 
@@ -85,6 +106,7 @@ Nenurodyta
     gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
     kalbomis saugojo Vilniaus pilyje25.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,6 +136,7 @@ Nenurodyta
     kadangi pagrindinė scholastiko pareiga buvo Katedros mo­
     kyklos išlaikymas26.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

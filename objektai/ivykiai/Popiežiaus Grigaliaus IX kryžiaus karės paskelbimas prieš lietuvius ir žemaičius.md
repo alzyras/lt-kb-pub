@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime popiežius Grigalius IX žadėjo 20 dienų atlaidus pamokslų klausytojams, o ekskomunikuotiesiems – bausmės atleidimą, jei jie kariaus prieš lietuvius ir žemaičius.
+Norėdamas popiežius kuo didesniai kryžiaus karę, skelbiamą Teutonijoj, paskubinti, dominikonims, tenai skelbiantiems, liepė apreikšti vi siems tiems, kurie jų pamokslo klausė, 20 dienų atpuskų gavo, o tuos, kurie dėl gaisrų, išlaužimų arba dėl apjuokimo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -38,19 +38,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201501"></a>
+<a id="claim-t-201302"></a>
 - t-001
-  global_id: t-201501
-  teiginys: "Daukanto pasakojime popiežius Grigalius IX žadėjo 20 dienų atlaidus pamokslų klausytojams, o ekskomunikuotiesiems – bausmės atleidimą, jei jie kariaus prieš lietuvius ir žemaičius."
+  global_id: t-201302
+  teiginys: "Norėdamas popiežius kuo didesniai kryžiaus karę, skelbiamą Teutonijoj, paskubinti, dominikonims, tenai skelbiantiems, liepė apreikšti vi siems tiems, kurie jų pamokslo klausė, 20 dienų atpuskų gavo, o tuos, kurie dėl gaisrų, išlaužimų arba dėl apjuokimo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184851
+    - c-184652
 
 ## Citatos
 
-- id: c-184851
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 262"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 262."
+- id: c-184652
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaipogi ateinantį metą
     popiežius pats su didesne dar aitra skatino krikš­
@@ -74,8 +79,9 @@ Nenurodyta
     į Pavyslį, tarp kurių užvis Burchardas, valdymieras
     1 V o i g t, Preus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201501
+    - t-201302

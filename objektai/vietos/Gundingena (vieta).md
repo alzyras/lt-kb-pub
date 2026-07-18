@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočių kariaunos dalis, naudodama nuo strėlių apsaugotus laivus, apgulė Gundingenos pilį.
+Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos.
 
 ## Teiginiai
 
 <a id="claim-t-201162"></a>
 - t-001
   global_id: t-201162
-  teiginys: "Kryžiuočių kariaunos dalis, naudodama nuo strėlių apsaugotus laivus, apgulė Gundingenos pilį."
+  teiginys: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184512
-- susijęs iš [[objektai/ivykiai/Gundingenos apgultis ir mūšis Nemuno verpetuose.md#claim-t-201321|Gundingenos apgultis ir mūšis Nemuno verpetuose (mūšis)]]: Kryžėjams apgulus Gundingenos pilį laivais, Vytenis pasiuntė Surminą, o lietuviai Nemune degino ir skandino kryžėjų laivus.
+
 ## Citatos
 
 - id: c-184512
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 511"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lygia dalia antrą
     kartą rudenį sugrįžęs vos ne vos su dideliu vargu
@@ -64,6 +69,7 @@ Kryžiuočių kariaunos dalis, naudodama nuo strėlių apsaugotus laivus, apgul�
     ras karėj ir ūkė j, brolis Surmino, išverždamas kry­
     žėjams pergalę, gyvybą savo už liuosybę padėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

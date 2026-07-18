@@ -35,23 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę.
+Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto.
 
 ## Teiginiai
 
-<a id="claim-t-201406"></a>
+<a id="claim-t-201405"></a>
 - t-001
-  global_id: t-201406
-  teiginys: "Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas prieš mirtį padalijo savo ūkę."
+  global_id: t-201405
+  teiginys: "Kitoj pusėj Boleslovas Kreivburnis bengdamos paskaidė ūkę tarp sūnų savo Vladislovo, Mieško, Henriko ir Kazimiero, kurie, nekakindamos tuo pa dalijimu, lig tėvui nustipus, lig sūnūs sukeršto."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184756
+    - c-184755
 
 ## Citatos
 
-- id: c-184756
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 161"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 161."
+- id: c-184755
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Yra raštuose randama, jog tą metą Vsevolodas,
     kunigaikštis Naugardo, kariavęs su lietuviais ir ana- 1135
@@ -67,8 +72,9 @@ Daukantas mini Miešką tarp Boleslovo Kreivburnio sūnų, kuriems Boleslovas pr
     damos valdžios, įgundino savo vyrą brolių dalis
     atimti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201406
+    - t-201405

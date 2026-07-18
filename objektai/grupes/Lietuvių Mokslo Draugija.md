@@ -49,6 +49,15 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-001
   global_id: t-195534
   teiginys: "1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms."
+  atnaujinta: "2026-07-12 05:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  temporaliniai_duomenys: "įvykio data: 1915-1922; įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-46354
     - c-46355
@@ -57,6 +66,13 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-002
   global_id: t-195535
   teiginys: "Lietuvių mokslo draugija daugiausia orientavosi į lietuvių kalbos, etninės kultūros tyrimus ir vadovėlių lietuvių mokykloms rengimą."
+  atnaujinta: "2026-07-12 05:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Sakinys aiškiai nusako draugijos veiklos kryptis ir yra paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-177953
 
@@ -64,6 +80,16 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-003
   global_id: t-195536
   teiginys: "Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą."
+  atnaujinta: "2026-07-12 05:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]"
+  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-177954
 
@@ -71,6 +97,16 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-004
   global_id: t-195537
   teiginys: "Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų."
+  atnaujinta: "2026-07-12 05:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; llm_object: Lietuva"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuvių Mokslo Draugija|Lietuvių Mokslo Draugija]] gyveno Lietuva"
+  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-177954
 
@@ -78,6 +114,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 - t-005
   global_id: t-195538
   teiginys: "A. R. Niemis šiame šaltinyje minimas kaip Lietuvių mokslo draugijos narys korespondentas."
+  atnaujinta: "2026-07-12 05:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177952
 - susijęs iš [[objektai/grupes/Vilniaus mokslo bičiulių draugija.md#claim-t-66289|Vilniaus mokslo bičiulių draugija]]: Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui.
@@ -105,6 +145,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     knygų.
   citata_rodoma: "Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-\nčiau jų vertė buvo labai menka. Tai buvo visokios naivios isto-\nrijos, plėšikų nuotykiai, sapnininkai ir t.t. Rimtesnių ir tikrai\nvertingų raštų atsirado tik tada, kai į Ameriką atvyko daugiau\ninteligentų ir kai, Šliūpui su kun. Burba vadovaujant, buvo\ngalutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-\nta Lietuvių Mokslo Draugystė, kuri leido mėnesinį\nliteratūros ir mokslo žurnalą „Apšvietą\" ir išleido keletą\nknygų."
   statusas: verified
+  atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,6 +165,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     kykloms vadovėlius.
   citata_rodoma: "1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.\nYčas, kurie surinko apie 25.000 dolerių Tautos Namams Vil-\nniuje statyti. D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-\nvežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių\nMokslo Draugija leido tik ką įsikūrusioms lietuviškoms mo-\nkykloms vadovėlius."
   statusas: verified
+  atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,6 +191,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     dr-jos narys korespondentas.
   citata_rodoma: "Jis bendradarbiavo, jau nuo 1897 m., daugelyje žurnalų ir laikraščių; ir buvo narys garsių mokslo draugijų, kaip štai: Suomių literatūros dr-jos, Suomių ugrų, Kalevalos, Lietuvių mokslo dr-jos narys korespondentas."
   statusas: verified
+  atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,6 +214,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     viena kitos kolektyviniai nariai.
   citata_rodoma: "Abi draugijos daug dėmesio skyrė \npraeičiai, LDK paveldui, bet Lie-\ntuvių draugija ypač orientavosi į \nlietuvių kalbos ir etninės kultūros \ntyrimus, mokyklinių vadovėlių \nlietuvių mokykloms rengimą. Abi \ndraugijos leido mokslinius tęsti-\nnius leidinius. Beje, abi jos buvo \nviena kitos kolektyviniai nariai."
   statusas: verified
+  atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,6 +237,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     telkusi lenkiškai kalbančiuosius.
   citata_rodoma: "Be to, etnografi-\nnės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po \n1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą. \nLygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-\njos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos \n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius."
   statusas: verified
+  atnaujinta: "2026-07-12 05:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

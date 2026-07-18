@@ -42,6 +42,11 @@ media_all_json: |-
 - t-001
   global_id: t-30919
   teiginys: "P. Šmits 1926 m. Rygoje išleido darbą „Latviešu mitologija“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33101
 
@@ -58,6 +63,7 @@ media_all_json: |-
     University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
   citata_rodoma: "— Straubergs, K. : _Latvju sakrālā\npasaule,_ Latvju kultura, 1948. — Šmits, P. : _Latviešu mitologija,_ Riga\n*1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic\nUniversity, nr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

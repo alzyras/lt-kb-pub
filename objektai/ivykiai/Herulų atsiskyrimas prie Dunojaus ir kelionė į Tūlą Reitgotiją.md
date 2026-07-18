@@ -44,6 +44,24 @@ Nenurodyta
 - t-001
   global_id: t-191043
   teiginys: "Narbuto pasakojimu, po pralaimėjimo longobardams herulų būrys 493 m. pabaigoje atsiskyrė prie Dunojaus ir patraukė kita kryptimi."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Isteris: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Herulų būrys tiesiogiai aprašytas kaip atsiskyręs prie Dunojaus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Isteris (0.82); Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją (0.78)"
+  temporaliniai_duomenys: "kelionės data: 493 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai keliavo į Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Herulai keliavo į Isteris“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo herulų būrio atsiskyrimą, laiką ir kryptį. Kronikinis pasakojimas paliktas su Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173925
 
@@ -51,6 +69,21 @@ Nenurodyta
 - t-002
   global_id: t-191044
   teiginys: "Narbutas artimiausiu ir saugiausiu herulų keliu į Reitgotiją laikė maršrutą per Pamarį, Kujaviją, Mazoviją ir Prūsiją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Reitgotija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Reitgotija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad herulai keliavo į Reitgotiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Herulai keliavo į Reitgotija (0.90); Herulai keliavo į Prūsija (0.88); Herulai keliavo į Mazovija (0.86); Herulai keliavo į Kujavija (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173926
 
@@ -58,6 +91,12 @@ Nenurodyta
 - t-003
   global_id: t-197537
   teiginys: "Tad artimiausias ir saugiausias herulų kelias vingiavo į Šiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš kur buvo visai netoli iki herulų gimtosios Jūros upės krantų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173926
 
@@ -102,6 +141,7 @@ Nenurodyta
     dar syki susidūrė su kitu longobardų būriu, ketinusiu
     juos apiplėšti, ir jam pralaimėjo.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +167,7 @@ Nenurodyta
     kurių priklausė ir H i r i j a (§ 240).
   citata_rodoma: "Tad artimiausias ir saugiausias herulų kelias vingiavo į \nŠiaurę per Pamarį, Kujaviją ir Mazoviją į Prūsiją, iš \nkur buvo visai netoli iki herulų gimtosios Jūros upės \nkrantų. Tai patvirtinančių įrodymų randame Ksavero Bo- \ngušo veikaluose3; iš jų sužinome, jog herulų keliauta į \nReitgotiją. Sis pavadinimas, anot naujausių tyrimų, reiš­\nkia lietuvių genčių gyvenamus pamario kraštus4, prie \nkurių priklausė ir H i r i j a (§ 240)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

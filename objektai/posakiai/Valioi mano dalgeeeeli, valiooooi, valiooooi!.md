@@ -58,6 +58,10 @@ Giedama šienaujant ir laukiant girios aido.
 - t-001
   global_id: t-195418
   teiginys: "Šienapiūtės dainoje kartojamas kreipinys į dalgį ir refrenas „valiooooi“."
+  atnaujinta: "2026-07-12 02:45"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177839
 
@@ -74,6 +78,7 @@ Giedama šienaujant ir laukiant girios aido.
     pradėti, tik praleisime Šventą Petrą“ .
   citata_rodoma: "Po Švento Jono kurį rytą išgirdome šienapiūtės dainą: „Valioi, ma­\nno dalgeli“ . . . Sakome: „Tai dvaro lankas šienauja, metas būtų ir mums\npradėti, tik praleisime Šventą Petrą“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,6 +38,12 @@ Dusburgietis teigia, kad mannhardt M.
 - t-001
   global_id: t-61155
   teiginys: "M. Mannhardto „Letto-Preussische Götterlehre“ išleista Rygoje 1936 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
   pagrindžia:
     - c-61787
 
@@ -82,6 +88,7 @@ Dusburgietis teigia, kad mannhardt M.
     Krikštytojas, šv.
   citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

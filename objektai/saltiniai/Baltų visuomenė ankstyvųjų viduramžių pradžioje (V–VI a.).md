@@ -40,6 +40,13 @@ Eugenijaus Jovaišos straipsnis „Baltų visuomenė ankstyvųjų viduramžių p
 - t-001
   global_id: t-200749
   teiginys: "Eugenijaus Jovaišos straipsnis „Baltų visuomenė ankstyvųjų viduramžių pradžioje (V–VI a.)“ 2006 m. paskelbtas žurnalo „Istorija“ 64 numeryje."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184094
 
@@ -54,6 +61,7 @@ Eugenijaus Jovaišos straipsnis „Baltų visuomenė ankstyvųjų viduramžių p
     Jovaiša Eugenijus 2006. „Baltų visuomenė ankstyvųjų viduramžių pradžioje (V–VI a.)“, Istorija: Lie-
     tuvos aukštųjų mokyklų mokslo darbai, iss. 64, p. 5–16.
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

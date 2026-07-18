@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-66485
   teiginys: "1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66699
 
@@ -56,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-66487
   teiginys: "Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66702
 
@@ -93,6 +99,7 @@ Nenurodyta
     komisija visai Rusijai.
   citata_rodoma: "Po to (1858 m.) valstiečių at-\nleidimo projektui pa-\nruošti visose Lietuvos\ngubernijose buvo suda-\nryti bajorų komitetai,\nkurių darbą turėjo su-\nvienodinti centralinė\nkomisija Vilniuje. Ši-\ntos komisijos sudarytas\nprojektas buvo nusiųs-\ntas į Petrapilį, kur tokį\npat darbą dirbo speciali\nkomisija visai Rusijai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +122,7 @@ Nenurodyta
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
   citata_rodoma: "Reformai atlikti buvo sudarytos apskrityse valstiečių ko-\nmisijos, apskritys padalintos į apylinkes, kurių priešaky bu-\nvo pastatyti taikos tarpininkai, o didesniesiems nesu-\nsipratimams spręsti — visų tarpininkų suvažiavimai, vadinami\ntaikos suvažiavimais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,10 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
 - t-001
   global_id: t-195493
   teiginys: "Iš Krakių parvežta žinia, kad krautuvėse atsirado visokios geležies."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177916
 
@@ -70,6 +74,7 @@ Krakės šiame šaltinyje yra miestelis ar gyvenvietė.
     kitokia geležis.
   citata_rodoma: "„Vieną sykį tėvas, parvažiavęs iš Krakių, praneša didelę naujieną: krautuvėse atsiradę visokios geležies:“"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

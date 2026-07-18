@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas perkrikštais vadina kryžėjų valdžiai paklususius naujus krikščionis, kurie mokėjo duokles, ėjo lažą ir dirbo pilis.
+Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga.
 
 ## Teiginiai
 
 <a id="claim-t-201243"></a>
 - t-001
   global_id: t-201243
-  teiginys: "Daukantas perkrikštais vadina kryžėjų valdžiai paklususius naujus krikščionis, kurie mokėjo duokles, ėjo lažą ir dirbo pilis."
+  teiginys: "Nes kaip per neteisybę kryžėjai į Žemaičių pajūrius buvo įsiveisę, taip visokiais pragumais vėl per neteisybę tvirtinos, kurie krū paudami, idant perkrikštai neįgautų kokio tokio akylumo savo kalboj ir, pragumui kokiam radusis, nepatraktų ir gimine ypatinga."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184593
 
 ## Citatos
 
 - id: c-184593
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 514"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 514."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Patys kryžėjai jau
     užsiturėjimu užimtuosiuose kraštuose Žemaičių, ne
@@ -68,6 +73,7 @@ Daukantas perkrikštais vadina kryžėjų valdžiai paklususius naujus krikšči
     davo būrį vyrų Petru ar Jonu, o motriškųjų Ona
     ar-Elzbieta, ir tuomi bengės krikštas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

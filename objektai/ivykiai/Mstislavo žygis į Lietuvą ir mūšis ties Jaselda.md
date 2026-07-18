@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)'
+pavadinimas: 'Mstislavo žygis į Lietuvą ir mūšis ties Jaselda'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Mstislavo žygis į Lietuvą ir mūšis ties Jaselda'
-aliases:
-  - 'Mstislavo žygis į Lietuvą ir mūšis ties Jaselda'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Mstislavo žygis į Lietuvą ir mūšis ties Jaselda (mūšis)
+# Mstislavo žygis į Lietuvą ir mūšis ties Jaselda
 
 ## Santrauka
 
-Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską.
+Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201334"></a>
 - t-001
   global_id: t-201334
-  teiginys: "Prie Jaseldos lietuviai nugalėjo gudus, Mstislavas pasitraukė į Lucko pilį, o tuo pačiu žygiu lietuviai užėmė Pinską ir Turską."
+  teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184684
 
 ## Citatos
 
 - id: c-184684
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 233"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 233."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Susirėmė abi pusi paupy Ja-
     seldos ir grūmės iš visos galios, ragotinės traškėjo,
@@ -71,6 +72,7 @@ Nenurodyta
     urėdes, į kiekvieną įdėjo savo sūnus Liubartą, Pryš-
     mantą ir Treniotą urėdais ir su Lietuvos ūke sunėrė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

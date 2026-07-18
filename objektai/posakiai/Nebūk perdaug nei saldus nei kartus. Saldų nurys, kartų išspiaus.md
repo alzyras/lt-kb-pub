@@ -51,6 +51,10 @@ Aforistinė elgesio formulė apie saiką.
 - t-001
   global_id: t-195438
   teiginys: "Pateikiamas pamokantis posakis apie per didelio saldumo ir kartumo žalą."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177859
 
@@ -66,6 +70,7 @@ Aforistinė elgesio formulė apie saiką.
     nurys, kartų išspiaus. Vis negera.
   citata_rodoma: "— Tai mat, ponaiti, nebūk perdaug nei saldus nei kartus. Saldų nurys, kartų išspiaus. Vis negera."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -52,6 +52,10 @@ Nenurodyta
 - t-001
   global_id: t-67071
   teiginys: "Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67116
 
@@ -59,6 +63,10 @@ Nenurodyta
 - t-002
   global_id: t-67073
   teiginys: "Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67119
 
@@ -79,6 +87,7 @@ Nenurodyta
     vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl
     pelningumo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +111,7 @@ Nenurodyta
     didysis kunigaikštis.
   citata_rodoma: "priminti blogą dvasininkų skyrimo paprotį, buvusį tuomet visoje\nEuropoje, būtent klebonus skirdavo tas, kas pastatydavo ir\n\naprūpindavo bažnyčią, o vyskupus ir kanauninkus — didysis\nkunigaikštis. Vyskupų paskyrimą tvirtindavo popiežius, o ku-\nnigų — vyskupas. Kadangi daugumas Lietuvos parapijų buvo\nįkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė\ndidysis kunigaikštis."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

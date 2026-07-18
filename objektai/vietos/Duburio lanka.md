@@ -45,9 +45,13 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
 - t-001
   global_id: t-195488
   teiginys: "Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177909
     - c-177910
+    - c-177909
 
 ## Citatos
 
@@ -66,6 +70,7 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
     Nusivarėme kaimenę į kitą Duburio lankos galą.
   citata_rodoma: "„Nusivarėme kaimenę į kitą Duburio lankos galą.“"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,6 +89,7 @@ Duburio lanka šiame šaltinyje yra lankos vietovė.
     Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.
   citata_rodoma: "„Iš kaimo į mažąją Duburio lanką išgintos kiaulės kriukė.“"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

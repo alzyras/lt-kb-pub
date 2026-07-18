@@ -57,6 +57,10 @@ Vietinė etninė bendruomenė.
 - t-001
   global_id: t-195511
   teiginys: "Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177933
 
@@ -64,6 +68,10 @@ Vietinė etninė bendruomenė.
 - t-002
   global_id: t-195512
   teiginys: "Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu."
+  atnaujinta: "2026-07-12 04:52"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177933
 
@@ -85,6 +93,7 @@ Vietinė etninė bendruomenė.
     ti su mumis ir skiriasi kalba ir būdu.
   citata_rodoma: "Mums įžymūs šiuo žygiu Dotnavos gudai: jie baigia antrą šimtmetį gyventi su mumis ir skiriasi kalba ir būdu."
   statusas: verified
+  atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

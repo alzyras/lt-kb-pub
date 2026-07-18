@@ -51,6 +51,19 @@ Nenurodyta
 - t-001
   global_id: t-185655
   teiginys: "Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.77"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kerštas kryžiuočiams karinio žygio kontekste tiesiogiai nurodo priešišką karinį santykį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169016
 
@@ -58,6 +71,19 @@ Nenurodyta
 - t-002
   global_id: t-185657
   teiginys: "Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.71"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Pasalos aprašymas rodo lietuvių karinį veiksmą prieš kryžiuočius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169018
 
@@ -65,6 +91,13 @@ Nenurodyta
 - t-003
   global_id: t-196265
   teiginys: "Pasak Kojelavičiaus, sutvarkę reikalus Rusioje lietuviai pasijuto saugiau ir ėmė keršyti kryžiuočiams už praėjusių metų skriaudas."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169016
 
@@ -72,6 +105,13 @@ Nenurodyta
 - t-004
   global_id: t-196266
   teiginys: "Lietuviai miškuose įrengė šakomis ir velėnomis pridengtus griovius, į kuriuos per pasalą sugriuvo dalis kryžiuočių."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169018
 
@@ -104,6 +144,7 @@ Nenurodyta
     giavo, niokodamas kraštą, ligi Tapiavos ir karius su
     grobiu laimingai parvedė atgal.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,6 +175,7 @@ Nenurodyta
     prasiveržė į saugesnes vietas ir sveiki paspruko.
   citata_rodoma: "Niekas nedrįso atviroje kovoje pa­\nsipriešinti įsisiautėjusiems pulkams, tačiau dėl kelių \nžmonių sumanumo priešas buvo smarkiai sumuštas iš \npasalų. Mat miškuose (kuriais kryžiuočiai turėjo trauk-\ntyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­\nartėjo prie šios vietos, iš miškų iššokę lietuviai, kel­\ndami baisų triukšmą, veikiau dėjosi puolą, nei iš tik­\nrųjų puolė. Šitaip priešai, nenujausdami pasalų, veržte \nverždamiesi atviromis perėjomis, sugriuvo į šakomis \nbei velėnomis padengtus griovius, prarado čia vadus \nbei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos \nprasiveržė į saugesnes vietas ir sveiki paspruko."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

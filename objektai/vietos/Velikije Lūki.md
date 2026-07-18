@@ -40,6 +40,17 @@ media_all_json: |-
 - t-001
   global_id: t-199952
   teiginys: "1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
+  susije_objektai: "llm_object: Velikije Lūki; llm_object: Polockas; llm_object: Rževas; mentioned_place: Polockas; mentioned_place: Rževas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Pskovas"
+  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182941
 
@@ -47,6 +58,17 @@ media_all_json: |-
 - t-002
   global_id: t-199953
   teiginys: "Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
+  susije_objektai: "llm_object: Velikije Lūki; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Polockas"
+  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182941
 - susijęs iš Voronačas: 1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.
@@ -76,6 +98,7 @@ media_all_json: |-
     Rževų ir Polocku (V1I.30—VII1.2).
   citata_rodoma: "‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d. \nnaugardiečiams paprašius taikos.\ns XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su \nLDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­\nklausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo- \nronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28), \nRževų ir Polocku (V1I.30—VII1.2)."
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

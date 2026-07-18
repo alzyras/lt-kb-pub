@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gundingenos apgultis ir mūšis Nemuno verpetuose (mūšis)'
+pavadinimas: 'Gundingenos apgultis ir mūšis Nemuno verpetuose'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Gundingenos apgultis ir mūšis Nemuno verpetuose'
-aliases:
-  - 'Gundingenos apgultis ir mūšis Nemuno verpetuose'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Gundingenos apgultis ir mūšis Nemuno verpetuose (mūšis)
+# Gundingenos apgultis ir mūšis Nemuno verpetuose
 
 ## Santrauka
 
-Kryžėjams apgulus Gundingenos pilį laivais, Vytenis pasiuntė Surminą, o lietuviai Nemune degino ir skandino kryžėjų laivus.
+Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201321"></a>
 - t-001
   global_id: t-201321
-  teiginys: "Kryžėjams apgulus Gundingenos pilį laivais, Vytenis pasiuntė Surminą, o lietuviai Nemune degino ir skandino kryžėjų laivus."
+  teiginys: "Kita dalis kryžėjų kariaunos, patiekusi laivus su palagais, kuriuose nebuvo pavoju nei nuo svilksnių, nei nuo vylyčių, apgulė pilį Gundingenos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184671
 
 ## Citatos
 
 - id: c-184671
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 511"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 511."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lygia dalia antrą
     kartą rudenį sugrįžęs vos ne vos su dideliu vargu
@@ -75,6 +76,7 @@ Nenurodyta
     ras karėj ir ūkė j, brolis Surmino, išverždamas kry­
     žėjams pergalę, gyvybą savo už liuosybę padėjo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

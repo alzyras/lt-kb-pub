@@ -34,6 +34,12 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-001
   global_id: t-186007
   teiginys: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169368
 
@@ -41,6 +47,12 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-002
   global_id: t-186008
   teiginys: "Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169369
 
@@ -48,6 +60,13 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-003
   global_id: t-196539
   teiginys: "Lauras, Traidenio sūnus, prieš Daumanto siekį užimti valdžią jau buvo atsisakęs valdžios ir apsigyvenęs vienuolyne."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178753
 
@@ -55,6 +74,13 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-004
   global_id: t-196540
   teiginys: "Kojelavičiaus pasakojime Lauras, vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir ėmė vadovauti karui prieš Daumantą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169368
 
@@ -62,6 +88,13 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-005
   global_id: t-196541
   teiginys: "Kojelavičius rašo, kad Lauras, paleidęs kariuomenę, nuskubėjo į Kernavę, kur buvo paskirtas susirinkimas karaliui rinkti."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169369
 
@@ -69,6 +102,13 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-006
   global_id: t-196542
   teiginys: "Lauras atsisakė priimti jam siūlytą valdžią, bet sakė neatsisakąs rūpintis tėvyne."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178754
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
@@ -103,6 +143,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     dėlto visi tie, kurie neapkentė Daumanto, o jautė prie-
   citata_rodoma: "Sunkiai užgavo Laurui (žmonės jį va­\ndino Rimantu) širdį žinia apie tėvo nužudymą, tačiau, \nkai jis išgirdo, jog niekingas brolio žudikas trokšta — \nnelyginant atlyginimo už nusikaltimą — valdžios, jo \nskausmas pavirto pykčiu; tokia didelė buvo jo rūs­\ntybė, jog vos gavęs šią žinią, jis paliko vienuolyną, \nsugrįžo į valstybę ir pradėjo vadovauti karui prieš\nišdaviką dėdę. Aišku, didi- \nLauras su m u ša ir nu- \nkai iš pagarbos žuvusiajam \nžu d o D aum antą \nvaldovui rėmė Laurą, nusi­\nsukdami nuo Daumanto, kuris \ndėl daugelio piktadarybių buvo susilaukęs blogos šlo­\nvės, tačiau, nebūdami tikri, kaip baigsis karas, dve­\njojo dėl juodviejų siūlymų, nežinodami, paskui ką eiti. \nRodos, jėgos lygios: vienoje pusėje jaunas kunigaikš­\ntis, narsios širdies, bet nepatyręs, staiga pasitraukęs \nnuo altorių ir atnašavimų ir pasidaręs kariu bei vadu, \no kitoje — nusikaltėlis ir sąmokslininkas, tačiau va­\ndas, praleidęs visą gyvenimą tarp karių ir pavojų."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,6 +178,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     dievai jau davė jiems dovaną — valdovą.
   citata_rodoma: "Bė­\ngančią kariuomenę išžudyti sutrukdė naktis; kitą die­\nną pergalingi kariai, prisikrovę grobio, patraukė į Po­\nlocko kraštą ir vienu užmoju atsiėmė žemes, kurias \nDaumantas anksčiau buvo užgrobęs. Galop paleidęs \nkariuomenę, Lauras nuskubėjo į Kernavę, kur buvo \npaskirtas susirinkimas karaliui rinkti. Ten visi luo­\nmai nuoširdžiai jį sutiko ir \ndžiaugsmingai sveikino; kai \natėjo į tarybą, niekas nega­\nlėjo pasakyti jokių sampro­\ntavimų nė valstybės vardu \npadėkoti."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,6 +208,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     jeigu jie susirinkę ką kita nutartų, tai jis užgrobs val­
     džią ginklu.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +229,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     skirti valdovu nė vieno savo pubrolio, kurie dėl am­
     žiaus per silpni šioms pareigoms.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

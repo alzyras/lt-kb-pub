@@ -32,6 +32,13 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
 - t-001
   global_id: t-194883
   teiginys: "Nužymėti šį prekybos kelią padėjo: Kraus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177279
 
@@ -48,6 +55,7 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
     Geographie. Heft III; Didysis Vokietijos žemėlapis, kur vadovas buvo
     Reichardas, Prie šių aprašymų išdėstyta neabejotinų įrodymų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

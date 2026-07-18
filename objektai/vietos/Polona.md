@@ -32,6 +32,13 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
 - t-001
   global_id: t-199792
   teiginys: "Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Smolenskas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182696
 - susijęs iš [[objektai/asmenys/Grigorijus iš Polonos.md#claim-t-186205|Grigorijus iš Polonos]]: Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
@@ -57,6 +64,7 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
     Jomantui19 ir Boreikos sūnui Vasilijui ".
   citata_rodoma: "Tad atvykite \nvisi pas mane, ir aš išspręsiu jūsų ginčus ir sugrąžinsiu \nbrolišką meilę į jūsų širdis.“ 7  Ir šitaip išviliojęs juos \niš miesto, nes broliai Svetoslavovičiai, juo patikėję, at­\njojo pas jį su dovanomis, kaip ir visi Smolensko kuni­\ngaikščiai ir bajorai, kad nė vieno mieste neliko. O jis, \nvisus juos sučiupęs, ištrėmė į Lietuvą8 , tik vienam ku­\nnigaikščiui Glebui Svetoslavovičiui davė Polonos mies­\ntą 9 , Smolensko didžiąją kunigaikštystę —  kunigaikščiui \nJomantui1 9  ir Boreikos sūnui Vasilijui \"."
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

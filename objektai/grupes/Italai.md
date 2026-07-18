@@ -33,6 +33,13 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
 - t-001
   global_id: t-194862
   teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177258
 - susijęs iš [[objektai/asmenys/Džiovani Ramusio.md#claim-t-191388|Džiovani Ramusio]]: Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais.
@@ -81,6 +88,7 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
     Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
     Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -35,6 +35,14 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-001
   global_id: t-195002
   teiginys: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Mengli Girėjaus veikimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-177387
 
@@ -42,6 +50,12 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-002
   global_id: t-195003
   teiginys: "Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-177388
 
@@ -49,6 +63,14 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-003
   global_id: t-195004
   teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Teiginys aiškiai sieja Mengli Girėjaus artimųjų žūtį su pergalės garso pasklidimu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-177386
 
@@ -56,6 +78,14 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-004
   global_id: t-195005
   teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintas boilerplate ir pataisyta gramatika."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Biti Girėjus|Biti Girėjus]]; mentioned_person: [[objektai/asmenys/Burnaš Girėjus|Burnaš Girėjus]]; mentioned_place: Lietuva; mentioned_place: Sluckas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-177385
 
@@ -63,6 +93,13 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-005
   global_id: t-196558
   teiginys: "Krymo skitai, vadovaujami Biti Girėjaus, nuniokojo Rusią ir įsiveržę į Lietuvą ją nusiaubė beveik iki Vilniaus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178765
 
@@ -70,6 +107,13 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
 - t-006
   global_id: t-196559
   teiginys: "Mengli Girėjus su pagrindinėmis jėgomis apėjo lenkus ir smarkiai užgriuvo dešinįjį Konstantino sparną."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-177386
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
@@ -90,6 +134,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     jūčio viduryje užpuolė Slucką.
   citata_rodoma: "Išklausė\ndangus varguolio maldų. Mengli Girėjaus kariai, veda­\nmi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­\nlos. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,\njaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­\njūčio viduryje užpuolė Slucką."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +160,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     neša.
   citata_rodoma: "Lie­\ntuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,\njiems atiteko dešimt tūkstančių arklių bei didžiulis ir\nįvairus grobis. Garsas apie šią pergalę plačiai paskli­\ndo, be kita ko, ir dėl to, kad mūšio lauke krito trys\nMengli Girėjaus sūnūs bei žentas. Kovoje nedalyvavu­\nsius skitus, kurie ilgai klaidžiojo po visokius pašalius\nbeplėšikaudami, ilgainiui įvairiose vietose išgaudė ir\nišžudė lenkų kariai."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,6 +187,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     kurie pirmieji suklups mūšyje.
   citata_rodoma: "Pra­\nsidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,\nkaip nutraukti apgulą ir su visa kariuomene išžygiuoti\nį žiemos stovyklą. Skitas Mengli Girėjus, pakviestas už\nmokamą atlyginimą į šį karo žygį, įsikūrė su kariais\nnetoli karaliaus stovyklos, tačiau nepradėjo kovoti\nprieš maskvėnus, nors Ostrogiškis atkakliai reikalavo,\nkad įsibrautų į Maskvos kunigaikštystę, mat jis iš\nMaskvos valdovo irgi buvo gavęs nemaža pinigų. Ne­\ntrūko barbarui sumanumo deramai pateisinti savo ne­\nveiklumą, nors, tiesą sakant, jis ketino užpulti tuos,\nkurie pirmieji suklups mūšyje."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,6 +208,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     rėję apie 10000 žirgų.
   citata_rodoma: "Pats žygis\n\nį LDK gilumą prasidėjo gegužės pabaigoje.\nJam vadovavo jaunesnieji Mengli-Girėjaus\nsūnūs Fatihas ir Burnašas. Ekspedicines\npajėgas sudarė maždaug 4000 totorių, tu-\nrėję apie 10000 žirgų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,6 +235,7 @@ Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovo
     juos sumušė: daug skitų paskendo sraunios upės ver­
     petuose, dalis žuvo mūšyje, dalis — bėgant.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

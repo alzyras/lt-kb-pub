@@ -55,9 +55,13 @@ Nenurodyta
 - t-001
   global_id: t-192103
   teiginys: "Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174970
-    - c-175303
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,6 +134,7 @@ Nenurodyta
     davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
   citata_rodoma: "Svarbesni reikalai buvo aptariami susirinki­\nmuose vyresniųjų žmonių, kuriuos karo metu skirdavo at­\nsižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­\ndavo skyrių vadus, kurie vadovavo būriams mūšio lauke."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,6 +167,7 @@ Nenurodyta
     istorinę tiesą.
   citata_rodoma: "Iš šių galingų\nžmonių buvo renkami vyriausieji vadai, kurių vienas buvo\nStinigutas. Svarbesni reikalai buvo aptariami susirinki­\nmuose vyresniųjų žmonių, kuriuos karo metu skirdavo at­\nsižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­\ndavo skyrių vadus, kurie vadovavo būriams mūšio lauke.\n* * *\nV Priedas\nK a i k u rio s p a s ta b o s\napie B a ltijo s jū rą\nSiame\nveikale stengėmės surinkti ir išdėstyti visa\ntai, kas padeda pažinti lietuvių tautos' proistorę, kurią\nnorėjome atskleisti; manytume, jog jau sukaupėme pa­\nkankamai faktų ir, jais remdamiesi, atskleidėme ne vieną\nistorinę tiesą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

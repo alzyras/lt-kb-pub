@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Popiežiaus nurodymas telkti kryžiaus žygį prieš lietuvius ir žemaičius, Dusburgo šaltinio pasakojimu, sukėlė vokiečių, anglų ir vengrų diduomenės reakciją.
+Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c.
 
 ## Teiginiai
 
-<a id="claim-t-201494"></a>
+<a id="claim-t-201434"></a>
 - t-001
-  global_id: t-201494
-  teiginys: "Popiežiaus nurodymas telkti kryžiaus žygį prieš lietuvius ir žemaičius, Dusburgo šaltinio pasakojimu, sukėlė vokiečių, anglų ir vengrų diduomenės reakciją."
+  global_id: t-201434
+  teiginys: "Tuojau ant to balso popiežiaus sukilo ne vien diduomenė vokyčių, anglų, vengrų, bet dar pats 1 Dusburg, c."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184844
+    - c-184784
 
 ## Citatos
 
-- id: c-184844
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 559"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 559."
+- id: c-184784
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vladislovas, paklausęs popiežiaus, sandarą padarė
     ant vienų metų su kryžėjais, kuriuos popiežius dar
@@ -58,8 +63,9 @@ Popiežiaus nurodymas telkti kryžiaus žygį prieš lietuvius ir žemaičius, D
     diduomenė vokyčių, anglų, vengrų, bet dar pats
     1 Dusburg, c. 7—8.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201494
+    - t-201434

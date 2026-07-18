@@ -32,6 +32,13 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - t-001
   global_id: t-190437
   teiginys: "Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173320
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
@@ -151,6 +158,7 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
     aukštomis pareigomis.
   citata_rodoma: "Jokiu bū­\ndu nederėjo paliesti antkapinių statinių; buvo meldžiamasi net\nkapams savo protėvių arba asmenų, atmintinų dėl ypatingų\ndorybių. Lasickis palaikė dievaičio pavadinimu žodį Ežagtdis\n(ežiagulis -R . J.), lietuvių kalba reiškiantį antkapį arba pilka­\npį, kauburį; matyt, dievobaimingas šio žodžio minėjimas, gir­\ndėtas su tam tikromis maldomis, davė pagrindą susidaryti to­\nkiai tyrėjo nuomonei."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

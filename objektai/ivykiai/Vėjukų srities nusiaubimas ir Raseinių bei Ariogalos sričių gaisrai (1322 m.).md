@@ -55,6 +55,19 @@ Nenurodyta
 - t-001
   global_id: t-31505
   teiginys: "1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Ariogala: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ariogala: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kryžiuočių žygio kontekste nurodomas Ariogalos srities nusiaubimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Ariogala (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1322 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33447
 
@@ -74,6 +87,7 @@ Nenurodyta
     tačiau nepaėmė nuo seniau vis puolamos Peštvės.
   citata_rodoma: "Paminėtinas yra 1322 m. žygis, kai riteriai su\nbūriu žymių kryžininkų įsiveržė į Žemaičius ir dažnai lankomoje\nVėjukų srityje (Wayken — į vakarus nuo Raseinių) «tokias sker­\ndynes padarė žmonėms, kad ten tik šlapia (vieta) bepaliko »^4.\nGaisrais nusiaubę Raseinių ir Ariogalos sritis, Dubysos žiotyse jie\ntačiau nepaėmė nuo seniau vis puolamos Peštvės."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

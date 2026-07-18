@@ -55,6 +55,10 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 - t-001
   global_id: t-195549
   teiginys: "Petras tą rudenį išliko nuo rekrutų ir prieš Užgavėnes vedė Oną."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177969
 
@@ -62,6 +66,10 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 - t-002
   global_id: t-195550
   teiginys: "Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177968
 
@@ -69,6 +77,10 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 - t-003
   global_id: t-195551
   teiginys: "1864 m. Petras žemės negavo, nes jo brolis turėjo 24 hektarus."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177966
 
@@ -76,6 +88,10 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 - t-004
   global_id: t-195552
   teiginys: "Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177967
 
@@ -98,6 +114,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     tuo laiku žemės negavo, nes brolis turėjo 24 hektarus.
   citata_rodoma: "1864 metais valdžia neturintiems davinėjo žemės, dirbo bobelius; Petras ir tuo laiku žemės negavo, nes brolis turėjo 24 hektarus."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,6 +137,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     ir gyveno kaip kiti ūkininkai.
   citata_rodoma: "Užėjus 1867 metų badui, bobeliai pigiai pardavinėjo savo bobelynes — ir Petras iš jų nusipirko dvylika hektarų žemės. Padedamas brolio pasistatė trobas ir gyveno kaip kiti ūkininkai."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,6 +157,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     ti apie širdies reikalus šnekėjosi atvirai.
   citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras. Uršulė žinojo, kad Ona ir Petras sau artimi."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,6 +178,7 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
     je, prieš užgavėnes, vedė Oną.
   citata_rodoma: "Petras tą rudenį slėpėsi ir laimingai išliko nuo rekrutų, o mėsėdyje, prieš užgavėnes, vedė Oną."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

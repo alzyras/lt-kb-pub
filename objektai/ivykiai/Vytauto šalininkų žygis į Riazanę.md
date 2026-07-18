@@ -45,6 +45,20 @@ Nenurodyta
 - t-001
   global_id: t-185834
   teiginys: "Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Riazanė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Simonas Lengvenis (valdovas, XIV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Riazanė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Simonui Lengveniui įsakyta pulti Riazanės kunigaikštį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Simonas Lengvenis (valdovas, XIV a.) puolė Riazanė (0.93); Simonas Lengvenis (valdovas, XIV a.) užėmė Riazanė (0.64)"
   pagrindžia:
     - c-169195
 
@@ -75,6 +89,7 @@ Nenurodyta
     n iokoja R iazan ę
     plėšusią kariuomenę.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

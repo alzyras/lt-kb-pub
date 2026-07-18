@@ -1,6 +1,6 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mūšis ties Usviete (mūšis, XIII a.)'
+pavadinimas: 'Mūšis ties Usviete'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 datos:
@@ -8,10 +8,6 @@ datos:
   - '2000 m.'
 date_start: '1225'
 date_end: '2000'
-variantai:
-  - 'Mūšis ties Usviete'
-aliases:
-  - 'Mūšis ties Usviete'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -30,11 +26,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Mūšis ties Usviete (mūšis, XIII a.)
+# Mūšis ties Usviete
 
 ## Santrauka
 
-Daukantas pasakoja, kad 1225 m. Jaroslavas, pasitelkęs kunigaikščius Dovydą ir Vladimirą, ties Usviete susirėmė su grįžtančiais lietuviais; mūšyje, kaip teigiama, žuvo Dovydas ir 2 000 lietuvių raitelių.
+Jaroslavas, kunigaikštis, norėdamas atmonyti tas 1225 nelaimas, patelkęs kunigaikštį Toropeco Dovydą ir kunigaikštį Pleskavo Vladimirą, ėmė vyti lietuvius namo grįžtančius, kuriuos panokęs pirmojoj nedėlioj gavėnios, susigrūmė ties upe Usviete, abi pusi rėmės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,19 +46,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201488"></a>
+<a id="claim-t-201339"></a>
 - t-001
-  global_id: t-201488
-  teiginys: "Daukantas pasakoja, kad 1225 m. Jaroslavas, pasitelkęs kunigaikščius Dovydą ir Vladimirą, ties Usviete susirėmė su grįžtančiais lietuviais; mūšyje, kaip teigiama, žuvo Dovydas ir 2 000 lietuvių raitelių."
+  global_id: t-201339
+  teiginys: "Jaroslavas, kunigaikštis, norėdamas atmonyti tas 1225 nelaimas, patelkęs kunigaikštį Toropeco Dovydą ir kunigaikštį Pleskavo Vladimirą, ėmė vyti lietuvius namo grįžtančius, kuriuos panokęs pirmojoj nedėlioj gavėnios, susigrūmė ties upe Usviete, abi pusi rėmės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184838
+    - c-184689
 
 ## Citatos
 
-- id: c-184838
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 269"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 269."
+- id: c-184689
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gudai patys sa­
     kos, jog lietuviai ir žemaičiai niekuomet jų taip
@@ -81,8 +82,9 @@ Nenurodyta
     denos Vilhelmas, siuntinys popiežiaus, taikino su-
     keršusius kalavijonis su v.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201488
+    - t-201339

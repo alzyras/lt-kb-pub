@@ -33,6 +33,16 @@ media_all_json: |-
 - t-001
   global_id: t-02066
   teiginys: "Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kožnas lietuvininkas, prigulintis ing susivienijimą: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kožnas lietuvininkas, prigulintis ing susivienijimą\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02304
 
@@ -54,6 +64,7 @@ media_all_json: |-
     broliui iš Lietuvos duoti pagelbą".
   citata_rodoma: "Šio Susivienijimo įstatuose buvo įrašytas toksai reika-\nlavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-\nvalo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-\nmėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą\npriklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam\nbroliui iš Lietuvos duoti pagelbą\"."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

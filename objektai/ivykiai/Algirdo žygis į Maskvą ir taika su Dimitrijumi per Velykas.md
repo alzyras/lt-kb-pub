@@ -50,6 +50,17 @@ Nenurodyta
 - t-001
   global_id: t-187467
   teiginys: "Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "sudare_sutarti_su -> Dimitrijus: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dimitrijus: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Algirdo ir Dimitrijaus susitarimą sudaryti taiką."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-170439
 
@@ -89,6 +100,7 @@ Nenurodyta
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   citata_rodoma: "Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­\njojo visokių netikėtumų, ir lietuvis norėjo laiku iš­\nvengti visokių atsitiktinumų, jie be didelio vargo su­\ntarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi­\nmas žymiausiųjų palydovų ir\nT a ik o s ta ip  m a s k v ė -\nbajorų, įžengsiąs į miestą ne­\nrių ir A lg ir d o  s ą ly g o s\nlyginant draugas; tarsi nuga­\nlėtojas jis įsmeigsiąs ietį į\npilies vartus. Lietuvos sienos būsiančios praplėstos li­\ngi Možaisko ir Ugros upės. Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas. Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

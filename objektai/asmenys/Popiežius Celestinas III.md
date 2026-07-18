@@ -33,6 +33,16 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - t-001
   global_id: t-60480
   teiginys: "Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Celestinas III: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Popiežius Celestinas III: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Celestinas III: mention_match, person, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Popiežius Celestinas III\" parinktas kaip owner_note_path. Targetas \"Celestinas III\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-61112
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60225|Celestinas III]]: Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.
@@ -66,6 +76,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   citata_rodoma: "Pirmosios dalies\nįvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.\nseptyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje\nįkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis\nšulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,\nVokietijai, Austrijai ir kt."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

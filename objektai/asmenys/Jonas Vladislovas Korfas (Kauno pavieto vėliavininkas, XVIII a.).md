@@ -40,6 +40,17 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
 - t-001
   global_id: t-200504
   teiginys: "Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183865
 
@@ -47,6 +58,21 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
 - t-002
   global_id: t-200505
   teiginys: "1749 m. Jonas Vladislovas Korfas perėmė nenurodytą sumą ir vėliau turėjo perduoti pinigus Liudvikai Sapiegaitei Potockai."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Belzas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Belzas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Vladislovas Korfas (Kauno pavieto vėliavininkas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Belzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta klaida: citata kalba apie nenurodytą, o ne nurodytą sumą. Pridėta data ir aiškiai įvardyta gavėja."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183865
 - susijęs iš [[objektai/asmenys/Adomas Chmara (Minsko vaivada, 1720–1805).md#claim-t-200461|Adomas Chmara (Minsko vaivada, 1720–1805)]]: Adomas Chmara kurį laiką buvo Mykolo Antano Sapiegos sekretorius.
@@ -66,6 +92,7 @@ Jonas Vladislovas Korfas buvo Kauno pavieto vėliavininkas. 1749 m. Jonas Vladis
     dytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7].
   citata_rodoma: "1749 m. J. D. Lopacinskis Belzo\nvaivadienei Liudvikai Sapiegaitei Potockai rašė, kad turįs garbės pareikšti, kad Kauno\npavieto vėliavininkas Jonas Vladislovas Korfas (Jan Wladysław Korf) perėmė nenuro-\ndytą sumą į savo rankas, o vėliau pinigus turėjo perduoti minėtai didikei [7]."
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

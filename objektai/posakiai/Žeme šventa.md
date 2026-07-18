@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Per Žemės šventę šeimininkai turėjo vaišinti savo šeimyną, o susipykę žmonės – susitaikinti.
+Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusieji tarp savęs susitaikinti.
 
 ## Teiginiai
 
-<a id="claim-t-201485"></a>
+<a id="claim-t-201262"></a>
 - t-001
-  global_id: t-201485
-  teiginys: "Per Žemės šventę šeimininkai turėjo vaišinti savo šeimyną, o susipykę žmonės – susitaikinti."
+  global_id: t-201262
+  teiginys: "Ant tos šventės turėjo gaspadoriąi savo šeimyną nuvaišinti ir susibarusieji tarp savęs susitaikinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184835
+    - c-184612
 
 ## Citatos
 
-- id: c-184835
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 108"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 108."
+- id: c-184612
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant tos
     šventės turėjo gaspadoriąi savo šeimyną nuvaišinti
@@ -49,8 +54,9 @@ Per Žemės šventę šeimininkai turėjo vaišinti savo šeimyną, o susipykę 
     maldos palaikas; alus dar buvo vadinamas žemge-
     rinis, kurį darė tai šventei.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201485
+    - t-201262

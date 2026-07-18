@@ -52,6 +52,10 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
 - t-001
   global_id: t-195268
   teiginys: "Leiba nešiojo tik mastines prekes."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177636
 
@@ -59,14 +63,22 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
 - t-002
   global_id: t-195269
   teiginys: "Leiba gyveno santaikoje su kaimynais ir atpildydavo už talką."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177633
     - c-177635
+    - c-177633
 
 <a id="claim-t-195270"></a>
 - t-003
   global_id: t-195270
   teiginys: "Leiba ilgai nešiojo kromą ir vaikams tapo beveik kromininko vardo sinonimu."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177634
 - susijęs iš [[objektai/asmenys/Leibienė (Leibos žmona).md#claim-t-195279|Leibienė (Leibos žmona)]]: Leibienė nešiojo kromą kita pakraipa negu Leiba.
@@ -85,6 +97,7 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     mas, ką užtai gaus — ir Leiba visada už talką atpildydavo.
   citata_rodoma: "Leiba visada už talką atpildydavo."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,6 +120,7 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     mažiems, kromininkas ir Leiba buvo lygios sąvokos.
   citata_rodoma: "Leiba ilgai gyveno, ligi gilios senatvės nešiojo kromą, mums, mažiems, kromininkas ir Leiba buvo lygios sąvokos."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,6 +140,7 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     vo, niekam neužkliūdavo.
   citata_rodoma: "Leiba gyvendavo su kaimynais santaikoje: visiems nusilenkdavo, niekam neužkliūdavo."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +166,7 @@ Leiba aprašomas kaip kaimo kromininkas, nešiojęs mastines prekes, ilgai vert�
     Leiba nešiojo tik mastines prekes.
   citata_rodoma: "Leiba nešiojo tik mastines prekes."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,18 @@ Nenurodyta
 - t-001
   global_id: t-187495
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Rygiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tautvilos krikštas Rygoje (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Rygiečiai: mention_match, group, gap=63"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautvilos krikštas Rygoje (krikštas)\" parinktas kaip owner_note_path. Targetas \"Rygiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-170454
 
@@ -67,6 +79,7 @@ Nenurodyta
     ir jis buvo pakrikštytas.
   citata_rodoma: "Iš ten Tautvilą su Danieliui skirtais belaisviais nu-\nvyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme, \nir jis buvo pakrikštytas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

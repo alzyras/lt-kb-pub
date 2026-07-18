@@ -33,6 +33,17 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - t-001
   global_id: t-59158
   teiginys: "Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Teutonai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad Prūsijos žemė buvo anksčiau atiduota Teutonų ordino broliams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prūsija priklausė Teutonai (0.72)"
   pagrindžia:
     - c-59790
 
@@ -86,6 +97,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
     siautėjo karas.
   citata_rodoma: "Jie ir paprašė minėtąjį kunigaikštį pastatydinti\njiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,\nprisimindamas šiuos poeto žodžius:\n\n               Pusę darbo padaro tasai, kas netrunka jo imtis —\n\n  sutelkė savo žmones ir prieš dabartinį Torunės miestą pastatė ant kalvos jiems pilį,\n\n  179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,\nkas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

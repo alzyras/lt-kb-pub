@@ -35,6 +35,20 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
 - t-001
   global_id: t-200805
   teiginys: "Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika galėjo turėti reikšmės Jogailaičių ryšiai su Niderlandais."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Niderlandai (vieta): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Niderlandai (vieta)\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
   pagrindžia:
     - c-184150
 - susijęs iš [[objektai/asmenys/Margarita Austrijietė Savojietė.md#claim-t-200870|Margarita Austrijietė Savojietė]]: Margaritos Austrijietės Savojietės giminystė su paskutiniaisiais Jogailaičiais galėjo sietis su Niderlandų įtaka Šv. Onos bažnyčios fasadui.
@@ -53,6 +67,7 @@ Vorobjovas svarstė, kad šv. Onos bažnyčios sąryšiui su Flandrijos gotika g
     vietininke, Margarita Austrijiete Savojiete, ir gyvi abiejų dvarų tarpusavio
     santykiai. Bet ir tuo atveju nepaprastas šv.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

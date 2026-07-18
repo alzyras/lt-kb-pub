@@ -49,6 +49,9 @@ Nenurodyta
 - t-001
   global_id: t-66463
   teiginys: "1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66692
 
@@ -56,6 +59,9 @@ Nenurodyta
 - t-002
   global_id: t-66464
   teiginys: "Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-66691
 
@@ -73,6 +79,7 @@ Nenurodyta
     rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
     konfederaciją jam paremti.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +103,7 @@ Nenurodyta
     puliarus.
   citata_rodoma: "Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-\nsoje Respublikos istorijoje: joje viską lėmė papirkimai. Iš\ndaugybės kandidatų (jų\nbuvo net 18) stipriausi\natrodė Prancūzų princas\nKontys _(de Conti)_ ir Au-\nstrų remiamas velionies\nkaraliaus sūnus Jokūbas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

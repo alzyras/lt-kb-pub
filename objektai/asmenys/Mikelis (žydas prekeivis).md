@@ -57,6 +57,10 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
 - t-001
   global_id: t-195265
   teiginys: "Mikelio verslas buvo po aplinkinius kaimus nešioti silkes ir buiką."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177631
 
@@ -64,6 +68,10 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
 - t-002
   global_id: t-195266
   teiginys: "Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177632
 
@@ -71,6 +79,10 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
 - t-003
   global_id: t-195267
   teiginys: "Mikelio veikla pasakojime siejama su 1858 m. blaivybės metais."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177630
 
@@ -89,6 +101,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     ti vyskupo Motiejaus Valančiaus, tai 1858 metai.
   citata_rodoma: "Buvo tai blaivybės metai, paskelb­ti vyskupo Motiejaus Valančiaus, tai 1858 metai."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +123,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     kes ir buikas po aplinkinius kaimus.
   citata_rodoma: "Jo verslas buvo nešioti sil­kes ir buikas po aplinkinius kaimus."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +144,7 @@ Mikelis šiame pasakojime minimas kaip žydas nuomininkas ir smulkus prekeivis, 
     maža vaikų.
   citata_rodoma: "Antras nuomininkas buvo žydas, Mikelis, jis turėjo pačią ir ne­maža vaikų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,16 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 - t-001
   global_id: t-87908
   teiginys: "Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Henrikas V: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas V\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83887
 
@@ -60,6 +70,7 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
     B. 4, p. 163.
   citata_rodoma: "86\nVytautui nebuvo svetimi ir moks­\nlai, bent jau tokie, kokie XIV ir XV \namžiuje galėjo būti. Anglijos istori­\njoje yra išlikusių pėdsakų, kad \nanuomet žymus tos tautos teologas \nTomas YValdenas, garsus savo dis­\nputais su Viklifo sekėjais ir husitais,\nkurį Anglijos karalius Henrikas V \nbuvo pasitelkęs į Vladislovo Jogai­\nlos derybas su kryžiuočiais, kiek lai­\nko viešėjęs Vytauto rūmuose ir mo­\nkęs jį krikščioniško tikėjimo tiesų. \nŽr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

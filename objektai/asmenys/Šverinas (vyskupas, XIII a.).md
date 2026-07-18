@@ -35,24 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Šveriną vaizduoja kaip 1294 m. po Fechteno mirties su kalavijuočiais nesusitaikiusį arkivyskupą, patvirtinusį sandoras su lietuviais ir žemaičiais.
+Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė.
 
 ## Teiginiai
 
 <a id="claim-t-201414"></a>
 - t-001
   global_id: t-201414
-  teiginys: "Daukantas Šveriną vaizduoja kaip 1294 m. po Fechteno mirties su kalavijuočiais nesusitaikiusį arkivyskupą, patvirtinusį sandoras su lietuviais ir žemaičiais."
+  teiginys: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184764
-- susijęs iš [[objektai/asmenys/Dumpeshagenas (vyskupas, XIII a.).md#claim-t-201408|Dumpeshagenas (vyskupas, XIII a.)]]: Daukantas pasakoja, kad naujasis kalavijonų mistras Dumpeshagenas, padedamas Tarapato vyskupo, mėgino kitus vyskupus atskirti nuo Rygos arkivyskupo reikalo.
-- susijęs iš [[objektai/asmenys/Fechtenas (vyskupas, XIII a.).md#claim-t-201413|Fechtenas (vyskupas, XIII a.)]]: Daukanto pasakojime Rygos arkivyskupas Fechtenas mirė 1294 m., konfliktui su kalavijuočiais dar nesibaigus.
+
 ## Citatos
 
 - id: c-184764
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 488"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 488."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vos buvo
     beketąs naujasis mistras Dumpeshagenas su pagal­
@@ -79,6 +83,7 @@ Daukantas Šveriną vaizduoja kaip 1294 m. po Fechteno mirties su kalavijuočiai
     ištiko, bet, ant nelaimos, negal rasti aiškiai išra­
     šytų tų mūšų.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

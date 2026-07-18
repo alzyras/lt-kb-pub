@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Vida žiemą su kryžėjų ir sąjungininkų pajėgomis pasaloje puolė Grevos pilį ir, iškirtęs ar pavergęs įgulą, ją užėmė.
+Kaipogi tebesikaulijant Sviatopelkui su kryžėjais, Vida, jų rėdytojas, sukėlė visą savo galybę, kursai, susinėręs su meldžionimis, gulė į Pamezoniją lietuvių kariauti žiemos vidų, nuty kinęs pasalu pas pilį Grevą (Christburgą), kurios įgulė, nuvargusi.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201320"></a>
 - t-001
   global_id: t-201320
-  teiginys: "Vida žiemą su kryžėjų ir sąjungininkų pajėgomis pasaloje puolė Grevos pilį ir, iškirtęs ar pavergęs įgulą, ją užėmė."
+  teiginys: "Kaipogi tebesikaulijant Sviatopelkui su kryžėjais, Vida, jų rėdytojas, sukėlė visą savo galybę, kursai, susinėręs su meldžionimis, gulė į Pamezoniją lietuvių kariauti žiemos vidų, nuty kinęs pasalu pas pilį Grevą (Christburgą), kurios įgulė, nuvargusi."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184670
 
 ## Citatos
 
 - id: c-184670
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 334"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 334."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rasi būt ir suderėjęs,* jei kry-
     žėjai būt tą darę, ką buvo prižadėję, tai yra jo
@@ -68,6 +73,7 @@ Nenurodyta
     Pamezoniją drausti trakuojančių lietuvių, kurie jo
     nenorėjo klausyti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -41,6 +41,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-001
   global_id: t-192169
   teiginys: "Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175048
 
@@ -48,6 +54,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-002
   global_id: t-192170
   teiginys: "Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys pilnai atitinka citatoje suformuluotą sprendimą dėl kapitulos jurisdikcijos."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175047
 
@@ -55,6 +67,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-003
   global_id: t-192171
   teiginys: "Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis tekstas buvo negrabiai nukopijuotas, citata palaiko aiškesnį sakinį."
+  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono bursos"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175046
 
@@ -62,6 +80,15 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-004
   global_id: t-192172
   teiginys: "1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1578 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175044
 
@@ -69,6 +96,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-005
   global_id: t-192173
   teiginys: "Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citatoje nurodytu tarėjų reikalavimu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-175045
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87447|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.
@@ -104,6 +137,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: "1578 metais Karalius Steponas Batoras, šias funduotas mo­\nkyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­\nmijoms, o išskirtinai Krokuvos, prilygino. Profesorius ir stu­\ndentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei \njurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­\ndė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­\ndemijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­\nskyrė. Tokią privilegiją Grigalius XIII bule aprobavo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,6 +177,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     paprotį, iki šiol tvirtai saugotą.
   citata_rodoma: "Savo ir minėto miesto vardu [ta­\nrėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos \njurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai \nsavo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, \nkad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus \nvyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­\nnigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­\nvavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek \ntik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­\nteikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo \nMotiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­\nvo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­\nras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­\nkupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo \nlegatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises, \nir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad \nprasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­\nmo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus \nkapitulai, jos turtui bei valdiniams. O [vaitas ir tarėjai] nesi­\nlaikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­\ntogią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­\nčiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines \ncenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu \nar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­\nniaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal \npaprotį, iki šiol tvirtai saugotą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -173,6 +208,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     sų įpėdinių rūpesčiui ir malonei.
   citata_rodoma: "Šio pobūdžio studentų bendriją (congregatio) ir mi­\nnėtą namą troškome ir labai norime pavadinti Valerijono \nBursa. Toliau dėl tų namų, kuriuos pačiai Bursos studentų \nbendrijai davėme ir užrašėme, jurisdikcijos: kadangi namai \nstovi, žinoma, vyskupijos žemėje, nenorėdami dėl šio daly­\nko mūsų įpėdiniams padaryti žalos, jiems ir jų garbingie­\nsiems pareigūnams paliekame nepakeistą jurisdikcijos ga­\nlią: ir nuomininkai, kurie nuomos minėtus namus, \nprivalomus mokesčius ir duokles, kurias kiti Vilniaus pilie­\nčiai, mūsų valdiniai, moka, prakilniausiems mūsų įpėdi­\nniams taip pat mokėti privalės, išskyrus činšą, kurį privalo \nkasmet atiduoti į tėvo Rektoriaus rankas Bursos studentų \nišlaikymui. O jei pati Bursa ir minėti namai Dievo skirtos \nnelaimės atveju patirtų nepriteklių, norime, kad iš tų namų \npajamų ar činšo, koks tik gali būti surinktas, būtų išsaugota \ngera namų būklė; tai maldingai patikime prakilniausiųjų mū­\nsų įpėdinių rūpesčiui ir malonei."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -196,6 +232,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     sų ar mūsų pirmtakų nėra suteikta.
   citata_rodoma: "Nusprendėme ir šiuo raštu nu­\nsprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­\nnytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su \nekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­\ntintą Apaštalų Sosto, turėti ir ja laisvai naudotis gali ir pri­\nvalo. Ir todėl tos pačios kapitulos priimtas sprendimas eks­\nkomunikuoti miesto tarnus už plėšikavimą buvo gerai ir \npagal įstatymus mestas ir išplatintas. O Vilniaus gyvento­\njams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­\nsų ar mūsų pirmtakų nėra suteikta."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -227,6 +264,7 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     mo ir kilmės žmonėms.
   citata_rodoma: "Taigi mes jo \nteisėtam prašymui pritardami ir, norėdami sustiprinti Die­\nvo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­\nriame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­\nčios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje, \nkuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­\nvių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­\nsos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas \nturėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir \njo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­\nsą valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją. \nLeidžiame jas mėsininkams, kuriems tik norėtų, savo nuo­\nžiūra, išnuomoti ar juos samdyti, taip pat tose pačiose mėsi­\nnėse galvijus, gyvulius, laukinius gyvūnus ir visokių rūšių \nnupenėtus naminius gyvūnus pirkti, parduoti, skersti, mė­\nsą laisvai išdėstyti ir ja prekiauti, nekliudant mūsų Vilniaus \npiliečiams ir bet kokiems kitiems, bet kokios padėties, luo­\nmo ir kilmės žmonėms."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

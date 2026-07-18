@@ -54,6 +54,20 @@ Nenurodyta
 - t-001
   global_id: t-189658
   teiginys: "Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Varpai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvių pilių varpai žadintojai ir gumbai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Varpai: mention_match, thing, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių pilių varpai žadintojai ir gumbai\" parinktas kaip owner_note_path. Targetas \"Varpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172541
 
@@ -61,6 +75,13 @@ Nenurodyta
 - t-002
   global_id: t-194615
   teiginys: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177014
 
@@ -105,6 +126,7 @@ Nenurodyta
     l ‘A colio storio, svėrė kelias dešimtis svarų; matyti, kad pri­
     klausė didžiuliam varpui.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,6 +154,7 @@ Nenurodyta
     trumpai pasimeldžia ir patyli akis nukreipę į krosnį.
   citata_rodoma: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,\nskirtų tam tikroms religinėms apeigoms. Scholastas Teokritas\npaliko žinią, kad varpai priklausė dievų Kabirų garbinimo pa­\nslaptingoms apeigoms, kadangi manyta, jog vario skambėji­\nmas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja\npiktąsias dvasias. Taigi buvo skambinama ir numirus stabmel­\n162\n\n## Puslapis 162\n\ndžiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­\ntų gongais."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

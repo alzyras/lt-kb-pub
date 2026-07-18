@@ -51,6 +51,10 @@ Aiški socialinė prašymo formulė.
 - t-001
   global_id: t-195441
   teiginys: "Cituoja elgetos prašymo formulę."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177862
 
@@ -73,6 +77,7 @@ Aiški socialinė prašymo formulė.
     jį už durų.
   citata_rodoma: "elgeta ima prašyti: „Poniutyte brangiausioji, išgadyk uždarėlio kruopytę mano sausystei.“"
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

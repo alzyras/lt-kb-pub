@@ -55,6 +55,16 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-001
   global_id: t-54804
   teiginys: "Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje."
+  atnaujinta: "2026-05-27 07:20"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Cechas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vokietija: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cechas\" parinktas kaip owner_note_path. Targetas \"Vokietija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55801
 
@@ -62,6 +72,17 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-002
   global_id: t-54805
   teiginys: "Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų."
+  atnaujinta: "2026-05-27 07:20"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miesto cechai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Vilniaus miesto cechus, todėl jų priklausymas Vilniui yra pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus miesto cechai priklausė Vilnius (0.78)"
   pagrindžia:
     - c-55800
 
@@ -69,6 +90,17 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-003
   global_id: t-54806
   teiginys: "Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.74"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus miesto auksakalių cechas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pats kandidato pavadinimas ir claimas nurodo, kad tai Vilniaus miesto auksakalių cechas, todėl grupė siejama su Vilniumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus miesto auksakalių cechas priklausė Vilnius (0.74)"
   pagrindžia:
     - c-55802
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
@@ -95,6 +127,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     sų antspaudas rašto apačioje yra įspaustas.
   citata_rodoma: "Mes su \nsavo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­\njų pusių ginčus, pamatę atneštas abiejų pusių privilegijas, \nmūsų pirmtako šv. atminties karaliaus Vladislovo duotas ir \nleistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­\npui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje \npaliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­\ntus, priklausančius Vilniaus vyskupijos jurisdikcijai, nuo bet \nkokios pasaulietinės mūsų Vilniaus miesto jurisdikcijos ir \nVilniaus miesto cechų skelbiame esančius laisvus pagal mū­\nsų dekretą amžiniems laikams."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,6 +154,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     pų jurisdikcijų ir įgijo savas.
   citata_rodoma: "XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­\ntvirtino Vokietijos miestuose, sekant Italijos ir Prancūzijos pa­\nvyzdžiu, čia pradėta steigti cechus ir naudotis gautomis \nprivilegijomis; XIII amžiuje didelė jų dalis išsivadavo iš vysku­\npų jurisdikcijų ir įgijo savas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,6 +181,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     jo.
   citata_rodoma: "pagal minėtos privilegijos nuostatus buvo įprasta laikytis, \nsavą auksakalystės meną atskirai nuo cecho narių neapgal­\nvotai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius, \nbe jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik \nnorėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė \nnegerbdamas privilegijų, leistų minėtam cechui, kaip visa \ntai mūsų šaukime į teismą aiškiau yra aprašyta."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

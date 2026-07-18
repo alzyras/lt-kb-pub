@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad lybiešai, vadinti kuresajar, nuo neatmenamų laikų gyveno pajūryje tarp upių, o jų kraštas vadinosi kuriesais arba kuržemiais.
+Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių.
 
 ## Teiginiai
 
 <a id="claim-t-201250"></a>
 - t-001
   global_id: t-201250
-  teiginys: "Daukantas rašo, kad lybiešai, vadinti kuresajar, nuo neatmenamų laikų gyveno pajūryje tarp upių, o jų kraštas vadinosi kuriesais arba kuržemiais."
+  teiginys: "Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184600
-- susijęs iš [[objektai/asmenys/Meinhardas.md#claim-t-201013|Meinhardas]]: Daukantas Meinhardą pristato kaip augustijonų kunigą, kuris, pramokęs vietos kalbos, pradėjo skelbti Dievo žodį žemgaliams ir lybiešams.
+
 ## Citatos
 
 - id: c-184600
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 130"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 130."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliais vadinos žemaičių saulėtekinis galas,
     tai yra gyvenančių paventy ir padaugavy. Nes jog
@@ -63,6 +68,7 @@ Daukantas rašo, kad lybiešai, vadinti kuresajar, nuo neatmenamų laikų gyveno
     yra Kuršu, noris gyventojai daugiaus žemgaliai ir
     žemaičiai, ne kuresarai buvo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,9 +51,13 @@ Nenurodyta
 - t-001
   global_id: t-195315
   teiginys: "Piemens aprangos detalė ir jos dėvėjimo būdas."
+  atnaujinta: "2026-07-12 01:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177698
     - c-177699
+    - c-177698
 - susijęs iš [[objektai/asmenys/Grigoras (našlys samdinys).md#claim-t-195543|Grigoras (našlys samdinys)]]: Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių.
 - susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195364|Piemenų samdymo ir apmokėjimo tvarka]]: Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa.
 ## Reikšmingi paminėjimai
@@ -73,6 +77,7 @@ Nenurodyta
     blauzdų.
   citata_rodoma: "Kelnės visada parištos virvele prie blauzdų."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -92,6 +97,7 @@ Nenurodyta
     kinius ir kelnes gauna pasavaičiui.
   citata_rodoma: "Kur valgo, ten gauna viršutinį apsiaustą, bet marškinius ir kelnes gauna pasavaičiui."
   statusas: verified
+  atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

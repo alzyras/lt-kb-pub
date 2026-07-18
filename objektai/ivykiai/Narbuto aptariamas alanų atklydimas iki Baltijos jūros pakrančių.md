@@ -44,6 +44,12 @@ Nenurodyta
 - t-002
   global_id: t-197547
   teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-179240
 
@@ -51,6 +57,11 @@ Nenurodyta
 - t-001
   global_id: t-191032
   teiginys: 'Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys aiškiai perteikia Narbuto aiškinimą apie alanus, stavanus ir galindus. Interpretacinė dalis jau atribuuota, papildomų chronologinių detalių nepridėta.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Europa; mentioned_place: Stavanija'
   pagrindžia:
     - c-173914
 
@@ -79,8 +90,8 @@ Nenurodyta
 
     lėn.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +117,7 @@ Nenurodyta
     vadina Litalain ir šiuo žodžiu supranta Lietuvos dalį, ku­
     ri dabar sudaro Ukmergės apskritį*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

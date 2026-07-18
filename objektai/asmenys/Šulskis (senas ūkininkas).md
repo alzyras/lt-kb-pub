@@ -52,6 +52,10 @@ media_all_json: |-
 - t-001
   global_id: t-195281
   teiginys: "Šulskis pats pasakoja, kaip iš berno gavo gyvenimą ir pastojo ūkininku."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177647
 
@@ -59,6 +63,10 @@ media_all_json: |-
 - t-002
   global_id: t-195282
   teiginys: "Šulskiukas minimas kaip turintis pinigų ir javų bei galintis užmokėti pono nuomą."
+  atnaujinta: "2026-07-12 01:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177646
 
@@ -76,6 +84,7 @@ media_all_json: |-
     tegul pusę dubos valdo.“ Taip ir padarė.
   citata_rodoma: "Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“"
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +111,7 @@ media_all_json: |-
     gavo gyvenimą ir pastojo ūkininku.
   citata_rodoma: "Štai senas Šulskis pasakoja, kaip jis buvęs bernu, gavo gyvenimą ir pastojo ūkininku."
   statusas: verified
+  atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

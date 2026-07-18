@@ -47,6 +47,11 @@ Nenurodyta
 - t-001
   global_id: t-189678
   teiginys: 'Narbutas Buthstunką vadina Krivių Krivaičio valdžios ženklu: ąžuoline dvasininko lazda su trišake viršūne ir trimis kutais.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Nutrūkęs lotyniškas aprašas pakeistas glaustu lietuvišku sakiniu. Religinis statusas ir valdžios ženklo reikšmė pateikti kaip Narbuto apibūdinimas.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Buthstus|Buthstus]]'
   pagrindžia:
     - c-172561
 
@@ -81,6 +86,7 @@ Nenurodyta
     ci quaerci, supra quem sunt duae virgae, dispo­
     sitae in formam rami bifurci.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

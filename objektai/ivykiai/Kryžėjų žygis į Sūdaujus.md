@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime kryžėjai, nesitikėdami vienu žygiu užkariauti sūduvių, 1277 m. antpuoliais niokojo Kiemenavos sritį.
+Nevildamies kryžėjai vienu žygiu sūdaujų už kariauti norėjo bent kaip taip juos trukinti, idant jie neturėtų pragumo eiti terioti kryžėjų krašto.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,16 +47,21 @@ Nenurodyta
 <a id="claim-t-201289"></a>
 - t-001
   global_id: t-201289
-  teiginys: "Daukanto pasakojime kryžėjai, nesitikėdami vienu žygiu užkariauti sūduvių, 1277 m. antpuoliais niokojo Kiemenavos sritį."
+  teiginys: "Nevildamies kryžėjai vienu žygiu sūdaujų už kariauti norėjo bent kaip taip juos trukinti, idant jie neturėtų pragumo eiti terioti kryžėjų krašto."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184639
 
 ## Citatos
 
 - id: c-184639
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 448"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 448."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gyventojai pa­
     tys už visus lietuvius juo kantresni ir narsesni ir
@@ -76,6 +81,7 @@ Nenurodyta
     riojo, pasalu antpuolęs bedirbančius žmones vienus
     iškirto, kitus į vergus pavarė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

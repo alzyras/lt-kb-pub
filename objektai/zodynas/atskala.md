@@ -39,6 +39,22 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
 - t-001
   global_id: t-185347
   teiginys: "Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskala: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskala\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1424 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia faktą apie popiežiaus laišką ir husitų atskalą."
   pagrindžia:
     - c-168708
 
@@ -46,6 +62,19 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
 - t-002
   global_id: t-185348
   teiginys: "Karaliui Augustui slepiant Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, pasklido gandai apie jo perėjimą į liuteronų atskalą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "atskala: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=122"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskala\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168709
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
@@ -154,6 +183,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
     nimų apie turėtą galią, jis sugalvojo grįžti į Čekiją.
   citata_rodoma: "Sužinojo apie tai Vytautas ir gal savo noru, o gal —\n1424 m eta i\nŽ y g im a n ta s\nK a rib u ­\nta m s  a tšau kiam as iš\nČ e k ijo s\n407\n\n## Puslapis 406\n\nV y ta u ta s\njį\nsu laiko\nL ie tu v o je\nšitai, regis, patikimesnė prie­\nžastis — iš pagarbos popie­\nžiui visomis jėgomis stengėsi\nsulaikyti Kaributaitį Lietuvo­\nje. Mat jis pats buvo gavęs iš popiežiaus Martyno V\nlaišką, kuriuo, kaip katalikiškojo krašto valdovas, buvo\nraginamas daugiau neremti husitų atskalos ir per Kari­\nbutaitį nepalaikyti čekų maišto. Kai Kaributaitis apri­\nmo ir pakluso Vytautui, kryžiuočiai noriau ėmė vykdy­\nti neseniai sudarytus susitarimus ir pažadus."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +216,7 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
     tą dvidešimt lengvųjų, gausybę parako bei sviedinių.
   citata_rodoma: "Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­\nsirūpino sutvarkyti šį reikalą, bijodami, kad jų bend­\nrininkai Kunheimas ir Štrubicas, nepatekę į šventojo\nR y g o s k a te d ro s k o le ­\ng ija  a tsisa k o  k a ta lik ų\ntik ė jim o\n738\n\n## Puslapis 737\n\nturto dalybas, nepradėtų ginčo ir neatimtų to, ką už­\ngrobė asmeniško godumo skatinami. Jų atsimetimą nuo\nprosenelių tikėjimo karalius Augustas slėpė net ir\nLietuvoje, ir štai dėl to pasklido apie jį žmonėse viso­\nkių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.\nŽmonės dar labiau patikėjo šiais gandais, kai jis ga­\nlop ryžosi įvykdyti prieš kelerius metus sugalvotą su­\nmanymą ir atvirai išsiskyrė su austrų kunigaikštyte\nKotryna."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

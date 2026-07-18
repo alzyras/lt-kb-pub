@@ -41,6 +41,12 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61239
   teiginys: "J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1235-1308; įvykio data: 1308 m.; įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko šaltinio temą, autorių, leidimo vietą ir metus."
   pagrindžia:
     - c-61871
 
@@ -58,6 +64,7 @@ Dusburgietis teigia, kad powierski J.
     1977, 11, s.
   citata_rodoma: "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków\npolsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.\n  Powierski J."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

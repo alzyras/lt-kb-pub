@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas muštinį priskyrė prie lietuviškų pinigų pavadinimų kartu su graižiu, skatiku ir nauda.
+Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skatikas, nauda, manta, arba pi ningai, kiekvienas regi, jog žodžiai nauda, graižis, muštinis, skatikas yra ne svetimi, bet lietuviški.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,16 +49,21 @@ Nenurodyta
 <a id="claim-t-201367"></a>
 - t-001
   global_id: t-201367
-  teiginys: "Daukantas muštinį priskyrė prie lietuviškų pinigų pavadinimų kartu su graižiu, skatiku ir nauda."
+  teiginys: "Veizint į žodžius Lietuvos kalbos: graižis, arba graižinys, muštinis, skatikas, nauda, manta, arba pi ningai, kiekvienas regi, jog žodžiai nauda, graižis, muštinis, skatikas yra ne svetimi, bet lietuviški."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184717
 
 ## Citatos
 
 - id: c-184717
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 126"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 126."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Veizint į žodžius Lietuvos kalbos: graižis, arba
     graižinys, muštinis, skatikas, nauda, manta, arba pi­
@@ -74,6 +79,7 @@ Nenurodyta
     paskui pusę svaro. Tas graižis buvo įkapotas, nuo
     ko skaitės tiek ir tiek kapų graižinių.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

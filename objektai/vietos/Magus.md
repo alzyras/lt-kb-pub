@@ -41,6 +41,20 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 - t-001
   global_id: t-32331
   teiginys: "Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Latviai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Magus: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Žemė „Magus“ apibūdinta kaip latvių plotų dalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Magus priklausė Lietuviai (0.78); Magus priklausė Latviai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1100-1166"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus."
   pagrindžia:
     - c-33938
 
@@ -62,6 +76,7 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
     lietuvių-latvių plotais.
   citata_rodoma: "Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­\nlapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma\nlietuvių-latvių plotais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

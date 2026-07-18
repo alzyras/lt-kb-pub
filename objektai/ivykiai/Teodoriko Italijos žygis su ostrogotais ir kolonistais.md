@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-191053
   teiginys: 'Narbuto pasakojime Teodoriko Italijos žygį, pradėtą viduržiemį, lėtino dengti vežimai, įranga, kalnų keliai, šalčiai, sniegas ir gepidų bei bulgarų pasipriešinimas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys pilnas ir aiškiai pateikia Narbuto pasakojimo aplinkybes. Kliūtys ir pasipriešinimas palikti kaip šaltinio naratyvas.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_place: Italija'
   pagrindžia:
     - c-173935
 
@@ -68,6 +73,7 @@ Nenurodyta
     gepidų, vėliau ir bulgarų priešinimasis nesukliudė prasi­
     veržti net iki Italijos sienų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

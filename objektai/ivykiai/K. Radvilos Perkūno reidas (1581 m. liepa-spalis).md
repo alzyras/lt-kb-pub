@@ -55,6 +55,20 @@ Nenurodyta
 - t-001
   global_id: t-78613
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "keliavo_i -> Starica: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Starica: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Radvilos pajėgų judėjimą Staricos kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Radvilos keliavo į Starica (0.80); Radvilos puolė Rževas (0.72); Radvilos užėmė Urdomas (0.64)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-75841
 
@@ -62,6 +76,19 @@ Nenurodyta
 - t-002
   global_id: t-78614
   teiginys: "1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila Perkūnas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kristupas Radvila Perkūnas sumušė rusų dalinį, todėl karinis priešiškumas aiškus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kristupas Radvila Perkūnas kariavo prieš Rusai (0.84); Kristupas Radvila Perkūnas keliavo į Rusija (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-11847
 
@@ -69,6 +96,17 @@ Nenurodyta
 - t-003
   global_id: t-78615
   teiginys: "Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "keliavo_i -> Rževas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kristupas Radvila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rževas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Kristupo Radvilos judėjimą Rževo kryptimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kristupas Radvila keliavo į Rževas (0.86); Kristupas Radvila keliavo į Rusija (0.83)"
   pagrindžia:
     - c-11847
 
@@ -76,6 +114,20 @@ Nenurodyta
 - t-004
   global_id: t-78616
   teiginys: "Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "uzeme -> Cholmas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Cholmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Radvilos pajėgos užėmė Cholmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Radvilos užėmė Cholmas (0.93); Radvilos puolė Dubnas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys netiksliai apibendrina vietoves; citata leidžia tikslesnį faktą."
   pagrindžia:
     - c-75843
 
@@ -83,6 +135,18 @@ Nenurodyta
 - t-005
   global_id: t-78617
   teiginys: "Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-75841
 
@@ -90,6 +154,20 @@ Nenurodyta
 - t-006
   global_id: t-78618
   teiginys: "Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "puole -> Dubnas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dubnas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Radvilos pajėgos tiesiogiai nurodytos kaip nusiaubusios Dubno apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Radvilos puolė Dubnas (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1581 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai."
   pagrindžia:
     - c-75843
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113968|Steponas Batoras]]: Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva.
@@ -121,6 +199,7 @@ Nenurodyta
     Rusijos teritorijos gilumą.
   citata_rodoma: "Rugpjūčio 21 d. prie\nŠelomos upės lietuviai\nsumušė apie 3000 rusų\ndalinį. K. Radvila nu-\nsprendė imtis iniciaty-\nvos ir pasuko Rževo link, į\nRusijos teritorijos gilumą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,6 +222,7 @@ Nenurodyta
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +266,7 @@ Nenurodyta
     gausų karo grobį.
   citata_rodoma: "Vėliau\nRadvilos pajėgos nusiaubė\nDubno apylinkes, užėmė\nCholmą, iš ten, palei\nLovatės upę, lietuviai nusi-\ngavo iki Novgorodo kunigaikš-\ntystėje, prie Ilmenio ežero esančio\n\n94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis\n\nvos atkariautos teritorijos\n\nStarajos Rusos miesto\nir jį sudegino, o įgulą\n„išmušė“. Galiausiai buvo\nnusiaubtos Opokos apylinkės.\nSpalio 23 d. K. Radvila pasiekė prie\napgulto Pskovo buvusią S. Batoro\n\n850 km), nu-\nsiaubė apie\n60 tūkst. kv. km\n\nŠarvinė\npirštinė, XVI a.\n\nstovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus\nžygio ataskaitą, perdavė belaisvius."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

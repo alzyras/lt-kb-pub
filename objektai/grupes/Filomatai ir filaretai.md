@@ -47,6 +47,17 @@ Nenurodyta
 - t-001
   global_id: t-188042
   teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mickevičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Filomatai ir filaretai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Filomatai ir filaretai\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-170854
 - susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-188541|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi.
@@ -73,6 +84,7 @@ Nenurodyta
     kus.
   citata_rodoma: "Išsamesnėms krašto praeities studijoms istoriką galė­\njo paskatinti pusbrolio Justino parašyta nedidelė knygelė\n„Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­\ntu susidomėjimas istorija buvo didelis, Vilniaus universitete\ndėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­\ncevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­\nsirinkimuose diskutavo apie krašto praeitį, liaudies padavimus\nir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­\nkus."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

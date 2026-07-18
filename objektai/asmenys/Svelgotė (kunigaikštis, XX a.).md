@@ -35,23 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos.
+Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio.
 
 ## Teiginiai
 
 <a id="claim-t-201403"></a>
 - t-001
   global_id: t-201403
-  teiginys: "Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris lietuvių ir žemaičių žygio metu atjojo iki pat Rygos angos."
+  teiginys: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184753
 
 ## Citatos
 
 - id: c-184753
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 194"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 194."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kaupas, užgodotas nuo popiežiaus Ino­
     cento III ir apdovenotas, dabar parėjęs didžiai rū­
@@ -75,6 +80,7 @@ Daukantas vaizduoja Svelgotę kaip Žagarės ir Jelgavos kunigaikštį, kuris li
     kinsim, kurios dulkių pačių nebus ko apgniaužti lie­
     tos vyrui, o vokyčius likusiuosius nuvergsim".
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

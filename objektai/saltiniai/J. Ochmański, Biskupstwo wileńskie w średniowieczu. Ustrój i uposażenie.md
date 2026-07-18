@@ -38,6 +38,18 @@ Ochmański, J.
 - t-001
   global_id: t-31731
   teiginys: "J. Ochmańskio „Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie“ išleista Poznanėje 1972 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Poznanė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Ochmański, Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Poznanė: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Ochmański, Biskupstwo wileńskie w średniowieczu. Ustrój i uposażenie\" parinktas kaip owner_note_path. Targetas \"Poznanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1972 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33590
 
@@ -55,6 +67,7 @@ Ochmański, J.
     księcia Litwy_ , Vilnius 1914.
   citata_rodoma: "— Ochmański, J. : _Bis­\nkupstwo wileńskie w średniowieczu. Ustrój i uposażenie,_ Poznan 1972. —\nPenkauskas Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_\nAthenaeum, nr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

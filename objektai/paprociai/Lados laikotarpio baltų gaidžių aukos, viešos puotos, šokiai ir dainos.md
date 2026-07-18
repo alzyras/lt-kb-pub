@@ -57,6 +57,18 @@ Nenurodyta.
 - t-001
   global_id: t-187837
   teiginys: "Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=95"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lados laikotarpio baltų gaidžių aukos, viešos puotos, šokiai ir dainos\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T04:21:55Z"
   pagrindžia:
     - c-170787
 
@@ -97,6 +109,7 @@ Nenurodyta.
     2 Skaityk Gvaninio septintosios knygos I dalį*.
   citata_rodoma: "Lietuviai laikotarpį nuo gegužės 25 iki birželio 25 dienos\npaskirdavo Ladai. Jai buvo atnašaujami balti gaidžiai, rengtos\nviešos puotos, šokta pievose, mergaitės dainuodavo dainas,\nkuriose dažnai kartodavo: Lado, Lado, Lado, didie musu de­\nive, tai yra: „Lada, didžioji mūsų deive“. Paskutinė diena buvo\nRasos šventė. Skaityk straipsnį „Šventės“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

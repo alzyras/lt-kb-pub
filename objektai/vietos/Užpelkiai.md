@@ -39,6 +39,19 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 - t-001
   global_id: t-42237
   teiginys: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Užpelkiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užpelkiai\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį."
   pagrindžia:
     - c-45388
 - susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
@@ -85,6 +98,7 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     žygį.
   citata_rodoma: "iš Kęstučio apy-\ngardos atvyko Prisikėlimo apygardos\nvadas Petras Bartkus-Žadgaila. Užpelkių\nmiške buvo numatytas Prisikėlimo apy-\ngardos štabo posėdis, susitikimas su vie-\ntos kovotojais. Po poros dienų partizanai\nVytautas Šniuolis-Svajūnas, Žadgaila,\nBronius Liesis-Naktis, Laurynas\nMingilas-Džiugas ir Viktoras\nŠniuolis-Vitvytis rugpjūčio 12 d."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

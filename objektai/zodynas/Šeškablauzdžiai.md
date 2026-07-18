@@ -56,6 +56,10 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
 - t-001
   global_id: t-195629
   teiginys: "Žodis vartojamas ir kaip šūksnis kraičio nešimo metu."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178031
 
@@ -81,6 +85,7 @@ Terminas vartojamas vestuvių juokų ir kraičio nešimo kontekste.
     koks yra.
   citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

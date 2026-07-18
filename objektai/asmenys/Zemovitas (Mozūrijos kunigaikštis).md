@@ -41,6 +41,20 @@ media_all_json: |-
 - t-001
   global_id: t-40545
   teiginys: "1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zemovitas (Mozūrijos kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zemovitas (Mozūrijos kunigaikštis) sudarė sutartį su Kryžiuočių ordinas (0.94); Zemovitas (Mozūrijos kunigaikštis) buvo sąjungininkas su Kryžiuočių ordinas (0.91)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata rodo, kad sutartį sudarė Zemovitas ir Ordinas, todėl patikslintas veiksmo dalyvis."
   pagrindžia:
     - c-44580
 
@@ -59,6 +73,7 @@ media_all_json: |-
     sustiprindami tarpusavio sąjungą.
   citata_rodoma: "1260 m. birželio 5 d. jis ir Mozūrijos kuni-\ngaikštis Zemovitas sudarė eilinę dar ne-\nužgrobtos Sūduvos pasidalijimo sutartį,\nsustiprindami tarpusavio sąjungą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

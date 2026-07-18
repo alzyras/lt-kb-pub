@@ -56,6 +56,17 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-001
   global_id: t-12359
   teiginys: "Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo)."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180601
 
@@ -63,78 +74,174 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-002
   global_id: t-12360
   teiginys: "Su Krėvės unija sutiko ne visi Gediminaičiai."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Gediminaičiai: mention_match, group, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14965
-    - c-180585
 
 <a id="claim-t-12361"></a>
 - t-003
   global_id: t-12361
   teiginys: "Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14966
-    - c-180586
 
 <a id="claim-t-12362"></a>
 - t-004
   global_id: t-12362
   teiginys: "Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14967
-    - c-180593
 
 <a id="claim-t-12363"></a>
 - t-005
   global_id: t-12363
   teiginys: "Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminaičiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14968
-    - c-180590
 
 <a id="claim-t-96101"></a>
 - t-006
   global_id: t-96101
   teiginys: "Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Mstislavlis: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Po kunigaikštijų panaikinimo tekstas nurodo, kad Gediminaičiai liko nepajudinti Mstislavlyje, todėl tai laikytina išlikusiu valdymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminaičiai valdė teritoriją Mstislavlis (0.71); Gediminaičiai valdė teritoriją Pinskas (0.71)"
   pagrindžia:
     - c-14968
-    - c-180590
 
 <a id="claim-t-96106"></a>
 - t-007
   global_id: t-96106
   teiginys: "Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-90830
-    - c-180584
 
 <a id="claim-t-96108"></a>
 - t-008
   global_id: t-96108
   teiginys: "Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36779
-    - c-180587
 
 <a id="claim-t-96109"></a>
 - t-009
   global_id: t-96109
   teiginys: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.)."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=64"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1316-1341; įvykio data: 1341 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako dinastijos pavadinimo kilmę."
   pagrindžia:
     - c-22400
-    - c-180583
 
 <a id="claim-t-96112"></a>
 - t-010
   global_id: t-96112
   teiginys: "Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=79"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-36778
-    - c-180606
 
 <a id="claim-t-96113"></a>
 - t-011
   global_id: t-96113
   teiginys: "XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-90821
 
@@ -142,14 +249,37 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-012
   global_id: t-96117
   teiginys: "Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-22398
-    - c-180594
 
 <a id="claim-t-182889"></a>
 - t-013
   global_id: t-182889
   teiginys: "Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gediminaičiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminaičiai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-180592
 
@@ -157,13 +287,34 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-014
   global_id: t-198542
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalinta neenciklopedinė ir subjektyvi formuluotės dalis."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Palestina"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-180589
 
-<a id="claim-t-198544"></a>
+<a id="claim-t-198545"></a>
 - t-015
-  global_id: t-198544
+  global_id: t-198545
   teiginys: "Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko teiginį, bet pridėtas aiškesnis kontekstas ir pašalintas neapibrėžtumas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
+  temporaliniai_duomenys: "įvykio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį, bet pridėtas aiškesnis kontekstas ir pašalintas neapibrėžtumas."
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-180591
 
@@ -171,6 +322,22 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-023
   global_id: t-198548
   teiginys: "Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys gramatiškas, aiškus ir tinkamai atribuuoja legendinį dinastijų pasakojimą."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
     - c-180598
 
@@ -178,6 +345,18 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-017
   global_id: t-198549
   teiginys: "Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nusako Gediminaičių kilmę ir sutampa su citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičių šeima|Gediminaičių šeima]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  ryšio_patikimumas: "valde_teritorija -> Mstislavlis: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Po kunigaikštijų panaikinimo tekstas nurodo, kad Gediminaičiai liko nepajudinti Mstislavlyje, todėl tai laikytina išlikusiu valdymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180604
 
@@ -185,6 +364,18 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-018
   global_id: t-198551
   teiginys: "Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinė formuluotė per daug apibendrina aprūpinimą valdomis."
+  susije_objektai: "llm_object: Podolė; llm_object: Volinija; llm_object: Zaslavlis; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Turovas; mentioned_place: Volinija; mentioned_place: Zaslavlis; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Polesė; llm_object: Pinskas; llm_object: Turovas"
+  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-31065
 
@@ -192,6 +383,22 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-024
   global_id: t-198552
   teiginys: "Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Fragmentas perrašytas į sakinį apie monetą ir Gediminaičių ženklą. Atribucija palikta, nes teiginys remiasi autoriaus objekto identifikavimu."
+  susije_objektai: "llm_object: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Kaunas; mentioned_place: Viena"
+  semantiniai_rysiai: "[[objektai/daiktai/Stulpai|Stulpai]] priklausė [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; Stulpai priklausė Gediminaičių dinastija (0.95)"
+  ryšio_patikimumas: "priklause -> Gediminaičių dinastija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stulpai: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Gediminaičių dinastija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nusako, kad Stulpai yra Gediminaičių herbas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-180600
 
@@ -199,6 +406,14 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-020
   global_id: t-198556
   teiginys: "Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintos nereikalingos svetimkalbės įterptys ir paliktas citatos palaikomas faktas."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Maskva"
+  temporaliniai_duomenys: "įvykio data: 1547 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintos nereikalingos svetimkalbės įterptys ir paliktas citatos palaikomas faktas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180597
 
@@ -206,6 +421,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-021
   global_id: t-198560
   teiginys: "Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citatos turiniu."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180599
 
@@ -213,6 +433,11 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - t-022
   global_id: t-198561
   teiginys: "Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios."
+  atnaujinta: "2026-07-12 23:00"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Citata geriau pagrindžia palyginimą tarp Kęstučio teisių ir kitų Gediminaičių priklausomybės."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-180595
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-187453|Palemonas]]: Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.
@@ -278,6 +503,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Krėvės akto, matyt, turėjo laisvas rankas.
   citata_rodoma: "Su Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę\nKrėvės akto, matyt, turėjo laisvas rankas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -299,6 +525,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     čiai, kurių giminių pradžia nyksta amžių glūdumose.
   citata_rodoma: "Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -317,6 +544,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     remonijų.
   citata_rodoma: "Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -335,6 +563,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­
     štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -358,6 +587,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
   citata_rodoma: "Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -377,6 +607,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
   citata_rodoma: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-\nvas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -396,6 +627,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
   citata_rodoma: "Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje\nTurovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo\nbrolio Narimanto sūnus. O Podolėje įsigyveno kito Gediminaičio\n— Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp\nVolinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -418,6 +650,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     delė.
   citata_rodoma: "Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų\nkunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­\ndelė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -439,6 +672,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
     jime) neramųjį Jogailos brolį Švitrigailą^2 ).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -464,6 +698,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
     diminaičių dinastija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -484,6 +719,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     nacijos“ ponų sluoksnį.
   citata_rodoma: "Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -503,6 +739,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
   citata_rodoma: "XIII a. pa-\nbaigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-\ndiminaičių dinastija. \nDinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-\nnas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-\nvas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -521,6 +758,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     nacijos“ ponų sluoksnį.
   citata_rodoma: "Taigi politinės tautos genezės jau galima ieško-\nti XVI a. ar net XV a., kai Lietuvos bajorija bendrai pradėjo save kildinti \niš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono \nir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai \nvesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių \ndinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių \nnacijos“ ponų sluoksnį."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -538,6 +776,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Krėvės akto, matyt, turėjo laisvas rankas.
   citata_rodoma: "Tas lenkų reikalavimas buvo patenkintas. Bet nauji\nįvykiai, kaip toliau pamatysim, privertė lenkus leisti Vytautui\nir Skirgailai grįžti į Lietuvą.\nSu Krėvės unija ne visi Gediminaičiai sutiko: nepasirašę\nKrėvės akto, matyt, turėjo laisvas rankas."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -557,6 +796,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     čiai, kurių giminių pradžia nyksta amžių glūdumose.
   citata_rodoma: "Visas tas valstybėles vienijo\ntik priklausomybė didžiajam kunigaikščiui. Šiaip kiekviena jų\ngyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­\nką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -577,6 +817,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     jime) neramųjį Jogailos brolį Švitrigailą^2 ).
   citata_rodoma: "Daugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą\nSievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų\nPodolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­\nštį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­\ndimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­\njime) neramųjį Jogailos brolį Švitrigailą^2 )."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -596,6 +837,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ninkų, audėjų, auklių, inžinierių.
   citata_rodoma: "Okupacijos ir aneksijos, tremtys, genocidai ir \nHolokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-\nkusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje, \nJAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių \ndinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos \nmonarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių \nšeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-\nninkų, audėjų, auklių, inžinierių."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -615,6 +857,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).
   citata_rodoma: "Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,\nSmolensko, Sievero, Naugardėlio, Kijevo, Volynijos ir Podolijos\nkunigaikštijas. Gediminaičiai beliko nepajudinti tik Mstislavly\nir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­\nštijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 )."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -634,6 +877,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     būdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą.
   citata_rodoma: "1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio\nmirties ant peilio ašmens vartėsi klausimas, ar Lietuva galutinai\nneapsispręs už stačiatikių tikėjimą. Kai Gediminaičiai buvo išsi­\ndalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo\nkunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­\ngieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per\nvisą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors\nbūdu priimti priešo išpažįstamą, t. y. vokiškąjį tikėjimą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -659,6 +903,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
   citata_rodoma: "Tuo būdu,\nbe jokių sutarčių, tarp abiejų valstybių faktiškai buvo perso-\nnalinė unija.\n\nTaip tad buvo, kol buvo neišmirusi Gediminaičių dinas-\ntija — Jogailos palikuonys, kurių teisės sostams buvo pripa-\nžįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-\nmojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -677,6 +922,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     remonijų.
   citata_rodoma: "Perspektyvos sukliūti į griežtas jo rankas jų visiškai neviliojo.\nDaugumas Gediminaičių dėl to pasirodė jam nepaklusnūs pa­\nčioje valdymo pradžioje. Bet Vytautas su jais nedarė ilgų ce­\nremonijų."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -697,6 +943,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
   citata_rodoma: "Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-\ntija — Jogailos palikuonys, kurių teisės sostams buvo pripa-\nžįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-\nmojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,\nZigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,\nabi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-\ndovus, kurie galėjo būti vienas kitam net priešingi — iš skir-\ntingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.\nTuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -720,6 +967,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     pusiau^2.
   citata_rodoma: "Bet Kęstutis vis dėlto gavo didesnes teises negu kiti\njo broliai ir brolėnai. Jis pats betarpiškai galėjo savo sūnums\npaskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1\n\n(^1) **PSRL, 18, 93 p.**\n\n\n(^248) n skyrius: valstybės iškilimas\nkiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio\nvalios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog\nateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos\npusiau^2."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -740,6 +988,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     Maskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą.
   citata_rodoma: "Bet buvo ir dideliai varganų bei sunkių\nbendrų momentų (karai su švedais, karai su Maskva, kazokų maiš­\ntai). Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų »\n(« obojga narodów ») politinė istorija vystėsi bendroje respublikoje\n(« rzeczpospolita »).\nJos svarbiausias ir pavojingiausias kaimynas pasidarė didysis\nMaskvos kunigaikštis Jonas IV-sis, jau 1547 m. priėmęs caro titulą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -767,6 +1016,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     tas Algirdo sūnų ir jų valdų išskaičiavimas, o Jevreji-
   citata_rodoma: "Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir \nprasideda sakiniu apie Kristaus gimimą, valdant Romos \nimperatoriui Augustui, Romos imperatorių ligi Nerono \nišvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­\nmiesi nuo jo persekiojimo, dalis romėnų „bajorų\", va­\ndovaujamų imperatoriaus Nerono giminaičio Palemono, \npabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­\ntos ir valstybės pradininkais. Vėliau, išmirus Palemono \nįpėdiniams ir sekančios Kentauro herbo dinastijos ku­\nnigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi- \nminaičių dinastijos valdovui Vyteniui."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -788,6 +1038,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
   citata_rodoma: "(^1) **PSRL, 18, 93 p.**\n\n\n(^248) n skyrius: valstybės iškilimas\nkiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio\nvalios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog\nateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos\npusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -810,6 +1061,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     kalta tokiu pat stiliumi kaip gerais Romos cezarių laikais.
   citata_rodoma: "Si moneta yra senesnė už mūsų turimą.\nSenovinė lietuviška moneta, rasta prie Kauno (buvo aptikta\nir daugiau, bet jos visos buvo vienodos ir daugiau ar mažiau\nnukentėjusios). Vienoje pusėje -  Gediminaičių herbas Stulpai ir\nkažkokia neaiški raidė."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -832,6 +1084,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ses globoti Lenkiją?
   citata_rodoma: "Šį sumanymą, kaip sako\nProchaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­\nką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­\nlankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos\nsiuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas\nmanė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne\nGedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­\nses globoti Lenkiją?"
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -851,6 +1104,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     (^15) **Žr. aukščiau 136-137 p.**
   citata_rodoma: "Iš lietuvių\ntautos buvo kilusi ir valdančioji Gediminaičių šeima. Įvairiais var­\ndais besivadinančios rytinių slavų kiltys, iš kurių susiformavo vėliau\ngudų ir ukrainiečių tautos, buvo užimtos ir pajungtos Lietuvos\nvalstybei didžiųjų Vilniaus kunigaikščių (Gedimino, Algirdo). Ypač\n(^15) **Žr. aukščiau 136-137 p.**"
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -873,6 +1127,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     delė.
   citata_rodoma: "Šiaip kiekviena jų\ngyveno savo gyvenimą ir nebuvo suglausta į vieną glaudų politiš­\nką vienetą. Vienos tų kunigaikštijų buvo valdomos rusų kilmės\nkunigaikščių (Riurikaičių), kitos Gediminaičių ir pagaliau keletą\nsmulkių kunigaikštijėlių valdė įvairūs lietuvių kilmės kunigaikš­\nčiai, kurių giminių pradžia nyksta amžių glūdumose. Visų tų\nkunigaikščių priklausomybė didžiajam kunigaikščiui buvo nedi­\ndelė."
   statusas: verified
+  atnaujinta: "2026-07-12 23:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

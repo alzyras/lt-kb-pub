@@ -33,6 +33,17 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - t-001
   global_id: t-40925
   teiginys: "Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Buktos (Žaliosios) miškas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kosto Barkausko būrys: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Buktos (Žaliosios) miškas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad būrys veikė Buktos miške."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kosto Barkausko būrys gyveno Buktos (Žaliosios) miškas (0.86); Kosto Barkausko būrys gyveno Žuvintas (0.82)"
   pagrindžia:
     - c-44766
 
@@ -56,6 +67,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     menės majoras Sergijus Staniškis-Litas.
   citata_rodoma: "Partizanų pajėgos\n\nTuo metu Žuvinto paliose ir Buktos\n(Žaliosios) miške jau veikė Gedimino,\nKlarko, Juozo Pandeikos, Edvardo ir Jurgio\nLajų bei Kosto Barkausko būriai. Prie\nDaukšių bazavosi „Muškietininkų“ būrys,\nvadovaujamas Vlado Gavėno-Tarzano."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,6 +51,10 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
 - t-001
   global_id: t-195564
   teiginys: "Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177981
 
@@ -68,6 +72,7 @@ Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su 
     šina.
   citata_rodoma: "Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

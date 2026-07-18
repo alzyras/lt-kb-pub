@@ -33,8 +33,33 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
 - t-001
   global_id: t-189148
   teiginys: "Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenantį židinį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> gabija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gabija ir sudėtinės formos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "gabija: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gabija ir sudėtinės formos\" parinktas kaip owner_note_path. Targetas \"gabija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172036
+
+<a id="claim-t-189149"></a>
+- t-002
+  global_id: t-189149
+  teiginys: 'Narbutas Gabiją sieja su ugnies elementą valdančiu Santvaru ir spėja, kad sudėtinės Gabijos formos buvo giminingos lietuvių Apolonui.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys sutvarkytas apie Gabiją ir sudėtines jos formas, išskleidžiant Santvaro kontekstą. Interpretacinė giminystė su lietuvių Apolonu palikta su Narbuto atribucija.'
+  pagrindžia:
+    - c-172037
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,12 +77,37 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     Moterų Gabija (Matergabia)
     Keptos duonos ir kepėjų deivė.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Narbutas Gabiją sieja su ugnies elementą valdančiu Santvaru ir spėja, kad sudėtinės Gabijos formos buvo giminingos lietuvių Apolonui.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    124
+
+    ## Puslapis 124
+
+    Skyrelyje apie Santvarą pastebėjome, kad tas dievas, val­
+    dantis ugnies elementą, vadinosi Gabija; ką tik suminėtosios
+    deivės, kurių vardai baigiasi tuo pačiu žodžiu, turėjo būti kaip
+    nors susigiminiavusios su lietuvių Apolonu. Iš tikrųjų trijų die­
+    vybių vardo pranašybė suartina jas tarpusavy. Gabijos šauk­
+    davosi vyrai, kurstydami ugnį jaujose arba kitose vietose, kur
+    grėsdavo gaisras; Pelenų Gabijos -  moterys, kurstydamos ug­
+    nį krosnyse namuose. Šauktis Moterų Gabijos -  tai paprotys
+    kepėjų, norinčių, kad gerai nusisektų duona*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
 
 ## Citatos
 
@@ -76,6 +126,7 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     pat painiojo su okeano deive Tetide.
   citata_rodoma: "Pelenų Gabija (Polengabia)\nAnot Lasickio, tai deivė, globojusi besikūrenantį židinį.\nSaugotoja nuo gaisrų.\nŠiuo atžvilgiu ji visiškai atitinka romėnų deivę Statą, kurią\nmitologai tapatina su Vesta. Taip pat ir lietuvių deivė Pelenų\nGabija (Polengabia), ko gero, buvo naminis Praurimės var­\ndas, kuriuo jos būdavo šaukiamasi ruošiantis apie namų židi­\nnį-\nMoterų Gabija (Matergabia)\nKeptos duonos ir kepėjų deivė."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

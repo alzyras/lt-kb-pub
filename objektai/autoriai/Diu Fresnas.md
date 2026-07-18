@@ -33,6 +33,20 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
 - t-001
   global_id: t-190421
   teiginys: "Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sala“ reiškė teismą, o „Ober-Sala“ – aukščiausiąjį teismą."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Diu Fresnas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Diu Fresnas\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173304
 
@@ -79,6 +93,7 @@ Narbutas remiasi Diu Fresnu aiškindamas, kad senovės vokiečių kalboje „Sal
     riausiasis teisėjas, tai yra krivis.
   citata_rodoma: "Sala senovės vokiečių kalba reiškia teis­\nmą, o Ober-Sala -  tą pat, ką ir aukščiausiasis teismas; taip tą\nžodį aiškina Diu Fresnas (Du-Fresne. Glossarium ad scripto­\nres mediae et infimae latinitatis s. h. v.) ir Miozeris (Möser.\nOsnabruckische Geschichte. -  B. I. -  S. 352)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

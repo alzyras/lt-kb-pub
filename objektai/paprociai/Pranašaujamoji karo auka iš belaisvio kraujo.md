@@ -50,6 +50,13 @@ Nenurodyta
 - t-001
   global_id: t-189855
   teiginys: "Narbutas pranašaujamąją karo auką aprašė kaip apeigą, kai žynys smogdavo belaisviui į krūtinę ir iš kraujo spręsdavo apie karo sėkmę."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172738
 
@@ -95,6 +102,7 @@ Nenurodyta
     ninkų pranešimais ir savo paties duomenimis.
   citata_rodoma: "Atlikę maldas ir būrimus, belaisvį pastatydavo žmo­\nnių akivaizdoje; žynys, vyriausiasis iš susirinkusiųjų, smogda­\nvo jam peiliu į krūtinę. Jeigu kraujas plūsdavo srove, tai būda­\nvo geras ir sėkmingas ženklas, priešingai, jeigu vos lašėdavo,\ntuomet nebuvo ko tikėtis sėkmės kare; puolamąjį karą sustab­\ndydavo, kol dievai parodys geresnį ženklą. Po to belaisvį sude­\ngindavo."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

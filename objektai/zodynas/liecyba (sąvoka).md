@@ -27,37 +27,54 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasakojimu, suteikė einantiems kariauti į žemaičių kraštą. Daukanto pasakojime Aleksandras IV patvirtino kryžėjams ankstesnių popiežių liecybas, leido jiems laisvai prekiauti ir uždraudė reikalauti muito ar kitų mokesčių. Daukanto pasakojime Habsburgas, tapęs vokiečių viešpačiu, patvirtino kryžėjų liecybas ir dovanas bei pasiskelbė jų užtarytoju.
+Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie. Ant galo padidino jų patį iždą, nes vien liecybas pirmųjų popiežių patvirtindamas, bet dar leisdamas jiems visur prekioti o iškeikdamas visus tuos, kurie nuo jų muito ar kito kokio mokesnio reikalautų1. Jomylista Habsburgas, tapęs viešpačiu vokyčių, ne vien patvirtino visas liecybas ir dovenas savo praėjūnų, bet dar dovenojo jiems visas žemes, nuo lietuvių ir žemaičių užimtąsias, ir ap siskelbė jų užtarytoju ir sargu.
 
 ## Teiginiai
 
 <a id="claim-t-201206"></a>
 - t-001
   global_id: t-201206
-  teiginys: "Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasakojimu, suteikė einantiems kariauti į žemaičių kraštą."
+  teiginys: "Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184556
 
 <a id="claim-t-201207"></a>
 - t-002
   global_id: t-201207
-  teiginys: "Daukanto pasakojime Aleksandras IV patvirtino kryžėjams ankstesnių popiežių liecybas, leido jiems laisvai prekiauti ir uždraudė reikalauti muito ar kitų mokesčių."
+  teiginys: "Ant galo padidino jų patį iždą, nes vien liecybas pirmųjų popiežių patvirtindamas, bet dar leisdamas jiems visur prekioti o iškeikdamas visus tuos, kurie nuo jų muito ar kito kokio mokesnio reikalautų1."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184557
 
 <a id="claim-t-201208"></a>
 - t-003
   global_id: t-201208
-  teiginys: "Daukanto pasakojime Habsburgas, tapęs vokiečių viešpačiu, patvirtino kryžėjų liecybas ir dovanas bei pasiskelbė jų užtarytoju."
+  teiginys: "Jomylista Habsburgas, tapęs viešpačiu vokyčių, ne vien patvirtino visas liecybas ir dovenas savo praėjūnų, bet dar dovenojo jiems visas žemes, nuo lietuvių ir žemaičių užimtąsias, ir ap siskelbė jų užtarytoju ir sargu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184558
 
 ## Citatos
 
 - id: c-184556
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 179"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 179."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo tarpu Bertoldas, vyskupas Pa-
     daugavio, kaip viršiaus minavojau, skatino Teutoni-
@@ -78,6 +95,7 @@ Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasako
     sai žodis šiandien dar pas žemaičius ir lietuvius yra
     minavojamas — meldžionis, meldžionų kapai.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,9 +103,8 @@ Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasako
     - t-201206
 
 - id: c-184557
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 368"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 368."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Įstatė, jog kry-
     žėjai vienos valdžios savo mistro ir kapitulos te­
@@ -101,6 +118,7 @@ Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasako
     tuos, kurie nuo jų muito ar kito kokio mokesnio
     reikalautų1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,9 +126,8 @@ Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasako
     - t-201207
 
 - id: c-184558
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 441"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 441."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bekariaujant lietuviams su lenkais, kryžėjai tuo
     tarpu rado sau bendrus, kurie juos pradėjo šelpti
@@ -124,6 +141,7 @@ Daukantas „liecybomis“ vadina privilegijas, kurias Celestinas III, jo pasako
     tikėliais lietuviais, leisdamas jų zokanui apsisavinti
     valsčiais ir turtais tų visų, kurie stojo į jų zokaną.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

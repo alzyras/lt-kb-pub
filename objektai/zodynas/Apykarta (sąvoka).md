@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas apykarta vadino kraštą apie pilį, kurią ūkininkai pakaitomis saugojo ir kurioje pratinosi prie ginklo.
+Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į ginklą pratinos, nuo to gi ir kraštas apie pilį vadinos apykarta.
 
 ## Teiginiai
 
 <a id="claim-t-201222"></a>
 - t-001
   global_id: t-201222
-  teiginys: "Daukantas apykarta vadino kraštą apie pilį, kurią ūkininkai pakaitomis saugojo ir kurioje pratinosi prie ginklo."
+  teiginys: "Saugojo tokias pilės nuo neprietelių patys ūkinykai pakarčiui ir tenai į ginklą pratinos, nuo to gi ir kraštas apie pilį vadinos apykarta."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184572
 
 ## Citatos
 
 - id: c-184572
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 97"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 97."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Dirbo jas tarp vers­
     mių ir balų, idant neprieteliai negalėtų prisiartinti.
@@ -53,6 +58,7 @@ Daukantas apykarta vadino kraštą apie pilį, kurią ūkininkai pakaitomis saug
     se gėrybės ir turtai visos pavietos buvo tenai pa­
     slėptos.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

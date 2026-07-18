@@ -38,6 +38,19 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 - t-001
   global_id: t-02214
   teiginys: "1917 m. buvo gautas leidimas griežtos cenzūros sąlygomis leisti „Lietuvos Aidą“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lietuvos Aidas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Aidas\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys kalba apie kitą laikraštį, o citata pateikia faktą apie „Lietuvos Aidą“."
   pagrindžia:
     - c-02452
 
@@ -54,6 +67,7 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
     griežtoj cenzūroj leisti „Lietuvos Aidą".
   citata_rodoma: "Vien tik vokiečių štabas spausdino lietuvišką laikrašt-\npalaikį „Dabartį\". Tik 1917 metais buvo gautas leidimas\ngriežtoj cenzūroj leisti „Lietuvos Aidą\"."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

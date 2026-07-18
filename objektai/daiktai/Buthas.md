@@ -47,6 +47,20 @@ Nenurodyta
 - t-001
   global_id: t-189676
   teiginys: "Narbutas Buthą apibūdina kaip ąžuolinę dvasininko lazdą, liaudies kalba vadintą valdžios ženklu ir turėjusią šakotą viršūnę su kutais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Buthas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buthas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172559
 
@@ -54,6 +68,20 @@ Nenurodyta
 - t-002
   global_id: t-189677
   teiginys: "Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaidilos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Buthas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buthas\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172560
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189437|Kriviai ir Krivių Krivaičiai]]: Narbutas krivio valdžios ženklą Buthstus aprašo kaip ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.
@@ -137,6 +165,7 @@ Nenurodyta
     Krzywy; Krivūlė reiškia mažą, kreivą daiktą.
   citata_rodoma: "(Vietos ar srities burtininko krivio valdžios\nženklas, arba dvasininko lazda, liaudies kalba\nButhstus, atrodė taip: ilgoka paprasto ąžuolo\nlazda, kurios viršūnę sudaro dvi šakos, išdėsty­\ntos kaip dvišakis; nuo jų jungties kabo du ku­\ntai).\nSymbolium jurisdictionis communi sacerdo­\ntis, jus judicandi habentis, Wajdalotae vel alii id\ngeneris, sive baculus sacerdotalis. Vulgari sermo­\nne Buthas nuncupatus talem habuit formam: Ba­\nculus longuisculus, de ligno simplici quaerci, sup­\nra quem est una virga, curvata in modum nodi,\npaululo inclinata rursum, de qua junctione una\nbursa pendent."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,6 +192,7 @@ Nenurodyta
     šumu, sutapatino daiktą ir žmogų.
   citata_rodoma: "Vulgari sermo­\nne Buthas nuncupatus talem habuit formam: Ba­\nculus longuisculus, de ligno simplici quaerci, sup­\nra quem est una virga, curvata in modum nodi,\npaululo inclinata rursum, de qua junctione una\nbursa pendent.\n(Paprasto dvasininko, vaidilos, turinčio tei­\nsėjo galią, arba kito panašaus [dvasininko] žen­\nklas, liaudies kalba buthas, atrodė taip: ilgoka\npaprasto ąžuolo lazda, kuri baigiasi kreiva ša­\nka, tarytum perrišta mazgu, šiek tiek išlenkta į\nvieną ir kitą pusę; nuo tos [šakos] jungties krin­\nta vienas kutas).\n429\n\n## Puslapis 429\n\nParaštėje pastaba: Sėd et sigilli eorum portabant talia sym-\nbola, ui ait Chronista."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

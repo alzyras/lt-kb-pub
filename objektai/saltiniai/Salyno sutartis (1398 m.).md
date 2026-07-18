@@ -33,6 +33,9 @@ media_all_json: |-
 - t-001
   global_id: t-67534
   teiginys: "1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67405
 
@@ -40,6 +43,9 @@ media_all_json: |-
 - t-002
   global_id: t-67535
   teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67406
 
@@ -47,6 +53,9 @@ media_all_json: |-
 - t-003
   global_id: t-67536
   teiginys: "Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67404
 
@@ -54,6 +63,9 @@ media_all_json: |-
 - t-004
   global_id: t-67539
   teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67403
 
@@ -73,6 +85,7 @@ media_all_json: |-
     rytuose.
   citata_rodoma: "Ja Vytautas sutiko už-\nleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-\nlikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo\nSalyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai\nordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui\nrytuose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,6 +108,7 @@ media_all_json: |-
     didelius jam pavestos valstybės plotus.
   citata_rodoma: "Taigi ir Salyno sutartis buvo sudaryta jo paties\nautoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,\nnesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui\ndidelius jam pavestos valstybės plotus."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,6 +126,7 @@ media_all_json: |-
     Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,6 +145,7 @@ media_all_json: |-
     Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
   citata_rodoma: "Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-\nsinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas\nŽemaičiuose buvo laisvas, o kas ne, buvo labai sunku."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

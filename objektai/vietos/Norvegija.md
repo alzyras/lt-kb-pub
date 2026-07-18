@@ -51,13 +51,24 @@ Norvegija šiame šaltinyje yra valstybė.
 - t-001
   global_id: t-195655
   teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
+  atnaujinta: "2026-07-12 09:30"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178056
 
 <a id="claim-t-201092"></a>
 - t-002
   global_id: t-201092
-  teiginys: "Daukantas Thula vadinamą žemę tapatino su Norvegija arba Skandija ir pasakojo, kad Pitėjas iš jos irklavo Baltijos jūros link."
+  teiginys: "Nukeliavęs į vietovę, Kantium (Kanterbury) va dinamą, aplankė vieną dalį Anglijos, nuo ten irkla vo į pašalius žemės, vadinamos Thula (Norvegija), arba Skandija, paskui, irkluodamas juo į pietus linkant Baltijos, arba Žemaičių, jūros, atkeliavo į že maičių."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
   pagrindžia:
     - c-184442
 - susijęs iš [[objektai/grupes/Hanzos sąjunga.md#claim-t-198563|Hanzos sąjunga]]: Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvažiavime gauti Zigmanto paramą prieš Hanzos sąjungos Vokietijos miestus.
@@ -92,6 +103,7 @@ Norvegija šiame šaltinyje yra valstybė.
     1901 m. vasarą keliavo po Archangelsko guberniją, rinkdamas dainas
   citata_rodoma: "1899 m. vasarą padarė \nkelionę į Estų salas (Eželį), kur rinko estų liaudies dainas; tais pa­\nčiais metais dirbo Švedijos \nir \nNorvegijos \nknygynuose;"
   statusas: verified
+  atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,9 +111,8 @@ Norvegija šiame šaltinyje yra valstybė.
     - t-195655
 
 - id: c-184442
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 27"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 27."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nukeliavęs į vietovę, Kantium (Kanterbury) va­
     dinamą, aplankė vieną dalį Anglijos, nuo ten irkla­
@@ -127,6 +138,7 @@ Norvegija šiame šaltinyje yra valstybė.
     giodama metusi laukan gintarus, beje, trąšas jūros
     sustingusias.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

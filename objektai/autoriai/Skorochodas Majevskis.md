@@ -32,6 +32,13 @@ media_all_json: |-
 - t-001
   global_id: t-194889
   teiginys: "2 Skorochodo Majevskio tyrinėjimai."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177285
 
@@ -75,6 +82,7 @@ media_all_json: |-
     Khaintają, Šafrano sūnų, kurį jie nukankino5.
   citata_rodoma: "Kor ypač didelė\n1 Vorhalle europäischer Völkergesch.\n2 Skorochodo Majevskio tyrinėjimai.\n3 Allgem."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

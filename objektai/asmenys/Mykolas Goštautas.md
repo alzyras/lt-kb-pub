@@ -34,6 +34,12 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
 - t-001
   global_id: t-196573
   teiginys: "Mykolas Goštautas užpuolė priešą ir jį sumušė."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169513
 
@@ -65,6 +71,7 @@ Mykolas Goštautas užpuolė priešą ir jį sumušė.
     čiuosius ir juos žudė.
   citata_rodoma: "Mat Krymo\nskitai, padaliję savo kariuo- \nS k ita i su m u ša m i Vo- \nmenę trimis žygio voromis,\nly n ė je \nsmarkiai nuniokojo Volynę\ntuo metu, kai dėl karo su \nMaskva čia nebuvo likę nei karių, nei karvedžių. Nio­\nkotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­\nsos Volynės, vis dėlto dalis jų įsibrovė į Polesę, su­\nkeldami didelę baimę Slucko krašte ir smarkiai jį \nnusiaubdami. Siaubėjus užtiko Lukošius Moravecas,\nkuris su dviem šimtais pėstininkų visai atsitiktinai at­\nsidūrė prie Slučės upės; nesitikėdamas galėsiąs atsi­\ntraukti, turėjo noromis nenoromis pasiryžti kovai; įsi­\nrengęs pakrantėje stovyklą, jis užpuolė priešą ir jį \nsumušė."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

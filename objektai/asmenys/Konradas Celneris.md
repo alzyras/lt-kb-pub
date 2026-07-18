@@ -33,6 +33,19 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - t-001
   global_id: t-185989
   teiginys: "Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas Celneris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Celneris\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169350
 
@@ -40,6 +53,20 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - t-002
   global_id: t-185990
   teiginys: "Konradas Celneris, Kojelavičiaus vadinamas ordino magistru, visokeriopai parėmė pas kryžiuočius perėjusio Vytauto sumanymus."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas Celneris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Celneris\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169351
 
@@ -47,6 +74,20 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 - t-003
   global_id: t-185991
   teiginys: "Kojelavičiaus pasakojime Konradas Celneris, dėdamasis gailįs Vytauto ir tikėdamasis išplėsti valdas Lietuvoje, paskyrė karių bei lėšų karui."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konradas Celneris: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Celneris\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169352
 - susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185661|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Pasak Kojelavičiaus, Konradas Celneris parėmė Vytauto sumanymus ir su džiaugsmu nutarė pasinaudoti proga pradėti karą.
@@ -96,6 +137,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
     K r ė v o s k a lėjim o
   citata_rodoma: "Kaip sumanyta, taip ir padaryta: pavakaryje,\napsivilkęs mergaitės drabužiais, Vytautas lyg niekur\nnieko praėjo pro sargybinius, tamsoje nusileidęs nuo\nsienų, užsėdo ant žirgo ir pa-\nP a b ėg a  iš p radžių  į\nspruko į Mazoviją. Ten jį\nM a z o v iją ,\np a sk u i\nį\nmaloniai priėmė kunigaikštis\nP rūsiją\nJonušas, žmonos Onos tėvas,\nkuris jam suteikė paramą ir\npaskyrė valdų, tačiau, neilgai trukus, gal dėl kokios\nkitos priežasties, gal dėl to, kad žemę dažnai niokojo\nlietuvių antpuoliai, o gal todėl, kad ryžtingas vyras\ngalvojo apie kokį būsimą karą ir dairėsi geresnių pa­\ngalbininkų, jis pasitraukė pas Konradą Celnerį, Prūsi­\njos magistrą. Pirmojo susitikimo metu Celneris dėjosi\nesąs nesukalbamas ir nenuolaidus: jis kaltino Vytautą,\nN e p a p r a s ta s\nžm o n o s\nsu m a n u m a s\np a d ed a\nV y ta u tu i\ništrū k ti\niš\nK r ė v o s  k a lėjim o\n274\n\n## Puslapis 273\n\nkad šis ne tikro noro vedamas, bet reikalo spiriamas\nieškąs draugystės su Prūsijos riteriais."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +167,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
     pai parėmė jo sumanymus.
   citata_rodoma: "Ne­\nbesitikėdamas gauti iš jų pagalbos, Vytautas nusigrie­\nbė kito sumanymo ir, ieškodamas savo troškimams\n3 04\n\n## Puslapis 303\n\nsaugesnio uosto, perėjo pas kryžiuočius. Čia, kaip ir\nvylėsi, Konradas Celneris, ordino magistras, visokerio­\npai parėmė jo sumanymus.\nIš M a z o v ijo s  į Prū-\nNors Urbonas IV, Romos po-\nsiją\npiežius, prieš metus ir buvo\nišleidęs raštą, rimtai ragin­\ndamas ir karalių, ir kryžiuočių riterius laikytis taikos,\ntačiau Celneris su džiaugsmu nutarė nepraleisti pro­\ngos pradėti karą."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,6 +203,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
     kaiui.
   citata_rodoma: "Iš M a z o v ijo s  į Prū-\nNors Urbonas IV, Romos po-\nsiją\npiežius, prieš metus ir buvo\nišleidęs raštą, rimtai ragin­\ndamas ir karalių, ir kryžiuočių riterius laikytis taikos,\ntačiau Celneris su džiaugsmu nutarė nepraleisti pro­\ngos pradėti karą. Dėdamasis, kad gailisi tremtinio, jis\nsiūlė šiam visko, ko tik reikia karui f' pats iš visos šir­\ndies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo\nvaldas, Konradas gana greitai paskyrė karių bei lėšų\nkaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­\nduoda, tikėdamasis, kad visas pelnas ilgainiui atiteks\nkryžiuočiams."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

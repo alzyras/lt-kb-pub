@@ -32,6 +32,13 @@ Vytautas apkrikštijo visą Užnerio žemę.
 - t-001
   global_id: t-199951
   teiginys: "Vytautas, įsteigęs Žemaičių vyskupiją, apkrikštijo visą Užnerio žemę ir, metraščio teigimu, įkūrė daug bažnyčių."
+  atnaujinta: "2026-07-12 23:04"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Patikslinta pagal citatą ir atribuuota metraščio papildoma religinė formuluotė."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Varniai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
   pagrindžia:
     - c-182939
 
@@ -63,6 +70,7 @@ Vytautas apkrikštijo visą Užnerio žemę.
     džius atvertė į krikščionių tikėjimą.
   citata_rodoma: "Didysis kunigaikštis Vytautas \natsakė: „Kaip aš jums Žemaitiją užstačiau, taip ir da­\nbar iš jūsų neatimu: žiūrėkite sau sveiki į Žemaitiją, \no pinigų jums atiduoti neturiu.\"\nBet netrukus Vytautas ėmė rinkti pinigus ir surin­\nkęs nusiuntė jiems visą auksinų sumą. Paėmę auksą, \njie daugiau Žemaitijos nebeužpuldinėjo, paliko ją ra­\nmybėje, nes buvo Jogailos, ir Vytauto, ir žemaičių su­\nmušti bei nuniokoti 8 ,\nTais pačiais metais Vytautas įsteigė Žemaičių vys­\nkupiją ir pastatė švento Petro bažnyčią Medininkuose, \nkuriuos žemaičiai dabar Varniais vadina; paskyrė ka­\nnauninkus, apdovanojo bažnyčią turtais9  ir įsakė visą \nŽemaitiją iš stabmeldžių tikėjimo perkrikštyti į krikš­\nčionių, apkrikštijo visą Užnerio žemę ir įkūrė daug \nbažnyčiųl0 , todėl Vytautas pramintas antruoju dievo \napaštalu\", kadangi jis pačius atkakliausius stabmel­\ndžius atvertė į krikščionių tikėjimą."
   statusas: verified
+  atnaujinta: "2026-07-12 23:04"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

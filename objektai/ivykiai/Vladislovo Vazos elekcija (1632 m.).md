@@ -51,6 +51,9 @@ Nenurodyta
 - t-001
   global_id: t-01857
   teiginys: "Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-02095
 
@@ -71,6 +74,7 @@ Nenurodyta
     priešų nebuvo.
   citata_rodoma: "Pati\nelekcija užtruko vos^1 /2\nvalandos, nes Vladislovo\npriešų nebuvo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

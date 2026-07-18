@@ -50,6 +50,10 @@ Nenurodyta
 - t-001
   global_id: t-66915
   teiginys: "Suvalkų derybos baigėsi susitarimu, kurį Lietuva ir Lenkija pasirašė 1920 m. spalio 7 d."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
   pagrindžia:
     - c-67007
 
@@ -70,6 +74,7 @@ Nenurodyta
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
   citata_rodoma: "Suvalkų derybos pasibaigė susitarimu, kurį abi ša-\nlys pasirašė 1920 metų spalių mėn. 7 d."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

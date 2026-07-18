@@ -13,18 +13,19 @@ tags:
 amziai:
   - 'D'
 periodo_grupes: []
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-1e8373a29e22a5a72a50f306","title":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","caption":"Mikalojaus Konstantino Čiurlionio fotografinis portretas","originalTitle":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","creator":"S.Fleury","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ciurlionis.eu/en/mkc-foto-3/","dateDisplay":"2012-02-29","dateStart":null,"dateEnd":null,"width":1135,"height":1621,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.128448+03:00","reviewedAt":"2026-07-18T12:21:56.860775+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas M. K. Čiurlionis profiliu, su būdingais veido bruožais, plaukais, ūsais, kostiumu ir kaklaraiščiu.","metadataEvidence":"Wikimedia Commons pavadinime ir apraše aiškiai nurodytas Mikalojus Konstantinas Čiurlionis; kūrėjas nurodytas S. Fleury.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę vienareikšmiškai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-1e8373a29e22a5a72a50f306","title":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","caption":"Mikalojaus Konstantino Čiurlionio fotografinis portretas","originalTitle":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","creator":"S.Fleury","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ciurlionis.eu/en/mkc-foto-3/","dateDisplay":"2012-02-29","dateStart":null,"dateEnd":null,"width":1135,"height":1621,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.128448+03:00","reviewedAt":"2026-07-18T12:21:56.860775+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas M. K. Čiurlionis profiliu, su būdingais veido bruožais, plaukais, ūsais, kostiumu ir kaklaraiščiu.","metadataEvidence":"Wikimedia Commons pavadinime ir apraše aiškiai nurodytas Mikalojus Konstantinas Čiurlionis; kūrėjas nurodytas S. Fleury.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę vienareikšmiškai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":1},{"mediaId":"m-d7e55502940c157d1b82ea8f","title":"Mikalojus Konstantinas Ciurlionis.jpg","caption":"Mikalojaus Konstantino Čiurlionio fotografinis portretas","originalTitle":"Mikalojus Konstantinas Ciurlionis.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"2012-02-28 21:22:17","dateStart":null,"dateEnd":null,"width":339,"height":448,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_Ciurlionis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Mikalojus_Konstantinas_Ciurlionis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Mikalojus_Konstantinas_Ciurlionis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable source","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media missing infobox template","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.116720+03:00","reviewedAt":"2026-07-18T12:21:56.853913+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas vyras su būdingais M. K. Čiurlionio veido bruožais, šukuosena, ūsais ir apranga; portretas sutampa su kitais kandidatais.","metadataEvidence":"Wikimedia Commons pavadinime tiesiogiai nurodytas „Mikalojus Konstantinas Ciurlionis“, nors pavardė pateikta be diakritinio ženklo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja M. K. Čiurlionį, o pavadinimas patvirtina tapatybę.","isPrimary":0},{"mediaId":"m-8cfb90ec772b9022ef8b4b5f","title":"Mikalojus Konstantinas Čiurlionis photo portret original.jpg","caption":"Mikalojaus Konstantino Čiurlionio originalaus fotografinio portreto skenograma","originalTitle":"Mikalojus Konstantinas Čiurlionis photo portret original.jpg","creator":"S.Fleury","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ciurlionis.eu/wp-content/uploads/2010/09/MKCPortretas1.jpg","dateDisplay":"2012-02-29","dateStart":null,"dateEnd":null,"width":689,"height":1040,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.130015+03:00","reviewedAt":"2026-07-18T12:21:56.863703+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tas pats M. K. Čiurlionio portretas, pateiktas kaip senos fotografijos ar jos reprodukcijos skenograma su originale esančiu apvadu ir užrašu.","metadataEvidence":"Wikimedia Commons pavadinime ir apraše tiesiogiai įvardytas Mikalojus Konstantinas Čiurlionis; nurodytas fotografas S. Fleury.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target; originalios fotografijos skenavimo pobūdis nekeičia ryšio su asmeniu.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-1e8373a29e22a5a72a50f306","title":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","caption":"Mikalojaus Konstantino Čiurlionio fotografinis portretas","originalTitle":"Mikalojus Konstantinas Čiurlionis photo portrait.jpg","creator":"S.Fleury","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ciurlionis.eu/en/mkc-foto-3/","dateDisplay":"2012-02-29","dateStart":null,"dateEnd":null,"width":1135,"height":1621,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portrait.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.128448+03:00","reviewedAt":"2026-07-18T12:21:56.860775+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas M. K. Čiurlionis profiliu, su būdingais veido bruožais, plaukais, ūsais, kostiumu ir kaklaraiščiu.","metadataEvidence":"Wikimedia Commons pavadinime ir apraše aiškiai nurodytas Mikalojus Konstantinas Čiurlionis; kūrėjas nurodytas S. Fleury.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tapatybę vienareikšmiškai patvirtina ir vaizdas, ir metaduomenys.","isPrimary":1},{"mediaId":"m-d7e55502940c157d1b82ea8f","title":"Mikalojus Konstantinas Ciurlionis.jpg","caption":"Mikalojaus Konstantino Čiurlionio fotografinis portretas","originalTitle":"Mikalojus Konstantinas Ciurlionis.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"2012-02-28 21:22:17","dateStart":null,"dateEnd":null,"width":339,"height":448,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_Ciurlionis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Mikalojus_Konstantinas_Ciurlionis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b7/Mikalojus_Konstantinas_Ciurlionis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable author","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with no machine-readable source","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media missing infobox template","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.116720+03:00","reviewedAt":"2026-07-18T12:21:56.853913+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas vyras su būdingais M. K. Čiurlionio veido bruožais, šukuosena, ūsais ir apranga; portretas sutampa su kitais kandidatais.","metadataEvidence":"Wikimedia Commons pavadinime tiesiogiai nurodytas „Mikalojus Konstantinas Ciurlionis“, nors pavardė pateikta be diakritinio ženklo.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja M. K. Čiurlionį, o pavadinimas patvirtina tapatybę.","isPrimary":0},{"mediaId":"m-8cfb90ec772b9022ef8b4b5f","title":"Mikalojus Konstantinas Čiurlionis photo portret original.jpg","caption":"Mikalojaus Konstantino Čiurlionio originalaus fotografinio portreto skenograma","originalTitle":"Mikalojus Konstantinas Čiurlionis photo portret original.jpg","creator":"S.Fleury","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ciurlionis.eu/wp-content/uploads/2010/09/MKCPortretas1.jpg","dateDisplay":"2012-02-29","dateStart":null,"dateEnd":null,"width":689,"height":1040,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cf/Mikalojus_Konstantinas_%C4%8Ciurlionis_photo_portret_original.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Files with derivative versions","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mikalojus Konstantinas Čiurlionis","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md","title":"Mikalojus Konstantinas Čiurlionis (dailininkas)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T12:21:25.130015+03:00","reviewedAt":"2026-07-18T12:21:56.863703+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tas pats M. K. Čiurlionio portretas, pateiktas kaip senos fotografijos ar jos reprodukcijos skenograma su originale esančiu apvadu ir užrašu.","metadataEvidence":"Wikimedia Commons pavadinime ir apraše tiesiogiai įvardytas Mikalojus Konstantinas Čiurlionis; nurodytas fotografas S. Fleury.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja target; originalios fotografijos skenavimo pobūdis nekeičia ryšio su asmeniu.","isPrimary":0}]
 ---
 # Mikalojus Konstantinas Čiurlionis (dailininkas)
 
@@ -38,6 +39,16 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-001
   global_id: t-101688
   teiginys: "Čiurlionio muziejaus senojo meno ekspozicija."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-95138
 
@@ -45,13 +56,36 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-002
   global_id: t-101689
   teiginys: "Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige."
+  atnaujinta: "2026-05-31 12:11"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Leipcigas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Leipcigas: mention_match, place, gap=74"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Leipcigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-21889
 
-<a id="claim-t-101690"></a>
+<a id="claim-t-101694"></a>
 - t-003
-  global_id: t-101690
+  global_id: t-101694
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko aiškų sakinį apie Čiurlionį."
   pagrindžia:
     - c-16722
 
@@ -59,6 +93,16 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-004
   global_id: t-101691
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Leipcigas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Leipcigas: mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Leipcigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-16723
 
@@ -66,6 +110,17 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-005
   global_id: t-101692
   teiginys: "Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-16723
 
@@ -73,6 +128,17 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-006
   global_id: t-101693
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
   pagrindžia:
     - c-16724
 
@@ -80,6 +146,16 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-007
   global_id: t-101695
   teiginys: "Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai."
+  atnaujinta: "2026-05-31 12:11"
+  sprendimo_priezastis: "manual_gap_people_quote_exact_repair"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus Konstantinas Čiurlionis (dailininkas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Konstantinas Čiurlionis (dailininkas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-16724
 - susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63885|M. K. Čiurlionis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.
@@ -123,6 +199,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     čius.
   citata_rodoma: "Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė \n1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir \nnacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-\nsias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir \ntautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-\nčius."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,6 +220,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
   citata_rodoma: "Kurį laiką taip elgėsi Mikalojus \nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje \nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs \nVaršuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-\nkotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -169,6 +247,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
   citata_rodoma: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime \npradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-\ntuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas \nV. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, \nMaironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-\nrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir \nkūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,6 +272,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Varšuvoje ir Leipcige.
   citata_rodoma: "Kurį laiką taip elgėsi Mikalojus\nKonstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje\nžinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs\nVaršuvoje ir Leipcige."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -211,6 +291,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,13 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
 - t-001
   global_id: t-195033
   teiginys: "Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prieš Temir-Kutlujų žadėjo pasodinti Tochtamyšą į chanų sostą."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
     - c-177404
 
@@ -60,6 +67,7 @@ Lietuvos metraštis šį pasakymą priskiria Vytautui, kuris prieš žygį prie�
     Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
   citata_rodoma: "Šeši tūkstančiai devyni šimtai šeštaisiais1 7  metais \nįvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto \nir chano Temir-Kutlujaus Didysis kunigaikštis Vy­\ntautas sutelkė nesuskaičiuojamą daugybę kariuomenės, \njo pusėje buvo chanas Tochtamyšas su savo kariuome­\nne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai, \nmoldavai ir penkiasdešimt rusų kunigaikščių. Ir su vi­\nsomis šiomis ginkluotomis pajėgomis ištraukė 1 9  prieš \nchaną Temir-Kutlujų, ketindamas atimti iš jo karalystę \nir sakė, girdamasis bei grasindamas Ordai: „Eime, už­\nkariausime totorių žemę, sumušime Temir-Kutlujų, pa­\nsodinsime sostan chaną Tochtamyšą, o jis mus pasodins \nvaldyti visos Rusų žemės.\"\nIr, šitaip prakalbėjęs, leidosi kariauti su totoriais."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

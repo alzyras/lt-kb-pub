@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kernius ir Gimbutas, pasak Daukanto, žygiavo į Juodgirėnus, nuniokojo Polocko apygardas, bet laužtis į Polocko pilį liovėsi ir su grobiu grįžo į Kernavę.
+Įėjusiu į Juodgirėnus (šiandien Baltaisiais Gudais vadinamus) pasiskaidė į žaras ir, apygardas Polocko baisiai nuteriojusiu, į pačią pilį mojavo laužtis, bet šiuo kartu lio vusiuos tą daryti, nusluoguotu visokiomis gėrybėmis pagrįžo laimingai į Kernavę, savo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201324"></a>
 - t-001
   global_id: t-201324
-  teiginys: "Kernius ir Gimbutas, pasak Daukanto, žygiavo į Juodgirėnus, nuniokojo Polocko apygardas, bet laužtis į Polocko pilį liovėsi ir su grobiu grįžo į Kernavę."
+  teiginys: "Įėjusiu į Juodgirėnus (šiandien Baltaisiais Gudais vadinamus) pasiskaidė į žaras ir, apygardas Polocko baisiai nuteriojusiu, į pačią pilį mojavo laužtis, bet šiuo kartu lio vusiuos tą daryti, nusluoguotu visokiomis gėrybėmis pagrįžo laimingai į Kernavę, savo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184674
 
 ## Citatos
 
 - id: c-184674
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 150"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 150."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kad taip nevyko lietuvių giminėms vakaruose
     kariauti, vienok pietuose laimingesniai jos grūmės,
@@ -66,6 +71,7 @@ Nenurodyta
     liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu­
     dai ir pamariai lenkų nebklausė ir duoklės nebdavė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

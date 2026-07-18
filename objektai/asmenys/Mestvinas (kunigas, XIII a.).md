@@ -35,24 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Mestviną vadina Pamarių kunigaikščiu ir rašo, kad 1267 m. Otokaras siekė tarpininkauti tarp Mestvino ir kryžėjų.
+Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig.
 
 ## Teiginiai
 
 <a id="claim-t-201456"></a>
 - t-001
   global_id: t-201456
-  teiginys: "Daukantas Mestviną vadina Pamarių kunigaikščiu ir rašo, kad 1267 m. Otokaras siekė tarpininkauti tarp Mestvino ir kryžėjų."
+  teiginys: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
+  atnaujinta: "2026-07-16 14:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184806
-- susijęs iš [[objektai/ivykiai/Mestvino taika su kryžėjais.md#claim-t-201333|Mestvino taika su kryžėjais]]: Vratislavas, Mestvino brolis, Daukanto pasakojime sudarė taiką su kryžėjais, gailėdamasis savo valdinių vargų po aprašytų niokojimų.
-- susijęs iš [[objektai/asmenys/Richardas Kornval.md#claim-t-201423|Richardas Kornval]]: Daukanto pasakojime Richardas Kornvalis, vadinamas Teutonijos viešpačiu, turėjo daugiau vardo nei valdžios ir nesirūpino kryžėjų zokanu.
+
 ## Citatos
 
 - id: c-184806
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 422"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 422."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tuo-
     mi įsmilintas, Otokaras susigadijo su bavarų vieš­
@@ -66,6 +70,7 @@ Daukantas Mestviną vadina Pamarių kunigaikščiu ir rašo, kad 1267 m. Otokara
     rinti, kaipogi Mestvimas, apleistas nuo savo brolio,
     maž tešelpiamas nuo Baimino, kunig.
   statusas: verified
+  atnaujinta: "2026-07-16 14:37"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime kryžėjų magistras su raitija įsiveržė į Meruniškę, sugriovė 18 pilių, prisigrobė turto ir išsivedė daug belaisvių.
+Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo.
 
 ## Teiginiai
 
 <a id="claim-t-201171"></a>
 - t-001
   global_id: t-201171
-  teiginys: "Daukanto pasakojime kryžėjų magistras su raitija įsiveržė į Meruniškę, sugriovė 18 pilių, prisigrobė turto ir išsivedė daug belaisvių."
+  teiginys: "Atėjęs ant rubežiaus, paliko tenai pėsčiuosius, o su viena jočia grūdos į sritį, vadinamą Meruniškę, kurią visą į tyrą apvertęs, 18 pilių sugriovė ir jomylistas jų nu galavo; sugriejęs tenai neapseikimas gėrybes ir turtus, su didžia daugybe imtinių pagrįžo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184521
 
 ## Citatos
 
 - id: c-184521
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 449"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 449."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mistras kryžėjų, tuo kartu laimingai sugrįžęs,
     skubinai sukėlė vėl karėjus ir su didesne kariauna
@@ -72,6 +77,7 @@ Daukanto pasakojime kryžėjų magistras su raitija įsiveržė į Meruniškę, 
     nuo to gal lemti, kokia tenai diena buvo nelaimin­
     gam lietuviui ir žemaičiui.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

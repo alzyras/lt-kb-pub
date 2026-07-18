@@ -44,6 +44,21 @@ Nenurodyta
 - t-001
   global_id: t-191026
   teiginys: "Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Neronas sumanė atgabenti gintaro, o dėl to buvo išsiųstas romėnas; įvykis yra ši pasiųsto riterio kelionė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.86)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173908
 
@@ -51,6 +66,21 @@ Nenurodyta
 - t-002
   global_id: t-191027
   teiginys: "Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Claim_text tiesiogiai nurodo Nerono pasiųstą romėną ir jo kelionę, kuri atitinka įvykio objektą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.90)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-173909
 
@@ -58,6 +88,12 @@ Nenurodyta
 - t-003
   global_id: t-197549
   teiginys: "Tarp daugelio retų egzempliorių matytas vienas gintaro gabalas, svėręs 13 romėniškų svarų, arba apie pusę dešimties mūsų sva rų2."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
     - c-173908
 
@@ -101,6 +137,7 @@ Nenurodyta
     1 Plin.
     Lib.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +165,7 @@ Nenurodyta
     succino.
   citata_rodoma: "Daugiau smulkmenų apie\nšią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į\nRomą. Pasaulio sostinę didžiai nustebino neregėta pra­\nbanga, kai grumtynėse ant žvėrių užnerti tinklai, kovoto­\njų ginklai, neštuvai žuvusioms išnešti, žodžiu, visi reginio\nmetu naudoti reikmenys spindėjo gintaru. Tarp daugelio\nretų egzempliorių matytas vienas gintaro gabalas, svėręs\n13 romėniškų svarų, arba apie pusę dešimties mūsų sva­\nrų2."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

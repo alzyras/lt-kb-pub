@@ -34,6 +34,16 @@ media_all_json: |-
 - t-001
   global_id: t-32626
   teiginys: "Uturiai buvo prie Betygalos."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Betygala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Uturiai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Betygala: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uturiai\" parinktas kaip owner_note_path. Targetas \"Betygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34066
 
@@ -93,6 +103,7 @@ media_all_json: |-
     Valdemaras IV, Danijos karalius
   citata_rodoma: "148\nUturiai, prie Betygalos 177\nUzbekas, chanas 183, 241, 242\nUžnemunė 61, 78, 95, 96, 105, 108,\n254, 326\nUžpaliai 118**\n**_Užsienio Lietuvių Spaudos Metraštis_**\n**17\nVaclovas, Čekijos karalius 336, 356,\nžr."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

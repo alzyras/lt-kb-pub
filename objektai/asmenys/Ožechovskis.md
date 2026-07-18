@@ -34,6 +34,13 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 - t-001
   global_id: t-194836
   teiginys: "Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį krikštijimą ir."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177232
 
@@ -58,6 +65,7 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
     naują vardą: krikštijimas vandeniu, patepimas šventais alie­
     jais, sutvirtinimas, įstojimas į vienuolius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

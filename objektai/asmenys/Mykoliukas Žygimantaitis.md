@@ -33,6 +33,12 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
 - t-001
   global_id: t-194117
   teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-176730
 
@@ -55,6 +61,7 @@ Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš t�
     mišlį užgrobė.
   citata_rodoma: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­\nriuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.  \nIr, bebūnant viename vienuolyne ir klausant mišių, įgu- \nmenas, kuris jo nemėgo, davė jam su komunija baisių, \nmirtinų nuodų. Kai tik jis priėmė ir nurijo, tuoj pat \nkrito negyvas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

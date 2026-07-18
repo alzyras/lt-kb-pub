@@ -45,6 +45,11 @@ Nenurodyta
 - t-001
   global_id: t-191031
   teiginys: 'Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie žygį ir jau pateikia Narbuto pasakojimo atribuciją. Priešo motyvų iš citatos neperkelta.'
+  susije_objektai: 'llm_object: Bizantija; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Bizantija'
   pagrindžia:
     - c-173913
 
@@ -68,6 +73,7 @@ Nenurodyta
     trys šimtai ginkluotų jūros laivų, kuriuose buvo iš gim­
     tosios žemės Vakaruose atvykę kariai.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

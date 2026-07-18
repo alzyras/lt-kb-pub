@@ -62,6 +62,19 @@ Nenurodyta
 - t-001
   global_id: t-19534
   teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
+  atnaujinta: "2026-05-18 23:37"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "priklause -> Žydai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Išsaugotos Toros: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Toros minimos kaip žydams grąžintinų kultūros vertybių dalis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Išsaugotos Toros priklausė Žydai (0.76)"
+  temporaliniai_duomenys: "įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-22247
 
@@ -91,6 +104,7 @@ Nenurodyta
     spaudos, rinkimų laisvę.
   citata_rodoma: "tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

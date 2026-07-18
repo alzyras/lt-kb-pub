@@ -56,6 +56,13 @@ Nenurodyta
 - t-002
   global_id: t-194621
   teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177020
 
@@ -63,6 +70,9 @@ Nenurodyta
 - t-001
   global_id: t-187991
   teiginys: 'Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes.'
+  teiginio_tipas: 'saltinio_teiginys'
+  sudarymo_pagrindimas: 'Teiginys jau yra glaustas ir pilnas sakinys apie auką už mirusius bičiulius. Narbuto atribucija tinkama, o Strijkovskio citatos detalės nepridėtos.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Strijkovskis|Strijkovskis]]; mentioned_object: [[objektai/daiktai/Smilkalai|Smilkalai]]'
   pagrindžia:
     - c-171000
 
@@ -85,8 +95,8 @@ Nenurodyta
     musu). Tada valgo ir geria net per daug; puota baigiasi senovi­
     nėmis dainomis“.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +116,7 @@ Nenurodyta
     dalykų, net ir gyvi žmonės. Minėdami žuvusiuosius kare, de­
     gindavo belaisvius arba paimtus gyvulius.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

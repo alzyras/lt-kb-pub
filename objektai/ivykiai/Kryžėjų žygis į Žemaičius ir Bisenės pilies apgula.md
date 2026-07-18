@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime kryžėjai po kruvinos kovos įsilaužė į Bisenės pilį, iškirto jos žmones ir sudegino pačią pilį.
+Apgulus pilį, rados kru vina mūša, kaipogi įgulė Bisenės gyniojo švente nybes su neaprašoma kantrybe ir narsybe, vienok lig nesubrėškus dar pergalėjo meldžionys įgulę ir į pilį varu įsilaužė; iškirtę svietą, pačią pilį sude gino, bet ar įgijo tuo pačiu žygiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201290"></a>
 - t-001
   global_id: t-201290
-  teiginys: "Daukanto pasakojime kryžėjai po kruvinos kovos įsilaužė į Bisenės pilį, iškirto jos žmones ir sudegino pačią pilį."
+  teiginys: "Apgulus pilį, rados kru vina mūša, kaipogi įgulė Bisenės gyniojo švente nybes su neaprašoma kantrybe ir narsybe, vienok lig nesubrėškus dar pergalėjo meldžionys įgulę ir į pilį varu įsilaužė; iškirtę svietą, pačią pilį sude gino, bet ar įgijo tuo pačiu žygiu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184640
 
 ## Citatos
 
 - id: c-184640
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 465"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 465."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet visų
     šventesnioji vieta buvo pati sala, kurią tuo žygiu
@@ -65,6 +70,7 @@ Nenurodyta
     dą, nusluoguota gėrybėmis, atėjo pas mistrą, kur­
     sai, nustojęs didžios daugybės karėjų, grįžo namo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

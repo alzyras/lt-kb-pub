@@ -41,6 +41,13 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
 - t-001
   global_id: t-194832
   teiginys: "Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177228
 
@@ -72,6 +79,7 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
     zakovskis, duoda pagrindo tuo tikėti.
   citata_rodoma: "-  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­\nnį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

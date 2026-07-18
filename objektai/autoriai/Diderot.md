@@ -42,6 +42,12 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 - t-001
   global_id: t-01027
   teiginys: "Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1755 m.; įvykio data: 1778 m.; įvykio data: 1783 m.; įvykio data: 1784 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskirtas faktas apie Diderot iš vardų sąrašo."
   pagrindžia:
     - c-01266
 
@@ -60,6 +66,7 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
     _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
   citata_rodoma: "_Montesquieu_ († 1755 m.),\n_Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),\n_Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

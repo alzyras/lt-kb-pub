@@ -33,6 +33,23 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
 - t-001
   global_id: t-186195
   teiginys: "Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Italija: 0.73"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Deziderijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata sieja Deziderijaus veiksmus su Italijos niokojimu; tikslesni Romos ar popiežiaus valdų objektai nepateikti."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Deziderijus puolė Italija (0.73)"
+  temporaliniai_duomenys: "įvykio data: 754 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas retorinis intarpas ir puslapio triukšmas."
   pagrindžia:
     - c-169556
 
@@ -55,6 +72,7 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
     leidžia ištroškusiam karo kelti ginklą!), pradėjo iš nau­
     jo niokoti Romos ir popiežiaus valdas.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,6 +49,13 @@ Nenurodyta
 - t-002
   global_id: t-194631
   teiginys: "Plačiau apie tas smul kmenas papasakosime toliau, atskiruose straipsniuose, kuriuo se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir iškilmes, labai panašias į Romos bakchanalijas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177029
 
@@ -56,6 +63,11 @@ Nenurodyta
 - t-001
   global_id: t-189865
   teiginys: 'Narbutas Ragučio vardą kildino iš žodžio „Ragutas“, nes per vasario šventę dievo stabas ar atvaizdas būdavo vežiojamas rogėmis.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Kilmės aiškinimas paliktas su Narbuto atribucija. Pašalinti puslapio numerio ir OCR triukšmo fragmentai.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rogės|Rogės]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-172748
 
@@ -81,8 +93,8 @@ Nenurodyta
     būtų išvada, kad ir tas dievas Ragutis plačiausiai buvo vadina­
     mas vardu, kilusiu iš to žodžio.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +115,7 @@ Nenurodyta
     se išvardysime jo garbei atlikinėtas apeigas, rengtas šventes ir
     iškilmes, labai panašias į Romos bakchanalijas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

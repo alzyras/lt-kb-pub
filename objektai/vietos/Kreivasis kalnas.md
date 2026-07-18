@@ -39,6 +39,9 @@ Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lo
 - t-001
   global_id: t-187243
   teiginys: 'Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kreivojo kalno tapatinimą. Citata tiesiogiai palaiko šį lokalizacinį teiginį.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnelė'
   pagrindžia:
     - c-170305
 
@@ -46,6 +49,9 @@ Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lo
 - t-002
   global_id: t-187244
   teiginys: 'Kreivasis kalnas lokalizuojamas šiauriniame Vilnelės krante, priešais dabartinį Gedimino kalną.'
+  teiginio_tipas: 'faktas'
+  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Kreivojo kalno lokalizaciją ir turi faktinį predikatą. Nepridėta nieko daugiau nei citatoje esantis vietos aprašas.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnelė; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-170305
 
@@ -65,6 +71,7 @@ Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu. Kalnas lo
     nų).
   citata_rodoma: "Kreivasis, arba Pilkasis, kalnas tapatinamas su T rijų Kryžių \nkalnu (šiauriniame Vilnelės krante, priešais dabartinį Gedimino kal­\nnų)."
   statusas: not_found
+  atnaujinta: "2026-07-12 22:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas aprašo, kad žygovu vadinamas kunigas, nešinas valdovo lazda ar vytimi, vietoje paskelbdavo įsakymą, kuris būdavo tuojau įvykdomas.
+Kaipogi kur jo tarnas kunigas, žy govu vadinamas, nuėjęs į kokią vietą apskelbė, tu rėdamos jo lazdą ar vytį, svietui jo įsakymą, tuo jau tenai kuo veikesniai išpildė.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201363"></a>
 - t-001
   global_id: t-201363
-  teiginys: "Daukantas aprašo, kad žygovu vadinamas kunigas, nešinas valdovo lazda ar vytimi, vietoje paskelbdavo įsakymą, kuris būdavo tuojau įvykdomas."
+  teiginys: "Kaipogi kur jo tarnas kunigas, žy govu vadinamas, nuėjęs į kokią vietą apskelbė, tu rėdamos jo lazdą ar vytį, svietui jo įsakymą, tuo jau tenai kuo veikesniai išpildė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184713
 
 ## Citatos
 
 - id: c-184713
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 92"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 92."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Klausė jo valdžios ne vien lietu­
     viai ir žemaičiai, bet ir kitos dalys Lietuvos tautos,
@@ -67,6 +72,7 @@ Nenurodyta
     dar daugioj vietoj įsakymą vyresnybės lazda teb-
     vadina, sakydami: „Pranešė lazdą, nubogino lazdą"1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

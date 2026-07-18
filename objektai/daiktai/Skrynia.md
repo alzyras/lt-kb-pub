@@ -55,10 +55,14 @@ Nenurodyta
 - t-001
   global_id: t-195340
   teiginys: "Kraitis iš pradžių minimas mažoje skrynelėje."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
+    - c-177741
     - c-177739
     - c-177740
-    - c-177741
 - susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195383|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Atlyginti kraičvežiai išveždavo skrynią ir ryšulį į jaunikio namus, kur jų laukdavo sukviesti svečiai.
 - susijęs iš [[objektai/posakiai/Akmenų pridėta ir gana!.md#claim-t-195433|Akmenų pridėta ir gana!]]: Skrynios sunkumas aiškinamas formule apie pridėtus akmenis.
 - susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195381|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Jaunoji kraičvežiams dovanodavo rankšluosčius, kuriuos jie persirišdavo per pečius.
@@ -83,6 +87,7 @@ Nenurodyta
     ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus.
   citata_rodoma: "Jau krai­\ntis atskirtas, skrynia užrakinta, pagalvės ir duknos surištos į didelį ryšulį — ir broliai prašomi išnešti skrynią ir įdėti ją į ratus."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,6 +107,7 @@ Nenurodyta
     skrynia nė krust, ima trise keturiese — tas pat.
   citata_rodoma: "Broliai mėgina nešti skrynią: ima dviese — skrynia nė krust, ima trise keturiese — tas pat."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,6 +131,7 @@ Nenurodyta
     ratų užpakalyje.
   citata_rodoma: "Mūsų jaunosios kraitis tilpo mažoje skrynelėje, kurią ji iš­\nsivežė pasisėdus; dar buvo šis tas sudėta į „kraičkubilį“ , pastatytą ratų užpakalyje."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,20 @@ Nenurodyta
 - t-003
   global_id: t-189818
   teiginys: "Narbuto pasakojime Saulės aptemimą sukeldavo drakonų ir kerėtojų puolimas, o latviai šį nutikimą vadino Majtaszana arba Saules majtaszana."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=77"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172701
 
@@ -55,6 +69,13 @@ Nenurodyta
 - t-004
   global_id: t-189819
   teiginys: "Narbuto aiškinime pertvarkant mitologiją dalis Mėnesio garbinimo perėjo Laimai, vadintai Lėlės ir Mėnulės vardais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172702
 
@@ -62,6 +83,12 @@ Nenurodyta
 - t-005
   global_id: t-197254
   teiginys: "Toliau šiame veikale rasime kitas dangaus kūnų judėjimo pažinimo liekanas, daugiausia straipsniuose „Šventės“, „Iškil mės“."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172701
 
@@ -69,6 +96,11 @@ Nenurodyta
 - t-001
   global_id: t-189816
   teiginys: 'Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Teiginys suformuluotas kaip Narbuto religinės kilmės interpretacija. Pašalintas OCR triukšmas, nepridėta nieko už citatos ribų.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zoroastras|Zoroastras]]; mentioned_group: [[objektai/grupes/Persai|Persai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]'
   pagrindžia:
     - c-172699
 
@@ -76,6 +108,10 @@ Nenurodyta
 - t-002
   global_id: t-189817
   teiginys: 'Narbuto perteikiamame vaizdinyje Saulė laikyta deive, Mėnulio žmona, o jų vaikai buvo žvaigždės - Saulės dukterys ir sūnūs.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Mitologinis pasakojimas paliktas su Narbuto atribucija. Išskleistas subjektas Saulė ir Mėnulis, o platesnių aiškinimų nepridėta.'
   pagrindžia:
     - c-172700
 
@@ -102,8 +138,8 @@ Nenurodyta
     kankamai ryškūs -  tiek, kad senesnieji istorikai visą tą mitolo­
     giją kildina iš skandinavų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +160,8 @@ Nenurodyta
     dybų atsiradę vaikai buvo žvaigždės -  Saulės dukterys, o kiti,
     dėl vardų priklausantys vyriškai giminei, buvo Saulės sūnūs.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,6 +186,7 @@ Nenurodyta
     Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
     nelia.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,6 +208,7 @@ Nenurodyta
     Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
     nelia. Jis valdė naktį ir todėl matavo laiką“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

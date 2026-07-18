@@ -33,23 +33,28 @@ media_all_json: |-
 
 ## Santrauka
 
-1323 m. gegužės 26 d. Vilniuje parašytoje gromatoje, pasak Daukanto, grasinta gėdinti tuos, kurie sulaužytų joje nurodytą žymę.
+Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes skelbiam ir gėdinam šioje gromatoj kaipo sukčių teisybės, prietelių velnio ir neprietelių tikybos, kaipo atskalūnį, melagį ir begėdį.
 
 ## Teiginiai
 
 <a id="claim-t-201217"></a>
 - t-001
   global_id: t-201217
-  teiginys: "1323 m. gegužės 26 d. Vilniuje parašytoje gromatoje, pasak Daukanto, grasinta gėdinti tuos, kurie sulaužytų joje nurodytą žymę."
+  teiginys: "Jei kas tą žymę neklausęs su laužys ir per piktybę priešingaus, tokį mes skelbiam ir gėdinam šioje gromatoj kaipo sukčių teisybės, prietelių velnio ir neprietelių tikybos, kaipo atskalūnį, melagį ir begėdį."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184567
 
 ## Citatos
 
 - id: c-184567
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 543"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jei kas tą žymę neklausęs su­
     laužys ir per piktybę priešingaus, tokį mes skelbiam
@@ -60,6 +65,7 @@ media_all_json: |-
     dar persergim, idant tie, kurie perskaitys tą groma­
     tą tolesniai teiktųsi siųsti".
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

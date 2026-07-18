@@ -55,6 +55,10 @@ Atsisakymo būti vadinamai martelė iki visiško priėmimo formulė.
 - t-001
   global_id: t-195435
   teiginys: "Jaunoji dainoje pabrėžia, kad dar nėra jų martelė."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177856
 
@@ -75,6 +79,7 @@ Atsisakymo būti vadinamai martelė iki visiško priėmimo formulė.
     Baltos močiutės esmu dukrele.
   citata_rodoma: "Dar aš ne jūsų esu martelė,\nIr nevadinkite tuoju žodeliu.\nPenkių brolučių esmu seselė,\nBaltos močiutės esmu dukrele."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

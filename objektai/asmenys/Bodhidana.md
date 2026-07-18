@@ -33,6 +33,24 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
 - t-001
   global_id: t-190135
   teiginys: "Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Tibetas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bodhidana: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tibetas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos kontekste „ten“ remiasi gyvenimu Tibete prie Sungo kalno, todėl mirties vieta siejama su Tibetu."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Bodhidana mirė Tibetas (0.72)"
+  temporaliniai_duomenys: "mirties data: 495 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Bodhidana mirė Tibetas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Bodhidanos vaidmuo ir vieta, paliekant Narbuto atribuciją dėl religinės interpretacijos. Nepridėta platesnių teiginių apie lamaizmą ar lietuvių tikėjimą."
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-173018
 
@@ -63,6 +81,7 @@ Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį
     mą, kurio principų dalį savyje išsaugojo senasis lietuvių tikė­
     jimas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

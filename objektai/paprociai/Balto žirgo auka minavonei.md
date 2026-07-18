@@ -28,7 +28,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime 1200 m. lietuviai ir žemaičiai, susitarę su Albertu dėl taikos prie Rygos, pagal savo paprotį dievams sudegino baltą žirgą.
+Albertu padarė ir minavonei pa gal savo būdą dievams ant apieros baltą žirgą su degino.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -50,16 +50,21 @@ Nenurodyta
 <a id="claim-t-201381"></a>
 - t-001
   global_id: t-201381
-  teiginys: "Daukanto pasakojime 1200 m. lietuviai ir žemaičiai, susitarę su Albertu dėl taikos prie Rygos, pagal savo paprotį dievams sudegino baltą žirgą."
+  teiginys: "Albertu padarė ir minavonei pa gal savo būdą dievams ant apieros baltą žirgą su degino."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184731
 
 ## Citatos
 
 - id: c-184731
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 192"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 192."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Alberto ir veisimos Padaugavy
     vokyčių didžiai netiko lietuviams ir žemaičiams, ku­
@@ -71,6 +76,7 @@ Nenurodyta
     gal savo būdą dievams ant apieros baltą žirgą su­
     degino.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

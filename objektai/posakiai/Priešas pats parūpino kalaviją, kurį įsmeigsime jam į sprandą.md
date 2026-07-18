@@ -53,6 +53,7 @@ Nenurodyta
     savo jėgomis.
   citata_rodoma: "Ramiai karalius išklausė\ntų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­\nlą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam\nį sprandą\"."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -35,30 +35,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną karūną Mintautui, o kitą jo žmonai Martai. Daukantas Stuklandą apibūdina kaip kalavijonų mistrą, bendravusį ir bičiuliavusį su Lietuvos karaliumi Mintautu.
+Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir. Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų.
 
 ## Teiginiai
 
-<a id="claim-t-201401"></a>
+<a id="claim-t-201399"></a>
 - t-001
-  global_id: t-201401
-  teiginys: "Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną karūną Mintautui, o kitą jo žmonai Martai."
+  global_id: t-201399
+  teiginys: "Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184751
+    - c-184749
 
-<a id="claim-t-201402"></a>
+<a id="claim-t-201400"></a>
 - t-002
-  global_id: t-201402
-  teiginys: "Daukantas Stuklandą apibūdina kaip kalavijonų mistrą, bendravusį ir bičiuliavusį su Lietuvos karaliumi Mintautu."
+  global_id: t-201400
+  teiginys: "Noris Stuklandas, mistras kalavijonų, bendravos ir bičiuliavos su pačiu Mintautu, karalium Lietuvos, kur sai jį visuomet žmoniškai išvaišinęs ne vien apdo venojo, bet dar toli jį palydėjo, bet jam padėka vojus už vyresnybę, atėjęs antras mistras kalavijonų."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184752
-- susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-200995|Heidenreichas (vyskupas, XIII–XIV a.)]]: Daukanto pasakojimu Kulmo vyskupas Heidenreichas vyko į Lietuvą pas Mindaugą ir karūnavimo iškilmėje patepė jį aliejumi.
+    - c-184750
+
 ## Citatos
 
-- id: c-184751
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 348"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 348."
+- id: c-184749
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Išleisdamas popiežius Lietuvos siuntinius įdavė
     karūną ir raštą parnešti vyskupui Kulmo, liepda­
@@ -80,16 +91,16 @@ Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną
     vieną karūną antdėjo Mintautui, antrą jo žmonai
     Martai.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201401
+    - t-201399
 
-- id: c-184752
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 361"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
+- id: c-184750
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Taip Otokarui su kryžėjais kariaujant samionis
     ir kitus žemaičius tarp upių Pragaro ir Nemuno,
@@ -105,8 +116,9 @@ Daukanto pasakojime mistras Stuklandas per Mintauto karūnavimą uždėjo vieną
     galiais ir žemaičiais didžiai baisiai kariavo, kurie jo
     nenorėjo su kryžėjais suleisti1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201402
+    - t-201400

@@ -51,6 +51,9 @@ Nenurodyta
 - t-001
   global_id: t-67002
   teiginys: "1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67077
 
@@ -58,6 +61,9 @@ Nenurodyta
 - t-002
   global_id: t-67003
   teiginys: "1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67075
 
@@ -75,6 +81,7 @@ Nenurodyta
     jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir paša-
     lintų kariuomenę.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +107,7 @@ Nenurodyta
     Ona: mat, jisai buvo jos
     sesers Kotrynos sūnus.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

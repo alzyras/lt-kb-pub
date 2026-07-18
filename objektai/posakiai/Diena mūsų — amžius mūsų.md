@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas posakį „Diena mūsų — amžius mūsų“ aiškina kaip lietuvių ir žemaičių savęs stiprinimą karų ir suspaudimo metu.
+Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti.
 
 ## Teiginiai
 
 <a id="claim-t-201258"></a>
 - t-001
   global_id: t-201258
-  teiginys: "Daukantas posakį „Diena mūsų — amžius mūsų“ aiškina kaip lietuvių ir žemaičių savęs stiprinimą karų ir suspaudimo metu."
+  teiginys: "Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184608
 
 ## Citatos
 
 - id: c-184608
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 510"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 510."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rodės, jog toj rūstoj dienoj nebliks nė veis­
     lės lietuvių ir žemaičių, kaipogi kur pirma linksmi
@@ -59,6 +64,7 @@ Daukantas posakį „Diena mūsų — amžius mūsų“ aiškina kaip lietuvių 
     atleidimą pelnyti netikėlius lietuvius ir žemaičius
     kariaudami.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

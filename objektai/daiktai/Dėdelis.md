@@ -54,6 +54,10 @@ Nenurodyta
 - t-001
   global_id: t-195352
   teiginys: "Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177760
     - c-177761
@@ -77,6 +81,7 @@ Nenurodyta
     Eime jo pažiūrėti.
   citata_rodoma: "Pelenijai išaušus sveikiname pirmąją pavasario dieną. \nTą \ndieną važiuoja per kaimą dėdelis. \nEime jo pažiūrėti."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +103,7 @@ Nenurodyta
     tęs; prie rankų jam pakso ant virvelių pakabinti pagaliukai.
   citata_rodoma: "Aplink stebulę sustatyti ir priraišioti keli pagaliukai pusantro met­\nro ilgumo, ant tų pagaliukų parėdytas dėdelis. Tas dėdelis su žiemine \nkepure, su prasčiausia ruda sermėga, virve susijuosęs, rankas iškė­\ntęs; prie rankų jam pakso ant virvelių pakabinti pagaliukai."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

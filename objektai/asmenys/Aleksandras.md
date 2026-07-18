@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras (kunigas, XIV a.)'
+pavadinimas: 'Aleksandras'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
@@ -10,10 +10,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-variantai:
-  - 'Aleksandras'
-aliases:
-  - 'Aleksandras'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,23 +17,23 @@ tags:
   - karvedys
   - kunigaikštis
   - valdovas
-amziai:
-  - 'XIV'
+amziai: []
 periodo_grupes: []
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AAleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'manuscript_depiction_of'
+media_primary_json: |-
+  {"mediaId":"m-df83f010cb979156afbdca73","title":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","caption":"Aleksandras Jogailaitis Lietuvos Senate, 1506 m. rankraštinės iliustracijos detalė.","originalTitle":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","creator":"Jan Haller","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1506","dateStart":null,"dateEnd":null,"width":512,"height":879,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century depictions of the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Alexander of Poland in woodcuts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the House of Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of the Sejm","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kingdom of Poland (medieval)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Łaski's Statute","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-17T15:39:41.479248+03:00","reviewedAt":"2026-07-17T15:41:14.837889+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Centre matomas karūnuotas valdovas, sėdintis soste, apsuptas dvasininkų ir didikų; viršuje pavaizduoti herbai.","metadataEvidence":"Pavadinime tiesiogiai įvardytas Aleksandras Jogailaitis, o aprašas nurodo jo atvaizdą 1506 m. Laski statute.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas kartu aiškiai identifikuoja Aleksandro Jogailaičio istorinį atvaizdą.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-df83f010cb979156afbdca73","title":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","caption":"Aleksandras Jogailaitis Lietuvos Senate, 1506 m. rankraštinės iliustracijos detalė.","originalTitle":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","creator":"Jan Haller","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1506","dateStart":null,"dateEnd":null,"width":512,"height":879,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century depictions of the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Alexander of Poland in woodcuts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the House of Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of the Sejm","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kingdom of Poland (medieval)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Łaski's Statute","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-17T15:39:41.479248+03:00","reviewedAt":"2026-07-17T15:41:14.837889+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Centre matomas karūnuotas valdovas, sėdintis soste, apsuptas dvasininkų ir didikų; viršuje pavaizduoti herbai.","metadataEvidence":"Pavadinime tiesiogiai įvardytas Aleksandras Jogailaitis, o aprašas nurodo jo atvaizdą 1506 m. Laski statute.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas kartu aiškiai identifikuoja Aleksandro Jogailaičio istorinį atvaizdą.","isPrimary":1}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-6ba522e4d531b98bcdb6636b","title":"Seal of Aleksandras Jogailaitis with the Polish Eagle, Lithuanian Vytis (Waykimas) and other coats of arms, 1504.jpg","caption":"Aleksandro Jogailaičio antspaudas, 1504 m.","originalTitle":"Seal of Aleksandras Jogailaitis with the Polish Eagle, Lithuanian Vytis (Waykimas) and other coats of arms, 1504.jpg","creator":"Seal belong to Alexander Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1504-03-14","dateStart":null,"dateEnd":null,"width":787,"height":801,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1504 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with Kaiser Scando icoss","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T15:39:22.603455+03:00","reviewedAt":"2026-07-17T15:41:14.818826+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus vaškinis antspaudas su heraldine kompozicija ir herbais.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandras Jogailaitis bei 1504 m. dokumentas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Aleksandro Jogailaičio antspaudas, nors vaizdas nėra jo portretas.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95},{"code":"didysis-antspaudas","label":"didysis antspaudas","facetKind":"tema","confidence":0.82},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T15:39:22.604045+03:00","reviewedAt":"2026-07-17T15:41:14.831699+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus Lietuvos didysis antspaudas su Vyčiu centre ir heraldiniais ženklais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad antspaudas naudotas Lietuvos didžiojo kunigaikščio Aleksandro Jogailaičio valdymo metu, 1503 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne asmeninis Aleksandro portretas ar antspaudas, bet aiškiai dokumentuotas jo valdymo simbolis.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-df83f010cb979156afbdca73","title":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","caption":"Aleksandras Jogailaitis Lietuvos Senate, 1506 m. rankraštinės iliustracijos detalė.","originalTitle":"Aleksandras Jogailaitis (Alexander Jagiellon) in 1506 (cropped from an authentic painting).jpg","creator":"Jan Haller","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1506","dateStart":null,"dateEnd":null,"width":512,"height":879,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Aleksandras_Jogailaitis_%28Alexander_Jagiellon%29_in_1506_%28cropped_from_an_authentic_painting%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"16th-century depictions of the Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Alexander of Poland in woodcuts","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of the House of Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Historical coats of arms of Poland in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of the Sejm","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Kingdom of Poland (medieval)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Łaski's Statute","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-17T15:39:41.479248+03:00","reviewedAt":"2026-07-17T15:41:14.837889+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Centre matomas karūnuotas valdovas, sėdintis soste, apsuptas dvasininkų ir didikų; viršuje pavaizduoti herbai.","metadataEvidence":"Pavadinime tiesiogiai įvardytas Aleksandras Jogailaitis, o aprašas nurodo jo atvaizdą 1506 m. Laski statute.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys ir vaizdas kartu aiškiai identifikuoja Aleksandro Jogailaičio istorinį atvaizdą.","isPrimary":1},{"mediaId":"m-6ba522e4d531b98bcdb6636b","title":"Seal of Aleksandras Jogailaitis with the Polish Eagle, Lithuanian Vytis (Waykimas) and other coats of arms, 1504.jpg","caption":"Aleksandro Jogailaičio antspaudas, 1504 m.","originalTitle":"Seal of Aleksandras Jogailaitis with the Polish Eagle, Lithuanian Vytis (Waykimas) and other coats of arms, 1504.jpg","creator":"Seal belong to Alexander Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1504-03-14","dateStart":null,"dateEnd":null,"width":787,"height":801,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/00/Seal_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle%2C_Lithuanian_Vytis_%28Waykimas%29_and_other_coats_of_arms%2C_1504.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1504 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Images with annotations","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Scanned with Kaiser Scando icoss","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Alexander of Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T15:39:22.603455+03:00","reviewedAt":"2026-07-17T15:41:14.818826+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus vaškinis antspaudas su heraldine kompozicija ir herbais.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodytas Aleksandras Jogailaitis bei 1504 m. dokumentas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai konkretus Aleksandro Jogailaičio antspaudas, nors vaizdas nėra jo portretas.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95},{"code":"didysis-antspaudas","label":"didysis antspaudas","facetKind":"tema","confidence":0.82},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.82}],"sourceTags":[{"provider":"commons","field":"categories","label":"1503 in Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seal of Grand Duchy of Lithuania (Alexander Jagiellon)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 16th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras.md","title":"Aleksandras","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-17T15:39:22.604045+03:00","reviewedAt":"2026-07-17T15:41:14.831699+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus Lietuvos didysis antspaudas su Vyčiu centre ir heraldiniais ženklais.","metadataEvidence":"Pavadinime ir apraše nurodyta, kad antspaudas naudotas Lietuvos didžiojo kunigaikščio Aleksandro Jogailaičio valdymo metu, 1503 m.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne asmeninis Aleksandro portretas ar antspaudas, bet aiškiai dokumentuotas jo valdymo simbolis.","isPrimary":0}]
 ---
-# Aleksandras (kunigas, XIV a.)
+# Aleksandras
 
 ## Santrauka
 
@@ -49,6 +45,20 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-001
   global_id: t-89626
   teiginys: "Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį."
+  atnaujinta: "2026-06-14 10:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Stanislovas Kiška: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras paskyrė kariuomenės vadus, tarp jų Stanislovą Kišką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Aleksandras paskyrė Stanislovas Kiška (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1502 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
   pagrindžia:
     - c-85564
 
@@ -56,6 +66,19 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-002
   global_id: t-89627
   teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Patrikas (kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1365 m.; įvykio data: 1378 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Aleksandrą ir paremtas citata."
   pagrindžia:
     - c-85561
 
@@ -63,6 +86,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-003
   global_id: t-89628
   teiginys: "Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazanė: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazanė: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Kazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85563
 
@@ -70,6 +103,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-004
   global_id: t-89629
   teiginys: "Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį."
+  atnaujinta: "2026-06-01 14:44"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-85563
 
@@ -77,6 +120,20 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-005
   global_id: t-190842
   teiginys: "Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
     - c-173724
 
@@ -84,27 +141,52 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-006
   global_id: t-196407
   teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė ją Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-178665
 
 <a id="claim-t-200964"></a>
 - t-007
   global_id: t-200964
-  teiginys: "Kunigas Aleksandras buvo nusiųstas į Medžiapolę, kur, Daukanto pasakojimu, apkrikštijo vietos gyventojus ir įkūrė jiems bažnyčią."
+  teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184314
 
 <a id="claim-t-200965"></a>
 - t-008
   global_id: t-200965
-  teiginys: "Daukantas Aleksandrą Nevskį įvardija Naugardo kunigaikščiu ir pasakoja, kad jis atėjo į pagalbą Polockui, kai lietuviai buvo įsiveržę į pilį."
+  teiginys: "Jau buvo lie tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Naugardo Aleksandras, vadinamas Nevskiu, atėjo ant pagalbos Polockui."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184315
 
 <a id="claim-t-200966"></a>
 - t-009
   global_id: t-200966
-  teiginys: "Daukantas pasakoja, kad Tverės kunigaikštis Aleksandras atsisakė vykti į totorių chano Uzbeko rūmus, pripažinti jį viešpačiu ir mokėti jam duoklę."
+  teiginys: "Tuo laiku Uzbekąs, chanas totorių, patvirtinęs tūlus maskolių kunigaikščius ypatingais valdymierais, liepė vaidintis savo rūmuose Tverės kunigaikš čiui Aleksandrui ir jį, Uzbeką, savo viešpačiu iš pažinti ir donį jam duoti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184316
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
@@ -139,7 +221,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Medžiapolė (vieta): Į Medžiapolę nusiųstas kunigas Aleksandras apkrikštijo tenykščius gyventojus ir įkūrė jiems bažnyčią.
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
@@ -232,6 +313,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     (SRP, 2, 596).
   citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -261,6 +343,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     taip pat gabeno Kazanės chano Mahometo-
   citata_rodoma: "Mūšio\nnugalėtojas Mykolas\nGlinskis triumfuo-\ndamas grįžo į Vilnių\n\nYD rugpjūčio 12 d. Džiugi\n\nžinia dar spėjo pasiekti\n\nmirštantį valdovą Aleksandrą.\nMengli-Girėjus, gavęs žinią apie toto-\nriams fatališkai pasibaigusį mūšį, tuojau pat\nišsiuntė savo pasiuntinį į Vilnių, kuris turėjo\npranešti, kad chanas labai noriai laikysis ge-\ngužės mėnesį suderėtos taikos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -286,6 +369,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,6 +402,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     damos kitus pavadinimus, kitokius papročius ir naują kal­
     bą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -342,6 +427,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     rių buvo susilaukęs pagalbos per šį karą. Paliko čia
     jiems ir dalį karių kraštui ginti nuo priešų.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -349,9 +435,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-196407
 
 - id: c-184314
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 200"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
@@ -361,6 +446,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     nigas Danielius į Lenevaldę iškeliavo, priimtas tenai
     žmoniškai, ūkinykus apkrikštijo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -368,9 +454,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-200964
 
 - id: c-184315
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 302"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Lietuviai prisiartinę uždegė miestą, gudai
     su kalavijonimis, apgobti dūmais ir liepsnomis, šim­
@@ -384,6 +469,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     turėjo eiliuotis į rindą ir su rimtais neprieteliais lyg­
     mėj grumtis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -391,9 +477,8 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-200965
 
 - id: c-184316
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 563"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 563."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Mina-
     vojau viršiaus, jog totoriai valdė gudus rytinius,
@@ -415,6 +500,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     sai jam linkėjo tenai eiti, bet jis niekaip jų ne­
     klausė, sakydamas tenai galą gausiąs.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,6 +508,4 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-200966
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Mendli Girėjus]]
-- Aleksandras (kunigas, XIV a.) keliavo į [[objektai/vietos/Vilnius]]
-- Aleksandras (kunigas, XIV a.) paskyrė [[objektai/asmenys/Kiška]]
+- Aleksandras keliavo į [[objektai/vietos/Krokuva]]

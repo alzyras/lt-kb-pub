@@ -47,6 +47,12 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-001
   global_id: t-193688
   teiginys: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176357
 
@@ -54,6 +60,12 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-002
   global_id: t-193689
   teiginys: "Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176358
 
@@ -61,6 +73,12 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-003
   global_id: t-193690
   teiginys: "Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176359
 
@@ -68,6 +86,12 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-004
   global_id: t-193691
   teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176360
 
@@ -75,6 +99,23 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-005
   global_id: t-200891
   teiginys: "1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse."
+  atnaujinta: "2026-07-15 12:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Motiejus Valančius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Valančius\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Lenkai Lietuvoje Dr. J. Basanavičius"
+  temporaliniai_duomenys: "įvykio data: 1849 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas vardas, data, pareigos ir faktinis bažnytinės kalbos kontekstas. Nepridėtas vertinimas apie priežastis ar Valančiaus vėlesnius veiksmus."
+  vertinimo_atnaujinta: "2026-07-15T09:09:51Z"
   pagrindžia:
     - c-184234
 
@@ -93,6 +134,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
     bene pirmą kartą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,6 +158,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
     visomis prasmėmis artimu ir neginčijamu autoritetu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,6 +179,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
     Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,6 +196,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
     skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,6 +224,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     bażnyčiose [Kaune, Vendżiogaloje, L abunave ir
     k.] vēl įvesta tapo lenkiška kalba.
   statusas: verified
+  atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

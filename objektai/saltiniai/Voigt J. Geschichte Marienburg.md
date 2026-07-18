@@ -40,6 +40,12 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61352
   teiginys: "J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1824 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
   pagrindžia:
     - c-61984
 
@@ -70,6 +76,7 @@ Dusburgietis teigia, kad voigt J.
     местных названий.
   citata_rodoma: "Voigt J. Geschichte Marienburg.— Königsberg, 1824."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

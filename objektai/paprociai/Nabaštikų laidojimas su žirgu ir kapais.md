@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto aprašyme skitai doringai gyvenusius mirusiuosius sudegindavo kartu su žirgu, o jų pelenus supildavo į molio ar akmens indą ir ant jo supildavo pailgą, kapais vadinamą kalnelį.
+Tolesniai dar apie jų laidojimus taip jis pasakoja.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201377"></a>
 - t-001
   global_id: t-201377
-  teiginys: "Daukanto aprašyme skitai doringai gyvenusius mirusiuosius sudegindavo kartu su žirgu, o jų pelenus supildavo į molio ar akmens indą ir ant jo supildavo pailgą, kapais vadinamą kalnelį."
+  teiginys: "Tolesniai dar apie jų laidojimus taip jis pasakoja."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184727
 
 ## Citatos
 
 - id: c-184727
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 22"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 22."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tolesniai dar apie jų laidojimus taip jis pasakoja.
     Skitai savo nustipusius ligonis, tuos, kurie nedorai
@@ -67,6 +72,7 @@ Nenurodyta
     vonei pailguotiną kalnalį, kapais vadinamą, į elipsą
     pavėdų, sukasė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,16 @@ media_all_json: |-
 - t-001
   global_id: t-191866
   teiginys: "„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1856-1859; įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal bibliografinę išnašą ir pašalintas OCR triukšmas. Nepridėta nieko apie ciklo autorystę ar recenzento tapatybę."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-174748
 
@@ -84,6 +94,7 @@ media_all_json: |-
     torijai nepriklauso.
   citata_rodoma: "Trečia (o tai yra įdomiausia ir nau-\njoviškiausia), čia yra tiek mažai autentiškumo, jog vė­\nlesnis istorikas, norėdamas pasinaudoti pono Nįarbuto]\ndarbu, ilgai dvejos, kol išdrįs iš ten ką nors paimti“5.\nRecenzentas, pagyręs „Mitologijos“ autoriaus nuoširdu­\nmą, vis dėlto manė, jog tai nesudaro preteksto tikėti vis­\n1 Listy z nad brzegow Kroženty // Gazeta Warsza\\vska. 1856—\n1859\n(list\n1—X)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

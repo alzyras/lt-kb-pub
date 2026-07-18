@@ -41,6 +41,10 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 - t-001
   global_id: t-195478
   teiginys: "Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177899
     - c-177900
@@ -49,6 +53,10 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
 - t-002
   global_id: t-195479
   teiginys: "Ažytėnų ganykla apibūdinama kaip apie pusantro šimto hektarų mišku ir aikštėmis apaugęs plotas, prieinantis Bilazaro mišką."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177900
 - susijęs iš Bilazaro miškas: Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla.
@@ -68,6 +76,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
     Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:
   citata_rodoma: "„Ažytėnų ganykla tais laikais buvo vadinama dviem vardais:“"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,6 +96,7 @@ Ažytėnų ganykla šiame šaltinyje yra ganyklos vieta.
     toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
   citata_rodoma: "„Pridotkas ir Radviliškis.“"
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

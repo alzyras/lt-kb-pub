@@ -32,6 +32,13 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
 - t-001
   global_id: t-190506
   teiginys: "Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodžiui paimti iš Enėjaus Silvijaus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173389
 
@@ -39,6 +46,13 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
 - t-002
   global_id: t-190507
   teiginys: "Narbutas rašo, kad Šrioko „Kirchen Geschichte“ tas pats pranešimas kartojamas žodis į žodį kaip ištrauka iš Enėjaus Silvijaus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173390
 
@@ -52,6 +66,7 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
     Šie dalykai yra tik Šrioko veikale (Kirchen Geschichte. -
     B. XXX. - S. 497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -70,6 +85,7 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
     kaip ištrauką iš Enėjaus Silvijaus. Mūsų kompilia­
     torius įtraukė tą patį.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

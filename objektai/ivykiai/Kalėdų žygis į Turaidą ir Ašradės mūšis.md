@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kalėdų žygis į Turaidą ir Ašradės mūšis (mūšis)'
+pavadinimas: 'Kalėdų žygis į Turaidą ir Ašradės mūšis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Kalėdų žygis į Turaidą ir Ašradės mūšis'
-aliases:
-  - 'Kalėdų žygis į Turaidą ir Ašradės mūšis'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Kalėdų žygis į Turaidą ir Ašradės mūšis (mūšis)
+# Kalėdų žygis į Turaidą ir Ašradės mūšis
 
 ## Santrauka
 
-Prieš Kalėdas Turaidos apygardos ūkininkai, kaip aprašo Daukantas, pasitelkę latvius ir žemaičius, perėjo Dauguvą, atėjo į Turaidą ir puolė kaimus.
+Nebtverdamies Padaugavio perkrikštai tokiomis novėmis visų pirma patrako ūkinykai Turaidos apy gardoj, kurie, možėdamos savo galia, patelkė į karę dar tolesnius latvius ir žemaičius, kurie, persikėlę per Daugavą, atėjo nakčia pagal Kūčių dieną į Turaidą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201285"></a>
 - t-001
   global_id: t-201285
-  teiginys: "Prieš Kalėdas Turaidos apygardos ūkininkai, kaip aprašo Daukantas, pasitelkę latvius ir žemaičius, perėjo Dauguvą, atėjo į Turaidą ir puolė kaimus."
+  teiginys: "Nebtverdamies Padaugavio perkrikštai tokiomis novėmis visų pirma patrako ūkinykai Turaidos apy gardoj, kurie, možėdamos savo galia, patelkė į karę dar tolesnius latvius ir žemaičius, kurie, persikėlę per Daugavą, atėjo nakčia pagal Kūčių dieną į Turaidą."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184635
 
 ## Citatos
 
 - id: c-184635
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 203"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 203."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nebtverdamies Padaugavio perkrikštai tokiomis
     novėmis visų pirma patrako ūkinykai Turaidos apy­
@@ -77,6 +78,7 @@ Nenurodyta
     mintančiu, ką bedaryti, surinkusiu bažnyčios daik­
     tus, zokrastijos kerčioj aptūpusiu saugojo*.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

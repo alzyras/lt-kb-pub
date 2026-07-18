@@ -33,6 +33,13 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 - t-001
   global_id: t-194881
   teiginys: "Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II amžiaus prieš Kristaus gimimą, nes iš istorijos žinome, kad 130 metais prieš mūsų erą skitų 1 Justin."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177277
 
@@ -62,6 +69,7 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
     iš istorijos žinome, kad 130 metais prieš mūsų erą skitų
     1 Justin. L. II, 3; XII. 2; XXXVII, 3*.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,6 +38,20 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
 - t-001
   global_id: t-191688
   teiginys: "Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas atstumas tarp Kolhauzo ir Kamstigao sudarė apie 1900 rykščių."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vitlandija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vredė: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Vitlandija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vredė\" parinktas kaip owner_note_path. Targetas \"Vitlandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
   pagrindžia:
     - c-174570
 
@@ -60,6 +74,7 @@ Profesorius Vredė pastabose apie Vitlandiją nurodė, kad vandens užtvindytas 
     tik seniausia sąsmauka ties Laukstetu, bet ir atitinkama
     kyšulių prie Baigos ir Kamstigalo kalva.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

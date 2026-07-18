@@ -41,6 +41,19 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
 - t-001
   global_id: t-87840
   teiginys: "Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Akademijos aikštė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Puzinienė iš Oginskių: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos aikštė: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Puzinienė iš Oginskių\" parinktas kaip owner_note_path. Targetas \"Akademijos aikštė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1766 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti."
   pagrindžia:
     - c-83819
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-55026|Akademijos observatorijos prietaisai]]: 1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
@@ -67,6 +80,7 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
   citata_rodoma: "Iš Joniškio - neturtingiems studentams kasdien Olia Cha- \nritatis [labdaringi pietūs] ir duonos kepalas.\nJos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­\ntelioniene 1766 metais Akademijos observatorijos įkūrimui, \nprietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­\ndonųjų auksinų.\nAkademijos keturkampės aikštės klasių vieną eilę tėvas \nRiokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir \nviešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie \n100 000 auks."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

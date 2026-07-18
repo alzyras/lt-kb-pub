@@ -53,6 +53,9 @@ Nenurodyta
 - t-001
   global_id: t-40692
   teiginys: "Dagtinės spynos arkebuza buvo XVI a. antrosios pusės 15,5 mm kalibro ginklas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-42478
 
@@ -67,6 +70,7 @@ Nenurodyta
 
     Artūro Užgalio nuotr.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

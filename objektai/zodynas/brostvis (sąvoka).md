@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas „brostviais“ vadina marčelgos Berlevino bendražygius, kuriuos Sviatopelko kariauna su lietuviais ir žemaičiais paklojo karvietėje.
+Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius.
 
 ## Teiginiai
 
 <a id="claim-t-201209"></a>
 - t-001
   global_id: t-201209
-  teiginys: "Daukantas „brostviais“ vadina marčelgos Berlevino bendražygius, kuriuos Sviatopelko kariauna su lietuviais ir žemaičiais paklojo karvietėje."
+  teiginys: "Kryžėjai tame džiaugsme užmiršo, jog antra dalis Sviatopelko kariaunos buvo dar liuosa, kuri, gavusi pragumą susirindoti ir 4000 lietuvių ir žemaičių susinerti, grūdos ant kryžėjų su visų didžiausia narsybe, tuojau patį marčelgą Berleviną ir visus brostvius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184559
 
 ## Citatos
 
 - id: c-184559
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 321"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 321."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Atėjęs marčelga pas taborių Sviato­
     pelko puolė ant vienos dalies jo kariaunos, kuri,
@@ -64,6 +69,7 @@ Daukantas „brostviais“ vadina marčelgos Berlevino bendražygius, kuriuos Sv
     sakė karvedys: „Mūsų kariauna mušas su netikė­
     liais, skubėkim pagalbon".
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,9 @@ media_all_json: |-
 - t-001
   global_id: t-67278
   teiginys: "Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67248
 
@@ -40,6 +43,9 @@ media_all_json: |-
 - t-002
   global_id: t-67279
   teiginys: "Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67249
 
@@ -58,6 +64,7 @@ media_all_json: |-
     duodamųjų palengvinimų. „Mužikus nori padaryti
     bajorais, o mus — mužikais", — šaukė bajorija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,6 +83,7 @@ media_all_json: |-
     ir paimančių juos įstatymo globon.
   citata_rodoma: "Jame buvo nuostatų, palengvinančių valstiečių būklę\nir paimančių juos įstatymo globon."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

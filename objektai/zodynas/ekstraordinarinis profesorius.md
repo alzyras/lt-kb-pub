@@ -40,6 +40,10 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
 - t-001
   global_id: t-195643
   teiginys: "A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m."
+  atnaujinta: "2026-07-12 08:46"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178044
 
@@ -60,6 +64,7 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
     rno. Ordinariniu profesorium paskirtas 1930 m.
   citata_rodoma: "1913 m. pakviestas į suomių ir lyginamosios liaudies poezijos extraordinarius profesorius, bet dėl karo nominacija užsitęsė ligi 1918 m., vadinas, iki Suomijos atsivadavimo."
   statusas: verified
+  atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

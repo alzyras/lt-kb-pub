@@ -39,6 +39,16 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - t-001
   global_id: t-85874
   teiginys: "Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Akademijos observatorijos prietaisai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akademijos aikštė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos observatorijos prietaisai: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akademijos aikštė\" parinktas kaip owner_note_path. Targetas \"Akademijos observatorijos prietaisai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81856
 
@@ -46,6 +56,16 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - t-002
   global_id: t-85875
   teiginys: "Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akademijos aikštė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akademijos aikštė\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-81857
 - susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
@@ -77,6 +97,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
   citata_rodoma: "Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­\ntelioniene 1766 metais Akademijos observatorijos įkūrimui, \nprietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­\ndonųjų auksinų.\nAkademijos keturkampės aikštės klasių vieną eilę tėvas \nRiokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir \nviešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie \n100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos \nfunduotus mūrus prijungę, puikiai apstatydino ir išpuošė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +132,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     pailgos formos.
   citata_rodoma: "buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­\nrimas ir kunigo Petro Skargos suteikta promocija sujungta\n175\n\n## Puslapis 192\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nsu Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­\ntium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­\nlių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.\nC) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą \nMokyklos, Iždo, Knygyno bei kitos paskirties pastatais\nAkademijos aikštė - netaisyklingas ketvirtainis, iš vie­\nnos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - \nkolegijos sienų, iš trečio ir ketvirto šono - mokymosi patal­\npų kolonadomis apsiausta, ištisai visa išgrįsta smulkiais ak­\nmenimis.\nĮėjus pro didžiuosius bažnyčios vartus, kairėje pusėje, prie \nbokšto alias varpinės, Akademijos visuotinių iškilmių salė, \npailgos formos."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

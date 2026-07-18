@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189751
   teiginys: 'Narbutas aiškino, kad užgesusi šventoji ugnis būdavo išskeliama iš titnago, kurį savo rankoje laikė Perkūno stabas.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Religinė interpretacija palikta su Narbuto atribucija. Sąmoningai nepridėta bausmės žyniams ar sergėtojams detalė, nes objektas yra titnagas ir kempinės.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-172634
 
@@ -71,6 +76,7 @@ Nenurodyta
     ginę nerūpestingus ugnies sergėtojus, dėl kurių apsileidimo
     tai nutiko35.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

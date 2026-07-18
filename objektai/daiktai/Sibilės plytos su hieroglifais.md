@@ -57,6 +57,20 @@ Nenurodyta
 - t-001
   global_id: t-189647
   teiginys: "Narbutas rašė, kad Krivių Krivaičio rūmo bokšte stebėta saulė, o metų pradžioje įmūrijama ženklo plytelė rodydavo metus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sibilės plytos su hieroglifais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibilės plytos su hieroglifais\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172530
 
@@ -64,6 +78,20 @@ Nenurodyta
 - t-002
   global_id: t-189648
   teiginys: "Narbutas perpasakojo legendą, kad Nemuno orakulas liepė pagaminti 122 plytas su hieroglifais, iš kurių turėjo būti pranašaujami metai."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gerimantas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sibilės plytos su hieroglifais: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gerimantas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibilės plytos su hieroglifais\" parinktas kaip owner_note_path. Targetas \"Gerimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172531
 
@@ -71,6 +99,13 @@ Nenurodyta
 - t-003
   global_id: t-189649
   teiginys: "Narbutas rašė, kad dauguma šių plytų dar buvo matoma pietinėje Katedros varpinės pusėje, perstatytoje po 1399 metų gaisro."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172532
 
@@ -143,6 +178,7 @@ Nenurodyta
     piegų - dabar iždo - rūmai.
   citata_rodoma: "To aukuro viduje buvo kambarėlių aukojimo indams ir pana­\n271\n\n## Puslapis 271\n\nšiems daiktams laikyti. Prie šventyklos įėjimo buvo Krivių\nKrivaičio -  žynių žynio rūmas. Tas rūmas turėjo apvalų bokš­\ntą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­\nmą aukos deginimas ant aukuro pakopos reiškė pirmąją mė­\nnesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto\nsienoje metų pradžioje, rodydavo metus."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,6 +204,7 @@ Nenurodyta
     tatas. Galbūt tai tos garsiosios lietuviškos Sibilės plytos?
   citata_rodoma: "Senas pasakojimas,\nkuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša\nžinią, kad, kai kunigaikštis Gerimantas sumanė statyti šią\nšventyklą, jo tėvas Šventaragis dvejus metus prieš tai (1263\nmetais ') siuntė garbingus pasiuntinius pas Nemuno upės ora­\nkulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­\neitis. Orakulas žadėjo, kad ji gyvuosianti tol, kol gyva bus\npati stabmeldystė, ir įsakė pagaminti 122 apvalainas plytas\nsu orakulo nurodytais ženklais -  hieroglifais; iš jų turėjo būti\nišpranašaujami geri ar prasti metai; paskutinė plyta buvo su\ndvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­\ngaikščiui. Tą ženklą panaudojo valstybės herbui ."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -189,6 +226,7 @@ Nenurodyta
     buvo 121-oji plyta; tą dieną pakilo pirmoji ranka šventyklai
     sugriauti“ .
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

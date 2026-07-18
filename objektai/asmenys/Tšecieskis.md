@@ -33,6 +33,16 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - t-001
   global_id: t-87871
   teiginys: "Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Alanta: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tšecieskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Alanta: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tšecieskis\" parinktas kaip owner_note_path. Targetas \"Alanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83850
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172115|Jėzuitų ordinas]]: Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.
@@ -60,6 +70,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     tikslui surinktų žmonių.
   citata_rodoma: "Jėzuitų apsigyvenimas Vil­\nniuje jau Stepono Batoro laikais pakirto protestantų įtaką \nLietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­\nmatų talentų, nepaisant garbingiausių Lietuvos giminių prie­\nlankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­\ntelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo \ntvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip \nveikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam \ntikslui surinktų žmonių."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

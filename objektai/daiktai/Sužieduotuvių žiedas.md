@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194940
   teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177336
 
@@ -91,6 +98,7 @@ Nenurodyta
     lė per Reiną ir niokojo viską pakeliui net ikį Orleano.
   citata_rodoma: "Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo\ntol laiko abu imperatorius savo belaisviais, o tuo tarpu\nlaukė patogios progos užpulti Romą ar Konstantinopolį.\nTam padėjo Valentiniano III sesuo Honorija, kuri, brolio\nįkalinta vienuolyne, slapta nusiuntė hunų karaliui savo\nsužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva\njam nebuvo leista vesti imperatoriaus sesers."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

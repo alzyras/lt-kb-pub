@@ -33,6 +33,18 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 - t-001
   global_id: t-58714
   teiginys: "Panemunėje esama Rambyno (žr."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Panemunė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Rambynas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Panemunė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys lokalizuoja Rambyną Panemunėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Rambynas priklausė Panemunė (0.78)"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59346
 - susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
@@ -55,6 +67,7 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
     pomirtinė karalystė, apeigų vieta), mus nukelia į Vilnių, kur taip pat yra Kriv- elementas
     (Kreivoji pilis, Krivė — ritualinės tradicijos įkūrėjas — Топоров B. H., Vilnius..., p. 64).
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

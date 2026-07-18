@@ -44,14 +44,38 @@ media_all_json: |-
 - t-001
   global_id: t-40515
   teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Čekija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vladislovas aiškiai vadinamas Čekijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Čekija (0.82); Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Vengrija (0.78)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
   pagrindžia:
     - c-44564
-    - c-167157
 
 <a id="claim-t-40516"></a>
 - t-002
   global_id: t-40516
   teiginys: "Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Lietuviai: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Pagalba suteikta Žygimantui ir jo lietuvių jėgoms; kadangi Žygimanto kandidato nėra sąraše, artimiausias tiesiogiai minimas remiamas objektas yra lietuvių jėgos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) rėmė Lietuviai (0.70)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-44563
 
@@ -59,6 +83,20 @@ media_all_json: |-
 - t-003
   global_id: t-40517
   teiginys: "1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Rusdorfas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusdorfas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Bresto taika sudaryta tarp Vladislovo Jogailaičio ir Rusdorfo kaip sutarties šalių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) sudarė sutartį su Rusdorfas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1435 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta ir pataisyta į aiškų sakinį apie asmenį."
   pagrindžia:
     - c-44565
 
@@ -66,6 +104,19 @@ media_all_json: |-
 - t-004
   global_id: t-184859
   teiginys: "Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Valachai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Valachai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Lietuviai ir valachai įvardyti tarp grupių, sudariusių tarpusavio gynybos sutartis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168220
 
@@ -73,6 +124,19 @@ media_all_json: |-
 - t-005
   global_id: t-184861
   teiginys: "Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vladislovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vladislovas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogailaitis (Lenkijos karalius, XV a.)\" parinktas kaip owner_note_path. Targetas \"Vladislovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168222
 
@@ -80,6 +144,13 @@ media_all_json: |-
 - t-006
   global_id: t-196629
   teiginys: "Kojelavičiaus pasakojime Vladislovo tėvas piktinosi ir, puoselėdamas kerštą sūnui Vladislovui, skatino Joną pradėti karą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178806
 
@@ -99,6 +170,7 @@ media_all_json: |-
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
   citata_rodoma: "Lietuvos didysis kunigaikštis Žygi-\nmantas Kęstutaitis, sukaupęs „kiek galėjo\ndidžiausias lietuvių jėgas“, gavęs prašytos\npagalbos iš Lenkijos karaliaus Vladislovo\nJogailaičio, ėjo į Trakus. Tolesniam žygiui\n\n68 PABAISKO (UKMERGĖS) MUSIS 1435 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,6 +210,7 @@ media_all_json: |-
     MASKVA — Piedimias T Kan?
   citata_rodoma: "nas BAKA ŠV\nASmenaQ,\no da rėva\n\npa ODrohičinas\no OKobri\ntuvos Brasta /--\nepsass\n\nL\nIk Pioti ae ORadbinas gen sl age\n4 sai keel\n\nir Vengrijos sostą pavyko iškovoti >\nČekijos karaliui Vladislovui Jogailaičiui.\nVengrija ir Čekija (Bohemija) buvo\nsuns personaline unija.\n\n——\n\nLDK kariuomenės saline\n\nrejeslavlis Starodubas  Gorod vol KAZANĖ\nSuzdalėO A ij Nlovgarodas aca Rarer\nMASKVA — Piedimias T Kan?"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,6 +235,7 @@ media_all_json: |-
     rius neprivers šios sutarties sulaužyti.
   citata_rodoma: "1435 m. gruodžio 31 d. sudaryta Bresto\n(Kujavy) taika tarp Lenkijos karaliaus\nVladislovo Jogailaičio, Lietuvos didžiojo\nkunigaikščio Žygimanto Kęstutaičio ir\nVokiečių-kryžiuočių ordino didžiojo ma-\ngistro Rusdorfo, atstovaujančio Ordino že-\nmėms Prūsijoje, Livonijoje ir Vokietijoje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,6 +277,7 @@ media_all_json: |-
     Vengrija ir Čekija (Bohemija) buvo
     suns personaline unija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -230,6 +305,7 @@ media_all_json: |-
     iš svetimos nelaimės.
   citata_rodoma: "Po to Lietuvos Didžiosios Kunigaikštystės\nvardu sudarė taiką su Steponu, Valachijos valdovu,\nbei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,\nVengrijos karaliaus, pastangomis lenkai, vengrai, če­\nkai, lietuviai ir valachai sudarė sutartis, kuriomis ne\ntik valdovai, bet ir visos jų karalystės bei žemės pa­\nžadėjo viena kitą ginti, kai prasidės karas prieš turkus.\nDievobaimingas Aleksandro įstangas sužlugdė klas­\ntingos Ivano pinklės."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -264,6 +340,7 @@ media_all_json: |-
     gystės su Vasilijumi.
   citata_rodoma: "Kiekvienas apsistojo\n635\n\n## Puslapis 634\n\nskirtingame miestelyje, o dideliame lauke, esančiame\ntarp tų miestelių, augo lapuotas medis, kurio pavėsy­\nje iš tiesų rodėsi labai patogu susitikti valdovams.\nImperatorius, karalius Vladislovas bei jo duktė Ona at­\nvažiavo važiuoti, o Žygimantas ir Liudvikas raiti at­\njojo. Anksčiau, nei visi pasisveikino, paspausdami vie­\nni kitiems rankas, Liudvikas pagerbė Maksimilijoną\nkaip tėvą ir valdovą, nes Čekijos karalystė priklausė\nRomos imperijai."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -285,6 +362,7 @@ media_all_json: |-
     Maskvos valdovas stiprino savo pajėgas, darydamas
     Lietuvai žalą.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

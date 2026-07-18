@@ -33,6 +33,13 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
 - t-001
   global_id: t-194796
   teiginys: "Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177192
 
@@ -58,6 +65,7 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
     toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal­
     ba artimesnė senojo pasaulio kalboms .
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,6 +33,17 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - t-001
   global_id: t-40423
   teiginys: "Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Madykas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sivindukas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Madykas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai vadina Sivinduką Madyko sūnumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sivindukas buvo sūnus Madykas (0.95)"
   pagrindžia:
     - c-44510
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
@@ -57,6 +68,7 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
     Dorogobužo ir Smolensko.
   citata_rodoma: "Be Naugardo, Pskovo, Tverės bei kitų\nsričių išrengtų raitelių ir Maskvos val-\ndovo dvaro pulko, dalyvavo ir toto-\nriai, vadovaujami murzos Sivinduko,\nkunigaikščio Madyko sūnaus. Rusai\nneturėjo artilerijos ir reikšmingesnių\npėstininkų pajėgų, kurios pasiliko prie\nDorogobužo ir Smolensko."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

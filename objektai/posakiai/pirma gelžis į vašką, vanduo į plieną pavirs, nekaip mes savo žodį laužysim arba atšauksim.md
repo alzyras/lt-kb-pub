@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas posakį „pirma gelžis į vašką, vanduo į plieną pavirs“ pateikia kaip laiško patikinimą, kad duotas žodis nebus laužomas.
+Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia žyme, su kuria mes gromatą popiežiui nu leidom; ir taip pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim. Noris meldžionys vokyčiai mūsų žymę ant.
 
 ## Teiginiai
 
 <a id="claim-t-201260"></a>
 - t-001
   global_id: t-201260
-  teiginys: "Daukantas posakį „pirma gelžis į vašką, vanduo į plieną pavirs“ pateikia kaip laiško patikinimą, kad duotas žodis nebus laužomas."
+  teiginys: "Ant didesnės kliauties ir įtikėjimo, apžymėjom mes tą gromatą ta pačia žyme, su kuria mes gromatą popiežiui nu leidom; ir taip pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim. Noris meldžionys vokyčiai mūsų žymę ant."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184610
 
 ## Citatos
 
 - id: c-184610
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 543"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kelias pas mus yra atdaras ir liuosas
     per Mozūriją be muito ir mokesnio. Ant didesnės
@@ -50,6 +55,7 @@ Daukantas posakį „pirma gelžis į vašką, vanduo į plieną pavirs“ patei
     apjuokos degina, idant tą Dievo darbą sugaišintų
     ir žmonis apjuoktų.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

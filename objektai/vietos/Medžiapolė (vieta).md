@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Į Medžiapolę nusiųstas kunigas Aleksandras apkrikštijo tenykščius gyventojus ir įkūrė jiems bažnyčią.
+Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė.
 
 ## Teiginiai
 
 <a id="claim-t-201157"></a>
 - t-001
   global_id: t-201157
-  teiginys: "Į Medžiapolę nusiųstas kunigas Aleksandras apkrikštijo tenykščius gyventojus ir įkūrė jiems bažnyčią."
+  teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184507
-- susijęs iš Sakalas (vieta): Sakalą, kraštą anapus Gaujos, gavo kalavijonys, o Albertas sau pasiliko Turaidos apygardą.
+
 ## Citatos
 
 - id: c-184507
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 200"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To dėjęsis, Alobramdas kunigas nuėjo į Tu-
     raidą latvių mokyti ir krikštyti, kurį kraštą paskaidė
@@ -53,6 +58,7 @@ media_all_json: |-
     nigas Danielius į Lenevaldę iškeliavo, priimtas tenai
     žmoniškai, ūkinykus apkrikštijo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

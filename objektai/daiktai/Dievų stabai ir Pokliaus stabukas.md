@@ -47,6 +47,13 @@ Nenurodyta
 - t-001
   global_id: t-189708
   teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172591
 
@@ -54,6 +61,13 @@ Nenurodyta
 - t-002
   global_id: t-189709
   teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172592
 
@@ -61,6 +75,12 @@ Nenurodyta
 - t-003
   global_id: t-197239
   teiginys: "Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179080
 
@@ -123,6 +143,7 @@ Nenurodyta
     vadinosi Ghurgani.
   citata_rodoma: "273\n\n## Puslapis 273\n\nįtvirtinimai18. Kalnas, arba Kolnas; etimologinė Kol prasmė -\nkalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­\nturime; reikėtų manyti, kad jame turėjo būti stabų rinkinys."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -150,6 +171,7 @@ Nenurodyta
     torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
   citata_rodoma: "Politinė padėtis jau buvo\nnepalanki senajai religinei santvarkai, todėl tikėjimo galvos\nautoritetas pamažu turėjo silpnėti15.\nVis dėlto jie darė didelę įtaką visuomenės mąstymui -  ar\ntai nešiodamiesi užantyje baisios išvaizdos Pokliaus stabuką,\nar tai pranašaudami baisius dalykus, bausmes ir dovanas, ku­\nrias galį atsiųsti dievai, su kuriais jie kuo artimiausiai bendraują;\npagaliau įtikinėdami žmones, kad mirusiųjų vėlės galinčios pa­\nsirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs\n14 Schütz."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,6 +193,7 @@ Nenurodyta
     toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is­
     torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

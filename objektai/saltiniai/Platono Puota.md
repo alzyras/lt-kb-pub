@@ -36,6 +36,13 @@ Platono „Puotoje“ bendras gėrimų vartojimas siejamas su antikinėje filoso
 - t-001
   global_id: t-200754
   teiginys: "Platono „Puotoje“ bendras gėrimų vartojimas siejamas su antikinėje filosofinėje tradicijoje jam teiktu komunikaciniu ir simboliniu krūviu."
+  atnaujinta: "2026-07-14 18:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  vertinimo_atnaujinta: "2026-07-14T15:15:03Z"
   pagrindžia:
     - c-184099
 
@@ -51,6 +58,7 @@ Platono „Puotoje“ bendras gėrimų vartojimas siejamas su antikinėje filoso
     gėrimų vartojimui kai kuriais atvejais būdavo suteikiamas išskirtinis komunikacinis ir
     simbolinis krūvis, – apie tai rašoma Platono Puotoje (Lesher... [et al.] 2006).
   statusas: verified
+  atnaujinta: "2026-07-14 18:15"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

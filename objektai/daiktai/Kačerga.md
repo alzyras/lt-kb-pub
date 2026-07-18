@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-195342
   teiginys: "Buitinis įrankis, per vestuvių vaidinimą paverčiamas gervės galva ir kaklu."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177744
 
@@ -76,6 +80,7 @@ Nenurodyta
     su snapu ir kuodu.
   citata_rodoma: "Tam reikalui vienam vaikinui duoda į rankas kačergą, kurios gale padaryta storuma, panaši į gervės galvą su snapu ir kuodu."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

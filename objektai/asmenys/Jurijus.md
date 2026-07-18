@@ -32,6 +32,20 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 - t-001
   global_id: t-186226
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sunus -> Sviatoslavas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai įvardija Jurijų kaip Sviatoslavo sūnų."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Jurijus buvo sūnus Sviatoslavas (0.96)"
   pagrindžia:
     - c-169587
 
@@ -39,6 +53,13 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 - t-002
   global_id: t-196509
   teiginys: "Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o prisiekęs ištikimybę Jogailai ir Lietuvos didiesiems kunigaikščiams atgavo tėvoniją."
+  atnaujinta: "2026-07-13 01:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169587
 - susijęs iš [[objektai/grupes/Smolensko kunigaikščiai.md#claim-t-199073|Smolensko kunigaikščiai]]: Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m.
@@ -66,6 +87,7 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
     siems kunigaikščiams, jis atgavo tėvoniją.
   citata_rodoma: "Žuvus vadui, visa kariuomenė pasileido į arti­\nmiausius miškus. Priešų palikta stovykla atiteko nu­\ngalėtojams; Sviatoslavo sūnus Jurijus po atkaklios ko­\nvos, kurią kėlė apie save, sužeistas pakliuvo į nuga­\nlėtojų rankas; vėliau, prisiekęs ir įsipareigojęs visada\nbūti ištikimas ir klusnus Jogailai bei Lietuvos didie­\nsiems kunigaikščiams, jis atgavo tėvoniją. Po šios per­\nto karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir\nnusiųstas pas Jogailą, o visa Rusia sutramdyta."
   statusas: verified
+  atnaujinta: "2026-07-13 01:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

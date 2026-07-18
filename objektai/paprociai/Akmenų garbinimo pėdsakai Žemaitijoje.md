@@ -64,10 +64,10 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-174979
@@ -92,6 +92,7 @@ Nenurodyta
     sakė: „Mano dievas, kurį man davė motina“.
   citata_rodoma: "Amerikos indėnai išsaugojo atmintį apie akmenų garbinimą, nes\njie, kaip sako vienas keliauninkas, savo lopšiu yra, artimesni žmo­\nnių padermei, tuo labiau — daugiau prisirišę prie žemės ir prie\nbūtybių, esančių jos įsčiose. Net pasikeitus apšvietai ir religijai,\nindėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­\nlaudami Žemaitijoje, aptiko tam tikrų didelių akmenų garbinimo\npėdsakus2."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

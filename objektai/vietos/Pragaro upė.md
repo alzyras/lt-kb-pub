@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Otokaras su kryžiuočiais kariavo su samionais ir kitais žemaičiais tarp Pragaro ir Nemuno upių.
+Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti.
 
 ## Teiginiai
 
 <a id="claim-t-201149"></a>
 - t-001
   global_id: t-201149
-  teiginys: "Otokaras su kryžiuočiais kariavo su samionais ir kitais žemaičiais tarp Pragaro ir Nemuno upių."
+  teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184499
 
 ## Citatos
 
 - id: c-184499
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 361"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,
@@ -55,6 +60,7 @@ Otokaras su kryžiuočiais kariavo su samionais ir kitais žemaičiais tarp Prag
     vio, tuointimpos veržės per Žemgalius į Žemaičius,
     dykdami visuomet su kryžėjais susinerti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,19 @@ Nenurodyta
 - t-001
   global_id: t-185914
   teiginys: "Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> pagonybė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "pagonybė: mention_match, thing, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi\" parinktas kaip owner_note_path. Targetas \"pagonybė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169275
 
@@ -88,6 +101,7 @@ Nenurodyta
     pospolita, dalimi.
   citata_rodoma: "Lietuvių pagonybės ir antikinės stabmel­\ndystės jis netapatino ir neieškojo tarp jų panašumo. Iš Lietuvos\nkrikšto aprašymo matyti, kad bajorų ir kunigaikščių pagonybė pa­\nsireiškė tuo, kad prietaringai garbino daugelį dievų ir Perkūną\nšlo­\nvino amžinąja ugnimi. Krikštydamiesi jie pasižadėjo garbinti vieną\ndievą pagal krikščionių apeigas."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

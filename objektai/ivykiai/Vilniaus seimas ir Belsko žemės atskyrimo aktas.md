@@ -51,6 +51,22 @@ Nenurodyta
 - t-001
   global_id: t-185832
   teiginys: "1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Belskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Belskas: mention_match, place, gap=53"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Belskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą."
   pagrindžia:
     - c-169193
 
@@ -112,6 +128,7 @@ Nenurodyta
     vados Stanislovo Goštauto našlę.
   citata_rodoma: "Štai todėl Augustas, valstybės\n2 2 °\n6?5\n\n## Puslapis 674\n\nsąskaita rodydamas dosnumą, pirmiausia pasistengė\npelnyti lenkų palankumą. Sušaukęs Vilniuje seimą, jis\ntaip nuteikė lietuvius, kad\n1548 m e ta i\njų luomai ne tik nesiprieši­\nno, o kurie ne kurie didikai\npirmieji pasirašė aktą, jog Belsko žemė Palenkėję at­\nskiriama nuo Lietuvos ir seimo valia atiduodama len­\nkams."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

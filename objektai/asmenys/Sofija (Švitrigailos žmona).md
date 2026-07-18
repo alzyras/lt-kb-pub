@@ -43,6 +43,17 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
 - t-001
   global_id: t-87855
   teiginys: "Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_dukte -> Borisas (Tverės kunigaikštis): 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sofija (Švitrigailos žmona): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Sofija tiesiogiai įvardyta Boriso dukterimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Sofija (Švitrigailos žmona) buvo duktė Borisas (Tverės kunigaikštis) (0.97)"
   pagrindžia:
     - c-83834
 
@@ -73,6 +84,7 @@ Tai, ką mūsų kronikininkai kal­ ba apie Švitrigailos žmonos sugavi­ mą A
     taičiui, rašytame iš Florencijos 1434
     metų spalio 20 dieną.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

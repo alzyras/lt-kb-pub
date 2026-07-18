@@ -42,17 +42,36 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
 - t-001
   global_id: t-70262
   teiginys: "Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą."
+  atnaujinta: "2026-07-14 08:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pakancleris: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pakancleris\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-184012
-    - c-183969
 
 <a id="claim-t-200568"></a>
 - t-002
   global_id: t-200568
   teiginys: "Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos."
+  atnaujinta: "2026-07-14 08:29"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pakancleris: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pakancleris\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183969
-    - c-184012
 - susijęs iš [[objektai/asmenys/Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.).md#claim-t-200532|Jeronimas Radvila (kunigaikštis vėliavininkas, XVIII a.)]]: Jeronimas Radvila buvo sutaikytas su iždininku Jurgiu Detlofu Flemingu prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Jurgis Detloff Flemming (artilerijos generolas, XVIII a.).md#claim-t-200506|Jurgis Detloff Flemming (artilerijos generolas, XVIII a.)]]: Jurgis Detloff Flemmingas buvo sutaikytas su kunigaikščiu vėliavininku Jeronimu Radvila prieš pakanclerio persikėlimą į Flemingų rūmus.
 - susijęs iš [[objektai/asmenys/Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760).md#claim-t-200680|Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)]]: Mykolas Antanas Sapiega buvo LDK pakancleris.
@@ -131,6 +150,7 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
     Vyt. dėkingas už Poznaniaus mitrą.
   citata_rodoma: "Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­\ndavo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­\ngrindinių reikalų, kai ėjo klausimas apie karalijos santvarką,\napie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi\nnuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­\nvygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.\nIš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to\nmeto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­\ndavosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­\ntarimo, dažniausiai jo paramos. Dėl jo energingos paramos\nMozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­\nrūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui\nVyt. dėkingas už Poznaniaus mitrą."
   statusas: verified
+  atnaujinta: "2026-07-14 08:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,6 +171,7 @@ Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, 
     tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
   citata_rodoma: "Sis pastarasis, kaip karū­\nnos kanceliarijos globėjas, tose knygose mums pasirodo, kaip\nnuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­\nluose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­\nvo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­\ntą^4 ). Toks buvo didelis prie Vytauto prisirišimas."
   statusas: verified
+  atnaujinta: "2026-07-14 08:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

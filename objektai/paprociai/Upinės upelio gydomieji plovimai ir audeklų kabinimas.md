@@ -48,6 +48,11 @@ Nenurodyta
 - t-001
   global_id: t-189942
   teiginys: 'Narbutas rašo, kad prie Zapyškio tekėjęs Upinės, vėliau Išganytojo, upelis, prie kurio per šventes žmonės melsdavosi ir plaudavo negaluojančias kūno dalis.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Geografinis kontekstas ir gydomųjų plovimų veiksmas sujungti į vieną sakinį. Religinė ir gydomoji praktika palikta kaip Narbuto aprašymas, nepridedant išvadų apie veiksmingumą.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Zapyškis'
   pagrindžia:
     - c-172825
 
@@ -74,6 +79,7 @@ Nenurodyta
     rėlių jau niekas neliečia bijodamas, kad pasilikusi skudurėlyje
     Ilgajam nepriliptų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

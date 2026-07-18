@@ -32,6 +32,21 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
 - t-001
   global_id: t-191613
   teiginys: "Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartinę Prūsiją."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Borusai kandidatuose neatstovaujami atskirai, bet kontekste siejami su prūsais; citata tiesiogiai nurodo persikėlimą į Prūsiją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Prūsai keliavo į Prūsija (0.76)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174495
 
@@ -74,6 +89,7 @@ Leo nurodė, kad borusai 523 ar 530 metais persikėlė iš šiaurės į dabartin
     1 De Boruss.
   citata_rodoma: "Pirmiausia\ntaip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,\nypač Leo2***, kuris net nurodo, kad borusai 523 ar 530\nmetais persikėlė iš šiaurės į dabartinę Prūsiją. Bet KHu-\nveris karštai tam prieštaravo ir sakė, jog pamišęs buvo\ntas, kuris sugalvojo tokias prūsų kilmės išvadas."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

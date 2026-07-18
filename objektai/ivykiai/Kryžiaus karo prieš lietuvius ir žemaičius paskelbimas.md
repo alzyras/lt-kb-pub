@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime popiežiaus raštas skelbė kryžiaus karą prieš lietuvius ir žemaičius Padaugavyje bei Parusnyje.
+Vilhelmas į Parusnį pagrįžęs iš Ry mo, tuojau popiežius išleido raštą, skelbdamas kry žiaus karę ant lietuvių į Padaugavį ir Parusnį eiti kariauti, jog tie visi, kurie iš Čekų, Teutonuos, Skandijos, arba Žuvėdų, Danų, Norvegų, Lenkų ir Pamario žygiuos kryžium.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201288"></a>
 - t-001
   global_id: t-201288
-  teiginys: "Daukanto pasakojime popiežiaus raštas skelbė kryžiaus karą prieš lietuvius ir žemaičius Padaugavyje bei Parusnyje."
+  teiginys: "Vilhelmas į Parusnį pagrįžęs iš Ry mo, tuojau popiežius išleido raštą, skelbdamas kry žiaus karę ant lietuvių į Padaugavį ir Parusnį eiti kariauti, jog tie visi, kurie iš Čekų, Teutonuos, Skandijos, arba Žuvėdų, Danų, Norvegų, Lenkų ir Pamario žygiuos kryžium."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184638
 
 ## Citatos
 
 - id: c-184638
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 316"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 316."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vilhelmas į Parusnį pagrįžęs iš Ry­
     mo, tuojau popiežius išleido raštą, skelbdamas kry­
@@ -74,6 +79,7 @@ Nenurodyta
     metą duoklę jam šilti.
     1 V o i g t, Preus.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

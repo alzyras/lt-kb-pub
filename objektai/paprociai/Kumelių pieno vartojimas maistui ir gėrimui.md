@@ -54,6 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-194941
   teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177337
 
@@ -72,6 +79,7 @@ Nenurodyta
     šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
     destiliuojant galima pagaminti svaiginantį gėrimą.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

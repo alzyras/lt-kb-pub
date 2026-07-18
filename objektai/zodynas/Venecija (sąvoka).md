@@ -35,6 +35,13 @@ Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais pri
 - t-001
   global_id: t-200831
   teiginys: "Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais priminė Veneciją, Bergamą ir kitus turistų lankomus miestus."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184176
 
@@ -54,6 +61,7 @@ Vorobjovui Vilniaus gatvių vaizdai su varpinėmis ir bažnyčių frontonais pri
     suteikia miestui dar romantiškesnį pobūdį, — lygiai, kaip ir apleista, ap­
     kerpėjusi daugelio pastatų ir ištisų kvartalų išvaizda.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

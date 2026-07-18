@@ -33,6 +33,20 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
 - t-001
   global_id: t-189457
   teiginys: "Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo vadinti rusų sektantus ir kitus viduramžių eretikus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Manichėjai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=31"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Manichėjai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172344
 - susijęs iš [[objektai/paprociai/Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje.md#claim-t-189939|Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje]]: Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera.
@@ -88,6 +102,7 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
     kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
   citata_rodoma: "O kad keturių\nelementų supainiojimas išaugo iš Dievo prigimties įvairovės,\n396\n\n## Puslapis 396\n\ntai, be abejo, yra susiję su lietuvių stabmeldyste, kurioje auto­\nrius pastebi tą patį. Kai dėl jų vadinimo manichėjiečiais, tai\nsenų katalikų rašytojų papratimu šitaip praminti turėjo būti\nrusų sektantai, nes vidurinių amžių autoriai paprastai mani­\nchėjiečiais vadindavo albigiečius, petrobrusijonus, Tancheli-\nno sekėjus popelikonus, katarus ir kitus XII, XIII ir Xl V am­\nžių sektantus.\nMat katalikai taip neapkentė manichėjiečių ir agapijonų\nsektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

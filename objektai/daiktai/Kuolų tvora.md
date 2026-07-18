@@ -52,6 +52,12 @@ Nenurodyta
 - t-001
   global_id: t-194306
   teiginys: "Mvkolo šventės dieną buvo sudarykardytą kuolų tvora, gausiai plūdo ir palei pilį kūrėsi nauji gyventojai - įvairių padermių ir įvairiais sumetimais."
+  atnaujinta: "2026-07-06 12:56"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-176898
 
@@ -75,6 +81,7 @@ Nenurodyta
     įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
     tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

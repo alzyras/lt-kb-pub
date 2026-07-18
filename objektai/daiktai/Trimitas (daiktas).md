@@ -27,7 +27,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Pamatęs Sviatoslavo eiles, Gediminas liepė trimitais skelbti kovą.
+Taip apdrąsinąs karėjus, Gediminas liepė ženg ti toliaus, vienok saugodamos, idant neprieteliai pasalu neantpultų, kaipogi neilgai teėjus Gedimi nas, pavydęs eilas Sviatoslavo, liepė trimitus kovėn pūsti.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -49,16 +49,21 @@ Nenurodyta
 <a id="claim-t-201369"></a>
 - t-001
   global_id: t-201369
-  teiginys: "Pamatęs Sviatoslavo eiles, Gediminas liepė trimitais skelbti kovą."
+  teiginys: "Taip apdrąsinąs karėjus, Gediminas liepė ženg ti toliaus, vienok saugodamos, idant neprieteliai pasalu neantpultų, kaipogi neilgai teėjus Gedimi nas, pavydęs eilas Sviatoslavo, liepė trimitus kovėn pūsti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184719
 
 ## Citatos
 
 - id: c-184719
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 532"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 532."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Gediminas,
     nujautęs tą nuo savo žvalgytojų, tuojau visą savo
@@ -79,6 +84,7 @@ Nenurodyta
     nas, pavydęs eilas Sviatoslavo, liepė trimitus ko-
     vėn pūsti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

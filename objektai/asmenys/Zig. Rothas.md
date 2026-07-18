@@ -33,6 +33,17 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
 - t-001
   global_id: t-35395
   teiginys: "Zigmantas siuntė Zig. Rothą pas Vytautą kaip imperatoriaus atstovą aiškinti karūnacijos klausimų ir sklaidyti abejonių."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Zig. Rothas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Zig. Rothas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata rodo, kad Zigmantas siuntė Rothą kaip savo delegacijos atstovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas (Romos imperatorius) paskyrė Zig. Rothas (0.76)"
   pagrindžia:
     - c-38171
 
@@ -51,6 +62,7 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
     karūnacijos ir išsklaidyt jo abejones^3 ).
   citata_rodoma: "Pirma jos važiavo kaip ciesoriaus reprezentantai\nZig. Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­\nmantas siuntė Vytautui supažindinti su įvairiais klausimais dėl\nkarūnacijos ir išsklaidyt jo abejones^3 )."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

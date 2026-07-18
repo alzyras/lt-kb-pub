@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto aprašytame paprotyje žaltys buvo laikomas namų sargu: jį sušlakstęs midumi ir pamaitinus pienu, žaltys nuslinkdavo į trobos kampą ir tapdavo namų apgynėju.
+Kas linkėjo tą namsargą į savo butą įgauti, meilavo vaidelės, idant tenai į namus atneštų, kursai atėjęs rado jau skomį padengtą ir tuojau, iš ančio žaltį išėmęs, rinkį ap vedė ir, midum jį sušlakstęs, ėmė pats pietuoti, o žalčiui pieno lakti padėjo, kursai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,19 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201490"></a>
+<a id="claim-t-201371"></a>
 - t-001
-  global_id: t-201490
-  teiginys: "Daukanto aprašytame paprotyje žaltys buvo laikomas namų sargu: jį sušlakstęs midumi ir pamaitinus pienu, žaltys nuslinkdavo į trobos kampą ir tapdavo namų apgynėju."
+  global_id: t-201371
+  teiginys: "Kas linkėjo tą namsargą į savo butą įgauti, meilavo vaidelės, idant tenai į namus atneštų, kursai atėjęs rado jau skomį padengtą ir tuojau, iš ančio žaltį išėmęs, rinkį ap vedė ir, midum jį sušlakstęs, ėmė pats pietuoti, o žalčiui pieno lakti padėjo, kursai."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184840
+    - c-184721
 
 ## Citatos
 
-- id: c-184840
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 107"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 107."
+- id: c-184721
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ne vien me­
     džiai patys godojami buvo, bet dar jų amalai ste­
@@ -69,8 +74,9 @@ Nenurodyta
     stalo nuslinko ir trobos kerčioj nugulė ir taip namų
     apgynėju tapo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201490
+    - t-201371

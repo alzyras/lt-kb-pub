@@ -50,6 +50,10 @@ Po kraičio sutalpinimo broliai taip juokaudami ima nešti skrynią.
 - t-001
   global_id: t-195434
   teiginys: "Kraičio nešime pavartojamas raginimas „Imk šeškablauzdi!“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177855
 
@@ -75,6 +79,7 @@ Po kraičio sutalpinimo broliai taip juokaudami ima nešti skrynią.
     koks yra.
   citata_rodoma: "Dabar broliai puola nešti juokaudami: „Imk šeškablauzdi!“"
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

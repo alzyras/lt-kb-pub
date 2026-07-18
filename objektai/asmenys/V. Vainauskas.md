@@ -33,6 +33,16 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - t-001
   global_id: t-40491
   teiginys: "V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Šarauskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Vainauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "J. Šarauskas: mention_match, person, gap=84"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Vainauskas\" parinktas kaip owner_note_path. Targetas \"J. Šarauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44553
 
@@ -40,6 +50,16 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 - t-002
   global_id: t-40492
   teiginys: "V. Vainauskas buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniuoju."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Vainauskas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Vainauskas\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-44552
 
@@ -63,6 +83,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
     P. Lukšys.
   citata_rodoma: "Anksti ryte buvo\nsuorganizuotas sustiprintas 17 žmonių\nžvalgybos patrulis, jo vyresniuoju paskir-\ntas V. Vainauskas, vyresniojo padėjėju —\nP. Lukšys."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,6 +112,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
     sumanymas.
   citata_rodoma: "Perpratęs rusų\nsumanymą J. Šarauskas į Paobelių kaimą\npasiuntė patyrusius vyresniuosius ka-\nrius V. Vainauską ir P. Lukšį (turėjusius\nPirmojo pasaulinio karo kovų patirties) su\n8 kareiviais, kurie nepastebėti užėjo be-\nsirengiantiems apėjimui bolševikams į\nužnugarį ir netikėtai juos apmėtę granato-\nmis bei apšaudę privertė iš Eigulių kaimo\nskubiai trauktis į Juodikio mišką."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

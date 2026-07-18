@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto „Istorijoje Žemaitiškoje“ daug kartų cituojamas Ludewigas Albrechtas Gebhardis, parašęs Latvijos ir Estijos kraštų istorijas.
+Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas.
 
 ## Teiginiai
 
 <a id="claim-t-201431"></a>
 - t-001
   global_id: t-201431
-  teiginys: "Daukanto „Istorijoje Žemaitiškoje“ daug kartų cituojamas Ludewigas Albrechtas Gebhardis, parašęs Latvijos ir Estijos kraštų istorijas."
+  teiginys: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184781
 
 ## Citatos
 
 - id: c-184781
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 5"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vienas jų — istorikas ir rašytojas Augustas
     Friedrichas Kotzebue, išleidęs „Senosios Prūsijos is­
@@ -50,6 +55,7 @@ Daukanto „Istorijoje Žemaitiškoje“ daug kartų cituojamas Ludewigas Albrec
     vėlyvosios vokiečių šviečiamojo laikotarpio istorio­
     grafijos atstovu Augustu Ludewigu Schloezeriu.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

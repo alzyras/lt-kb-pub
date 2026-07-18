@@ -41,6 +41,19 @@ media_all_json: |-
 - t-001
   global_id: t-86582
   teiginys: "1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dievo Kūno arkibrolija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "arkibrolija arkikonfratrija: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dievo Kūno arkibrolija: mention_match, group, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"arkibrolija arkikonfratrija\" parinktas kaip owner_note_path. Targetas \"Dievo Kūno arkibrolija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1539 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus ir paremtas citatos duomenimis apie bulę ir arkibrolijos steigimą."
   pagrindžia:
     - c-82561
 
@@ -63,6 +76,7 @@ media_all_json: |-
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
     piežius Inocentas X irgi patvirtino.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

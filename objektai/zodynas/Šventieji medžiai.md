@@ -33,6 +33,20 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - t-001
   global_id: t-189191
   teiginys: "Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medžius, bet ir neliečiamus miškelius."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> stabmeldžiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventieji medžiai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "stabmeldžiai: mention_match, thing, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventieji medžiai\" parinktas kaip owner_note_path. Targetas \"stabmeldžiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172079
 
@@ -40,6 +54,13 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - t-002
   global_id: t-194693
   teiginys: "Lietuvių religija medžių atžvilgiu mokė tokio pat pamal dumo: ne vieną šito pavyzdį turime kronikose, pasakojimuo se, padavimuose ir liaudies dainose."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177090
 
@@ -47,6 +68,12 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - t-003
   global_id: t-197381
   teiginys: "Hamadriadė Chrisopelėja, būdama netoli mirties, nes upė paplovė medžio, nuo kurio priklausė jos būtis, šaknis, kreipėsi į tenai medžiojusį Arką, prašydama nukreipti šalin vandenį ir apkas ti žemėmis jau beveik griūvantį medį."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-172079
 
@@ -54,6 +81,12 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
 - t-004
   global_id: t-197382
   teiginys: "Turime kažkokį aprašymą šio medžio, kurį Bo leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne galėjo greitomis jo nukirsti; taip liudija kai kurie kronikinin kai."
+  atnaujinta: "2026-07-12 22:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
     - c-179159
 - susijęs iš [[objektai/asmenys/Albertas Krantcas.md#claim-t-190128|Albertas Krantcas]]: Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies.
@@ -77,6 +110,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     sios nimfos prašymą, laimėjo ne tik dėkingumą, bet ir jos šir­
     dį... Šios meilės vaisius buvo dvejetas įpėdinių.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +130,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     mas trofėjais, gėlių girliandomis ir degančiais žibintais buvo
     įprastas dalykas.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,6 +151,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
     Jono I prašomas, įsakė jį nukirsti.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -52,6 +52,10 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
 - t-001
   global_id: t-195476
   teiginys: "Vienas šaltinio užrašymas datuotas Ažytėnuose 1927 m. rugsėjo 25 d."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177898
 
@@ -59,6 +63,10 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
 - t-002
   global_id: t-195477
   teiginys: "Ažytėnai apibūdinami kaip menka vietelė, kurioje degtinės laikais netrūko muštynių ir girtavimo."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177897
 - susijęs iš [[objektai/grupes/Linartai.md#claim-t-195508|Linartai]]: Linartų pasakojimas šaltinyje siejamas su Ažytėnų muštynių ir girtavimo ratu.
@@ -81,6 +89,7 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
     taiką užgerdavo degtine, ir vėl mušėsi.
   citata_rodoma: "Juk Ažytėnai — menka vietelė, bet kai degtinė čia gyveno, matai, ko čia nebuvo: čia mušėsi, čia taikėsi, o taiką užgerdavo degtine, ir vėl mušėsi."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +108,7 @@ Ažytėnai šiame šaltinyje yra kaimas ar vietovė.
     Ažytėnai, 1927 m. rugsėjo 25 d.
   citata_rodoma: "Ažytėnai, 1927 m. rugsėjo 25 d."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

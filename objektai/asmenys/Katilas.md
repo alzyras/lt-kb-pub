@@ -32,6 +32,20 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
 - t-001
   global_id: t-190232
   teiginys: "Antspaudas priklausė Katilui (Koczel) 1617 metais."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Katilas: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Antspaudas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Katilas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad antspaudas priklausė Katilui."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Antspaudas priklausė Katilas (0.98)"
   pagrindžia:
     - c-173115
 
@@ -66,6 +80,7 @@ Nieko nepadėjo nė pakviestas bajorijai artimesnis Katilas; Oginskis nė nepasi
     (Stank Stankiewicz Jursza).
   citata_rodoma: "IV lentelė, 22-asis piešinys. Indas, panašus į taurę, virš ku­\nrio trikampis; virš skydo šalmas apex, kaip virš karalių karūnų.\nAntspaudas priklausė Katilui (Koczel) 1617 metais."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

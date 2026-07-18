@@ -57,6 +57,10 @@ Terminas vartojamas kalbant apie Kūčių valgį.
 - t-001
   global_id: t-195463
   teiginys: "Šližikai šiame šaltinyje yra į aguonų pieną dedamas Kūčių valgis."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177884
 
@@ -76,6 +80,7 @@ Terminas vartojamas kalbant apie Kūčių valgį.
     nas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“ .
   citata_rodoma: "Toliau seka šaltas valgis: aguonų pie­\nnas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

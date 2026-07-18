@@ -38,6 +38,12 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
 - t-001
   global_id: t-100201
   teiginys: "„Novgorodskaja pervaja letopis’ staršego i mladšego izvodov“ A. Nasonovas išleido Maskvoje-Leningrade 1950 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra bibliografinė santrumpa ir nutrūkstantis fragmentas."
   pagrindžia:
     - c-31756
 
@@ -51,6 +57,7 @@ NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov, išl.
     NoPL = Novgorodskaja pervaja letopis’ staršego i mladšego izvodov,
     išl. A. Nasonov, Maskva-Leningradas 1950.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

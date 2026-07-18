@@ -45,6 +45,17 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
 - t-001
   global_id: t-200594
   teiginys: "Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių“ sudarytoja."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::authors"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ramunė Šmigelskytė-Stukienė: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ramunė Šmigelskytė-Stukienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183991
 
@@ -60,6 +71,7 @@ Bibliografijoje Ramunė Šmigelskytė-Stukienė nurodyta kaip tomo „XVIII amž
     Šmigelskytė-Stukienė, Vilnius: Lietuvos istorijos institutas, 2014, t. 1, p. 184–199.
   citata_rodoma: "XVIII amžiaus studijos. LDK: tarp tradicijų ir naujovių. Sudarytoja: Ramunė Šmigelskytė-Stukienė."
   statusas: verified
+  atnaujinta: "2026-07-14 06:28"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

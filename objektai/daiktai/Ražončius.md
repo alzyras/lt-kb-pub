@@ -53,6 +53,10 @@ Nenurodyta
 - t-001
   global_id: t-195348
   teiginys: "Elgetos religinis atributas, aprašytas kaip medinių rutuliukų vėrinys."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177753
     - c-177754
@@ -75,6 +79,7 @@ Nenurodyta
     nunešiotais miestiečio užvalkčiais.
   citata_rodoma: "Užsikabinęs ilgą, sto- rų, medinių rutuliukų ražončių, kuris apkabinėtas dideliais ir ma- žais agnasais, ant pečių šikšninė terba su šikšniniu pasaitu, apsivilkęs nunešiotais miestiečio užvalkčiais."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,6 +98,7 @@ Nenurodyta
     jų ožkų ganymą. Visi renkasi giedoti ražončių ir „adynas“ .
   citata_rodoma: "Visi renkasi giedoti ražončių ir „adynas“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

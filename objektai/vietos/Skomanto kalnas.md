@@ -33,6 +33,10 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
 - t-001
   global_id: t-58727
   teiginys: "Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
   pagrindžia:
     - c-59359
 - susijęs iš Skomanto ežeras: Zioka Skomackas Skomantai Skomanto ež.
@@ -55,6 +59,7 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
     Skronaitė (Scroneyte, Scroneiten), p.
   citata_rodoma: "Skomętno)\nSkomanto kalnas (Skomentberg)\nSkomanto sodyba, p."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

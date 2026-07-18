@@ -33,6 +33,13 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
 - t-001
   global_id: t-193806
   teiginys: "Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno laikotarpio karybos, ginkluotės raidos tendencijas bei regiono geopolitinį kontekstą."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
   pagrindžia:
     - c-176451
 
@@ -54,6 +61,7 @@ Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno l
     bos raidą nauju kampu ir paskatins papildyti Lietuvos ka-
     rybos istorijos tyrinėtojų gretas naujais jaunais istorikais.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

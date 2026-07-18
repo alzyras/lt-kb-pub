@@ -43,6 +43,19 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
 - t-001
   global_id: t-87917
   teiginys: "Vytautas Apaštališkajam Sostui siūlė Trakų koleginės bažnyčios kleboną Mikalojų į Vilniaus vyskupus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mikalojus (Trakų klebonas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=11"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus (Trakų klebonas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1414 m.; įvykio data: po 1408 m.; įvykio data: 1408 m.; įvykio data: 1414 m.; įvykio data: 1415 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Mikalojaus vaidmenį ir yra paremtas citata."
   pagrindžia:
     - c-83896
 
@@ -67,6 +80,7 @@ Mikalojus (Trakų klebonas) buvo nepa­ geidaujamas Vytauto, Apaštališkajam So
     kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
   citata_rodoma: "Motiejus, šv. teologijos magistras, lietuvis, iš pradžių, \nnuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui, \n1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­\ngreit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­\ngeidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­\nkupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

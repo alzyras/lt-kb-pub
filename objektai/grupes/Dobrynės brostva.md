@@ -22,30 +22,41 @@ media_all_json: |-
 
 ## Santrauka
 
-Dobrynės brostviai naudojosi Konrado statyta Dobrynės pilimi prie Drevencos kaip uždanga žygiams į Kulmiją ir prieš lietuvius. Daukantas Dobrynės brostvių susijungimą su kryžėjais sieja su kryžėjų įvykdytu Dobrynės pilies ir valsčių perėmimu bei Konrado pasipriešinimu.
+To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos. Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant.
 
 ## Teiginiai
 
 <a id="claim-t-201240"></a>
 - t-001
   global_id: t-201240
-  teiginys: "Dobrynės brostviai naudojosi Konrado statyta Dobrynės pilimi prie Drevencos kaip uždanga žygiams į Kulmiją ir prieš lietuvius."
+  teiginys: "To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184590
 
 <a id="claim-t-201241"></a>
 - t-002
   global_id: t-201241
-  teiginys: "Daukantas Dobrynės brostvių susijungimą su kryžėjais sieja su kryžėjų įvykdytu Dobrynės pilies ir valsčių perėmimu bei Konrado pasipriešinimu."
+  teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184591
 
 ## Citatos
 
 - id: c-184590
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 250"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 250."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     To vildamos, pradėjo Konra­
     das Dobrynės pilį dirbti ant skardžio upės Dre-
@@ -61,6 +72,7 @@ Dobrynės brostviai naudojosi Konrado statyta Dobrynės pilimi prie Drevencos ka
     nykų, niekados neregėtų tame krašte, nedidžiai te-
     turėjos ir į girias traukės.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,9 +80,8 @@ Dobrynės brostviai naudojosi Konrado statyta Dobrynės pilimi prie Drevencos ka
     - t-201240
 
 - id: c-184591
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 286"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 286."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bet ne taip veikiai nusibengė kerštai mozūrų
     kunigaikščio Konrado su kryžėjais. Sunėrimas brost-
@@ -79,6 +90,7 @@ Dobrynės brostviai naudojosi Konrado statyta Dobrynės pilimi prie Drevencos ka
     visais valsčiais, Konradui gyniojant. Ne visai te­
     vyko ir pačiam Vilhelmui tame daikte taikinti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

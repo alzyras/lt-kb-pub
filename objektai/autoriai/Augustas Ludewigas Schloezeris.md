@@ -22,23 +22,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto „Istorijoje Žemaitiškoje“ dažnai remiamasi vėlyvosios vokiečių šviečiamojo laikotarpio istoriografijos atstovu Augustu Ludewigu Schloezeriu.
+Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas.
 
 ## Teiginiai
 
-<a id="claim-t-201493"></a>
+<a id="claim-t-201429"></a>
 - t-001
-  global_id: t-201493
-  teiginys: "Daukanto „Istorijoje Žemaitiškoje“ dažnai remiamasi vėlyvosios vokiečių šviečiamojo laikotarpio istoriografijos atstovu Augustu Ludewigu Schloezeriu."
+  global_id: t-201429
+  teiginys: "Daug kartų cituojami Ludewigas Al brechtas Gebhardis ir Thomas Hiarnas, parašę Lat vijos ir Estijos kraštų istorijas."
+  atnaujinta: "2026-07-16 14:32"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184843
+    - c-184779
 
 ## Citatos
 
-- id: c-184843
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 5"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 5."
+- id: c-184779
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Daug kartų cituojami Ludewigas Al­
     brechtas Gebhardis ir Thomas Hiarnas, parašę Lat­
@@ -50,8 +55,9 @@ Daukanto „Istorijoje Žemaitiškoje“ dažnai remiamasi vėlyvosios vokieči�
     jos istoriją", kurios pranašumas prieš kitus panau­
     dotus veikalus neabejotinas.
   statusas: verified
+  atnaujinta: "2026-07-16 14:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201493
+    - t-201429

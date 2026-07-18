@@ -57,6 +57,10 @@ Nenurodyta
 - t-001
   global_id: t-195667
   teiginys: "Vyžas po padu adydavo karnomis arba liuntu, kad jos ilgiau laikytų."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178068
 
@@ -64,6 +68,10 @@ Nenurodyta
 - t-002
   global_id: t-195668
   teiginys: "Pasakojime minima ir maža vyžiukė, kurią Baltras padarė pertvarkęs Napaliuko darbą."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178069
 
@@ -71,6 +79,10 @@ Nenurodyta
 - t-003
   global_id: t-195669
   teiginys: "Vyžas pindavo iš suraitytų karnų."
+  atnaujinta: "2026-07-12 11:56"
+  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-178067
 
@@ -95,6 +107,7 @@ Nenurodyta
     žas pinti.
   citata_rodoma: "Baltras nuo pečių nusiėmė suraitytų karnų virtinę ir pradėjo vyžas pinti."
   statusas: verified
+  atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +128,7 @@ Nenurodyta
     po padu, kad jis ilgiau laikytų.
   citata_rodoma: "Vyžas reikia dar paadyti, vadinasi, priraizgyti karnų arba liuntų po padu, kad jis ilgiau laikytų."
   statusas: verified
+  atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,6 +150,7 @@ Nenurodyta
     bą ir padarė dailią, mažą vyžiukę.
   citata_rodoma: "Baltras atėjo prievakary ir atnešė terboje žirnių anksčių. Pertaisė Napaliuko darbą ir padarė dailią, mažą vyžiukę."
   statusas: verified
+  atnaujinta: "2026-07-12 11:56"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

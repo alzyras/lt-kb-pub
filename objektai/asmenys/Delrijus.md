@@ -32,6 +32,13 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
 - t-001
   global_id: t-194829
   teiginys: "Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Delrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi romantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo je pusėje, praktikuodavo dar kitą piromantijos rūšį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
   pagrindžia:
     - c-177225
 
@@ -80,6 +87,7 @@ Jono Krikštytojo šventės išvakarėse, šokinėjimą aplink laužą, šokimą
     sklaidžius, lašinius pats suvalgydavo.
   citata_rodoma: "Strijkovskis aiškiai\ntvirtina, kad šiomis apeigomis buvo pamėgdžiojami senovės\nromėnai, kurie taip krikštydavosi per Palilėjų šventes deivės\nPalės garbei.\nBūrimus, darytus su ugnimi, uždegta šv. Jono Krikštytojo\nšventės išvakarėse, šokinėjimą aplink laužą, šokimą per jį Del-\n344\n\n## Puslapis 344\n\nrijus (Delno)' priskiria prie žiniuonystės dalykų, vadinamų pi­\nromantija, pridurdamas, kad jo laikais, XVI amžiaus antrojo­\nje pusėje, praktikuodavo dar kitą piromantijos rūšį."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

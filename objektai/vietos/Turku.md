@@ -52,6 +52,10 @@ Turku šiame šaltinyje yra miestas.
 - t-001
   global_id: t-195482
   teiginys: "1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų."
+  atnaujinta: "2026-07-12 04:09"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177903
 - susijęs iš Lemu parapija: Augustas Robertas Niemi gimė Lemu parapijoje.
@@ -76,6 +80,7 @@ Turku šiame šaltinyje yra miestas.
     įstojo į Turku suomių liciejų, mūsiškai — gimnaziją.
   citata_rodoma: "1880 m. įstojo į Turku suomių liciejų, mūsiškai — gimnaziją."
   statusas: verified
+  atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

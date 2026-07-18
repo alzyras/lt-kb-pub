@@ -39,10 +39,23 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-45872"></a>
+<a id="claim-t-45874"></a>
 - t-001
-  global_id: t-45872
+  global_id: t-45874
   teiginys: "1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos."
+  atnaujinta: "2026-06-14 10:46"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys sutampa su citatos pagrindiniu faktu ir yra gramatiškas."
   pagrindžia:
     - c-23682
 
@@ -50,6 +63,19 @@ media_all_json: |-
 - t-002
   global_id: t-45873
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1917 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Lietuvos Tarybos veiksmą su citatoje pateikta formuluote."
   pagrindžia:
     - c-48534
 
@@ -73,6 +99,7 @@ media_all_json: |-
     priimtą.
   citata_rodoma: "1918 metų Vasario 16 Aktas\n1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-\nkos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti\nLietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs\nKaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,\nkiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip\npriimtą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,6 +126,7 @@ media_all_json: |-
     keturiomis konvencijomis (karinė, transporto, finansų, muitų). Nebeliko
     nė žodžio apie Steigiamąjį Seimą.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

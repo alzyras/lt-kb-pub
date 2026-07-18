@@ -33,6 +33,11 @@ Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadint
 - t-001
   global_id: t-192924
   teiginys: 'Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, o fragmentas perrašytas į pilną sakinį. Palikta atribucija, nes tai pavadinimo interpretacija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]'
   pagrindžia:
     - c-175694
 
@@ -53,6 +58,7 @@ Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadint
     88
     Slavai.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

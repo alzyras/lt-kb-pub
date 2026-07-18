@@ -56,6 +56,16 @@ Nenurodyta
 - t-001
   global_id: t-54479
   teiginys: "Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti."
+  atnaujinta: "2026-06-13 17:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  ryšio_patikimumas: "susije_su -> Akademijos aikštė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Akademijos aikštės medinis šulinys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos aikštė: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akademijos aikštės medinis šulinys\" parinktas kaip owner_note_path. Targetas \"Akademijos aikštė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55368
 
@@ -80,6 +90,7 @@ Nenurodyta
     stogeliu ir volu vandeniui traukti.
   citata_rodoma: "Nulipus laiptais žemyn į Akademijos aikštės kitą pusę: \nkairėje durys su vyriais į kamarėlę malkoms laikyti, o Aka­\ndemijos aikštės dešinėje pusėje - medinis šulinys, 4 šulų, su \nstogeliu ir volu vandeniui traukti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

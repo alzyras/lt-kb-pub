@@ -32,6 +32,13 @@ Snorro.
 - t-001
   global_id: t-194901
   teiginys: "Snorro."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177297
 
@@ -81,6 +88,7 @@ Snorro.
     nasis Kulmas.
   citata_rodoma: "3 Snorro. Ygiinga Saga, Hervar Saga. Harfag Saga. Heimkringla\nSaga."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

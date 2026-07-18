@@ -38,6 +38,16 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
 - t-001
   global_id: t-191798
   teiginys: "Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Narbuto nuorodoje siejamas su 1615 m. Bazelio leidimu."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1615 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Michalo Lituanus veikalo bibliografinį siejimą su Bazelio 1615 m. leidimu. Jis neperteikia daugiau negu leidimo nuorodą citatoje."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174680
 
@@ -84,6 +94,7 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
     n e s š v e n č i a m a s a v a i t ę p o V e l y k ų .
   citata_rodoma: "De\ndiis samagitarum caeterorumque Sarmatarum et falsorum Chris­\ntianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-\nrum et Moschorum. Basileae, 1615)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

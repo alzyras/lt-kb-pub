@@ -32,6 +32,17 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
 - t-001
   global_id: t-200492
   teiginys: "Juozapas Antanas Solohubas buvo tribunolo maršalas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Antanas Solohubas (LDK artilerijos generolas, XVIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Antanas Solohubas (LDK artilerijos generolas, XVIII a.): mention_match, person, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Antanas Solohubas (tribunolo maršalas, XVIII a.)\" parinktas kaip owner_note_path. Targetas \"Antanas Solohubas (LDK artilerijos generolas, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183858
 - susijęs iš [[objektai/asmenys/Antanas Solohubas (LDK artilerijos generolas, XVIII a.).md#claim-t-200493|Antanas Solohubas (LDK artilerijos generolas, XVIII a.)]]: Antanas Solohubas buvo LDK artilerijos generolas.
@@ -62,6 +73,7 @@ Juozapas Antanas Solohubas buvo tribunolo maršalas.
     monijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22].
   citata_rodoma: "Pvz., 1751 m. kanauninkas broliui pasakojo, kad jam skauda galvą, tačiau turintis vykti\nį Panerius, nes reikia priimti tribunolo maršalą Juozapą Antaną Solohubą (Józef Antoni\nSołłohub) ir LDK artilerijos generolą Antaną Solohubą (Antoni Sołłohub), kurie be cere-\nmonijų jį pakvietė prie mažojo staliuko [lošti kortomis?] [22]."
   statusas: verified
+  atnaujinta: "2026-07-14 03:26"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

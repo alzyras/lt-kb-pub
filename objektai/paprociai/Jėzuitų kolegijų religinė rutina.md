@@ -54,6 +54,9 @@ Nenurodyta
 - t-001
   global_id: t-67100
   teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67136
 
@@ -61,6 +64,9 @@ Nenurodyta
 - t-002
   global_id: t-67103
   teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67138
 
@@ -79,6 +85,7 @@ Nenurodyta
     vaidinimus ir disputus. Kolegijose visur buvo religinių mo-
     kinių brolijų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,6 +103,7 @@ Nenurodyta
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
   citata_rodoma: "Ypatingai buvo žiūrima, kad\nmokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

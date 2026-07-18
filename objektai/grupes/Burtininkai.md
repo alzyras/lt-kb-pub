@@ -33,6 +33,13 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
 - t-001
   global_id: t-189450
   teiginys: "Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo sukurtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172337
 
@@ -40,6 +47,20 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
 - t-002
   global_id: t-189451
   teiginys: "Narbutas rašė, kad Prūsijos kronikininkai burtininkams priskyrė ateities spėjimą liejant ištirpintą vašką į šaltą vandenį."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Burtininkai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burtininkai\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172338
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188259|Lietuviai]]: Narbutas teigė, kad lietuviai turėjo dainius, apdainavusius tautos istorijos įvykius ir vadintus burtininkais.
@@ -106,6 +127,7 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
     figūrėlėmis' .
   citata_rodoma: "Tad\nsutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­\nnamus dalykus.\nBurtininkas (Burtinikas)\nPirmykšte reikšme tai buvo eilių kūrėjai, savo pačių sudė­\ntų giesmių giedotojai, panašūs į senovės bardus ir skaldus. Vi-\n296\n\n## Puslapis 296\n\nsose antikinėse tautose jų pašaukimas buvo labai kilnus ir ger­\nbiamas; mat jie, pranašesni savo protu ir turintys nuostabią\ndovaną kurti eiles, pranokdavo kitus žmones, pateikdavo įsta­\ntymus, kūrė mokslą ir skatindavo karo žygius arba puoselėda­\nvo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-\nšvietą kerinčia poezijos ir muzikos meno galia."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,6 +149,7 @@ Narbutas burtininkus pirmykšte reikšme aiškino kaip eilių kūrėjus ir savo 
     atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
     gos juokdariams pripūsti lengvatikių galvas visokių niekų.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

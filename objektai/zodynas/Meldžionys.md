@@ -43,6 +43,16 @@ Vartojamos formos: `meldžionis`.
 - t-001
   global_id: t-07679
   teiginys: "Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "meldžionys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=97"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"meldžionys\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09610
 
@@ -50,44 +60,45 @@ Vartojamos formos: `meldžionis`.
 - t-002
   global_id: t-07680
   teiginys: "Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  ryšio_patikimumas: "susije_su -> Kardas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "meldžionys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kardas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"meldžionys\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-09610
 
 <a id="claim-t-200953"></a>
 - t-003
   global_id: t-200953
-  teiginys: "Daukanto pasakojime persikrikštiję žemgaliai, susivieniję su lietuviais ir žemaičiais, kovojo su meldžionimis, aptvėrė Mežotės pilį ir nusiaubė Bažnyčios salą."
+  teiginys: "Žemgaliai, kurie buvo persikrikš tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su sinėrę kariavo meldžionis, kaipogi, aptverę kuo stipresniai pilį Mežotę, traukė į Bažnyčios salą ir tenai, krikščionis nugalavę, visą kraštą nuteriojo."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184303
 
 <a id="claim-t-200954"></a>
 - t-004
   global_id: t-200954
-  teiginys: "Daukanto pasakojime kryžėjų rėdytojas kartu su Kazimieru ir iš Austrijos atvykusiais meldžionimis persikėlė per Yslą į Pamariją."
+  teiginys: "Kujavijos, lygiai su meldžionimis atėjusiaisiais skubinai persikėlė per Yslą į Pamariją, kurią, gieždamas apmaudą, nuteriojo nuo vieno krašto iki antro, grobį griedamas; ką vien rado, tai yra: javus, gyvolius, ėmė šalin, tro besius nudegino, varydamas būriais."
+  atnaujinta: "2026-07-16 14:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184304
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-201003|Konradas]]: Konradui prašant ir vyskupui Kristijonui leidžiant, meldžionys pradėjo tvirtinti lietuvių sugriautą Kulmo pilį.
-- susijęs iš [[objektai/daiktai/Ragotinė.md#claim-t-200942|Ragotinė]]: Daukanto pasakojime Bistenės pilies gynėjai žemaičiai ragotinėmis grūdo nuo mūrų ropojančius kryžėjus ir meldžionis.
-- susijęs iš [[objektai/grupes/Meldžionys vokyčiai.md#claim-t-201251|Meldžionys vokyčiai]]: Daukantas rašo, kad meldžionys vokiečiai, įveikę padaugavionis, norėjo toliau plėsti valdžią ir traukė į Žemgalius užimti Celonės pilies.
-- susijęs iš [[objektai/grupes/Samionys (grupė).md#claim-t-201229|Samionys (grupė)]]: Daukantas vaizduoja samionis Kalgių kaime ilgai kovojusius su meldžionimis, nepasidavusius ir žuvusius mūšio vietoje.
-- susijęs iš [[objektai/zodynas/perkrikštas (sąvoka).md#claim-t-201189|perkrikštas (sąvoka)]]: Daukanto pasakojime vokyčiams ir perkrikštams pavyko įsiveržti į pilies priemiestį ir priartėti prie mūro, tačiau lietuviai išklojo 400 meldžionų ir spaudžiami pasitraukė į pilį.
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-190837|Albertas (vyskupas, XII–XIII a.)]]: Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.
-- susijęs iš [[objektai/asmenys/Albertas.md#claim-t-200961|Albertas (vyskupas, XII–XIII a.)]]: 1208 m. Albertas grįžo iš Teutonijos su didele maldininkų, diduomenės ir kunigų palyda, sušaukė perkrikštus ir vokiečius.
-- susijęs iš [[objektai/daiktai/Brostvinė vėliava.md#claim-t-201360|Brostvinė vėliava]]: Bavarų kunigaikštis pilį apjuosė grioviais ir pylimais, o jos įgulai įdavė dėvėti vėliavą su savo žyme.
-- susijęs iš [[objektai/daiktai/Drobynas (daiktas).md#claim-t-201365|Drobynas (daiktas)]]: Gardino pilies apgulties metu kova prasidėjo vos drobynui pasiekus pilies mūrus.
-- susijęs iš [[objektai/grupes/Lybiešai (grupė).md#claim-t-201250|Lybiešai (grupė)]]: Daukantas rašo, kad lybiešai, vadinti kuresajar, nuo neatmenamų laikų gyveno pajūryje tarp upių, o jų kraštas vadinosi kuriesais arba kuržemiais.
-- susijęs iš [[objektai/ivykiai/Aldonos ir Kazimiero vestuvės Krokuvoje.md#claim-t-201267|Aldonos ir Kazimiero vestuvės Krokuvoje]]: Daukanto aprašomose Aldonos ir Kazimiero vestuvėse Lietuvos didžioji kunigaikštaitė Aldona, lydima lenkų ir lietuvių diduomenės, keliavo iš Vilniaus į Krokuvą pas jaunikį.
-- susijęs iš [[objektai/ivykiai/Aldonos vestuvės Krokuvoje.md#claim-t-201268|Aldonos vestuvės Krokuvoje]]: Daukantas Aldoną vaizduoja kaip Lietuvos didžiąją kunigaikštaitę, kuri, lydima lenkų ir lietuvių diduomenės, per vestuves keliavo iš Vilniaus į Krokuvą.
-- susijęs iš [[objektai/ivykiai/Christburgo apgultis.md#claim-t-201279|Christburgo apgultis]]: Christburgo apgulties metu nauja kariauna apsupo pilį, o lietuviai Sirgūnėje nuskandino valtis, kuriomis įgula gaudavo maisto.
-- susijęs iš [[objektai/ivykiai/Dabrelio pilies apgultis ir letgalių pasidavimas.md#claim-t-201281|Dabrelio pilies apgultis ir letgalių pasidavimas]]: Dabrelio pilies apgulties metu letgalių pastatytą naują bokštą naktį išvertė viesulas, žuvo daug žmonių.
-- susijęs iš [[objektai/ivykiai/Gardino pilies apgultis ir sudeginimas.md#claim-t-201308|Gardino pilies apgultis ir sudeginimas]]: Skomantas, persikėlęs per Nemuną, apgulė Gardino pilį, įsiveržė pro silpnesnius mūrus, iškirto įgulę ir pilį sudegino.
-- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Lietuvą ir Gardino pilies apgula.md#claim-t-201326|Kryžėjų žygis į Lietuvą ir Gardino pilies apgula]]: Vasarop per Nemuną persikėlę kryžėjai staiga įsiveržė į Lietuvą ir apgulė Gardino pilį dešiniajame Nemuno krante.
-- susijęs iš [[objektai/ivykiai/Kryžėjų žygis į Žemaičius ir Bisenės pilies apgula.md#claim-t-201290|Kryžėjų žygis į Žemaičius ir Bisenės pilies apgula]]: Daukanto pasakojime kryžėjai po kruvinos kovos įsilaužė į Bisenės pilį, iškirto jos žmones ir sudegino pačią pilį.
-- susijęs iš [[objektai/posakiai/pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim.md#claim-t-201260|pirma gelžis į vašką, vanduo į plieną pavirs, nekaip mes savo žodį laužysim arba atšauksim]]: Daukantas posakį „pirma gelžis į vašką, vanduo į plieną pavirs“ pateikia kaip laiško patikinimą, kad duotas žodis nebus laužomas.
-- susijęs iš Gercikė (vieta): Daukanto pasakojime Meinhardas su meldžionimis vėl traukė į Gercikę prieš Visvaldį, žinodami, kad joje dar yra daug gėrybių.
-- susijęs iš Krokuva: Daukantas Aldoną vadina Lietuvos didžiąja kunigaikštaite ir pasakoja, kad, lydima lenkų bei lietuvių diduomenės, ji keliavo iš Vilniaus į Krokuvą pas savo jaunikį.
-- susijęs iš [[objektai/zodynas/abažas (sąvoka).md#claim-t-201191|abažas (sąvoka)]]: Daukanto pasakojime meldžionys Natangijoje, dabartinio Brandenburgo vietoje, įsirengė abažą, arba taborį.
-- susijęs iš [[objektai/zodynas/liecybos (sąvoka).md#claim-t-201210|liecybos (sąvoka)]]: Daukanto pasakojime popiežius Kristijonui patvirtino dovanas ir liecybas, kai jam buvo perleistos iš Plocko renkamos dešimtinės.
+
 ## Citatos
 
 - id: c-09610
@@ -103,6 +114,7 @@ Vartojamos formos: `meldžionis`.
         keleivių miegančių budinti.
   citata_rodoma: "meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir\npiktadėjai^851 tvino iš Teutonijos į Žemaičius, Parusius ir Žemgalius, arba Kuršą, dievą maldauti už\nsavo griekus, krikštydami kardu ir vergdami gyventojus tų kraštų, ką ne vien palaikai ginklų,\nrandami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo\nnumirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų\nkeleivių miegančių budinti."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,9 +123,8 @@ Vartojamos formos: `meldžionis`.
     - t-07680
 
 - id: c-184303
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 229"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 229."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Žemgaliai, kurie buvo persikrikš­
     tiję, vėl išsižadėjo ir su lietuviais ir žemaičiais su­
@@ -127,6 +138,7 @@ Vartojamos formos: `meldžionis`.
     naktį, ryto metą kariauną skurdino pamūšy, paskui
     sukos į papilį, kurį nuteriojęs, pačią pilį apgulė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,9 +146,8 @@ Vartojamos formos: `meldžionis`.
     - t-200953
 
 - id: c-184304
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 328"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 328."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Sviatopelkas nebgalėjo niekaip savųjų į rin-
     dą besueiluoti, kaipogi viena dalis kryžėjų įpuolė į
@@ -154,6 +165,7 @@ Vartojamos formos: `meldžionis`.
     besius nudegino, varydamas būriais gyventojus lau­
     kan.
   statusas: verified
+  atnaujinta: "2026-07-16 14:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

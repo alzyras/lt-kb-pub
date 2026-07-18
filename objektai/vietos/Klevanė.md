@@ -33,6 +33,17 @@ media_all_json: |-
 - t-001
   global_id: t-76582
   teiginys: "Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.72)"
   pagrindžia:
     - c-24196
 
@@ -40,6 +51,17 @@ media_all_json: |-
 - t-002
   global_id: t-76583
   teiginys: "Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.70)"
   pagrindžia:
     - c-74133
 
@@ -61,6 +83,7 @@ media_all_json: |-
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: "Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai\n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)\nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,6 +110,7 @@ media_all_json: |-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: "Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-\nvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė\n\nL I E T U V O S  I S T O R I J A\n46\nlaikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-\nnaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-\nguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai \n(Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka) \nir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-\nprastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-\nkos“ kilmės kunigaikščiai Ostrogiškiai."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

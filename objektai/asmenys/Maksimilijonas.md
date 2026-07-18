@@ -35,6 +35,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-001
   global_id: t-185972
   teiginys: "Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų keturiolika maskvėnų belaisvių ir grąžino juos į Maskvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169333
 
@@ -42,6 +48,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-002
   global_id: t-185973
   teiginys: "Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169334
 
@@ -49,6 +61,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-003
   global_id: t-185974
   teiginys: "Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169335
 
@@ -56,6 +74,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-004
   global_id: t-193488
   teiginys: "Jam už teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš ku paklausti imperatorių Maksimilijoną, ką turėtų daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku rį, be abejonės, jam netrukus sukaustytą atvešią."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169332
 
@@ -63,6 +87,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-005
   global_id: t-193489
   teiginys: "Tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169333
 
@@ -70,6 +100,12 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-006
   global_id: t-193490
   teiginys: "Maksimilijonas Im p e ra to riu s M a k sipadarė dėl savo senos draum ili jo n a s išsiža d a gystės su Vasilijumi."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169334
 
@@ -77,6 +113,13 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
 - t-007
   global_id: t-193491
   teiginys: "Maskvos didikų atsakyme remtasi Maksimilijono ir Suleimano laiškais kaip įrodymu, kad Maskvos didysis kunigaikštis tituluotas caru."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169335
 
@@ -103,6 +146,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     su Ovčina, ėjusiu tas pačias pareigas, kaip ir jis.
   citata_rodoma: "630\n\n## Puslapis 629\n\nŠtai kaip vertino šis žmogus, barbarų barbaras, savo\njėgas, štai kaip pasitikėjo sėkme, taip viską perdėda­\nmas, tokį pasipūtėlišką išdidumą rodydamas, kad ne­\nrandu nė tinkamo žodžio jo ydoms pavadinti. Jam už­\nteko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš­\nku paklausti imperatorių Maksimilijoną, ką turėtų\ndaryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­\nrį, be abejonės, jam netrukus sukaustytą atvešią. Ka­\nralius, prie Borisovo pasilikęs keturis tūkstančius karių,\nvisus kitus pulkus, Konstantino Ostrogiškio vedamus,\nišsiuntė prieš Čeliadniną."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,6 +172,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     einamais keliais iki Smolensko.
   citata_rodoma: "Karalius bei karalienė, iškilmingai Vilniuje per mišias\npadėkoję viešpačiui dievui už pergalę, pasiuntė Ro­\nmos popiežiui kaip dovaną keturiolika į nelaisvę pa­\nimtų maskvėnų — pačių žymiausiųjų didikų. Tačiau\nimperatorius Maksimilijonas netoli Halės jėga juos at­\nėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal\nį Maskvą. Be abejo, šitai jis\nIm p e ra to riu s\nM a k si-\npadarė dėl savo senos drau-\nm ili jo n a s\nišsiža d a\ngystės su Vasilijumi."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,6 +209,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     tu susitikti tokioje vietoje, kur galėtų draugiškai ap­
     tarti taikos sąlygas.
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +232,7 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
     nas nepripažįstąs tos pagarbos, elgdamasis kitaip nei
     kiti valdovai?
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

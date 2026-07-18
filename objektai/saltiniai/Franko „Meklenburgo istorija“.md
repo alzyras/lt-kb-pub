@@ -32,6 +32,13 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
 - t-001
   global_id: t-194851
   teiginys: "Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kalba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į savo „Meklenburgo istoriją “, parašytą XVamžiuje."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177247
 
@@ -50,6 +57,7 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
     istoriją. Iš Lazijaus perrašė Čemberlenas, o iš pastarojo tas užrašas bu­
     vo įdėtas į Londono „Sylloge“.
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

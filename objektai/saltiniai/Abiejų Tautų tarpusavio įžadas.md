@@ -42,6 +42,20 @@ media_all_json: |-
 - t-001
   global_id: t-13513
   teiginys: "Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Abiejų Tautų tarpusavio įžadas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų tarpusavio įžadas\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra turinio fragmentas su triukšmu; citata pagrindžia tik įrašo pavadinimą ir puslapį."
+  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
   pagrindžia:
     - c-75419
 
@@ -49,6 +63,19 @@ media_all_json: |-
 - t-002
   global_id: t-13514
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisos, pavadintos Abiejų Tautų tarpusavio įžadu."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Abiejų Tautų tarpusavio įžadas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų tarpusavio įžadas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
     - c-75420
 
@@ -100,6 +127,7 @@ media_all_json: |-
     Ribentropo paktas 183;  SSRS 1940 metų ultimatumas ir sovietų okupacija 186
   citata_rodoma: "Bajoriškoji demokratija 67; \nValstybinė religija ar dešimt konfesijų? 70;  Tautos, kalbos, raštijos 72;  \nVilniaus universitetas 78;  Ryčiausia ir šiauriausia Europoje baroko  \narchitektūra 82;  Gaonas ir „Šiaurės Jeruzalė“ 83\n\nANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85\nApšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų \ntarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94\nIII s k y r i u s\nRUSIJOS IMPERIJOS VALDOMA LIETUVA (1795–1915)  98 \nBUVUSIO VALSTYBINGUMO TRAUKOJE 99\nKultūrinė autonomija Napoleono šešėlyje 99;  1830–1831 metų sukilimas 104;  \nCaro valdžia: „Čia nebus Lenkijos“ 106;  1863–1864 metų sukilimas 108;  \nVyskupo M."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,6 +150,7 @@ media_all_json: |-
     Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

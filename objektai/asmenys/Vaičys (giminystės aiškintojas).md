@@ -51,6 +51,10 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
 - t-001
   global_id: t-195559
   teiginys: "Vaičys apibūdinamas kaip senas žmogus, galintis apie bet kurį dalyką pašnekėti geriau už kitą."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177976
 
@@ -58,6 +62,10 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
 - t-002
   global_id: t-195560
   teiginys: "Aiškindamas giminystę Vaičys sakė, kad antroji Lukošiukė buvo jo senelė, nuėjusi į Papušinį už Grigės."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177978
 
@@ -65,6 +73,10 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
 - t-003
   global_id: t-195561
   teiginys: "Vaičys aiškino, kad ir broliai, ir nebroliai yra keliai, nes visas svietas yra giminės."
+  atnaujinta: "2026-07-12 06:38"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177977
 
@@ -83,6 +95,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     pašnekėti geriau už kitą.
   citata_rodoma: "Žila galva buvo Vaičys, senas žmogus, apie bet kurį dalyką galįs pašnekėti geriau už kitą."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,6 +114,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     sas svietas giminės tarp savęs ir tiek.
   citata_rodoma: "— Ir broliai keliai ir nebroliai keliai, — atsiliepė Vaičys: — visas svietas giminės tarp savęs ir tiek."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,6 +133,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
     nuėjus į Papušinį už Grigės. Tai ta mano senelė.
   citata_rodoma: "O antra Lukošiuke, — tęsė toliau Vaičys, — buvo nuėjus į Papušinį už Grigės. Tai ta mano senelė."
   statusas: verified
+  atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

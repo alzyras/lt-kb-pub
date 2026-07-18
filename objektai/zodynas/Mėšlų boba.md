@@ -33,6 +33,13 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
 - t-001
   global_id: t-189316
   teiginys: "Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas šiukšles ir pagerbiamą darželyje laikoma mėšlo ar šiukšlių krūva."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172203
 - susijęs iš [[objektai/paprociai/Mėšlo arba šiukšlių krūvos laikymas darželyje Mėšlų bobos garbei.md#claim-t-189927|Mėšlo arba šiukšlių krūvos laikymas darželyje Mėšlų bobos garbei]]: Narbutas Mėšlų bobą vadina iš namų iššluojamų šiukšlių globėja, kurios garbei šeimininkės darželiuose laikydavo mėšlo arba šiukšlių krūvą.
@@ -74,6 +81,7 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
     šiai - Uhsinsz arba Szwets uhsinsz21.
   citata_rodoma: "Mėšlų boba (Mahslu Baba)\nDeivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­\nmininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­\nlių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti\nmaža senutė.\nAtrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko\npanašaus nematome."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

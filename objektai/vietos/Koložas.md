@@ -33,6 +33,17 @@ media_all_json: |-
 - t-001
   global_id: t-99928
   teiginys: "Koložas buvo Gardino priemiestis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Gardinas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Koložas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai apibrėžia Koložą kaip Gardino priemiestį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Koložas priklausė Gardinas (0.82)"
   pagrindžia:
     - c-93879
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
@@ -75,6 +86,7 @@ media_all_json: |-
     D. mag.
   citata_rodoma: "47-49,\n66, 381\nKokenhusen, pilis 208, 221\nKolainių pilis 212\nKolankowski L. 84, 150, 281, 293,\n302, 304, 309, 323, 339\nKoliumnų dinastija 214\nKolomna, netoli Maskvos 313\nKoložas, Gardino priemiestis 125**\n**_Komunistas_** **42\nKoneczny F."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

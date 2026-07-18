@@ -12,13 +12,13 @@ datos:
   - '1922 m.'
 date_start: '1801'
 date_end: '1922'
+amziai:
+  - 'XIX'
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-amziai:
-  - 'XIX'
-  - 'XX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -41,18 +41,23 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31874"></a>
-- t-002
-  global_id: t-31874
-  teiginys: "„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m."
-  pagrindžia:
-    - c-33680
-
-<a id="claim-t-31874"></a>
 - t-001
   global_id: t-31874
-  teiginys: '„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m.'
+  teiginys: "„Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no“ išleistas Maskvoje 1910 m., o antrasis leidimas pasirodė 1915 m."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliučitel''no\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1910 m.; įvykio data: 1915 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
-    - c-001
+    - c-33680
 
 ## Citatos
 
@@ -70,6 +75,7 @@ media_all_json: |-
     (^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922).
   citata_rodoma: "140a** **_Očerk istorii Litovsko-russkago gosudarstva do Liuhlinskoj unii vkliu-\nčitel'no_** **, Maskva 1910,**^2 **1915.**\n(^141) **_Lietuvos istorija ligi Liublino unijos_** **(1920, 1922)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

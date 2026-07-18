@@ -33,6 +33,20 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
 - t-001
   global_id: t-186094
   teiginys: "Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Maskva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Andrius Mackevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Andrius Mackevičius priklausė pasiuntinybei, kurios kryptis buvo Maskva."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Andrius Mackevičius keliavo į Maskva (0.74)"
   pagrindžia:
     - c-169455
 
@@ -98,6 +112,7 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
     ti atstumta nuo visų reikalų.
   citata_rodoma: "Esą valachams visi keliai at­\nviri, Severinas plėšikaująs ir siaubiąs pasienį vienoje\nir kitoje pusėje,— tai svetimšalis, nepavaldus karaliui;\nvisa kita sutvarkysią legatai, kurie greitai atvyksią į\nMaskvą. Pasiuntinybę sudarė maršalas Motiejus Kloč-\nka, žirgininkas Vasilijus Bogdanovičius Čižas ir slap­\ntosios karaliaus tarybos narys Andrius Mackevičius.\nPasiuntinybė iškėlė šiuos rei-\nP a siu n tin y b ė  į M ask-\nkalaviinus:\nparodyti\nvisus\nv ą\nbelaisvius, suvežtus ir suva­\nrytus į Maskvą, ir kuo grei­\nčiausiai išsiųsti į pasienį taikytojus, kurie, suderinę su\nMackevičiumi nuomones, užbaigtų ginčus; jeigu Va­\nsilijus norįs derėtis dėl pastovios taikos, tegu siunčiąs\nlegatus pas karalių."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

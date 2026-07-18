@@ -48,6 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-189924
   teiginys: "Narbutas aiškina, kad Dusburgietis galėjo perdėti Nadruvos krivio valdžią, tačiau tai nepaneigia krivio institucijos buvimo."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Krivio valios ir potvarkių klausymas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krivio valios ir potvarkių klausymas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172807
 
@@ -96,6 +110,7 @@ Nenurodyta
     rėjo Prūsijoje gyvenant tiems kronikininkams, kaip dažnai jo
   citata_rodoma: "Sutikime trumpam\nsu šiuo priekaištu ir pripažinkime, kad Dusburgietis suklydo\nir per daug išplėtė vyriausiojo žynio valdžią. Tačiau ar klaida\nkokiame nors dalyke arba jo nesupratimas paneigia dalyko tik­\nrumą? O gal dėl to nebuvo jokio krivio, kad Dusburgietis per­\ndėjo jo valdžią? Mes jau anksčiau parodėme, kad kronikinin­\nkas kaip reikiant nežinojo, koks buvo krivio laipsnis, rangas,\nvaldžios ribos. Jau mes mūsų istorijos tyrimais įrodėme, kad\npaskutiniais stabmeldystės amžiais Romovių būta ne vienoje\nvietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie\nvieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

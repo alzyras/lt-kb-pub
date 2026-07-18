@@ -35,23 +35,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas pasakoja, kad Aukštojo Pamario kunigaikštis Baiminas menkai rėmė brolio apleistą Mestviną, šiam siekiant taikos su kryžiuočiais.
+Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig.
 
 ## Teiginiai
 
 <a id="claim-t-201457"></a>
 - t-001
   global_id: t-201457
-  teiginys: "Daukantas pasakoja, kad Aukštojo Pamario kunigaikštis Baiminas menkai rėmė brolio apleistą Mestviną, šiam siekiant taikos su kryžiuočiais."
+  teiginys: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
+  atnaujinta: "2026-07-16 14:37"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184807
 
 ## Citatos
 
 - id: c-184807
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 422"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 422."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pirmasis jo rūpinimos buvo pasidaryti tarpeju
     Mestvino, Pamarių kunig., ir su kryžėjais jį sude­
@@ -60,6 +65,7 @@ Daukantas pasakoja, kad Aukštojo Pamario kunigaikštis Baiminas menkai rėmė b
     mario, nevangstės su kryžėjais gadytis, kaipogi 3
     1268 dienoj siekio mėnesio atentį metą pakajų padarė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:37"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

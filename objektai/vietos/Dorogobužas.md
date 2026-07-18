@@ -49,6 +49,7 @@ Nenurodyta
     mūšį, todėl apie vidurnaktį, nepaisydami nei vadų, nei
   citata_rodoma: "Dėl žymiau­\nsiųjų didikų nesutarimų, o ypač dėl to, kad kai kas\npavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­\nkalą ateičiai, o galop visai nieko nepadarė. Tuo tar­\npu priešas ne tik sveikas paspruko nepuolamas, bet,\nsudeginęs Dorogobužą\nnrikirtęs miške medžių, vi­\nsai užtvėrė karaliaus kariuo­\nmenei kelią. Vis dėlto Ostro­\ngiškis su keliomis lengvųjų\nraitelių vėliavomis įsiveržė\nnepraeinamais keliais į prie­\nšo kraštą ir išsivarė iš ten\ndaug grobio."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

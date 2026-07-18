@@ -51,6 +51,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 - t-001
   global_id: t-36006
   teiginys: "Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną."
+  atnaujinta: "2026-05-20 21:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karūna su karūna negali būti sujungta — inkorporuota\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38385
 
@@ -58,6 +68,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 - t-002
   global_id: t-36007
   teiginys: "Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karūna su karūna negali būti sujungta — inkorporuota\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38386
 
@@ -81,6 +101,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     ti sujungta — inkorporuota^3 ).
   citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 )."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,6 +126,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     išlaikant dinastijos teises savo rankose.
   citata_rodoma: "Tas\nprojektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­\ntuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­\nbės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų\nnebegalėję būti, nes karūna su karūna negali bū­\nti sujungta — inkorporuota^3 ). Be to, Jogaila labai\ngerai suprato, kad laisva ir paveldima Lietuvos karalija\nbūtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,\nišlaikant dinastijos teises savo rankose."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

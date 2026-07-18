@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Karaliaučiuje Kęstutį kryžiuočiai iškilmingai vaišino ir pagerbė, o jis iš Lietuvos ir Žemaitijos kalėjimų paleido 14 komtūrų, 96 brostvius ir daugybę krikščionių.
+Pats Kęstu tis nukilo tenai, kurį kryžėjai vaišino ir godojo viešpatingai, visi jį trukindami pagal tų laikų do bę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -38,19 +38,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-201486"></a>
+<a id="claim-t-201298"></a>
 - t-001
-  global_id: t-201486
-  teiginys: "Daukanto pasakojime Karaliaučiuje Kęstutį kryžiuočiai iškilmingai vaišino ir pagerbė, o jis iš Lietuvos ir Žemaitijos kalėjimų paleido 14 komtūrų, 96 brostvius ir daugybę krikščionių."
+  global_id: t-201298
+  teiginys: "Pats Kęstu tis nukilo tenai, kurį kryžėjai vaišino ir godojo viešpatingai, visi jį trukindami pagal tų laikų do bę."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-184836
+    - c-184648
 
 ## Citatos
 
-- id: c-184836
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 638"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 638."
+- id: c-184648
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Pats Kęstu­
     tis nukilo tenai, kurį kryžėjai vaišino ir godojo
@@ -65,8 +70,9 @@ Nenurodyta
     voja savo nuokryčių neigi tų vietų, kuriose jie
     buvo sugauti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-201486
+    - t-201298

@@ -32,6 +32,13 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
 - t-001
   global_id: t-190165
   teiginys: "Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadėto radinio buvo nusiųsta T. Narbutui."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-173048
 
@@ -50,6 +57,7 @@ Litografas Juozapas Ozemblovskis padarė piešinį monetos, kuri vietoj pažadė
     skio padarytą piešinį (MAB RS. -  F. 17. -  B. 247C. -
     L. 435).
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

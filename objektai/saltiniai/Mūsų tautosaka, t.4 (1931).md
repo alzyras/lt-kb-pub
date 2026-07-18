@@ -45,6 +45,10 @@ tags:
 - t-001
   global_id: t-195215
   teiginys: "Po gautos medžiagos skyriumi pateiktos Tautosakos komisijos perrašytos ir tvarkomos dainos."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177583
 
@@ -52,6 +56,10 @@ tags:
 - t-002
   global_id: t-195216
   teiginys: "„Mūsų tautosaka“, t. 4, yra 1931 m. Kaune išleistas Tautosakos komisijos leidinys, redaguotas prof. V. Krėvės Mickevičiaus."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177582
 
@@ -59,6 +67,10 @@ tags:
 - t-003
   global_id: t-195217
   teiginys: "Tome paskelbtas A. Sabaliausko straipsnis „A. a. prof. A. R. Niemi“."
+  atnaujinta: "2026-07-11 22:44"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177581
 
@@ -90,6 +102,7 @@ tags:
     savo darbo įdėjęs.
   citata_rodoma: "A. Sabaliauskas\nA. a. prof. A. R. Niemi"
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,6 +124,7 @@ tags:
     1931 metai
   citata_rodoma: "MUSŲ\nTAUTOSAKA\nRed. prof. V. Krėvė Mickevičius\nHum. m. fak. \nT au to sako s \nK o m isijo s le id in y s\nKaunas\n1931 metai"
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,6 +140,7 @@ tags:
     ir tvarkomos dainos.
   citata_rodoma: "Tautosakos Komisijos perrašytos (iki š. m. XII. 1) \nir tvarkomos dainos."
   statusas: verified
+  atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

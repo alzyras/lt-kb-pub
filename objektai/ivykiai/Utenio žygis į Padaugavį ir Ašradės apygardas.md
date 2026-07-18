@@ -30,7 +30,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1227 m. Utenis, sutelkęs žemaičius ir žiemgalius, įsiveržė į Padaugavį ir nuniokojo Ašradės pilies apygardas.
+Tą išgirdęs, mistras Volkvinas, pa likęs Eželio saloj kuresarus, turėjo grįžti apent į Padaugavį žemaičių grėsti nuo terionių, kursai, pa ilsinęs truputį savo kariauną, puolė į Žemgalius ir tenai su žemaičiais smarkiose skardmūšose grūmės, kurių vienoj vietoj.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -49,16 +49,21 @@ Nenurodyta
 <a id="claim-t-201348"></a>
 - t-001
   global_id: t-201348
-  teiginys: "1227 m. Utenis, sutelkęs žemaičius ir žiemgalius, įsiveržė į Padaugavį ir nuniokojo Ašradės pilies apygardas."
+  teiginys: "Tą išgirdęs, mistras Volkvinas, pa likęs Eželio saloj kuresarus, turėjo grįžti apent į Padaugavį žemaičių grėsti nuo terionių, kursai, pa ilsinęs truputį savo kariauną, puolė į Žemgalius ir tenai su žemaičiais smarkiose skardmūšose grūmės, kurių vienoj vietoj."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184698
 
 ## Citatos
 
 - id: c-184698
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 271"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 271."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą išgirdęs, mistras Volkvinas, pa­
     likęs Eželio saloj kuresarus, turėjo grįžti apent į
@@ -83,6 +88,7 @@ Nenurodyta
     paspruko. Abažas vienok žemaičių ir 200 joties te­
     ko vokyčiams į ranką2**.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

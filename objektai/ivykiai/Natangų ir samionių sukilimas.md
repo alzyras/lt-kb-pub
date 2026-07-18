@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Natangų ir samionių sukilimas (sukilimas)'
+pavadinimas: 'Natangų ir samionių sukilimas'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Natangų ir samionių sukilimas'
-aliases:
-  - 'Natangų ir samionių sukilimas'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Natangų ir samionių sukilimas (sukilimas)
+# Natangų ir samionių sukilimas
 
 ## Santrauka
 
-Natangijoje paskelbus magistro įsakymą, Govina, Stanta, Trinta, Misinas ir Sabinis slapta susitarė kelti kariuomenę, o jos vadu iškėlė Sabinį.
+Vos buvo tas įsakymas Natangijoj apskelbtas, kaip tuojau rūstybė ir įbingimas visame krašte ap sireiškė ir aitra trakumo ūkėsus apniko; visų nar sieji ir godingieji, tarp jų — Govina, Stanta, Trinta, Misinas ir Sabinis, kilties vyrai, susirinkę slapta, guodės.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201340"></a>
 - t-001
   global_id: t-201340
-  teiginys: "Natangijoje paskelbus magistro įsakymą, Govina, Stanta, Trinta, Misinas ir Sabinis slapta susitarė kelti kariuomenę, o jos vadu iškėlė Sabinį."
+  teiginys: "Vos buvo tas įsakymas Natangijoj apskelbtas, kaip tuojau rūstybė ir įbingimas visame krašte ap sireiškė ir aitra trakumo ūkėsus apniko; visų nar sieji ir godingieji, tarp jų — Govina, Stanta, Trinta, Misinas ir Sabinis, kilties vyrai, susirinkę slapta, guodės."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184690
 
 ## Citatos
 
 - id: c-184690
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 484"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 484."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Nujautęs tą, mistras
     didžiai supyko ir ketėjo vėl pilį suardyti, bet vil­
@@ -82,6 +83,7 @@ Nenurodyta
     pragaro, kaipogi alvienas tarė, jog svietas ginkluo­
     jąs į karę pagal jų įsakymą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

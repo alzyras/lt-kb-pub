@@ -51,6 +51,10 @@ Proginė gėrimo užsakymo formulė.
 - t-001
   global_id: t-195429
   teiginys: "Vienas ūkininkas šaukia naujos bonkos formule „Kas negali, o aš galiu. Mendeliene, duok!“."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177850
 
@@ -71,6 +75,7 @@ Proginė gėrimo užsakymo formulė.
     gorčiaus — 5 bonkos.
   citata_rodoma: "Suprato apgaunamas, vienok nenuliūsta, šaukia naują: „Kas negali, o aš galiu. Mendeliene, duok!“"
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

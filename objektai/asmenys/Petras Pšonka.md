@@ -32,6 +32,13 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
 - t-001
   global_id: t-196581
   teiginys: "Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabijo upės pakrantėje."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178777
 
@@ -53,6 +60,7 @@ Kojelavičiaus pasakojime kariai Petrą Pšonką palaikė išdaviku ir nugalabij
     čiai; kai buvo patikrintas upės gylis, kariai supuolė ir
     Pšonką, kaip išdaviką, nugalabijo upės pakrantėje.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

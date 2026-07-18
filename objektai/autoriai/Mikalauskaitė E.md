@@ -52,6 +52,7 @@ Dusburgietis teigia, kad mikalauskaitė E.
     p. 18—53.
   citata_rodoma: "Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum\n\nphilologicum, K., 1938, kn. 7, p. 102— 106."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

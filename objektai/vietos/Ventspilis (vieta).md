@@ -6,7 +6,6 @@ variantai:
   - 'Ventspilis'
 aliases:
   - 'Ventspilis'
-  - 'objektai/vietos/Ventspilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
 sukurta: ''
@@ -28,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas Kuršu vadina Ventspilio, Tukumo ir Ventos žiočių apylinkes, kuriose, jo aprašymu, gyveno kuresarai.
+(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra.
 
 ## Teiginiai
 
 <a id="claim-t-201141"></a>
 - t-001
   global_id: t-201141
-  teiginys: "Daukantas Kuršu vadina Ventspilio, Tukumo ir Ventos žiočių apylinkes, kuriose, jo aprašymu, gyveno kuresarai."
+  teiginys: "(Čia skaitytojas tenedūmoja, jog Kuršas, tai yra Kuresarai, taip didis buvo kaip šiandien; Kuršu tuo kartu vadinos apykaitos Ventspilio (Goldingen), Tukumo ir įtakos Ventos, kur kuresarai gyveno, kiti visi kraštai šios dienos Kuršo vadinos Žemgaliais, tai yra."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184491
 
 ## Citatos
 
 - id: c-184491
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 377"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 377."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Bengiantis paliauboms, kunigaikštis Žemaičių už­
     sakė sueimą, į kurį susirinkę sutarė tenai,, kaip ra­
@@ -59,6 +63,7 @@ Daukantas Kuršu vadina Ventspilio, Tukumo ir Ventos žiočių apylinkes, kurios
     gyveno, kiti visi kraštai šios dienos Kuršo vadinos
     Žemgaliais, tai yra Žemaičių galas).
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

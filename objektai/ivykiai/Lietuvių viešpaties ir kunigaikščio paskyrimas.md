@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kunigai Daukanto pasakojime iš savo tarpo pakėlė 60 ar 70 metų senelį kunigaikščiu, o paskirtasis kunigaikštis valdė ūkį ir tautą bei buvo vadinamas viešpačiu.
+Tie kunigai susirinkę pakėlė tarp savęs vieną turintį 60 ar 70 metų senelį kunigaikščiu, kursai ūkę ir visą tautą valdė, vadindamos viešpačiu, ar ba kunigaikščiu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201292"></a>
 - t-001
   global_id: t-201292
-  teiginys: "Kunigai Daukanto pasakojime iš savo tarpo pakėlė 60 ar 70 metų senelį kunigaikščiu, o paskirtasis kunigaikštis valdė ūkį ir tautą bei buvo vadinamas viešpačiu."
+  teiginys: "Tie kunigai susirinkę pakėlė tarp savęs vieną turintį 60 ar 70 metų senelį kunigaikščiu, kursai ūkę ir visą tautą valdė, vadindamos viešpačiu, ar ba kunigaikščiu."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184642
 
 ## Citatos
 
 - id: c-184642
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 92"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 92."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Rėdą, arba tvarka, tų
     kunigų vadinos teokracija, tai yra rėdą tarpinykų
@@ -62,6 +67,7 @@ Nenurodyta
     dariu ir pirmuoju tarpinykų tarp visos tautos ir jos
     dievų.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

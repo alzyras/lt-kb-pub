@@ -32,6 +32,13 @@ media_all_json: |-
 - t-001
   global_id: t-194891
   teiginys: "Į Vakarus nuo dešiniojo 1 Thunmann."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-177287
 
@@ -72,6 +79,7 @@ media_all_json: |-
     kraštą ir pavergė estų tautą“4.
   citata_rodoma: "Į Vakarus nuo dešiniojo\n1 Thunmann. Untersuchungen über die Geschichte einiger nor­\ndischer Völker.\nS. 66*."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

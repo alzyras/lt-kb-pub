@@ -39,6 +39,9 @@ media_all_json: |-
 - t-001
   global_id: t-07857
   teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
     - c-10095
     - c-10096
@@ -58,6 +61,7 @@ media_all_json: |-
     Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo.
   citata_rodoma: "Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,6 +77,7 @@ media_all_json: |-
         gal regėti, jog Žemaičių vyčiai it visi dar lygias tėviškes yra tebturėję.
   citata_rodoma: "Žemaičiuose didžiai vėlai dar yra regimas: kaipogi veizint į reistrą^1177 vyčių, metuose 1528 surašytų,\ngal regėti, jog Žemaičių vyčiai it visi dar lygias tėviškes yra tebturėję."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,6 +94,7 @@ media_all_json: |-
         nes vos penkis, šešis tarnus, arba, kaip šiandien vadina, padonuosius^1179 , teturėjo.
   citata_rodoma: "Kas dar yra didžiau stebuklingesniu, jog ne vien pačių žemlionų, arba vyčių, buvo lygios tėviškės, bet dar ir visų pirmieji\nūkės vyresnieji neturėjo valsčių, kaip kad yra randama paskesnėse gadynėse irstant Lietuvos ūkei^1178 ,\nnes vos penkis, šešis tarnus, arba, kaip šiandien vadina, padonuosius^1179 , teturėjo."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

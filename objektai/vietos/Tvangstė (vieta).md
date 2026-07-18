@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Otokaras prie Tvangstės girios aptiko paupio kalną, ant kurio ketino statyti miestą ir pilį, tačiau po pamatų padėjimo kitąmet grįžo namo.
+Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo.
 
 ## Teiginiai
 
 <a id="claim-t-201177"></a>
 - t-001
   global_id: t-201177
-  teiginys: "Daukanto pasakojime Otokaras prie Tvangstės girios aptiko paupio kalną, ant kurio ketino statyti miestą ir pilį, tačiau po pamatų padėjimo kitąmet grįžo namo."
+  teiginys: "Nuo tenai Otokaras leidos Pragaru pagal žemyn lig girios, Tvangste vadinamos, kur sai, radęs tenai kalną paupy, užsikėto miestą ir pilį pamatuoti, kuriam pamatus padėjęs, ateinantį metą grįžo namo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184527
 
 ## Citatos
 
 - id: c-184527
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 361"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 361."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Meldžionys, nė nuo
     ko nerasdami atsparo, kur užėjo, ten į tyrą vertė,
@@ -60,6 +65,7 @@ Daukanto pasakojime Otokaras prie Tvangstės girios aptiko paupio kalną, ant ku
     vio, tuointimpos veržės per Žemgalius į Žemaičius,
     dykdami visuomet su kryžėjais susinerti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja Honorijų III kaip popiežių, siejusį kryžiaus žygius su ūkės reikalais.
+Popiežius Honorijus III numanė savo amžių ir žinojo, kaip ūkės reikalą su tais kryžiaus žygiais sukergti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201373"></a>
 - t-001
   global_id: t-201373
-  teiginys: "Daukantas vaizduoja Honorijų III kaip popiežių, siejusį kryžiaus žygius su ūkės reikalais."
+  teiginys: "Popiežius Honorijus III numanė savo amžių ir žinojo, kaip ūkės reikalą su tais kryžiaus žygiais sukergti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184723
 
 ## Citatos
 
 - id: c-184723
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 246"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 246."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Kristijonas lūgoja
     pašalpos nuo tų visų, kurie negal kryžium pasiženk-
@@ -73,6 +78,7 @@ Nenurodyta
     amžių ir žinojo, kaip ūkės reikalą su tais kryžiaus
     žygiais sukergti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

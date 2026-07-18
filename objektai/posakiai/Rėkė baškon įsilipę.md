@@ -33,6 +33,13 @@ media_all_json: |-
 - t-001
   global_id: t-80664
   teiginys: "Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 200 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą."
+  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
   pagrindžia:
     - c-77357
 
@@ -83,6 +90,7 @@ media_all_json: |-
     spyną (arba kol baigiasi šoviniai dėtuvėje).
   citata_rodoma: "Šovinys - 7,62x25 mm TT, dėtuvė -\n\n35 šovinių, efektyvaus šūvio nuotolis —\n200 m, šaudymo tempas - 600-900 šūvių\nper minutę, svoris 3,04 kg\n\nLiepsnos\nslopintuvas\n\nVamzdis\n\nGrąžinamoji Spyna Taikiklis Uoksas Kryptukas\n\nspyruoklė\n\nŠovinio lizdas\n\nLipdė laisvę ir lygybę\nft sulūžusių tvorų. ~-\nRėkė \"baškon\" įsilipę,\n\nNuleistuko\nspyruoklė Spynos galinės\n\npadėties fiksatorius\n\nNuleistukas Dėtuvės\nfiksatorius\n\nPistoletinė\nrankena\n\nSpyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis\npakelia į viršų spynos galinės padėties fiksatorių, kuris sustabdo\n\nspyną (arba kol baigiasi šoviniai dėtuvėje)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

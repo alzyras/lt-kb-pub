@@ -40,6 +40,20 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - t-001
   global_id: t-41823
   teiginys: "1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Kuoknesė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kuoknesė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švedijos kariuomenė tiesiogiai nurodyta kaip užėmusi Kuoknesės miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švedijos kariuomenė užėmė Kuoknesė (0.93); Švedijos kariuomenė apgulė Kuoknesės pilis (pilis) (0.92); Lietuviai gynė Kuoknesės pilis (pilis) (0.80)"
+  temporaliniai_duomenys: "įvykio data: 1601 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kuoknesės pilies apsuptį ir įgulos laikyseną."
   pagrindžia:
     - c-45161
 - susijęs iš [[objektai/asmenys/Karina Nilsdotter.md#claim-t-40260|Karina Nilsdotter]]: Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.
@@ -65,6 +79,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     ir šaudmenis.
   citata_rodoma: "Mūšio išvakarėse\n\n1601 m. balandžio 1 d. Švedijos kariuomenė\nšturmu užėmė Kuoknesės miestą ir apsupo\npilį, bet joje esanti lietuvių įgula nepasi-\ndavė."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

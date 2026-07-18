@@ -33,6 +33,20 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
 - t-001
   global_id: t-185269
   teiginys: "Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomiro kraštą."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Liublino kraštas (kraštas): owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino kraštas (kraštas)\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-168630
 
@@ -40,6 +54,13 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
 - t-002
   global_id: t-196709
   teiginys: "Kojelavičiaus pasakojime lietuvių kariaunos, nesutikdamos pasipriešinimo, niokojo Liublino kraštą po bajorijos sutriuškinimo prie Bogucino."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178856
 
@@ -74,6 +95,7 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
     Lešekas Juodasis.
   citata_rodoma: "Boleslovo Droviojo sos-\n(mat priešai dažniausiai pradeda karus, kai prie val­\ndžios stoja naujas valdovas, nes tada patogiausia siek­\nti permainų) užsigeidė karu patikrinti, kaip seksis nau­\njajam lenkų valdovui. Nuniokojęs Liublino žemes, jis\njau siaubė Sandomiro kraštą. Tuo tarpu Krokuvos kaš­\ntelionas Varsas teturėjo labai negausią žygiui pa­\nsirengusią kariauną, bet, gavęs Lešeko įsakymą pulti\npriešą bet kokiomis sąlygomis, nusprendė kautis su\nstipria jo kariuomene atvirame lauke; galimas daiktas,\npasielgė lengvabūdiškai, tačiau paprastiems žmonėms\n(kuriems sprendimas tada geras, kai sėkmingas) atro­\ndė, jog jis elgėsi pakankamai narsiai."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +122,7 @@ Kojelavičiaus pasakojime priešas, nuniokojęs Liublino žemes, siaubė Sandomi
     antpuolių atveju čia pat stovėjo pasirengę padėti lie­
     tuvių ir žemaičių būriai.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

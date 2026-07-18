@@ -47,6 +47,10 @@ Nenurodyta
 - t-001
   global_id: t-194080
   teiginys: 'Vislica viduramžiais buvo viena iš Mažosios Lenkijos bajorų suvažiavimų vietų.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Subjektas išskleistas iš citatos pastabos apie Vislicą, o sakinys susietas su užrašo objektu. Opatovo aprašymas atmestas kaip šalutinė ir nesusijusi pastaba.'
   pagrindžia:
     - c-176693
 
@@ -68,6 +72,7 @@ Nenurodyta
     j šiaurės rytus nuo Krokuvos!; viduramžiais buvo viena iš Mažo­
     sios Lenkijos bajorų suvažiavimų vielų.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

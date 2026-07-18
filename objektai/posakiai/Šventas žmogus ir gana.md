@@ -51,6 +51,10 @@ Trumpa gynybinė vertinimo formulė.
 - t-001
   global_id: t-195444
   teiginys: "Šeimininkė taip apgina elgetą nuo šeimininko pašaipos."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177865
 
@@ -66,6 +70,7 @@ Trumpa gynybinė vertinimo formulė.
     ko šeimininkė.
   citata_rodoma: "— Eik, eik! Ką čia šneki niekus! Šventas žmogus ir gana, — sako šeimininkė."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

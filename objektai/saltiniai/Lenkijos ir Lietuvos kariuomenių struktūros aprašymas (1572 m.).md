@@ -42,6 +42,19 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - t-001
   global_id: t-78858
   teiginys: "Radvilos reidas „paralyžiavo“ Rusijos kariuomenę."
+  atnaujinta: "2026-05-31 11:59"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rusija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Reidas yra karinis veiksmas prieš Rusijos kariuomenę; leidžiamas objektas yra Rusija, todėl ryšys fiksuojamas atsargiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Radvilos puolė Rusija (0.72)"
+  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1572 m.; įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-75986
 
@@ -49,6 +62,20 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 - t-002
   global_id: t-78859
   teiginys: "1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad didesnė Livonijos dalis tapo Lietuvos dalimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Livonija priklausė Lietuva (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė sumaišė kontekstą su nutrūkusia citata."
   pagrindžia:
     - c-75987
 
@@ -73,6 +100,7 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
     Pskovo apgultis užsitęsė iki
     1582 m. sausio, antrajame etape
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,6 +125,7 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
     Gardino vaizdas.
   citata_rodoma: "1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir\nLietuvos kariuomenių struktūrą:\n\n„Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-\ntui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai\nvadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;\n\nGardino vaizdas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

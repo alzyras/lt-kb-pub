@@ -61,10 +61,10 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 ## Citatos
 
 - id: c-174981
@@ -81,6 +81,7 @@ Nenurodyta
     dą, stabtelėjo norėdamas tą rūšį įveisti savo sode.
   citata_rodoma: "Žemaičiuose šventas medis buvo šermukšnis17“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

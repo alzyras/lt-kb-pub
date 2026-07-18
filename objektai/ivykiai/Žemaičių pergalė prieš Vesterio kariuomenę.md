@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime žemaičiai puolė šarvuotus vokiečius, po atkaklios kovos privertė juos bėgti, o retas bėglys pasiekė Rygą.
+Vieni vokyčiai paliko be žibą rindoj savo plieno ir vario šarvose, vildamies, jog žemaičiai, pamatę plienu žirgus ir pačius ap dengtus, nedrįs ant jų pulti, būdami patys viena meškena prisidengę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201305"></a>
 - t-001
   global_id: t-201305
-  teiginys: "Daukanto pasakojime žemaičiai puolė šarvuotus vokiečius, po atkaklios kovos privertė juos bėgti, o retas bėglys pasiekė Rygą."
+  teiginys: "Vieni vokyčiai paliko be žibą rindoj savo plieno ir vario šarvose, vildamies, jog žemaičiai, pamatę plienu žirgus ir pačius ap dengtus, nedrįs ant jų pulti, būdami patys viena meškena prisidengę."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184655
 
 ## Citatos
 
 - id: c-184655
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 210"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 210."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Vieni vokyčiai paliko be­
     žibą rindoj savo plieno ir vario šarvose, vildamies,
@@ -72,6 +77,7 @@ Nenurodyta
     į Dievo valią atsiduoti ir su vienais perkrikštais te-
     bendrautis.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

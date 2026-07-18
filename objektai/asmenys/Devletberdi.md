@@ -33,6 +33,17 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - t-001
   global_id: t-35047
   teiginys: "Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Krymas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Devletberdi: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Devletberdi įsigalėjo Kryme, todėl ryšys su valdymu pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Devletberdi valdė Krymas (0.82)"
   pagrindžia:
     - c-37998
 
@@ -53,6 +64,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     o kai kurie net etnografinėje Lietuvoje.
   citata_rodoma: "Taip pat buvo jam\npaklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs\nchanas Devletberdi, vėliau Machmeto nužudytas.\nBe šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam\npriklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,\no kai kurie net etnografinėje Lietuvoje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

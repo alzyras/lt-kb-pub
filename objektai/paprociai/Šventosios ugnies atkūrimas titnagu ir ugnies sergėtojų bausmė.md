@@ -49,6 +49,11 @@ Nenurodyta
 - t-001
   global_id: t-189954
   teiginys: 'Narbutas aprašo, kad užgesus šventajai ugniai žyniai ją išskeldavo iš Perkūno stabo laikyto titnago ir sudegindavo ugnies sergėtojus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Sakinys perrašytas su aiškiu įvykiu, veikėjais ir bausme, pašalinant puslapio triukšmą. Religinis pasakojimas paliktas su Narbuto atribucija.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-172837
 
@@ -72,6 +77,7 @@ Nenurodyta
     ginę nerūpestingus ugnies sergėtojus, dėl kurių apsileidimo
     tai nutiko35.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,6 +45,24 @@ Nenurodyta
 - t-001
   global_id: t-191020
   teiginys: "Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Milanas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Milanas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Teodorikas užėmė Milaną."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m (0.70)"
+  temporaliniai_duomenys: "įvykio data: 489 m; mūšio data: 489 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodorikas užėmė Milanas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Teodorikas užėmė Pavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Spėjama priežastis palikta su atribucija, nes citatoje vartojama abejonė. Nepridėta platesnio kampanijos konteksto už nurodytus miestus ir rezultatą."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
     - c-173902
 
@@ -62,6 +80,7 @@ Nenurodyta
     užėmė Milaną ir Paviją, peržiemojo šiuose miestuose,
     ruošdamasis kitai kampanijai. Visa tai įvyko 489 metais.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

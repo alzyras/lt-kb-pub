@@ -45,6 +45,16 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-001
   global_id: t-113626
   teiginys: "Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Pomeranai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gurguolė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Pomeranai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gurguolė\" parinktas kaip owner_note_path. Targetas \"Pomeranai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-104823
 
@@ -52,6 +62,16 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-002
   global_id: t-113627
   teiginys: "Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dobrogostas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gurguolė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Dobrogostas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gurguolė\" parinktas kaip owner_note_path. Targetas \"Dobrogostas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-104824
 
@@ -59,6 +79,16 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-003
   global_id: t-113628
   teiginys: "Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu."
+  atnaujinta: "2026-05-31 12:52"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Arbaletai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gurguolė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Arbaletai: mention_match, thing, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gurguolė\" parinktas kaip owner_note_path. Targetas \"Arbaletai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-104822
 
@@ -66,6 +96,21 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-004
   global_id: t-184613
   teiginys: "Prie Liubavos Sūduvos prūsai ir jiems į pagalbą atėję žemaičiai, kryžiuočių puolami, pabėgo ir paliko stovyklą bei gurguoles."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Sūduvos prūsai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sūduvos prūsai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad Sūduvos prūsai pabėgo nuo kryžiuočių puolimo, todėl kryžiuočiai yra puolimo subjektas; objektas apima ir žemaičius, bet leidžiamas kandidatas yra Sūduvos prūsai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Sūduvos prūsai (0.78)"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167974
 
@@ -73,6 +118,22 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-005
   global_id: t-184615
   teiginys: "1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuviai: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija lenkų būrį kaip puolėją, o lietuvių ariergardą kaip puolimo objektą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1301 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir nutrūkęs sakinio galas."
   pagrindžia:
     - c-167976
 
@@ -80,6 +141,19 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-006
   global_id: t-184616
   teiginys: "Kęstutis ir Algirdas įsakė kariams trauktis rikiuotėje, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "gurguolė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gurguolė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-167977
 
@@ -87,6 +161,13 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-007
   global_id: t-193378
   teiginys: "Pasak Kojelavičiaus, metę gurguoles bėgliai būtų galėję lengviau pasprukti į tėvynę, nes jų raitija buvo lengvesnė ir eiklesnė."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176103
 
@@ -94,6 +175,13 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-008
   global_id: t-196371
   teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai ir žemaičiai prie Liubavos pabėgo nuo kryžiuočių puolimo, palikdami stovyklą ir gurguoles."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167974
 
@@ -101,6 +189,13 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-009
   global_id: t-196372
   teiginys: "Lenkų būrys pasivijo besitraukiančius lietuvius ir užpuolė ariergardą, o lietuvių gurguolės tuo metu buvo nuvarytos į priekį."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167976
 
@@ -108,6 +203,13 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-010
   global_id: t-196373
   teiginys: "Kęstutis ir Algirdas įsakė kariams rikiuotėje trauktis nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-167977
 
@@ -115,6 +217,13 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
 - t-011
   global_id: t-196374
   teiginys: "Jono Olbrachto kariuomenei prie Savranės upės kovojant su skitais, nedidelio būrio saugomos gurguolės lėtai slinko iš paskos."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-178651
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
@@ -145,6 +254,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,6 +280,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     10 žirgų, kurie krito perverti priešo iečių.
   citata_rodoma: "Tuo metu, kai šitai dėjosi, Sventopelkas\nsutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui\natsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo\nbrolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,\nšitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė\ndvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė\nšiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę\nteutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė\ngabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30\nvyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant\nkoks bailys pamatęs daugybę nukautųjų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,6 +316,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
     šv.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,6 +353,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     richas.
   citata_rodoma: "Nusiaubę Kulmo kraš­\ntą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­\ngalbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­\nsomis jėgomis ėmus juos pulti, neišdrįso atvirai pra­\ndėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir \ngurguoles, išsislapstė artimiausiuose miškuose. Kry­\nžiuočių riteriai, džiaugdamie­\nsi nekruvina pergale, tuojau \npat be jokios tvarkos išsi­\nsklaidė grobio ieškoti ir sto­\nvyklos plėšti; jie puolė, ne­\npasirūpinę saugumu, vytis paskutiniųjų priešo būrių \nir apskritai elgėsi, nelyginant bet koks pavojus būtų \npraėjęs. Kai prūsai ir žemaičiai, kurie pabėgę slapstė­\nsi netoli stovyklos brūzgynuose, tykodami progos su­\nrengti pasalas, iš žvalgų sužinojo, jog priešas, jausda­\nmasis išvargęs po žygio ir saugus po pergalės, plėši­\nkauja visiškai nesirūpindamas apsauga, tai, kariškai \nstaiga susirikiavę, iššoko iš miškų ir užpuolė grobio \nieškotojus, juos žudydami."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -282,6 +395,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     nerimą.
   citata_rodoma: "Greitosiomis sutelktas len­\nkų būrys pasivijo besitrau- \n1301 m e ta i \nkiančius lietuvius ir, tikėda­\nmasis atsiimti grobį, smarkiai \nužpuolė ariergardą, nedelsdamas nė valandėlės; ka­\ndangi ten susidūrė su geriausiais kariuomenės daliniais, \no visos gurguolės buvo nuvarytos į priekį, jie nedrįso \nbandyti laimės tikrose kautynėse ir davė trimitu ženk­\nlą trauktis. Lengva sėkmė sužadino troškimą dar dau­\ngiau pasiplėšti, šį jausmą kareiviams visada sunku su­\ntramdyti, o ypač po sėkmingo žygio. Kadangi į Kulmo\nkraštą negalima buvo per- \nN io k o ja K u lm o kraš- \nkelti visos kariuomenės, to\ntą, k u r su m u ša m i \nžygio ėmėsi kunigaikščių pa­\nraginti ryžtingiausi ir nar­\nsiausi raiteliai."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -315,6 +429,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     toliau žygiuoti.
   citata_rodoma: "Kovos lauke krito tūkstan­\ntis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo­\njant paprastų karių) dvidešimt šešių kilmingųjų ordi­\nno riterių bei paties vado — ordino magistro Henriko; \nkadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi­\ndurdienio nebuvo aišku, katron pusėn krypsta sėkmė. \nGal ir buvo pamato tikėtis pergalės, tačiau Kęstutis \nbei Algirdas nenorėjo puoselėti abejotinų vilčių: abu \ngerokai nuogąstavo, kad jų kariuomenė, ne tokia gau­\nsi ir ne taip gerai ginkluota (be to, smarkiai kovų iš­\nsekinta), ilgainiui neprarastų drąsos ir nepasileistų \nbėgti. Todėl, kol dar karių drąsa rodėsi nepalaužta, jie \nįsakė trimituoti po visą kovos lauką, duodami ka­\nriams ženklą trauktis kovos rikiuotėje bei nesuirusioms \ngretoms atitrūkti nuo priešo, susirinkti prie gurguolių \nir žygiuoti prie artimiausio miško."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -348,6 +463,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     ir išsirikiavo kaip begalėdami miške kautynėms.
   citata_rodoma: "Antra vertus, stovykla, pilna grobio,\nL enkai rengiasi p u lti\nlie tu v iu s\nmą dievo malone\n(didžiai\ndrąsinančia ir stiprinančia),\njis įsakė prieš mūšį kiekvie­\nnam — kaip\ndera krikščio-\n155\n\n## Puslapis 154\n\nbelaisvių ir paliegėlių, neleido taip greitai trauktis,\nkad galima būtų per kelias valandas atsiplėšti nuo\nspaudžiančio priešo. Jeigu, metę gurguoles, leistųsi\nnetrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų\nir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė,\nir dėl to, kad lenkams, užgrobusiems stovyklą ir pa-\nėmusiems visą grobį, nebūtų buvę saugu miškais vy­\ntis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­\nbės akivaizdoje, juos prislėgė ne tiek skausmas, kad\npraras grobį, kiek baimė ir gėda prieš savo krašto\nžmones."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -382,6 +498,7 @@ Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išd
     buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
     skitai iš tolo juos apšaudė strėlėmis.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

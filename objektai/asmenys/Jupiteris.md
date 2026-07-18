@@ -32,6 +32,21 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 - t-001
   global_id: t-191424
   teiginys: "Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane."
+  atnaujinta: "2026-07-12 22:34"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "mire -> Eridanas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Fajetonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Eridanas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nuskendimas Eridane tiesiogiai leidžia sieti Fajetono mirties vietą su Eridanu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Fajetonas mirė Eridanas (0.80)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
     - c-174306
 - susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191327|Targitas]]: Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius.
@@ -55,6 +70,7 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
     sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
     lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

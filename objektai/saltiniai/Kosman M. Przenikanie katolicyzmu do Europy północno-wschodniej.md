@@ -38,6 +38,12 @@ Dusburgietis teigia, kad kosman M.
 - t-001
   global_id: t-61103
   teiginys: "M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą."
   pagrindžia:
     - c-61735
 
@@ -51,6 +57,7 @@ Dusburgietis teigia, kad kosman M.
     Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 107—132.
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

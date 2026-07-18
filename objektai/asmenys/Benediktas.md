@@ -41,6 +41,20 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 - t-001
   global_id: t-35034
   teiginys: "1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Haličas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Haličas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė Vytautą su kariuomene į misiją dėl Haličo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Haličas (0.90); Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Benediktas (0.74)"
+  temporaliniai_duomenys: "įvykio data: 1387 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo, kad Jogaila pasiuntė Vytautą su kariuomene, todėl reikia patikslinti veikėją."
   pagrindžia:
     - c-37988
 - susijęs iš [[objektai/grupes/Švento Benedikto ordinas.md#claim-t-59047|Švento Benedikto ordinas]]: Švento Benedikto ordinas pradėjo veikti 500 m. popiežiaus Felikso III laikais.
@@ -71,6 +85,7 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
     reikšmingas.
   citata_rodoma: "Ypatingą jam mi­\nsiją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene\natimti Haličą iš Vengrijos kašteliono Benedikto. Žygis buvo\nreikšmingas."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

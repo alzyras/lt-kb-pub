@@ -54,9 +54,13 @@ Nenurodyta
 - t-001
   global_id: t-195330
   teiginys: "Bravarėlis minimas kaip degtinės varymo vieta ir įrenginys."
+  atnaujinta: "2026-07-12 01:47"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
-    - c-177723
     - c-177724
+    - c-177723
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -79,6 +83,7 @@ Nenurodyta
     kelių.
   citata_rodoma: "Kiekvienas dvarponis turėjo savo bravarą,\nkiekvienas turėjo pristatęs gertuvių kaimuose, prie vieškelių ir kryž­\nkelių."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,6 +103,7 @@ Nenurodyta
     lugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę.
   citata_rodoma: "Senų žmonių pasakojimu, į tokį bravarėlį atveždavo žmogus sumaltos\nlugių salyklos, ir iš to bravarninkas turėjo išvaryti degtinę."
   statusas: verified
+  atnaujinta: "2026-07-12 01:47"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,6 +51,7 @@ Nenurodyta
     iškentėjo.
   citata_rodoma: "Dėda­\nmasis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų \nbei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į \nakį pranešti Glinskiui karaliaus valią. Pakelėje suimtas\nir siaubingai kankinamas, jis \nP u ik u s ištv e r m ė s p a - \nnieko nepasakė ir neišdavė \nv y z d y s \nkaraliaus jam patikėtos pas­\nlapties. Baisu ir pagalvoti, \nkaip jis buvo maitojamas: pririštą prie iešmo, degino \nlėta ugnimi, grąžtais gręžė kiaušą bei nagus."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

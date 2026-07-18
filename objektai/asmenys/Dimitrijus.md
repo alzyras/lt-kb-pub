@@ -35,6 +35,21 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - t-001
   global_id: t-186105
   teiginys: "Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė temniką Mamajų ir, pasak autoriaus, atsikratė totorių jungo."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dimitrijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dimitrijus tiesiogiai vadinamas Maskvos kunigaikščiu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Dimitrijus buvo valdovas Maskva (0.86); Dimitrijus kariavo prieš Totoriai (0.86)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
   pagrindžia:
     - c-169466
 
@@ -42,6 +57,19 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - t-002
   global_id: t-186106
   teiginys: "Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Akademijos teatro įranga: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dimitrijus: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Akademijos teatro įranga: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitrijus\" parinktas kaip owner_note_path. Targetas \"Akademijos teatro įranga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169467
 
@@ -49,6 +77,13 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
 - t-003
   global_id: t-193905
   teiginys: "Lietuvos metraščio pasakojime Kijevo didysis kunigaikštis Dimitrijus po Batu antpuolio užėmė Drucko žemę, pastatydino Drucko miestą ir pasivadino Drucko didžiuoju kunigaikščiu."
+  atnaujinta: "2026-07-12 22:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
     - c-176530
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
@@ -84,6 +119,7 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
     mis.
   citata_rodoma: "Mask­\nvos kunigaikštis Dimitrijus Šemiaka sumušė tuo metu\nvyriausiąjį totorių valdovą Europoje ir Azijoje tem-\nniką Mama jų taip žiauriai, jog, pasak metraščių, per\ntrylika gališkųjų mylių gulėjo šalia vienas kito už­\nmuštųjų lavonai. Taigi Dimitrijus, atsikratęs totorių\njungo (ištisą šimtą penkiasdešimt metų jį vilko rusai,\nturėję pakęsti ir Krymo valdžią ir valdovus), pradėjo\npuoselėti didesnius sumanymus, ketindamas paimti val­\ndžią visoje Rusioje: jis svajojo ir vylėsi užimsiąs Se-\nverską, Volynę, Kijevą, Vitebską, Polocką ir visas ki­\ntas buvusias Rusios žemes, dabar valdomas lietuvių.\nAlgirdas gyveno Vitebske, kai atvyko Maskvos žygū­\nnas."
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,6 +151,7 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
   citata_rodoma: "Dimitrijus sumokėsiąs ka­\nreiviams algą, o vadui — karo išlaidas. Abiejų tautų\npriesaika turinti sustiprinti amžinąją taiką. Kai, sutik­\ndami su šitokiomis sąlygomis;\nprisiekė valdovas Dimitrijus,\nvyriausiasis šventikas, žmo­\nnių vadinamas metropolitu,\nviečė ir žymiausieji bajorai,\nAlgirdas,\ntą\npačią\ndieną\nįžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­\nvanojo kunigaikštį, kariškai jį pasveikinęs prie pačių\naltorių (,,Tad jau supratai, Dimitrijau, katras iš mu­\ndviejų greičiau pakyla į karą\"), velykiniu kiaušiniu."
   statusas: verified
+  atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,6 +178,7 @@ Kojelavičiaus Maskvos kunigaikščiu vadinamas Dimitrijus Šemiaka sumušė tem
     nigaikščiu s.
   citata_rodoma: "Bevaldant Mantvilai, iškilo chanas Batu2 ; ir užpuo­\nlė jis Rusų žemę, ir visą Rusų žemę užkariavo3 , ir daug \nrusų kunigaikščių iškapojo, kitus parsivedė nelaisvėn, \no visos Rusų žemės sostinę, Kijevo miestą, pavertė de­\ngėsiais L  Kijevo didysis kunigaikštis Dimitrijus5 , išsi­\ngandęs jo didelės jėgos ir galybės, pabėgo iš Kijevo \nį Černigovo miestą6  ir paskui sužinojo, kad Kijevo \nmiestas sudegintas ir visa Rusų žemė nusiaubta. Ir iš­\ngirdo, kad esama žmonių — mužikų, gyvenančių be \nvaldovo, besivadinančių druckiečiais. Ir jis sušaukė ka­\nrius, nuvyko j Drucką, paėmė Drucko žemę, pastatydi­\nno Drucko miestą ir pasivadino Drucko didžiuoju ku­\nnigaikščiu s."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,6 +48,13 @@ Nenurodyta
 - t-001
   global_id: t-194804
   teiginys: "Galva papuošta kažkokia spinduliuojančia diadema; ant pečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas, griežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai ko kažką panašaus į skeptrą, dešiniojoje - lyg Jupiterio deglą, fulgur."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-177200
 
@@ -92,6 +99,7 @@ Nenurodyta
     ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
   citata_rodoma: "Manyta, kad tai\nsenųjų pilies savininkų herbas. Moteris apsirengusi romėniš­\nka tunika, susijuosusi diržu, nuo pečių krenta platus apsiaus­\ntas. Galva papuošta kažkokia spinduliuojančia diadema; ant\npečių krinta ilgi plaukai, ties kakta perskirti; veidas pailgas,\ngriežtas, nebejaunas, rankos praskėstos; kairiojoje rankoje lai­\nko kažką panašaus į skeptrą, dešiniojoje -  lyg Jupiterio deglą,\nfulgur."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

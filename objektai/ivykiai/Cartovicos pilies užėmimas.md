@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Kryžiuočių maršalka Bernheimas užėmė Cartovicos pilį, iškirto ginkluotus gynėjus ir joje paliko savo įgulą.
+Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201317"></a>
 - t-001
   global_id: t-201317
-  teiginys: "Kryžiuočių maršalka Bernheimas užėmė Cartovicos pilį, iškirto ginkluotus gynėjus ir joje paliko savo įgulą."
+  teiginys: "Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184667
 
 ## Citatos
 
 - id: c-184667
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 314"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 314."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tame širdgile marčelga, zokano, nujautęs pilė j Car-
     tovicos silpną įgulę tesant, sutarė ją antpulti, vil­
@@ -63,6 +68,7 @@ Nenurodyta
     kurių pačią galvą šv. Barboros, sidabru aptaisytą,
     į Kulmiją parvirdė.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

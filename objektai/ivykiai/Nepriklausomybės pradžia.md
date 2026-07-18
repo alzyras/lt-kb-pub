@@ -64,6 +64,18 @@ Nenurodyta
 - t-001
   global_id: t-31461
   teiginys: "1918 metai ilgai buvo laikomi viena kertinių politiškai svarbių Lietuvos istorijos datų kaip nepriklausomybės pradžia."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nepriklausomybės pradžia: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nepriklausomybės pradžia\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1385-1387; įvykio data: 1387 m.; įvykio data: 1569-1572; įvykio data: 1572 m.; įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-33420
 
@@ -89,6 +101,7 @@ Nenurodyta
     paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
   citata_rodoma: "Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją\nir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai\nSvarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų\nplotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,\nLietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių\n[Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos\npaskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

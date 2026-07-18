@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas vaizduoja, kad gudų ir meldžionių religinio spaudimo metu persikrikštijusieji buvo persekiojami ir baudžiami, nes negalėjo išpažinti abiejų tikybų.
+Taip skendo ašarose ir kraujuose tūkstantės nekaltų vargdienių dėl to vien, jog negalėjo dviejų tikybų vienkartu išpažinti1 2.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201378"></a>
 - t-001
   global_id: t-201378
-  teiginys: "Daukantas vaizduoja, kad gudų ir meldžionių religinio spaudimo metu persikrikštijusieji buvo persekiojami ir baudžiami, nes negalėjo išpažinti abiejų tikybų."
+  teiginys: "Taip skendo ašarose ir kraujuose tūkstantės nekaltų vargdienių dėl to vien, jog negalėjo dviejų tikybų vienkartu išpažinti1 2."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184728
 
 ## Citatos
 
 - id: c-184728
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 226"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 226."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Ant to gudai kuo di­
     desniai įbingę augusius iškirto, o žmonas ir kūdikius
@@ -64,6 +69,7 @@ Nenurodyta
     vargdienių dėl to vien, jog negalėjo dviejų tikybų
     vienkartu išpažinti1 2.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

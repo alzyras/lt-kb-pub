@@ -66,6 +66,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-001
   global_id: t-05469
   teiginys: "Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05598
 
@@ -73,6 +83,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-002
   global_id: t-05470
   teiginys: "Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05599
 
@@ -80,6 +100,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-003
   global_id: t-05471
   teiginys: "Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-05599
 
@@ -87,6 +117,18 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-004
   global_id: t-05472
   teiginys: "Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1572 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-05600
 
@@ -94,6 +136,19 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-005
   global_id: t-05473
   teiginys: "Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą."
+  atnaujinta: "2026-06-13 17:10"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: po 1572 m.; įvykio data: 1572 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia valstybingumo idėjos vaidmenį periodizacijos pagrinde."
   pagrindžia:
     - c-05600
 
@@ -101,6 +156,18 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - t-006
   global_id: t-05474
   teiginys: "Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-05601
 - susijęs iš [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija.md#claim-t-32811|valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]: Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais.
@@ -124,6 +191,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
   citata_rodoma: "Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-\nties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-\nmenį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų\npadėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-\nbingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą\nidealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų\nbuvo suklota ir vis tebekovojama laisvame pasaulyje."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,6 +212,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
   citata_rodoma: "Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos\nribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-\nčius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_\nlietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo\nir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo\nvedamoji mintis per visus šimtmečius. Ji paryškinta politinio,\nreliginio, kultūrinio bei ūkinio gyvenimo faktais."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,6 +235,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     atstatymas tautinės valstybės (1918).
   citata_rodoma: "Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,\nkurios pagrindan yra dedama lietuvių tautos valstybingumo\nidėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­\nprėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir\natstatymas tautinės valstybės (1918)."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,6 +255,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     centuoja, ypač iki 1569 m. (1572), Lietuvos ir Lenkijos santy­
     kiavimą. O naujaisiais laikais jai terūpi valstybingumo idėja.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

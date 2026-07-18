@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas perteikė to meto rašytojų pasakojimą, kad iš dangaus nusileidusi balta vėliava per kruviną mūšį sustiprino danus ir padėjo jiems pralaužti priešų rikiuotę.
+Pasakoja tų laikų rašytojai, jog danams, arba saulėlydiniams žuvėdams, vienoj kru vinoj ir maringoj mūšoj būk iš dangaus balta vė liava nusileidusi, kuriuo ženklu pastiprinti danai per laužę rindą netikėlių.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -44,16 +44,21 @@ Nenurodyta
 <a id="claim-t-201364"></a>
 - t-001
   global_id: t-201364
-  teiginys: "Daukantas perteikė to meto rašytojų pasakojimą, kad iš dangaus nusileidusi balta vėliava per kruviną mūšį sustiprino danus ir padėjo jiems pralaužti priešų rikiuotę."
+  teiginys: "Pasakoja tų laikų rašytojai, jog danams, arba saulėlydiniams žuvėdams, vienoj kru vinoj ir maringoj mūšoj būk iš dangaus balta vė liava nusileidusi, kuriuo ženklu pastiprinti danai per laužę rindą netikėlių."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184714
 
 ## Citatos
 
 - id: c-184714
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 230"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 230."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Albertas pats nestengsiąs su meldžionimis
     nei netikėlių sudrausti, nei gudų ištremti iš Padau-
@@ -71,6 +76,7 @@ Nenurodyta
     laužę rindą netikėlių. Kad taip Valdemaras toj pu-
     1 A r n d t s Liefland.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

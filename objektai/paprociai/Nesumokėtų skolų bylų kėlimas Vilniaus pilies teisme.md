@@ -67,6 +67,20 @@ Nenurodyta
 - t-001
   global_id: t-200621
   teiginys: "1750 m. nesumokėtos skolos byla prieš Mykolą Kazimierą Sapiegą buvo keliama Vilniaus pilies teisme."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::customs"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nesumokėtų skolų bylų kėlimas Vilniaus pilies teisme\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1750 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos informacija apie kaltinimą dėl nesumokėtos skolos. Tarnas ir jo vertinimas sąmoningai neįtraukti."
   pagrindžia:
     - c-184006
 
@@ -86,6 +100,7 @@ Nenurodyta
     niaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį M. K. Sapiegą [11].
   citata_rodoma: "Laiškuose buvo paminėti ir kiti Vilniuje vykę teismai. 1750 m. jis rašė, kad neįvardintas\nponas Mstislavlio vaivados [greičiausiai Jurgio Felicijono Sapiegos] tarnas buvo toks nedis-\nkretiškas, kad Vilniaus pilies teisme pateikė kaltinimą dėl nesumokėtos skolos prieš patį\nM. K. Sapiegą [11]."
   statusas: verified
+  atnaujinta: "2026-07-14 07:43"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

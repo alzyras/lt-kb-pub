@@ -1,12 +1,8 @@
 ---
 tipas: ivykis
-pavadinimas: 'Polocko pilies apgultis ir mūšis (mūšis)'
+pavadinimas: 'Polocko pilies apgultis ir mūšis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Polocko pilies apgultis ir mūšis'
-aliases:
-  - 'Polocko pilies apgultis ir mūšis'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -22,11 +18,11 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Polocko pilies apgultis ir mūšis (mūšis)
+# Polocko pilies apgultis ir mūšis
 
 ## Santrauka
 
-Mintautas, sutelkęs didelę lietuvių ir žemaičių kariuomenę, apgulė Polocko pilį, kurią gynė kalavijuočiai kartu su gudais. Daukanto pasakojime Aleksandrui Nevskiui atėjus į pagalbą Polockui, lietuviai paliko pilies puolimą ir septynias dienas kovėsi Polocko laukuose.
+Tą matydamas, Mintautas norėjo juos iki nesusinėrus nukariauti, todėl, kuo veikesniai sukėlęs di džią kariauną lietuvių ir žemaičių, visų pirma ap gulė Polocko pilį, kurią kalavijonys su gudais su sinėrę gyniojo. Kaipogi susirėmusios šalys laukuose Polocko per 7 dienas pjovęs, ne mušės, iki paskuojo, vienok aštuntąją perlaužę gudai su didžiu vargu rindą lietuvių nebnusimanė patys kaip žaimotis iš paimtųjų lietuvių ir žemaičių: kaipogi įraišioję gy vus į arklių uodegas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -45,23 +41,34 @@ Nenurodyta
 <a id="claim-t-201300"></a>
 - t-001
   global_id: t-201300
-  teiginys: "Mintautas, sutelkęs didelę lietuvių ir žemaičių kariuomenę, apgulė Polocko pilį, kurią gynė kalavijuočiai kartu su gudais."
+  teiginys: "Tą matydamas, Mintautas norėjo juos iki nesusinėrus nukariauti, todėl, kuo veikesniai sukėlęs di džią kariauną lietuvių ir žemaičių, visų pirma ap gulė Polocko pilį, kurią kalavijonys su gudais su sinėrę gyniojo."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184650
 
 <a id="claim-t-201301"></a>
 - t-002
   global_id: t-201301
-  teiginys: "Daukanto pasakojime Aleksandrui Nevskiui atėjus į pagalbą Polockui, lietuviai paliko pilies puolimą ir septynias dienas kovėsi Polocko laukuose."
+  teiginys: "Kaipogi susirėmusios šalys laukuose Polocko per 7 dienas pjovęs, ne mušės, iki paskuojo, vienok aštuntąją perlaužę gudai su didžiu vargu rindą lietuvių nebnusimanė patys kaip žaimotis iš paimtųjų lietuvių ir žemaičių: kaipogi įraišioję gy vus į arklių uodegas."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184651
 
 ## Citatos
 
 - id: c-184650
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 302"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tą matydamas, Mintautas norėjo juos iki nesusi-
     nėrus nukariauti, todėl, kuo veikesniai sukėlęs di­
@@ -76,6 +83,7 @@ Nenurodyta
     į miestą drėbė ir, taranais mūrus griaudami, gau­
     jas kalavijonų ir gudų irose laidojo.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,9 +91,8 @@ Nenurodyta
     - t-201300
 
 - id: c-184651
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 302"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 302."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Jau buvo lie­
     tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Nau-
@@ -100,6 +107,7 @@ Nenurodyta
     vus į arklių uodegas tąsiojo po laukus, apmaudą
     ant jų gieždami.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

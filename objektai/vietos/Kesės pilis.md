@@ -1,12 +1,8 @@
 ---
 tipas: vieta
-pavadinimas: 'Kesės pilis (pilis)'
+pavadinimas: 'Kesės pilis'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
-variantai:
-  - 'Kesės pilis'
-aliases:
-  - 'Kesės pilis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +22,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 ---
-# Kesės pilis (pilis)
+# Kesės pilis
 
 ## Santrauka
 
@@ -37,16 +33,21 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
 <a id="claim-t-201168"></a>
 - t-001
   global_id: t-201168
-  teiginys: "Danielius, pakrikštijęs žmones Turaidoje ir Dabrelio pilyje, nuėjo į Kesės pilį krikštyti."
+  teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184518
 
 ## Citatos
 
 - id: c-184518
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 200"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 200."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Tas patsai Danielius nusisuko į
     Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri­
@@ -59,6 +60,7 @@ md]] - vietasaltinyje: match: normalizedwhitespace - santrauka: Žemaičių kra�
     patartų, netaikose teisybę darytų ir nuo abydų juos
     gintų pagal jų ūkės būdą.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

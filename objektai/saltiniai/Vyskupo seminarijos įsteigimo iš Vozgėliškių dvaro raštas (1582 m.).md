@@ -38,6 +38,19 @@ media_all_json: |-
 - t-001
   global_id: t-88113
   teiginys: "1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Steponas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Steponas: mention_match, person, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.)\" parinktas kaip owner_note_path. Targetas \"Steponas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1582 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškų prašymą dėl Vilniaus seminarijos globos."
   pagrindžia:
     - c-84092
 
@@ -45,6 +58,16 @@ media_all_json: |-
 - t-002
   global_id: t-88114
   teiginys: "Vyskupo seminarijos įsteigimo iš Vozgėliškėmis vadinamo vyskupų stalo dvaro raštas datuojamas 1582 metais."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubrovna: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Dubrovna: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.)\" parinktas kaip owner_note_path. Targetas \"Dubrovna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-84093
 
@@ -66,6 +89,7 @@ media_all_json: |-
     raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų
     valdymu, be jų pritarimo nedarytų.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,6 +134,7 @@ media_all_json: |-
     In Ckristi nomine Amen.
   citata_rodoma: "— • —\n423\n\n## Puslapis 440\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nDievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­\ntuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio \ntryliktą dieną.\n(pasirašyta) Stephanus Rex\n[Karalius Steponas]\n(prikabintas antspaudas) Jonas Hlebavičius\n- Dubrovnoje Minsko\nkaštelionas, krašto \npaiždininkis ir raštininkas\n424\n\n## Puslapis 441\n\nIV KNYGA\nVYSKUPO SEMINARIJOS JSTEIGIMAS \nIŠ VYSKUPŲ STALO DVARO, \nVADINAMO VOZGĖLIŠKĖMIS\n1582 METAI\n(Kapitulos archyvas)\n\n## Puslapis 442\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIn Ckristi nomine Amen."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

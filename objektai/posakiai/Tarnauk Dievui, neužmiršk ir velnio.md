@@ -51,6 +51,10 @@ Savarankiškas prisitaikymo ir atsargumo posakis.
 - t-001
   global_id: t-195439
   teiginys: "Savarankiškai užrašytas posakis apie tarnavimą Dievui ir velnio neužmiršimą."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177860
 
@@ -67,6 +71,7 @@ Savarankiškas prisitaikymo ir atsargumo posakis.
     velnio“ .
   citata_rodoma: "Geriau: „Tarnauk Dievui, neužmiršk ir velnio“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

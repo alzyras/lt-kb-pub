@@ -52,6 +52,20 @@ Nenurodyta
 - t-001
   global_id: t-185823
   teiginys: "Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Veliuona: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "„Paėmė“ tiesiogiai atitinka užėmimo santykį su Veliuona."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Veliuona (0.83); Kryžiuočių ordinas užėmė Pieštvė (0.76)"
   pagrindžia:
     - c-169184
 
@@ -59,6 +73,13 @@ Nenurodyta
 - t-002
   global_id: t-196241
   teiginys: "Tame pačiame žygyje kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvė pasidavė be kovos, o Veliuona paimta po keturių dienų apgulties."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-169184
 
@@ -92,6 +113,7 @@ Nenurodyta
     žemės ar iš viso nebuvo kam ją dirbti.
   citata_rodoma: "Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­\ntučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami \ndidelę šventę,, kitą dieną kryžiuočiai praleido ramiai, \ntačiau trečią dieną iki pat pamatų sugriovė kur ne \nkur tarp sudegintos pilies išlikusius gynybinius įren­\nginius: išvertė sienų likučius, nukasė pylimus, išlygino \ngriovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­\nnos pilis: pirmąją išsigandę gynėjai atidavė be kovos, \nantrąją paėmė po keturias dienas užtrukusios apgul- \nties."
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

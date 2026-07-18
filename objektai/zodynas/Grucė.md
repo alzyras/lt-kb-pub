@@ -57,6 +57,10 @@ Terminas vartojamas aprašant gaminimą ir sudėtį.
 - t-001
   global_id: t-195468
   teiginys: "Grucė šiame šaltinyje gaminama iš džiovintų ir grūstų miežių."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177889
 
@@ -75,6 +79,7 @@ Terminas vartojamas aprašant gaminimą ir sudėtį.
     toje, kad nusivalytų grūdams ašakos.
   citata_rodoma: "Padaryti grucei ima džiovintų krosnyje miežių ir grūda pies­\ntoje, kad nusivalytų grūdams ašakos"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

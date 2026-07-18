@@ -56,6 +56,10 @@ Terminas vartojamas jaujos ir javų vėtymo darbo kontekste.
 - t-001
   global_id: t-195462
   teiginys: "Krūva šiame šaltinyje reiškia iškultus ir į vieną vietą sustumtus javus."
+  atnaujinta: "2026-07-12 03:27"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177883
 
@@ -82,6 +86,7 @@ Terminas vartojamas jaujos ir javų vėtymo darbo kontekste.
     stumti į daiktą javai vadinasi „krūva“).
   citata_rodoma: "Po pusryčių \ntuojau \nseka tiesus ir neišvengiamas \nšeimininko darbas —- kūrenti jaują ir išvėtyti krūvą (iškulti \nir su­\nstumti į daiktą javai vadinasi „krūva"
   statusas: verified
+  atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

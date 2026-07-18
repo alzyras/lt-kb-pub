@@ -41,6 +41,21 @@ media_all_json: |-
 - t-001
   global_id: t-200656
   teiginys: "1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasiderėti dėl brolio interesų."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus seimelio pavadinimas tiesiogiai sieja seimelį su Vilniumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1752 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Lopacinskio subjektas ir seimelio funkcija jo laiške. Brolio vardas nepridėtas, nes citata jo nepateikia."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-184021
 
@@ -48,6 +63,21 @@ media_all_json: |-
 - t-002
   global_id: t-200657
   teiginys: "1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus seimelio pavadinimas tiesiogiai sieja seimelį su Vilniumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  semantiniai_rysiai: "Vilniaus seimelis priklausė Vilnius (0.88)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1753 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vilniaus seimelis priklausė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus ir tiesiogiai paremtas citata. Jame aiškūs metai, subjektas ir įvykis."
   pagrindžia:
     - c-183984
 
@@ -55,6 +85,22 @@ media_all_json: |-
 - t-003
   global_id: t-200658
   teiginys: "1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus seimelio pavadinimas tiesiogiai sieja seimelį su Vilniumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  semantiniai_rysiai: "Vilniaus seimelis priklausė Vilnius (0.88)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1753 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vilniaus seimelis priklausė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vietoje neapibrėžto „rašė“ paliktas citatoje esantis sužinojimo faktas. Vardas išskleistas iš inicialų."
+  vertinimo_atnaujinta: "2026-07-14T08:39:12Z"
   pagrindžia:
     - c-183984
 
@@ -62,6 +108,21 @@ media_all_json: |-
 - t-004
   global_id: t-200659
   teiginys: "1752 m. Mykolas Kazimieras Radvila Žuvelė buvo labai patenkintas Vilniaus seimelio rezultatais."
+  atnaujinta: "2026-07-14 11:41"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus seimelis: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vilniaus seimelio pavadinimas tiesiogiai sieja seimelį su Vilniumi."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  semantiniai_rysiai: "Vilniaus seimelis priklausė Vilnius (0.86)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1752 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vilniaus seimelis priklausė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia Radvilos laiške nurodytą pasitenkinimą Vilniaus seimelio rezultatais. Vertinimas nepriskirtas platesnei tikrovei."
   pagrindžia:
     - c-184021
 - susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200701|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis minėjo Mykolo Kazimiero Radvilos Žuvelės atvykimą ir galimas derybas dėl brolio interesų per seimelį.
@@ -84,6 +145,7 @@ media_all_json: |-
     sužinojo, jog Vilniaus seimelis bus nutrauktas [31].
   citata_rodoma: "1753 m. J. D. Lopacinskis minėjo apie tai, kad sužinojo, jog Vilniaus seimelis bus nutrauktas [31]."
   statusas: verified
+  atnaujinta: "2026-07-14 09:41"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,6 +166,7 @@ media_all_json: |-
     kintas Vilniaus seimelio rezultatais [29].
   citata_rodoma: "1752 m. J. D. Lopacinskis minėjo, kad atvyks\nVilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti\nper seimelį dėl brolio interesų. Minėjo ir būsimus Smolensko ir Starodubo seimelius\n[28], vėliau kanauninkas rašė, kad M. K. Radvila laiške pranešė, kad buvo labai paten-\nkintas Vilniaus seimelio rezultatais [29]."
   statusas: verified
+  atnaujinta: "2026-07-14 09:41"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

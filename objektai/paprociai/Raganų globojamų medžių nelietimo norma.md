@@ -49,10 +49,50 @@ Nenurodyta
 - t-002
   global_id: t-194815
   teiginys: "Kiekviena ragana turėjo savo medį, kurį globojo stengda masi padalyti viską, kad jis būtų sveikas ir augtų."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-177211
 
+<a id="claim-t-194814"></a>
+- t-001
+  global_id: t-194814
+  teiginys: 'Ragana (Ragana) Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei vės, globojančios tam tikrus medžius, augančius savaime arba kieno nors persodintus.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  pagrindžia:
+    - c-177210
+
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Ragana (Ragana) Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei vės, globojančios tam tikrus medžius, augančius savaime arba kieno nors persodintus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Štai ir
+    naujas kačių muzikos kilmės išaiškinimas!
+    153
+
+    ## Puslapis 153
+
+    Ragana (Ragana)
+    Šiuo vardu iš Lasickio ir liaudies padavimų žinomos dei­
+    vės, globojančios tam tikrus medžius, augančius savaime arba
+    kieno nors persodintus. Tokie medžiai yra užkerėti, tad pavo­
+    jinga juos liesti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - c-002
   santrauka: 'Kiekviena ragana turėjo savo medį, kurį globojo stengda masi padalyti viską, kad jis būtų sveikas ir augtų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -65,8 +105,8 @@ Nenurodyta
     kų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti
     neišgydomomis ligomis. Taip anot lietuvių padavimų.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +135,7 @@ Nenurodyta
     žmoną.
   citata_rodoma: "Kiekviena ragana turėjo savo medį, kurį globojo stengda­\nmasi padalyti viską, kad jis būtų sveikas ir augtų. Žmonėms,\nkurie jai tuo tikslu būtų padėję, ji galėjo suteikti tūkstantį pa­\nslaugų ir malonumų. Priešingai, tam, kuris norėjo savavališ­\nkai pakenkti medžiui arba nukirsti ji, jos galėjusios atimti ran­\nkų ir kojų galią, sutraukti sąnarius arba tokį žmogų užkrėsti\nneišgydomomis ligomis. Taip anot lietuvių padavimų."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

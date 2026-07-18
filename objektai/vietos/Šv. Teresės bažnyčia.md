@@ -30,6 +30,20 @@ Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Co
 - t-001
   global_id: t-200794
   teiginys: "Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Constantino Tencalli, o ją karmelitams XVII a. II ketvirtyje pastatydino Steponas Kristupas Pacas."
+  atnaujinta: "2026-07-14 21:36"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Šv. Teresės bažnyčia: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas Kristupas Pacas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Šv. Teresės bažnyčia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Šv. Teresės bažnyčią pastatydino Steponas Kristupas Pacas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Mikalojus Vorobjovas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:35Z"
   pagrindžia:
     - c-184139
 
@@ -47,6 +61,7 @@ Kai kurie istorikai Šv. Teresės, arba Aušros Vartų, bažnyčią priskiria Co
     karmelitams antrame XVII amžiaus ketvirtyje Lietuvos vicekancleris Ste­
     ponas Kristupas Pacas.
   statusas: verified
+  atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

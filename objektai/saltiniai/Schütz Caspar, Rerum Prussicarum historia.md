@@ -38,6 +38,16 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
 - t-001
   global_id: t-190521
   teiginys: "Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gdanske."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1769 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas pilnu sakiniu apie šaltinį. Nepridėta nieko daugiau nei autorius, pavadinimas, vieta ir metai."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173404
 
@@ -70,6 +80,7 @@ Casparo Schützo veikalas „Rerum Prussicarum historia“ 1769 m. išleistas Gd
     Turimas omenyje veikalas: Helmoldus et Arnoldus.
   citata_rodoma: "P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-\nsicarum historia. -  Gedani, 1769."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

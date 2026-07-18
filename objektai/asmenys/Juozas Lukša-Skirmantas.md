@@ -41,6 +41,19 @@ media_all_json: |-
 - t-001
   global_id: t-19015
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų dokumentus."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kazimieras Pyplys-Mažytis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Juozas Lukša-Skirmantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kazimieras Pyplys-Mažytis: mention_match, person, gap=27"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Lukša-Skirmantas\" parinktas kaip owner_note_path. Targetas \"Kazimieras Pyplys-Mažytis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1947 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Juozą Lukšą-Skirmantą, veiksmą, laiką ir dokumentų nugabenimą."
   pagrindžia:
     - c-21774
 - susijęs iš [[objektai/asmenys/Kazimieras Pyplys-Mažytis.md#claim-t-19059|Kazimieras Pyplys-Mažytis]]: 1947 m. pabaigoje Kazimieras Pyplys-Mažytis ir Juozas Lukša-Skirmantas į laisvąjį pasaulį nugabeno partizanų dokumentus.
@@ -74,6 +87,7 @@ media_all_json: |-
     SSRS nutrauktų terorą.
   citata_rodoma: "popiežiui Pijui XII ir kitą svarbią medžiagą, viliantis, jog pasaulis atkreips"
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

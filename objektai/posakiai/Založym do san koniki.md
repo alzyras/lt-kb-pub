@@ -33,6 +33,11 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
 - t-001
   global_id: t-189570
   teiginys: 'Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Raw dainos sąrašas sutrauktas į vieną sakinį apie posakį ir jo funkciją Narbuto argumente. Kilmės teorija palikta su Narbuto atribucija.'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Ukmergė; mentioned_place: Upės (Oppen) kaimas'
   pagrindžia:
     - c-172458
 
@@ -65,6 +70,7 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
     Tobie siestruniu pięč zlotych pierscieni,
     A tobie bracie dziewaję Lolewkę.
   statusas: verified
+  atnaujinta: "2026-07-12 22:32"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

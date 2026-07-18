@@ -55,6 +55,10 @@ Ganymo ir trimito garsų dainos formulė.
 - t-001
   global_id: t-195421
   teiginys: "Dainose randama formulė apie trimitus ir dambrelius."
+  atnaujinta: "2026-07-12 02:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177842
 
@@ -73,6 +77,7 @@ Ganymo ir trimito garsų dainos formulė.
     randame: „Trimitais trimituoti, dambreliais uždambriuoti“ .
   citata_rodoma: "Nieks negali neigti, kad kerdžių trimitas nėra mūsų\ntautinis muzikos įrankis; gali būti, kad jis vadinasi dabru. \nDainose\nrandame: „Trimitais trimituoti, dambreliais uždambriuoti“ ."
   statusas: verified
+  atnaujinta: "2026-07-12 02:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

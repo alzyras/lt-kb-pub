@@ -66,6 +66,17 @@ Nenurodyta
 - t-001
   global_id: t-186926
   teiginys: "Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ponų taryba (institucija): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ponai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Ponų taryba (institucija): mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponai\" parinktas kaip owner_note_path. Targetas \"Ponų taryba (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170101
 
@@ -73,6 +84,17 @@ Nenurodyta
 - t-002
   global_id: t-186928
   teiginys: "Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai."
+  atnaujinta: "2026-07-12 22:30"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ponai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponai\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-170102
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
@@ -154,6 +176,7 @@ Nenurodyta
     gumi.
   citata_rodoma: "Bychovco kronikoje dėstoma Lietuvos istorija —  \ntai politinė valstybės istorija, didžiųjų ir vasalinių ku­\nnigaikščių, didikų istorija, pasakojama, visų pirma, di­\ndikų-,,ponų\" požiūriu, priešingų didžiojo kunigaikš­\nčio valdžios stiprinimui. Luominės didikų prerogatyvos \ndidžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos \nAleksandro konflikto su Ponų Taryba aprašyme. By­\nchovco kronika aiškiai gina XV a. antrosios pusės —  \nXVI a. pirmojo ketvirčio Lietuvos valstybės santvar­\nką, užtikrinančią didikų oligarchijos ir jų politinio or­\ngano — Ponų Tarybos — viešpatavimą."
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,6 +209,7 @@ Nenurodyta
     mijų aprašymų.
   citata_rodoma: "Toji santvar­\nka vaizduojama kone amžina, nes jau Kentauro her­\nbo dinastijos pradininkas Šventaragis ir Gediminaičių \ndinastijos pradininkas Vytenis buvę „ponų\" išrinkti. \nAutoriui, matyt, apskritai tolima mintis, kad valstybės \nsantvarka gali keistis, todėl „ponai\" patarėjai priski­\nriami jau kunigaikščiui Erdvilai (XIII a.)"
   statusas: verified
+  atnaujinta: "2026-07-12 22:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

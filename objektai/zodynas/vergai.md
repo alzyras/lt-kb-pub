@@ -33,6 +33,9 @@ Tai buvo vergai.
 - t-001
   global_id: t-03214
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166386
 
@@ -40,6 +43,12 @@ Tai buvo vergai.
 - t-002
   global_id: t-182989
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
+  atnaujinta: "2026-06-13 18:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-166386
 - susijęs iš [[objektai/zodynas/kumelių pienas.md#claim-t-200722|kumelių pienas]]: Wulfstano pasakojime teigiama, kad kunigaikščiai ir diduomenė gėrė kumelių pieną, o neturtingieji ir vergai gėrė midų.
@@ -64,6 +73,7 @@ Tai buvo vergai.
 
     ar kunigaikščio ūky.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

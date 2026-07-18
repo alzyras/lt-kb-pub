@@ -34,8 +34,27 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
 - t-001
   global_id: t-189283
   teiginys: "Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pažadinanti miegančiuosius."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-172171
+
+<a id="claim-t-189284"></a>
+- t-002
+  global_id: t-189284
+  teiginys: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Ilgas OCR pažeistas sakinys sutrumpintas iki etimologinio teiginio apie Paparona. Narbuto polemika su heraldikais palikta atribuuota, nepridedant žąsies ženklo išvados.'
+  susije_objektai: 'mentioned_place: Roma; mentioned_place: Lenkija; mentioned_place: Viena'
+  pagrindžia:
+    - c-172172
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,12 +68,39 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
     priešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos
     draugas arba vyras buvo Varpas (Warpas), šaukiąs keltis.
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Esu matęs
+    tokių ikiunijinių lietuviškų antspaudų; vieną iš jų perpieštą nu­
+    147
+
+    ## Puslapis 147
+
+    rodau IV lentelės 26-ajame piešinyje; jis ypatingas tuo, kad
+    prie žąsies yra keturi koteliai su trikampėmis vėliavėlėmis. Žo­
+    dis Paparona nėra kilęs iš Parta Roma, kaip mano Lenkijos
+    heraldikai, ypač Okolskis; jis yra grynai lietuviškas, jį vartoja
+    mano užkampio kaimiečiai, norėdami apibūdinti kariškį, sto­
+    vintį sargyboje; sako Paparonas; o nakties budėtojas, kuris tu­
+    ri budėti be pertraukos visą naktį, vadinasi Sargas; stovyklos
+    sargas -  Paparoniszkas Sargas.
+    Tai įgalina mane laikyti deivės Budintojos ženklu žąsį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
 
 ## Citatos
 
@@ -73,6 +119,7 @@ Pasak Lasickio, Budintoja buvo budėjimui prielanki deivė, reikiamu momentu pa�
     leidimu (Nukijdimas).
   citata_rodoma: "Budintoja (Budintoja)\nBudėjimui prielanki deivė, pratusi reikiamu momentu pa­\nžadinti miegančiuosius. Tik tiek težinome iš Lasickio.\nTačiau iš žmonių pasakojimų aiškėja, kad ji buvo Brėkštos\npriešingybė, kitaip sakant, nekentė tamsos ir miegalių. Jos\ndraugas arba vyras buvo Varpas (Warpas), šaukiąs keltis."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

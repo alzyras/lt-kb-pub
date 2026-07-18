@@ -7,13 +7,13 @@ datos:
   - '1836 m.'
 date_start: '1836'
 date_end: ''
-amziai:
-  - 'XIX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - rankraštis
   - saltinis
+amziai:
+  - 'XIX'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,10 +39,62 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
 - t-002
   global_id: t-190526
   teiginys: "Narbutas nurodo, kad Kovo figūrą Burokų dvare netoli Kražių ardamas žemę iškasė pusbernis Bonaventūras Milevskis."
+  atnaujinta: "2026-07-12 22:33"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bonaventūras Milevskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Teodoro Narbuto „Naujosios mitologijos“ rankraštis: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Bonaventūras Milevskis: mention_match, person, gap=90"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoro Narbuto „Naujosios mitologijos“ rankraštis\" parinktas kaip owner_note_path. Targetas \"Bonaventūras Milevskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-173409
 
+<a id="claim-t-190525"></a>
+- t-001
+  global_id: t-190525
+  teiginys: 'Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus.'
+  teiginio_tipas: 'saltinio_teiginys'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Vertinamasis ir mitologinis įrodymo teiginys priskirtas Narbutui. Pašalintas iliustracijos antraštės triukšmas, nepridėta radimo aplinkybių iš kitos citatos.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
+  temporaliniai_duomenys: 'įvykio data: 1836 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
+  temporalinis_llm_pakomentavimas: 'Vertinamasis ir mitologinis įrodymo teiginys priskirtas Narbutui. Pašalintas iliustracijos antraštės triukšmas, nepridėta radimo aplinkybių iš kitos citatos.'
+  pagrindžia:
+    - c-173408
+
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė akivaizdžiu įrodymu, kad lietuviai turėjo stabus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Šios
+    vėliavos aprašymas yra straipsnyje apie herbus.
+    Moneta, rasta Ballvyžių girioje.
+    Teodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje
+    255
+
+    ## Puslapis 255
+
+    Karo dievo Kovo statulėlė, 1836 metais rasta Žemaitijos že­
+    mėje netoli Kražių, yra kuo akivaizdžiausias įrodymas, jog lietu­
+    viai turėjo stabus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - c-002
   santrauka: 'Narbutas nurodo, kad Kovo figūrą Burokų dvare netoli Kražių ardamas žemę iškasė pusbernis Bonaventūras Milevskis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,8 +111,8 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
     (pagal Tadą Volianskį)
     i).
   citata_rodoma: ''
-  statusas: verified
   teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,6 +134,7 @@ Narbutas Kovo statulėlę, 1836 m. rastą Žemaitijoje netoli Kražių, laikė a
     kas panašaus į saulę, tai galėjo būti Svaistikas.
   citata_rodoma: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju­\ncevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū­\nras Milevskis, ardamas žemę, iškasė tą figūrą*.\n256\n\n## Puslapis 256\n\nSkandinaviški brakteatai ir pakabučiai.\nTeodoro Narbuto piešinys „Naujosios mitologijos“ rankraštyje\n(pagal Tadą Volianskį)\ni)."
   statusas: verified
+  atnaujinta: "2026-07-12 22:33"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

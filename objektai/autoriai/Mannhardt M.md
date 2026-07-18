@@ -41,6 +41,13 @@ Dusburgietis teigia, kad mannhardt M.
 - t-001
   global_id: t-62644
   teiginys: "M. Mannhardtas parašė darbą „Letto-Preussische Götterlehre“, 1936 m. išleistą Rygoje."
+  atnaujinta: "2026-07-12 22:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1936 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bibliografinė citata pagrindžia autoriaus darbą, pavadinimą, vietą ir metus."
   pagrindžia:
     - c-63371
 
@@ -85,6 +92,7 @@ Dusburgietis teigia, kad mannhardt M.
     Krikštytojas, šv.
   citata_rodoma: "Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.\n  Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z."
   statusas: verified
+  atnaujinta: "2026-07-12 22:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

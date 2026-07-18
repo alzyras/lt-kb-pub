@@ -42,6 +42,17 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - t-001
   global_id: t-68837
   teiginys: "XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vakarų Europa: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anglija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vakarų Europa: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai priskiria Angliją šiaurinei Vakarų Europos daliai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Olandija priklausė Vakarų Europa (0.88); Anglija priklausė Vakarų Europa (0.88)"
   pagrindžia:
     - c-24345
 
@@ -49,6 +60,19 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - t-002
   global_id: t-68838
   teiginys: "Olandija antrojoje XVI a. pusėje pradėjo kurti respublikinę santvarką."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olandija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olandija\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1566-1795; įvykio data: 1689 m.; įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia aiškesnį faktinį teiginį apie Olandiją."
   pagrindžia:
     - c-24346
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60145|Hugonas Butyras]]: Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam.
@@ -81,6 +105,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     Vidurio Europą.
   citata_rodoma: "Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-\nropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-\npos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją \nVidurio Europą."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,6 +125,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     renią valdžią gauna iš Dievo. Taigi 1566–1795 m.
   citata_rodoma: "LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-\njusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia \nAnglijos konstitucinę monarchiją, įsigalėjusią 1689 m."
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

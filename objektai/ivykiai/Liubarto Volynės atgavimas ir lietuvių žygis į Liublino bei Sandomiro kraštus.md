@@ -45,6 +45,13 @@ Nenurodyta
 - t-001
   global_id: t-193478
   teiginys: "Po Kazimiero mirties lietuviai rengė naują karą, tikėdamiesi atgauti Volynę, kurią Kazimieras buvo atėmęs iš Liubarto."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
   pagrindžia:
     - c-176179
 
@@ -84,6 +91,7 @@ Nenurodyta
     kymu dvejus metus statytą iš degtų plytų ir pareika­
     lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
   statusas: verified
+  atnaujinta: "2026-07-13 01:00"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

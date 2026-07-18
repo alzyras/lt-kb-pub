@@ -67,6 +67,7 @@ Nenurodyta
     19 Biblioteka dla čtenija, 1836. IV.
   citata_rodoma: "Be jokios abejonės, ne tik patys seniausi, bet ir paskutiniai stab­\nmeldžiai Siaurės Europoje buvo samojedai: juk žinome, kad dar\nXVII amžiuje prie Baltosios jūros, t. y. prie Šiaurės vandenyno,\ngyveno ši taHta, garbinusi dangaus kūnus19."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,6 +90,7 @@ Nenurodyta
     dvasia dar tebegyvena.
   citata_rodoma: "„Senovės lietuviai, būdami pagonys, garbino dangaus kūnus, kaip\nir kitas žemės dievybes, iš kitokios minties atsiradusias, ir kurias\nvargu ar būtų įmanoma suskaičiuoti, nes šis senovės tikėjimas\nbuvo užmirštas. Bet apie dangaus kūnus išliko' daugiau žinių, to­\ndėl apsakysiu, ką žinau iš senų ir protingų valstiečių pasakoji­\nmų, tarp kurių dar ir dabar galima rasti tokių, kurie mena tik\npadavimuose ir dainose užfiksuotą praeitį — tik juose lietuviška\ndvasia dar tebegyvena“."
   statusas: verified
+  atnaujinta: "2026-07-12 22:34"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

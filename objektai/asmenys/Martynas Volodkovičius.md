@@ -34,6 +34,12 @@ Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes.
 - t-001
   global_id: t-196555
   teiginys: "Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes."
+  atnaujinta: "2026-07-12 22:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169427
 
@@ -59,6 +65,7 @@ Martynas Volodkovičius be jokio užmokesčio atgausianti ir pilis, ir žemes.
     teiktų lengvatų, gerbiant visas krašto šventenybes ir
     nieko neapkraunant neteisingais mokesčiais.
   statusas: verified
+  atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

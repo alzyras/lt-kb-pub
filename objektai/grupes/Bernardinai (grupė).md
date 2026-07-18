@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukantas rašo, kad Vilniuje bernardinams buvo pastatytos dvi bažnyčios, jog atėjūnai galėtų garbinti Dievą pagal savo paprotį.
+Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti.
 
 ## Teiginiai
 
 <a id="claim-t-201245"></a>
 - t-001
   global_id: t-201245
-  teiginys: "Daukantas rašo, kad Vilniuje bernardinams buvo pastatytos dvi bažnyčios, jog atėjūnai galėtų garbinti Dievą pagal savo paprotį."
+  teiginys: "Mūsų buveinėj Vilniuj pastrūnijom 2 bažnyči bernardinams, kitą Naujapily strūnijam dominikonims, idant atėjūnai pagal savo dobę galėtų Dievą garbinti."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184595
-- susijęs iš [[objektai/asmenys/Mikalojus III.md#claim-t-200871|Mikalojus III (vyskupas, XVI a.)]]: Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 1525 m. pradėtą Bernardinų bažnyčios statybą.
+
 ## Citatos
 
 - id: c-184595
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 543"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 543."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visi atėjimai gaus liecyba®, arba pri-
     vilijas, Rygos miesto, jei jie kitų geresnių neišma­
@@ -57,6 +62,7 @@ Daukantas rašo, kad Vilniuje bernardinams buvo pastatytos dvi bažnyčios, jog 
     pakriaušius, alūžnas parduoda* kunigus galuoja ir
     svietą kropia.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

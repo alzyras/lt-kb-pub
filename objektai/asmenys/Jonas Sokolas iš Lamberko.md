@@ -34,6 +34,10 @@ Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moravieči
 - t-001
   global_id: t-194136
   teiginys: 'Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moraviečių algininkų daliniui Žalgirio mūšyje.'
+  teiginio_tipas: 'faktas'
+  patikimumo_lygis: 'vidutinis'
+  patikimumo_saltinis: 'ai'
+  sudarymo_pagrindimas: 'Pastabos fragmentas perrašytas į pilną sakinį apie asmens vaidmenį. Neįtraukta neigiamo teiginio apie Lenkijos kariuomenės vadovybę.'
   pagrindžia:
     - c-176749
 
@@ -50,6 +54,7 @@ Jonas Sokolas iš Lamberko, vadintas Sokolu Čeku, vadovavo čekų ir moravieči
     kovojusiam Žalgirio m ūšyje prieš vokiečius Lenkijos kariuomenės
     sudėtyje.
   statusas: not_found
+  atnaujinta: "2026-07-12 22:45"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -39,6 +39,12 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
 - t-001
   global_id: t-193828
   teiginys: "Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-176472
 
@@ -56,6 +62,7 @@ Pėstininko užrašai / Dokumentinis romanas, Vilnius, 2012, p. 309. Pėstininko
     p. 250, „„JEDINSTVOS“ DEMONSTRACIJA“, Skučas A. Pėstininko užrašai / Dokumentinis
     romanas, Vilnius, 2012, p. 309.
   statusas: verified
+  atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

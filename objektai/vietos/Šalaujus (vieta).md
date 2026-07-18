@@ -27,28 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Vienas kelias iš Žemaičių į Samiją, pasak Daukanto, ėjo per Nemuną, Šalaujus ir Nadraujus.
+Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos.
 
 ## Teiginiai
 
 <a id="claim-t-201180"></a>
 - t-001
   global_id: t-201180
-  teiginys: "Vienas kelias iš Žemaičių į Samiją, pasak Daukanto, ėjo per Nemuną, Šalaujus ir Nadraujus."
+  teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184530
-- susijęs iš Nemunas: Vienas iš dviejų Daukanto minimų kelių iš Žemaičių į Samiją ėjo per Nemuną, Šalaujus ir Nadraujus.
-- susijęs iš Samija (vieta): Iš Žemaičių į Samiją vedė du keliai: per Nemuną, Šalaujus ir Nadraujus arba nuo Klaipėdos kopomis tarp jūros ir marių.
-- susijęs iš [[objektai/ivykiai/Labguvos pilies užėmimas.md#claim-t-201328|Labguvos pilies užėmimas]]: 1276 m. šalaujų tėvūnai sueimoje nutarė kariauti prieš kryžėjus ir išsiuntė kelis šimtus rinktinės raitijos užimti Labguvos pilį, kurią kariai naktį užėmė.
-- susijęs iš Labguva: Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189.
-- susijęs iš Nadraujus (vieta): Iš Žemaičių į Samiją vedė du keliai: vienas per Nemuną, Šalaujus ir Nadraujus, kitas – Klaipėdos kopomis tarp jūros ir marių.
-- susijęs iš Nemunas: Užšalęs Nemunas leido Konrado fon Tirbergo vedamai kryžiuočių kariuomenei ledu persikelti į Lietuvą.
+
 ## Citatos
 
 - id: c-184530
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 354"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 354."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Visų pavoj ausiu daiktu buvo dėl nukariavimo
     Sami jos pažinės ir gentysta samionų su kitais že­
@@ -68,6 +68,7 @@ Vienas kelias iš Žemaičių į Samiją, pasak Daukanto, ėjo per Nemuną, Šal
     joj įnamaujančių, jog ta trakčia žemaičiai staiga
     juos antpuolę galėjo nuo dviejų pusių suremti.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

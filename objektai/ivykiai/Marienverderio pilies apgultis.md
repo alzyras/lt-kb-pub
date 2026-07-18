@@ -22,7 +22,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime Belichovo karvedys, nusiaubęs Kulmiją ir išblaškęs prieš jį žygiavusią Elbingo įgulę, vėl apgulė kryžėjų atkurtą Marienverderio pilį.
+Kaipogi vos buvo kryžėjai Marienverderio pilį su pašalpa meldžionų vėl įkūrę, kad tuo tarpu Belichovo karvedys, su pagezonimis nuteriojęs Kulmiją,-išblaškęs Elbingo įgulę, einančią sau prieš, vėl apgulė pilį Marienverderio.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -41,16 +41,21 @@ Nenurodyta
 <a id="claim-t-201332"></a>
 - t-001
   global_id: t-201332
-  teiginys: "Daukanto pasakojime Belichovo karvedys, nusiaubęs Kulmiją ir išblaškęs prieš jį žygiavusią Elbingo įgulę, vėl apgulė kryžėjų atkurtą Marienverderio pilį."
+  teiginys: "Kaipogi vos buvo kryžėjai Marienverderio pilį su pašalpa meldžionų vėl įkūrę, kad tuo tarpu Belichovo karvedys, su pagezonimis nuteriojęs Kulmiją,-išblaškęs Elbingo įgulę, einančią sau prieš, vėl apgulė pilį Marienverderio."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184682
 
 ## Citatos
 
 - id: c-184682
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 423"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 423."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Aiškiai jau regėjo lietuviai, jog didžiai naudin­
     gu ir reikalingu daiktu Paysly su krikščionimis vo­
@@ -71,6 +76,7 @@ Nenurodyta
     tojus vokyčius vienus iškirto, kitus apvergė ir vi­
     sa, kas į vokyčių darbą pavėdavo, tą išnaikino1.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,23 +27,28 @@ media_all_json: |-
 
 ## Santrauka
 
-Daukanto pasakojime popiežius Kristijonui patvirtino dovanas ir liecybas, kai jam buvo perleistos iš Plocko renkamos dešimtinės.
+Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
 
 ## Teiginiai
 
 <a id="claim-t-201210"></a>
 - t-001
   global_id: t-201210
-  teiginys: "Daukanto pasakojime popiežius Kristijonui patvirtino dovanas ir liecybas, kai jam buvo perleistos iš Plocko renkamos dešimtinės."
+  teiginys: "Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius."
+  atnaujinta: "2026-07-16 14:31"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184560
 
 ## Citatos
 
 - id: c-184560
-  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995"
-  puslapiai: "PDF 248"
-  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995 — Daukantas, Istorija žemaitiška, t.1, 1995, PDF 248."
+  šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
+  indeksas: "Daukantas, Istorija žemaitiška, t.1, 1995."
   citata_originali: |
     Plocko
     perleido jam tenai dešimtines, sau renkamas. Tas
@@ -53,6 +58,7 @@ Daukanto pasakojime popiežius Kristijonui patvirtino dovanas ir liecybas, kai j
     dami būrius meldžionų šarvotų, bet lig meldžionys
     nusišalino ir Sviatopelkas, kunig.
   statusas: verified
+  atnaujinta: "2026-07-16 14:31"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
