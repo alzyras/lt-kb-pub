@@ -1,0 +1,70 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'Senatis (sąvoka)'
+identifikacija: 'sąvoka'
+variantai:
+  - 'Senatis'
+aliases:
+  - 'Senatis'
+saltiniai:
+  - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+datos:
+  - '1641 m.'
+date_start: '1641'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Senatis (sąvoka)
+
+## Santrauka
+
+Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi.
+
+## Teiginiai
+
+<a id="claim-t-201794"></a>
+- t-001
+  global_id: t-201794
+  teiginys: "Kitaip sakant, tas valdinys dėl senaties tapo Magdeburgo teisės žmogumi."
+  atnaujinta: "2026-07-19 10:18"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185141
+
+## Citatos
+
+- id: c-185141
+  autorius: "Zigmantas Kiaupa"
+  šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
+  indeksas: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)."
+  citata_originali: |
+    1641 m. Žemaičių kaštelionas Alfonsas Lackis,
+    aptikęs Kaune savo valdinį Grigierą Siepronaitį, paleido jį į laisvę, nes daugiau kaip
+    10 metų mieste gyveno ir žemės teisės sričiai nepriklausė. Kitaip sakant, tas valdinys
+    dėl senaties tapo Magdeburgo teisės žmogumi.
+  statusas: verified
+  atnaujinta: "2026-07-19 10:18"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-201794
