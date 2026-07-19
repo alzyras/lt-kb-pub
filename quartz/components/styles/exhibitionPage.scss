@@ -13,12 +13,12 @@
 }
 
 .exhibition-theme--interwar {
-  --exhibition-ink: #f4efe8;
-  --exhibition-paper: #211915;
-  --exhibition-gold: #c49755;
-  --exhibition-accent: #d2664e;
-  background: var(--exhibition-paper);
-  color: var(--exhibition-ink);
+  --exhibition-ink: #211915;
+  --exhibition-paper: #f4efe8;
+  --exhibition-gold: #b07a37;
+  --exhibition-accent: #8b2d2f;
+  background: var(--light);
+  color: var(--dark);
 }
 
 .exhibition-hero {
@@ -201,9 +201,7 @@
 }
 
 .exhibition-theme--interwar .exhibition-section {
-  background:
-    radial-gradient(circle at 90% 8%, rgba(196, 151, 85, 0.1), transparent 24rem),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 35%);
+  background: transparent;
 }
 
 .exhibition-section > header {
@@ -227,16 +225,19 @@
 }
 
 .exhibition-theme--interwar .exhibition-section h2,
-.exhibition-theme--interwar .exhibition-section > header > span,
-.exhibition-theme--interwar .exhibition-item-number,
 .exhibition-theme--interwar .exhibition-item-copy h3 {
-  color: var(--exhibition-gold);
+  color: var(--dark);
+}
+
+.exhibition-theme--interwar .exhibition-section > header > span,
+.exhibition-theme--interwar .exhibition-item-number {
+  color: var(--secondary);
 }
 
 .exhibition-theme--interwar .exhibition-section > header p,
 .exhibition-theme--interwar .exhibition-item-description,
 .exhibition-theme--interwar .exhibition-item-meta {
-  color: #cdbfb2;
+  color: var(--darkgray);
 }
 
 .exhibition-section > header p {
@@ -381,7 +382,7 @@
 }
 
 .exhibition-theme--interwar .exhibition-narrative-label {
-  color: color-mix(in srgb, var(--exhibition-gold) 78%, var(--exhibition-ink));
+  color: var(--gray);
 }
 
 .exhibition-item-description {
@@ -618,16 +619,16 @@
 }
 
 .exhibition-index-card.exhibition-theme--interwar {
-  background: #211915;
-  color: #f4efe8;
+  background: var(--light);
+  color: var(--dark);
 }
 
 .exhibition-index-card.exhibition-theme--interwar h2 a {
-  color: #f4efe8;
+  color: var(--dark);
 }
 
 .exhibition-index-card.exhibition-theme--interwar p {
-  color: #cdbfb2;
+  color: var(--darkgray);
 }
 
 .exhibitions-index article > a img {
